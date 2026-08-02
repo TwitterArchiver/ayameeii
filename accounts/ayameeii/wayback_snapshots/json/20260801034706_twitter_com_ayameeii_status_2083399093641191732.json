@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083399077488934912"
+      ]
+    },
+    "author_id": "1852135214795100164",
+    "conversation_id": "2083399093641191732",
+    "created_at": "2026-08-01T03:47:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T04:47:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083399093641191732"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UG0XKY0Lba",
+          "end": 42,
+          "expanded_url": "https://x.com/ayameeii/status/2083399093641191732/photo/1",
+          "media_key": "3_2083399077488934912",
+          "start": 19,
+          "url": "https://t.co/UG0XKY0Lba"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083399093641191732",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "还有曲唑酮和碳酸锂 下个月不想吃药了 https://t.co/UG0XKY0Lba"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2083399077488934912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOm4bDMawAAvOVV.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083399077488934912"
+          ]
+        },
+        "author_id": "1852135214795100164",
+        "conversation_id": "2083399093641191732",
+        "created_at": "2026-08-01T03:47:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T04:47:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083399093641191732"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UG0XKY0Lba",
+              "end": 42,
+              "expanded_url": "https://x.com/ayameeii/status/2083399093641191732/photo/1",
+              "media_key": "3_2083399077488934912",
+              "start": 19,
+              "url": "https://t.co/UG0XKY0Lba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083399093641191732",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还有曲唑酮和碳酸锂 下个月不想吃药了 https://t.co/UG0XKY0Lba"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存|♥️@sakihanaShion 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 8,
+                "username": "sakihanaShion"
+              },
+              {
+                "end": 35,
+                "start": 25,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 50,
+                "start": 40,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1121,
+          "following_count": 723,
+          "like_count": 10681,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 4261
+        },
+        "url": "",
+        "username": "ayameeii",
+        "verified": false
+      }
+    ]
+  }
+}
