@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1978274437628575976",
+    "created_at": "2025-10-15T04:00:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T05:00:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978310044295778334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1744320870800379904",
+          "start": 0,
+          "username": "386Nsg47079"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978310044295778334",
+    "in_reply_to_user_id": "1744320870800379904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978277658329793026",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@386Nsg47079 不知道是什么 但是请加油"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1978274437628575976",
+        "created_at": "2025-10-15T04:00:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T05:00:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978310044295778334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1744320870800379904",
+              "start": 0,
+              "username": "386Nsg47079"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978310044295778334",
+        "in_reply_to_user_id": "1744320870800379904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978277658329793026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@386Nsg47079 不知道是什么 但是请加油"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744320870800379904",
+        "conversation_id": "1978274437628575976",
+        "created_at": "2025-10-15T01:52:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T02:52:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978277658329793026"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1978277658329793026",
+        "in_reply_to_user_id": "1744320870800379904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978274437628575976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不不不，我会处理好事情的，一件一件来。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 148,
+          "like_count": 956,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 232
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-08T11:31:57.000Z",
+        "description": "欢迎来到我的博客。这个家伙是个电子👻。\n互fo私信就可以了喔。",
+        "id": "1744320870800379904",
+        "name": "Mephylath喵",
+        "pinned_tweet_id": "1918543024587768099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958095597841641472/XjO-tOy8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 196,
+          "like_count": 956,
+          "listed_count": 2,
+          "media_count": 129,
+          "tweet_count": 1169
+        },
+        "username": "386Nsg47079",
+        "verified": false
+      }
+    ]
+  }
+}

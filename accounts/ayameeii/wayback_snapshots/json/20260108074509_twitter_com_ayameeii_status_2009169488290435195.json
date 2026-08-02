@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2009169170773233664",
+        "13_2009169288670904320"
+      ]
+    },
+    "author_id": "1852135214795100164",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2009169488290435195",
+    "created_at": "2026-01-08T07:45:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T08:45:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2009169488290435195"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tO36vdquwU",
+          "end": 35,
+          "expanded_url": "https://x.com/ayameeii/status/2009169488290435195/video/1",
+          "media_key": "3_2009169170773233664",
+          "start": 12,
+          "url": "https://t.co/tO36vdquwU"
+        },
+        {
+          "display_url": "pic.x.com/tO36vdquwU",
+          "end": 35,
+          "expanded_url": "https://x.com/ayameeii/status/2009169488290435195/video/1",
+          "media_key": "13_2009169288670904320",
+          "start": 12,
+          "url": "https://t.co/tO36vdquwU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009169488290435195",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "高市早苗进军VTB领域 https://t.co/tO36vdquwU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1011,
+        "media_key": "3_2009169170773233664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-IAtz2a0AAY1wG.jpg",
+        "width": 1763
+      },
+      {
+        "duration_ms": 138766,
+        "height": 1080,
+        "media_key": "13_2009169288670904320",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2009169288670904320/img/rcPXwypOibMvOqoR.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2009169288670904320/vid/avc1/480x270/EhBvfJ1rlNXqa01p.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2009169288670904320/vid/avc1/640x360/Yhm9yDaQdsOxumUC.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2009169288670904320/vid/avc1/1280x720/fd5bYy-4GBGGYcyw.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2009169288670904320/pl/732m9mFS0NJzu98S.m3u8?tag=14"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009169170773233664",
+            "13_2009169288670904320"
+          ]
+        },
+        "author_id": "1852135214795100164",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2009169488290435195",
+        "created_at": "2026-01-08T07:45:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T08:45:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009169488290435195"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tO36vdquwU",
+              "end": 35,
+              "expanded_url": "https://x.com/ayameeii/status/2009169488290435195/video/1",
+              "media_key": "3_2009169170773233664",
+              "start": 12,
+              "url": "https://t.co/tO36vdquwU"
+            },
+            {
+              "display_url": "pic.x.com/tO36vdquwU",
+              "end": 35,
+              "expanded_url": "https://x.com/ayameeii/status/2009169488290435195/video/1",
+              "media_key": "13_2009169288670904320",
+              "start": 12,
+              "url": "https://t.co/tO36vdquwU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009169488290435195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "高市早苗进军VTB领域 https://t.co/tO36vdquwU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2008864131290694085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 332,
+          "like_count": 6128,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 2008
+        },
+        "username": "ayameeii",
+        "verified": false
+      }
+    ]
+  }
+}

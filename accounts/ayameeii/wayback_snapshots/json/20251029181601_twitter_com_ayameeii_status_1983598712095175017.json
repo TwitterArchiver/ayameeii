@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1983598475746099655",
+    "created_at": "2025-10-29T18:16:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T19:16:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983598712095175017"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1360772570769813505",
+          "start": 0,
+          "username": "BraveQuestEX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983598712095175017",
+    "in_reply_to_user_id": "1360772570769813505",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983598475746099655",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BraveQuestEX 😱😱😱😱😱😱😱😱😱😱😱😱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1983598475746099655",
+        "created_at": "2025-10-29T18:16:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T19:16:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983598712095175017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1360772570769813505",
+              "start": 0,
+              "username": "BraveQuestEX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983598712095175017",
+        "in_reply_to_user_id": "1360772570769813505",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983598475746099655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BraveQuestEX 😱😱😱😱😱😱😱😱😱😱😱😱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360772570769813505",
+        "conversation_id": "1983598475746099655",
+        "created_at": "2025-10-29T18:15:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T19:15:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983598475746099655"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1983598475746099655",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真他妈是耳机杀手卧槽，每半年用坏一个几百块的，我的心在滴血啊啊啊啊。每日一问sayuri什么时候出新曲，生产队的驴都不敢像你这么歇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 192,
+          "like_count": 2083,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 584
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-14T02:07:24.000Z",
+        "description": "笑ってくれてアリガトウ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bangumi.tv/user/seiuex",
+                "end": 23,
+                "expanded_url": "https://bangumi.tv/user/seiuex",
+                "start": 0,
+                "url": "https://t.co/sY3WqMyceB"
+              }
+            ]
+          }
+        },
+        "id": "1360772570769813505",
+        "location": "关西",
+        "name": "萝莉小登",
+        "pinned_tweet_id": "1979057865588392225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976613984091668480/tcTGOATV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 610,
+          "following_count": 400,
+          "like_count": 20069,
+          "listed_count": 2,
+          "media_count": 804,
+          "tweet_count": 4022
+        },
+        "url": "https://t.co/sY3WqMyceB",
+        "username": "BraveQuestEX",
+        "verified": false
+      }
+    ]
+  }
+}

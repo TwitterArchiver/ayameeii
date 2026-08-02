@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1996797555976597942",
+    "created_at": "2025-12-05T04:45:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T05:45:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996803107351920713"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1081884310829813761",
+          "start": 0,
+          "username": "NomoreTsukum0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996803107351920713",
+    "in_reply_to_user_id": "1081884310829813761",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996797555976597942",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NomoreTsukum0 以后不要说男的来了❎最崇高的群体来了✅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1996797555976597942",
+        "created_at": "2025-12-05T04:45:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T05:45:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996803107351920713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1081884310829813761",
+              "start": 0,
+              "username": "NomoreTsukum0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996803107351920713",
+        "in_reply_to_user_id": "1081884310829813761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996797555976597942",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NomoreTsukum0 以后不要说男的来了❎最崇高的群体来了✅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1081884310829813761",
+        "conversation_id": "1996797555976597942",
+        "created_at": "2025-12-05T04:23:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T05:23:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996797555976597942"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jinpingslutflo…",
+              "end": 118,
+              "expanded_url": "https://twitter.com/jinpingslutflop/status/1996454933856752112",
+              "start": 95,
+              "url": "https://t.co/Li7pO4YvXv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996797555976597942",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996454933856752112",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "：你踏马给我清醒一点😡你是一名中国男人👨🏻是世界上最崇高🤪的群体♂你正在被东亚去雄计划洗脑🙄你在用药物💊毁了自己的身体👎自己的未来😱你小子给我振作起来😤立刻开始停用药物☠️并开始肌肉训练💪 https://t.co/Li7pO4YvXv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "1992652290252316901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 290,
+          "like_count": 4907,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1552
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-06T12:04:54.000Z",
+        "description": "水手服配百褶裙 最可愛妹妹@yukiaqwq123 老妹@TennoujiNyano 反跨baka @UkiStelo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 13,
+                "username": "yukiaqwq123"
+              },
+              {
+                "end": 42,
+                "start": 28,
+                "username": "TennoujiNyano"
+              },
+              {
+                "end": 59,
+                "start": 50,
+                "username": "UkiStelo"
+              }
+            ]
+          }
+        },
+        "id": "1081884310829813761",
+        "location": "距離你5m",
+        "name": "九九",
+        "pinned_tweet_id": "1654452448004812800",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762452022421528576/Rb5NeJGQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2968,
+          "following_count": 2005,
+          "like_count": 606268,
+          "listed_count": 24,
+          "media_count": 470,
+          "tweet_count": 61843
+        },
+        "username": "NomoreTsukum0",
+        "verified": false
+      }
+    ]
+  }
+}

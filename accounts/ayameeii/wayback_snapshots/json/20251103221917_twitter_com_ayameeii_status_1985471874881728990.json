@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1985471401432662473",
+    "created_at": "2025-11-03T22:19:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T23:19:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985471874881728990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1831127108791529473",
+          "start": 0,
+          "username": "Meuuuu_kk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985471874881728990",
+    "in_reply_to_user_id": "1831127108791529473",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985471401432662473",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Meuuuu_kk ？我需要来这里"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1985471401432662473",
+        "created_at": "2025-11-03T22:19:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T23:19:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985471874881728990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1831127108791529473",
+              "start": 0,
+              "username": "Meuuuu_kk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985471874881728990",
+        "in_reply_to_user_id": "1831127108791529473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985471401432662473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Meuuuu_kk ？我需要来这里"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831127108791529473",
+        "conversation_id": "1985471401432662473",
+        "created_at": "2025-11-03T22:17:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T23:17:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985471401432662473"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1985471401432662473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么来这地方我和我同学平时和周末都在坐牢学习，感觉不对劲了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 201,
+          "like_count": 2413,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 704
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-04T00:28:52.000Z",
+        "description": "记录吃饭睡觉；\n狗@melt_release；\n\n🏳️‍⚧️🏳️‍🌈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "melt_release"
+              }
+            ]
+          }
+        },
+        "id": "1831127108791529473",
+        "location": "they/it/es",
+        "name": "🥥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983670924306968576/x2Ix6sc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 146,
+          "like_count": 4359,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 3589
+        },
+        "username": "Meuuuu_kk",
+        "verified": false
+      }
+    ]
+  }
+}

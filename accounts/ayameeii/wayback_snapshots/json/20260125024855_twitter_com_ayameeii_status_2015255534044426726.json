@@ -1,0 +1,151 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2015252605178634734",
+    "created_at": "2026-01-25T02:48:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T03:48:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015255534044426726"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2015255534044426726",
+    "in_reply_to_user_id": "1852135214795100164",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015252605178634734",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我发这个东西不是经常有人喜欢看看x发发x吗 而我自己有些反感（只是对于外形） 所以有点感慨表达一下 我内心很脆弱不要暴力我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2015252605178634734",
+        "created_at": "2026-01-25T02:48:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T03:48:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015255534044426726"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015255534044426726",
+        "in_reply_to_user_id": "1852135214795100164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015252605178634734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我发这个东西不是经常有人喜欢看看x发发x吗 而我自己有些反感（只是对于外形） 所以有点感慨表达一下 我内心很脆弱不要暴力我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2015252605178634734",
+        "created_at": "2026-01-25T02:37:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T03:37:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015252605178634734"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015252605178634734",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我都说了只是单纯觉得形状不好看 只是主观审美 既不是骂也不是抵制 就和喜欢有的颜色不喜欢有的颜色而已 在社媒发发自己的念头而已 骂我干嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2014053871983685932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 479,
+          "following_count": 363,
+          "like_count": 6665,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 2228
+        },
+        "username": "ayameeii",
+        "verified": false
+      }
+    ]
+  }
+}

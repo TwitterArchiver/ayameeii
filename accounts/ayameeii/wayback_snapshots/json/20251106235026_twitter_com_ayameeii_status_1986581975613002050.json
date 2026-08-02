@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1986580233563337036",
+    "created_at": "2025-11-06T23:50:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T00:50:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986581975613002050"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1486755570694729729",
+          "start": 0,
+          "username": "inks_chain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986581975613002050",
+    "in_reply_to_user_id": "1486755570694729729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986580233563337036",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@inks_chain 见小天使吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1986580228085579776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5HAMSzbAAANBPc.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1986580233563337036",
+        "created_at": "2025-11-06T23:50:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T00:50:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986581975613002050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1486755570694729729",
+              "start": 0,
+              "username": "inks_chain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986581975613002050",
+        "in_reply_to_user_id": "1486755570694729729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986580233563337036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@inks_chain 见小天使吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986580228085579776"
+          ]
+        },
+        "author_id": "1486755570694729729",
+        "conversation_id": "1986580233563337036",
+        "created_at": "2025-11-06T23:43:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T00:43:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986580233563337036"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ihgOFtlEac",
+              "end": 32,
+              "expanded_url": "https://x.com/inks_chain/status/1986580233563337036/photo/1",
+              "media_key": "3_1986580228085579776",
+              "start": 9,
+              "url": "https://t.co/ihgOFtlEac"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986580233563337036",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喵喵喵，到上海了 https://t.co/ihgOFtlEac"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 213,
+          "like_count": 2585,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 784
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-27T17:38:56.000Z",
+        "description": "05/od/自残/自杀倾向/CS：GO/三角洲行动/MC/音游/舟/其他也会玩只要有人陪/基本不见证/99%性冷淡/减肥中/有自己的小天使。/号主完全以天使中心性格恶劣大家不要被坏男人骗了（欢迎找我要天使赞赏码并期待给她的口令红包）小天使@angeldust_g",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 119,
+                "username": "angeldust_g"
+              }
+            ]
+          }
+        },
+        "id": "1486755570694729729",
+        "name": "ヰ世界优泠",
+        "pinned_tweet_id": "1968515087435530611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984510180512710662/ILqJRZ-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 363,
+          "like_count": 4553,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 1772
+        },
+        "username": "inks_chain",
+        "verified": false
+      }
+    ]
+  }
+}

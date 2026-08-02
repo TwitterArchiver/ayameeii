@@ -1,0 +1,515 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995766476691963906"
+      ],
+      "media_source_tweet_id": [
+        "1995766482593108459"
+      ]
+    },
+    "author_id": "1852135214795100164",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1240063989779841024",
+          "name": "hololive"
+        }
+      },
+      {
+        "domain": {
+          "description": "Influencers who create content on digital platforms",
+          "id": "120",
+          "name": "Digital Creator"
+        },
+        "entity": {
+          "id": "1240063989779841024",
+          "name": "hololive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543456678596608",
+          "name": "Digital creators"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1240063989779841024",
+          "name": "hololive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247288073542463488",
+          "name": "Virtual YouTubers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293615037932646400",
+          "name": "YouTubers"
+        }
+      }
+    ],
+    "conversation_id": "1995768305282678809",
+    "created_at": "2025-12-02T08:13:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T09:13:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995768305282678809"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "天音かなた",
+          "probability": 0.3168,
+          "start": 17,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "916156645004029952",
+          "start": 3,
+          "username": "hololivetv"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0RVLHZFWSG",
+          "end": 57,
+          "expanded_url": "https://x.com/hololivetv/status/1995766482593108459/photo/1",
+          "media_key": "3_1995766476691963906",
+          "start": 34,
+          "url": "https://t.co/0RVLHZFWSG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995768305282678809",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5806
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995766482593108459",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hololivetv: 【天音かなた卒業に関するお知らせ】 https://t.co/0RVLHZFWSG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 675,
+        "media_key": "3_1995766476691963906",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7JjCVnbgAIMRys.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995766476691963906"
+          ],
+          "media_source_tweet_id": [
+            "1995766482593108459"
+          ]
+        },
+        "author_id": "1852135214795100164",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "1995768305282678809",
+        "created_at": "2025-12-02T08:13:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T09:13:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995768305282678809"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "天音かなた",
+              "probability": 0.3168,
+              "start": 17,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "916156645004029952",
+              "start": 3,
+              "username": "hololivetv"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0RVLHZFWSG",
+              "end": 57,
+              "expanded_url": "https://x.com/hololivetv/status/1995766482593108459/photo/1",
+              "media_key": "3_1995766476691963906",
+              "start": 34,
+              "url": "https://t.co/0RVLHZFWSG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995768305282678809",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5806
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995766482593108459",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hololivetv: 【天音かなた卒業に関するお知らせ】 https://t.co/0RVLHZFWSG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995766476691963906"
+          ]
+        },
+        "author_id": "916156645004029952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "1995766482593108459",
+        "created_at": "2025-12-02T08:06:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T09:06:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995766482593108459"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "天音かなた",
+              "probability": 0.344,
+              "start": 1,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0RVLHZFWSG",
+              "end": 41,
+              "expanded_url": "https://x.com/hololivetv/status/1995766482593108459/photo/1",
+              "media_key": "3_1995766476691963906",
+              "start": 18,
+              "url": "https://t.co/0RVLHZFWSG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995766482593108459",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 402,
+          "impression_count": 180591,
+          "like_count": 7654,
+          "quote_count": 877,
+          "reply_count": 395,
+          "retweet_count": 5806
+        },
+        "reply_settings": "everyone",
+        "text": "【天音かなた卒業に関するお知らせ】 https://t.co/0RVLHZFWSG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "1992652290252316901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 282,
+          "like_count": 4660,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1482
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-06T04:22:20.000Z",
+        "description": "「ホロライブ」「ホロスターズ」を運営する「ホロライブプロダクション」の公式アカウント。\n\n■公式サイト　　　 ：https://t.co/gUrm5D6ct3 \n■配信スケジュール ：https://t.co/7ZQv7Vb8Vc\n■公式ショップ　　 ：https://t.co/D1XSPAPjEO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "hololivepro.com",
+                "end": 79,
+                "expanded_url": "http://hololivepro.com",
+                "start": 56,
+                "url": "https://t.co/gUrm5D6ct3"
+              },
+              {
+                "display_url": "schedule.hololive.tv",
+                "end": 115,
+                "expanded_url": "http://schedule.hololive.tv",
+                "start": 92,
+                "url": "https://t.co/7ZQv7Vb8Vc"
+              },
+              {
+                "display_url": "shop.hololivepro.com",
+                "end": 150,
+                "expanded_url": "http://shop.hololivepro.com",
+                "start": 127,
+                "url": "https://t.co/D1XSPAPjEO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCJFZi…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg",
+                "start": 0,
+                "url": "https://t.co/ajhjUmy3fA"
+              }
+            ]
+          }
+        },
+        "id": "916156645004029952",
+        "name": "ホロライブプロダクション【公式】",
+        "pinned_tweet_id": "1976226132212203950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855818844025327616/aX5ziYsl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1695034,
+          "following_count": 190,
+          "like_count": 237,
+          "listed_count": 12820,
+          "media_count": 350050,
+          "tweet_count": 366667
+        },
+        "url": "https://t.co/ajhjUmy3fA",
+        "username": "hololivetv",
+        "verified": true
+      }
+    ]
+  }
+}

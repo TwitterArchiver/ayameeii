@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2000538673025020039",
+    "created_at": "2025-12-15T12:12:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T13:12:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000539451202924619"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1993707229770563584",
+          "start": 0,
+          "username": "GGezalyan73315"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000539451202924619",
+    "in_reply_to_user_id": "1993707229770563584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000538673025020039",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GGezalyan73315 推特不是好多人发照片吗😱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2000538673025020039",
+        "created_at": "2025-12-15T12:12:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T13:12:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000539451202924619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1993707229770563584",
+              "start": 0,
+              "username": "GGezalyan73315"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000539451202924619",
+        "in_reply_to_user_id": "1993707229770563584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000538673025020039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GGezalyan73315 推特不是好多人发照片吗😱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993707229770563584",
+        "conversation_id": "2000538673025020039",
+        "created_at": "2025-12-15T12:09:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T13:09:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000538673025020039"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000538673025020039",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我靠，我很害怕了我要消号跑路了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "1992652290252316901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 309,
+          "like_count": 5698,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1830
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-26T15:43:41.000Z",
+        "description": "我是小若若(重生)/善良邪恶人格乱切/女宝全肯定/双/工作号不聊骚/完全碎碎念/fo你就是喜欢你/欢迎找我玩",
+        "id": "1993707229770563584",
+        "name": "绑带结（复活号互关我求你们回来",
+        "pinned_tweet_id": "1999207403045138653",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999055556947148800/s4pUs41M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 57,
+          "like_count": 449,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 312
+        },
+        "username": "GGezalyan73315",
+        "verified": false
+      }
+    ]
+  }
+}

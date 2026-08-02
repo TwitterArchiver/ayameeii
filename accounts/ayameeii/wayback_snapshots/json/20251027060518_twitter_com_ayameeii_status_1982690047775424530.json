@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1982687779990684009",
+    "created_at": "2025-10-27T06:05:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T07:05:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982690047775424530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "863583848789024769",
+          "start": 0,
+          "username": "wakahana77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982690047775424530",
+    "in_reply_to_user_id": "863583848789024769",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982689496748704016",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wakahana77 认识自己也算的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1982687779990684009",
+        "created_at": "2025-10-27T06:05:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T07:05:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982690047775424530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "863583848789024769",
+              "start": 0,
+              "username": "wakahana77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982690047775424530",
+        "in_reply_to_user_id": "863583848789024769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982689496748704016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wakahana77 认识自己也算的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "863583848789024769",
+        "conversation_id": "1982687779990684009",
+        "created_at": "2025-10-27T06:03:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T07:03:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982689496748704016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1852135214795100164",
+              "start": 0,
+              "username": "ayameeii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982689496748704016",
+        "in_reply_to_user_id": "1852135214795100164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982687903357829372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayameeii 发现自己的某一面是深度的npd应该不算成长😥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 191,
+          "like_count": 1895,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 517
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-14T02:36:48.000Z",
+        "description": "中文/English/日本語 | 🏳️‍🌈",
+        "id": "863583848789024769",
+        "name": "🌸",
+        "pinned_tweet_id": "1978681061321126189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922234132521680896/QSsgk6MY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 121,
+          "like_count": 19225,
+          "listed_count": 0,
+          "media_count": 416,
+          "tweet_count": 7607
+        },
+        "username": "wakahana77",
+        "verified": false
+      }
+    ]
+  }
+}

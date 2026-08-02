@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063508806060142593",
+        "3_2063508806232121344"
+      ]
+    },
+    "author_id": "1852135214795100164",
+    "conversation_id": "2063508808501272660",
+    "created_at": "2026-06-07T06:30:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T07:30:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063508808501272660"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xOUL3oboQ3",
+          "end": 67,
+          "expanded_url": "https://x.com/ayameeii/status/2063508808501272660/photo/1",
+          "media_key": "3_2063508806060142593",
+          "start": 44,
+          "url": "https://t.co/xOUL3oboQ3"
+        },
+        {
+          "display_url": "pic.x.com/xOUL3oboQ3",
+          "end": 67,
+          "expanded_url": "https://x.com/ayameeii/status/2063508808501272660/photo/1",
+          "media_key": "3_2063508806232121344",
+          "start": 44,
+          "url": "https://t.co/xOUL3oboQ3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063508808501272660",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我刚上推谢谢你们。。。\np1 可是我不玩🥺谢谢你丫\np2 是你！！！摸摸你也Ashes https://t.co/xOUL3oboQ3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1189,
+        "media_key": "3_2063508806060142593",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKMOU4Aa8AEcBTw.jpg",
+        "width": 1220
+      },
+      {
+        "height": 1181,
+        "media_key": "3_2063508806232121344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKMOU4pbIAAiphO.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063508806060142593",
+            "3_2063508806232121344"
+          ]
+        },
+        "author_id": "1852135214795100164",
+        "conversation_id": "2063508808501272660",
+        "created_at": "2026-06-07T06:30:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T07:30:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063508808501272660"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xOUL3oboQ3",
+              "end": 67,
+              "expanded_url": "https://x.com/ayameeii/status/2063508808501272660/photo/1",
+              "media_key": "3_2063508806060142593",
+              "start": 44,
+              "url": "https://t.co/xOUL3oboQ3"
+            },
+            {
+              "display_url": "pic.x.com/xOUL3oboQ3",
+              "end": 67,
+              "expanded_url": "https://x.com/ayameeii/status/2063508808501272660/photo/1",
+              "media_key": "3_2063508806232121344",
+              "start": 44,
+              "url": "https://t.co/xOUL3oboQ3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063508808501272660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我刚上推谢谢你们。。。\np1 可是我不玩🥺谢谢你丫\np2 是你！！！摸摸你也Ashes https://t.co/xOUL3oboQ3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存| 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 34,
+                "start": 24,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1043,
+          "following_count": 673,
+          "like_count": 10380,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 3946
+        },
+        "username": "ayameeii",
+        "verified": false
+      }
+    ]
+  }
+}

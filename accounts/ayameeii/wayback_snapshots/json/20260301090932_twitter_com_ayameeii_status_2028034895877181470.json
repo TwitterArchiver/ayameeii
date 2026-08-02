@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2027922312977408313",
+    "created_at": "2026-03-01T09:09:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T10:09:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028034895877181470"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1730458100703064064",
+          "start": 0,
+          "username": "AngffaBang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028034895877181470",
+    "in_reply_to_user_id": "1730458100703064064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027922312977408313",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AngffaBang 宝宝..惨 摸摸你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2027922292249161728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCSglJWbcAARQNZ.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2027922312977408313",
+        "created_at": "2026-03-01T09:09:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T10:09:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028034895877181470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028034895877181470",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027922312977408313",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 宝宝..惨 摸摸你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027922292249161728"
+          ]
+        },
+        "author_id": "1730458100703064064",
+        "conversation_id": "2027922312977408313",
+        "created_at": "2026-03-01T01:42:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T02:42:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027922312977408313"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EdJdvQ0Vld",
+              "end": 30,
+              "expanded_url": "https://x.com/AngffaBang/status/2027922312977408313/photo/1",
+              "media_key": "3_2027922292249161728",
+              "start": 7,
+              "url": "https://t.co/EdJdvQ0Vld"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027922312977408313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3696,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天被人打了 https://t.co/EdJdvQ0Vld"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2027766234981494956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 634,
+          "following_count": 432,
+          "like_count": 7547,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 2664
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "16/名字日文中译是泉！🍀/希望被很多人在意！🥺/精神病/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPXZC9u",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 83,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 60,
+                "url": "https://t.co/W1iPPXZC9u"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "1949431955671433367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009364605735170048/x_m4-ktV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7560,
+          "following_count": 615,
+          "like_count": 6287,
+          "listed_count": 5,
+          "media_count": 464,
+          "tweet_count": 2763
+        },
+        "username": "AngffaBang",
+        "verified": false
+      }
+    ]
+  }
+}

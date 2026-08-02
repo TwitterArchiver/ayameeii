@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1986121934367867027",
+    "created_at": "2025-11-05T23:08:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T00:08:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986208983284392272"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1672670387409395712",
+          "start": 0,
+          "username": "YENA_QWQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986208983284392272",
+    "in_reply_to_user_id": "1672670387409395712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986121934367867027",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YENA_QWQ 摸摸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1986121934367867027",
+        "created_at": "2025-11-05T23:08:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T00:08:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986208983284392272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1672670387409395712",
+              "start": 0,
+              "username": "YENA_QWQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986208983284392272",
+        "in_reply_to_user_id": "1672670387409395712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986121934367867027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YENA_QWQ 摸摸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672670387409395712",
+        "conversation_id": "1986121934367867027",
+        "created_at": "2025-11-05T17:22:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T18:22:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986121934367867027"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1986121934367867027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 108,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想要抱抱，想被摸摸头，想被安慰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 205,
+          "like_count": 2502,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 745
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-24T18:18:15.000Z",
+        "description": "柳州 广州/167 48/04年MTX/小证，可以叫我奈奈/QQ2696873143(仅限同类)/❤️@tianwen5258❤️(老婆)/我是个十足的疯子，想跟我交友的请谨慎/病态型依赖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "tianwen5258"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yena32946",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yena32946",
+                "start": 0,
+                "url": "https://t.co/4xazGiGNqa"
+              }
+            ]
+          }
+        },
+        "id": "1672670387409395712",
+        "location": "0772",
+        "name": "叶奈–YENA🍥",
+        "pinned_tweet_id": "1974815672862654970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974917109974274049/U92OWFV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2794,
+          "following_count": 780,
+          "like_count": 993,
+          "listed_count": 2,
+          "media_count": 110,
+          "tweet_count": 1256
+        },
+        "url": "https://t.co/4xazGiGNqa",
+        "username": "YENA_QWQ",
+        "verified": false
+      }
+    ]
+  }
+}

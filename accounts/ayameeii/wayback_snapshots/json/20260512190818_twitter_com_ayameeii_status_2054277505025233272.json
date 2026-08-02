@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054265796478816256",
+        "3_2054265795979694080"
+      ],
+      "media_source_tweet_id": [
+        "2054265800278921630",
+        "2054265800278921630"
+      ]
+    },
+    "author_id": "1852135214795100164",
+    "conversation_id": "2054277505025233272",
+    "created_at": "2026-05-12T19:08:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T20:08:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054277505025233272"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1865081933027512324",
+          "start": 3,
+          "username": "HsyhO0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/w8hZZFIvBj",
+          "end": 87,
+          "expanded_url": "https://x.com/HsyhO0/status/2054265800278921630/photo/1",
+          "media_key": "3_2054265796478816256",
+          "start": 64,
+          "url": "https://t.co/w8hZZFIvBj"
+        },
+        {
+          "display_url": "pic.x.com/w8hZZFIvBj",
+          "end": 87,
+          "expanded_url": "https://x.com/HsyhO0/status/2054265800278921630/photo/1",
+          "media_key": "3_2054265795979694080",
+          "start": 64,
+          "url": "https://t.co/w8hZZFIvBj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054277505025233272",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054265800278921630",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HsyhO0: 你们好我是りりか，07宅女一枚，是游荡在现实与互联网夹缝中的小幽灵\n🚪50好友位，只回复消息无其他福利 https://t.co/w8hZZFIvBj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2054265796478816256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HII326Fa0AAhhxd.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1382,
+        "media_key": "3_2054265795979694080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HII324Oa0AAgBla.jpg",
+        "width": 1382
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054265796478816256",
+            "3_2054265795979694080"
+          ],
+          "media_source_tweet_id": [
+            "2054265800278921630",
+            "2054265800278921630"
+          ]
+        },
+        "author_id": "1852135214795100164",
+        "conversation_id": "2054277505025233272",
+        "created_at": "2026-05-12T19:08:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T20:08:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054277505025233272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1865081933027512324",
+              "start": 3,
+              "username": "HsyhO0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/w8hZZFIvBj",
+              "end": 87,
+              "expanded_url": "https://x.com/HsyhO0/status/2054265800278921630/photo/1",
+              "media_key": "3_2054265796478816256",
+              "start": 64,
+              "url": "https://t.co/w8hZZFIvBj"
+            },
+            {
+              "display_url": "pic.x.com/w8hZZFIvBj",
+              "end": 87,
+              "expanded_url": "https://x.com/HsyhO0/status/2054265800278921630/photo/1",
+              "media_key": "3_2054265795979694080",
+              "start": 64,
+              "url": "https://t.co/w8hZZFIvBj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054277505025233272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054265800278921630",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HsyhO0: 你们好我是りりか，07宅女一枚，是游荡在现实与互联网夹缝中的小幽灵\n🚪50好友位，只回复消息无其他福利 https://t.co/w8hZZFIvBj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054265796478816256",
+            "3_2054265795979694080"
+          ]
+        },
+        "author_id": "1865081933027512324",
+        "conversation_id": "2054265800278921630",
+        "created_at": "2026-05-12T18:21:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T19:21:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054265800278921630"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w8hZZFIvBj",
+              "end": 75,
+              "expanded_url": "https://x.com/HsyhO0/status/2054265800278921630/photo/1",
+              "media_key": "3_2054265796478816256",
+              "start": 52,
+              "url": "https://t.co/w8hZZFIvBj"
+            },
+            {
+              "display_url": "pic.x.com/w8hZZFIvBj",
+              "end": 75,
+              "expanded_url": "https://x.com/HsyhO0/status/2054265800278921630/photo/1",
+              "media_key": "3_2054265795979694080",
+              "start": 52,
+              "url": "https://t.co/w8hZZFIvBj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054265800278921630",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "你们好我是りりか，07宅女一枚，是游荡在现实与互联网夹缝中的小幽灵\n🚪50好友位，只回复消息无其他福利 https://t.co/w8hZZFIvBj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存| 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 34,
+                "start": 24,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 923,
+          "following_count": 641,
+          "like_count": 9952,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 3746
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-06T17:12:49.000Z",
+        "description": "07/病み垢/双相/精分/分离转换障碍/自伤/碎碎念/ \n  ♡彼氏 @lin2680972846绝赞恋爱中♡🚪50",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 35,
+                "username": "lin2680972846"
+              }
+            ]
+          }
+        },
+        "id": "1865081933027512324",
+        "location": "暗い小さな部屋",
+        "name": "氷室 リリカ",
+        "pinned_tweet_id": "2054265800278921630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945519740467937281/9ZIUYBkI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 214,
+          "like_count": 12408,
+          "listed_count": 1,
+          "media_count": 431,
+          "tweet_count": 1817
+        },
+        "username": "HsyhO0",
+        "verified": false
+      }
+    ]
+  }
+}

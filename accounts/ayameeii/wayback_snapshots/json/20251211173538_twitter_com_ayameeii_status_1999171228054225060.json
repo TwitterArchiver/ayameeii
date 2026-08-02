@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1999170262395420753",
+    "created_at": "2025-12-11T17:35:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T18:35:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999171228054225060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1976153303080894465",
+          "start": 0,
+          "username": "shinimukuyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999171228054225060",
+    "in_reply_to_user_id": "1976153303080894465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999171040526962851",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shinimukuyo lsp是为什么（躺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1999170262395420753",
+        "created_at": "2025-12-11T17:35:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T18:35:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999171228054225060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1976153303080894465",
+              "start": 0,
+              "username": "shinimukuyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999171228054225060",
+        "in_reply_to_user_id": "1976153303080894465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999171040526962851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shinimukuyo lsp是为什么（躺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976153303080894465",
+        "conversation_id": "1999170262395420753",
+        "created_at": "2025-12-11T17:34:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T18:34:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999171040526962851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1852135214795100164",
+              "start": 0,
+              "username": "ayameeii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999171040526962851",
+        "in_reply_to_user_id": "1852135214795100164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999170262395420753",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayameeii lsp,每日发疯.jpg，感觉很友好！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "1992652290252316901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 302,
+          "like_count": 5340,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1699
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-09T05:10:51.000Z",
+        "description": "又回避又依赖型人格",
+        "id": "1976153303080894465",
+        "name": "yoitai",
+        "pinned_tweet_id": "1989905516290871474",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990639814409105408/BObOz40p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 56,
+          "like_count": 6269,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 1136
+        },
+        "username": "shinimukuyo",
+        "verified": false
+      }
+    ]
+  }
+}

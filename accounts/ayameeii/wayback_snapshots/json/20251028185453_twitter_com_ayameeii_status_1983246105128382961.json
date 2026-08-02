@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1983245886886162518",
+    "created_at": "2025-10-28T18:54:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T19:54:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983246105128382961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1360772570769813505",
+          "start": 0,
+          "username": "BraveQuestEX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983246105128382961",
+    "in_reply_to_user_id": "1360772570769813505",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983245886886162518",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BraveQuestEX 我饿了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1983245884432478208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4Xnn8vacAAOXOJ.jpg",
+        "width": 1538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1983245886886162518",
+        "created_at": "2025-10-28T18:54:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T19:54:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983246105128382961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1360772570769813505",
+              "start": 0,
+              "username": "BraveQuestEX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983246105128382961",
+        "in_reply_to_user_id": "1360772570769813505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983245886886162518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BraveQuestEX 我饿了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983245884432478208"
+          ]
+        },
+        "author_id": "1360772570769813505",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1983245886886162518",
+        "created_at": "2025-10-28T18:54:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T19:54:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983245886886162518"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IOGsrGTU0A",
+              "end": 86,
+              "expanded_url": "https://x.com/BraveQuestEX/status/1983245886886162518/photo/1",
+              "media_key": "3_1983245884432478208",
+              "start": 63,
+              "url": "https://t.co/IOGsrGTU0A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983245886886162518",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个人终于在下班回家打了八小时游戏后意识到了昨天忘了吃饭和睡觉，回首立刻从冰箱里掏出了冰了两天的剩饭）什么嘛这不是准备充分吗 https://t.co/IOGsrGTU0A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 189,
+          "like_count": 1990,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 554
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-14T02:07:24.000Z",
+        "description": "笑ってくれてアリガトウ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bangumi.tv/user/seiuex",
+                "end": 23,
+                "expanded_url": "https://bangumi.tv/user/seiuex",
+                "start": 0,
+                "url": "https://t.co/sY3WqMyceB"
+              }
+            ]
+          }
+        },
+        "id": "1360772570769813505",
+        "location": "关西",
+        "name": "暁",
+        "pinned_tweet_id": "1979057865588392225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976613984091668480/tcTGOATV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 581,
+          "following_count": 400,
+          "like_count": 19772,
+          "listed_count": 2,
+          "media_count": 783,
+          "tweet_count": 3909
+        },
+        "url": "https://t.co/sY3WqMyceB",
+        "username": "BraveQuestEX",
+        "verified": false
+      }
+    ]
+  }
+}

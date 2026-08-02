@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1986409350257385755",
+    "created_at": "2025-11-06T23:32:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T00:32:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986577465536622991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1383824178822848514",
+          "start": 0,
+          "username": "Akiyama_Nozomi_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986577465536622991",
+    "in_reply_to_user_id": "1383824178822848514",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986409350257385755",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Akiyama_Nozomi_ 我的梦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1501,
+        "media_key": "3_1986409343462567936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5Ekxf-acAAR-UC.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1986409350257385755",
+        "created_at": "2025-11-06T23:32:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T00:32:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986577465536622991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1383824178822848514",
+              "start": 0,
+              "username": "Akiyama_Nozomi_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986577465536622991",
+        "in_reply_to_user_id": "1383824178822848514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986409350257385755",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akiyama_Nozomi_ 我的梦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986409343462567936"
+          ]
+        },
+        "author_id": "1383824178822848514",
+        "conversation_id": "1986409350257385755",
+        "created_at": "2025-11-06T12:24:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T13:24:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986409350257385755"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CJpa5B6va9",
+              "end": 23,
+              "expanded_url": "https://x.com/Akiyama_Nozomi_/status/1986409350257385755/photo/1",
+              "media_key": "3_1986409343462567936",
+              "start": 0,
+              "url": "https://t.co/CJpa5B6va9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986409350257385755",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 99,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/CJpa5B6va9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 213,
+          "like_count": 2581,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 781
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-18T16:46:16.000Z",
+        "description": "INFP, 🏳️‍🌈🏳️‍⚧️,In love with @hanayologia, 碌碌无为, 一事无成, 如果你对我有点兴趣, 请来https://t.co/kAxxua8Ibs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 29,
+                "username": "hanayologia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Reverse_Nozomi",
+                "end": 91,
+                "expanded_url": "http://t.me/Reverse_Nozomi",
+                "start": 68,
+                "url": "https://t.co/kAxxua8Ibs"
+              }
+            ]
+          }
+        },
+        "id": "1383824178822848514",
+        "name": "暁山のぞみ",
+        "pinned_tweet_id": "1983154568465973750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954896042350280705/477GOuk5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 1173,
+          "like_count": 15190,
+          "listed_count": 2,
+          "media_count": 480,
+          "tweet_count": 6916
+        },
+        "username": "Akiyama_Nozomi_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1999702571498471778",
+    "created_at": "2025-12-13T04:57:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T05:57:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999705303903010948"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1561588899499196417",
+          "start": 0,
+          "username": "Tiandaidaidai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999705303903010948",
+    "in_reply_to_user_id": "1561588899499196417",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999702571498471778",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tiandaidaidai 是时候恰药了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1999702571498471778",
+        "created_at": "2025-12-13T04:57:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T05:57:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999705303903010948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1561588899499196417",
+              "start": 0,
+              "username": "Tiandaidaidai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999705303903010948",
+        "in_reply_to_user_id": "1561588899499196417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999702571498471778",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tiandaidaidai 是时候恰药了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561588899499196417",
+        "conversation_id": "1999702571498471778",
+        "created_at": "2025-12-13T04:47:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T05:47:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999702571498471778"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999702571498471778",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我最近一直焦虑然后浑身刺挠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "1992652290252316901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 303,
+          "like_count": 5473,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1755
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-22T05:39:42.000Z",
+        "description": "惨圈割手欧迪女 丨 LGBT+全友好🏳️‍🌈 丨 能看出成分的全会回fo 丨 狗@GHYYAYA 丨 提问箱https://t.co/nWrczArwoW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 40,
+                "username": "GHYYAYA"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/tiandai233",
+                "end": 77,
+                "expanded_url": "https://ngl.link/tiandai233",
+                "start": 54,
+                "url": "https://t.co/nWrczArwoW"
+              }
+            ]
+          }
+        },
+        "id": "1561588899499196417",
+        "location": "提瓦特大陆",
+        "name": "⊹天填甜田添恬黛⊹",
+        "pinned_tweet_id": "1985969041769701887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998719214782406656/IiKB6LUa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1703,
+          "following_count": 1979,
+          "like_count": 69904,
+          "listed_count": 8,
+          "media_count": 635,
+          "tweet_count": 10368
+        },
+        "username": "Tiandaidaidai",
+        "verified": false
+      }
+    ]
+  }
+}

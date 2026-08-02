@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2025914708520587667",
+    "created_at": "2026-02-23T19:44:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T20:44:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026020446689497410"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1611993558109794305",
+          "start": 0,
+          "username": "nnnnmrun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026020446689497410",
+    "in_reply_to_user_id": "1611993558109794305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025914708520587667",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nnnnmrun 妈妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2025914698718396417",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB1-r0paQAE1jaH.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2025914708520587667",
+        "created_at": "2026-02-23T19:44:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T20:44:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026020446689497410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1611993558109794305",
+              "start": 0,
+              "username": "nnnnmrun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026020446689497410",
+        "in_reply_to_user_id": "1611993558109794305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025914708520587667",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nnnnmrun 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025914698718396417"
+          ]
+        },
+        "author_id": "1611993558109794305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2025914708520587667",
+        "created_at": "2026-02-23T12:44:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T13:44:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025914708520587667"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 9,
+              "tag": "男娘"
+            },
+            {
+              "end": 21,
+              "start": 13,
+              "tag": "cosplay"
+            },
+            {
+              "end": 27,
+              "start": 22,
+              "tag": "三角初华"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4sHpTi0LMb",
+              "end": 51,
+              "expanded_url": "https://x.com/nnnnmrun/status/2025914708520587667/photo/1",
+              "media_key": "3_2025914698718396417",
+              "start": 28,
+              "url": "https://t.co/4sHpTi0LMb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025914708520587667",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 3811,
+          "like_count": 257,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "试试发大脸的流量 #男娘 #cosplay #三角初华 https://t.co/4sHpTi0LMb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2014053871983685932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 625,
+          "following_count": 429,
+          "like_count": 7498,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 2626
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-08T07:50:53.000Z",
+        "description": "♂coser｜欢迎和我聊天！",
+        "id": "1611993558109794305",
+        "location": "地球",
+        "name": "QRaaaaana",
+        "pinned_tweet_id": "1782003483476099350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998431744341716997/1FVeBMuL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 467,
+          "following_count": 132,
+          "like_count": 357,
+          "listed_count": 6,
+          "media_count": 10,
+          "tweet_count": 55
+        },
+        "username": "nnnnmrun",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1976595804627648631",
+    "created_at": "2025-10-10T10:28:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T11:28:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1976595804627648631"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ayameeii/statu…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/ayameeii/status/1976595290724700160",
+          "start": 34,
+          "url": "https://t.co/DAe6Ywb30Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976595804627648631",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976595290724700160",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "冬天确实比夏天好 是温馨的季节 但是太冷了不太会有想吃冰淇淋的念头 https://t.co/DAe6Ywb30Q"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1976595804627648631",
+        "created_at": "2025-10-10T10:28:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T11:28:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976595804627648631"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ayameeii/statu…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/ayameeii/status/1976595290724700160",
+              "start": 34,
+              "url": "https://t.co/DAe6Ywb30Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976595804627648631",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976595290724700160",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "冬天确实比夏天好 是温馨的季节 但是太冷了不太会有想吃冰淇淋的念头 https://t.co/DAe6Ywb30Q"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1976595290724700160",
+        "created_at": "2025-10-10T10:26:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T11:26:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976595290724700160"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1976595290724700160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好冷 虽然还不是冬天 但还是等冬天过去吧\n正因为是冬天 所以在被窝里就能收获幸福"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852135475403984896/GBdrMFBz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 128,
+          "like_count": 672,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 171
+        },
+        "username": "ayameeii",
+        "verified": false
+      }
+    ]
+  }
+}

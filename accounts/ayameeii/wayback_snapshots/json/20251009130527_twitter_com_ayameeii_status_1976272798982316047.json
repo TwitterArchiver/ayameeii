@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1976271611830374450",
+    "created_at": "2025-10-09T13:05:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T14:05:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976272798982316047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1765825463103139840",
+          "start": 0,
+          "username": "Chloris923"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976272798982316047",
+    "in_reply_to_user_id": "1765825463103139840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976271853405732921",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chloris923 这么多推文 再删怕不是得换号（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1976271611830374450",
+        "created_at": "2025-10-09T13:05:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T14:05:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976272798982316047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1765825463103139840",
+              "start": 0,
+              "username": "Chloris923"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976272798982316047",
+        "in_reply_to_user_id": "1765825463103139840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976271853405732921",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chloris923 这么多推文 再删怕不是得换号（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1765825463103139840",
+        "conversation_id": "1976271611830374450",
+        "created_at": "2025-10-09T13:01:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T14:01:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976271853405732921"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1976271853405732921",
+        "in_reply_to_user_id": "1765825463103139840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976271611830374450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "论我到底多能说，本帐今年3月删所有推文复出"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "狗狗kiss",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852135475403984896/GBdrMFBz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 127,
+          "like_count": 627,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 167
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-07T19:43:16.000Z",
+        "description": "夏牧Æstas｜08｜infj｜bi｜any pron｜amab｜🎀｜alt @pamnc2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 39,
+                "username": "pamnc2024"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+62HFM9EDRGM5M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+62HFM9EDRGM5MWJl",
+                "start": 0,
+                "url": "https://t.co/11L2aIbAMP"
+              }
+            ]
+          }
+        },
+        "id": "1765825463103139840",
+        "location": "Brunhild Technology Co., Ltd.",
+        "name": "🪞",
+        "pinned_tweet_id": "1976227580266283436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975842551317069824/nqziIras_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 308,
+          "like_count": 19899,
+          "listed_count": 2,
+          "media_count": 377,
+          "tweet_count": 9649
+        },
+        "url": "https://t.co/11L2aIbAMP",
+        "username": "Chloris923",
+        "verified": false
+      }
+    ]
+  }
+}

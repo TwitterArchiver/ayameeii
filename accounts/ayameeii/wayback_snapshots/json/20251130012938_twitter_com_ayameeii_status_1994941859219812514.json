@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1994941652780396937",
+    "created_at": "2025-11-30T01:29:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T02:29:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994941859219812514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1621552410048237569",
+          "start": 0,
+          "username": "amecandy_x"
+        },
+        {
+          "end": 27,
+          "id": "1735017872353808385",
+          "start": 12,
+          "username": "whitecloud_ybw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994941859219812514",
+    "in_reply_to_user_id": "1621552410048237569",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994941652780396937",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amecandy_x @whitecloud_ybw xmnmxql"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1994941642651176960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6902rXbkAAEaPp.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1994941652780396937",
+        "created_at": "2025-11-30T01:29:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T02:29:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994941859219812514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1621552410048237569",
+              "start": 0,
+              "username": "amecandy_x"
+            },
+            {
+              "end": 27,
+              "id": "1735017872353808385",
+              "start": 12,
+              "username": "whitecloud_ybw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994941859219812514",
+        "in_reply_to_user_id": "1621552410048237569",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994941652780396937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amecandy_x @whitecloud_ybw xmnmxql"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994941642651176960"
+          ]
+        },
+        "author_id": "1621552410048237569",
+        "conversation_id": "1994941652780396937",
+        "created_at": "2025-11-30T01:28:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T02:28:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994941652780396937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "1735017872353808385",
+              "start": 9,
+              "username": "whitecloud_ybw"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vUY2qo60lH",
+              "end": 53,
+              "expanded_url": "https://x.com/amecandy_x/status/1994941652780396937/photo/1",
+              "media_key": "3_1994941642651176960",
+              "start": 30,
+              "url": "https://t.co/vUY2qo60lH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994941652780396937",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和雯雯一起看日出\n@whitecloud_ybw \n❤️🌄 https://t.co/vUY2qo60lH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "喜欢我我也喜欢你 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "1992652290252316901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 276,
+          "like_count": 4505,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1431
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-03T16:53:25.000Z",
+        "description": "「小雨不乖，请你抱紧。」🌧/18yo-Transfem/HRT since 2022🍥CS→Fullstack/LLM🌐blogger✒️旅游✈（推文暴论输出注意⚠️）----Tags: #odtwt💊#shtwt🩸#drugtwt💉 \\\\\\ ❤️‍🔥@whitecloud_ybw",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 100,
+                "start": 94,
+                "tag": "odtwt"
+              },
+              {
+                "end": 107,
+                "start": 101,
+                "tag": "shtwt"
+              },
+              {
+                "end": 116,
+                "start": 108,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 141,
+                "start": 126,
+                "username": "whitecloud_ybw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/Ul32kqG4uh"
+              }
+            ]
+          }
+        },
+        "id": "1621552410048237569",
+        "location": "山东📍济南",
+        "name": "小雨🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976595751519326208/nobANKHE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4688,
+          "following_count": 1608,
+          "like_count": 22512,
+          "listed_count": 12,
+          "media_count": 876,
+          "tweet_count": 7589
+        },
+        "url": "https://t.co/Ul32kqG4uh",
+        "username": "amecandy_x",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-13T19:24:40.000Z",
+        "description": "尹白雯//☁️ A cloud in the sky shaped like my love for you.//南极洲外逃企鹅//地科只学了一晚居然能省一?!//情绪障碍//INF…P或J随缘//即将成年//2025.7.23平常的一天//友善的都会回fo//私信扩列找我玩🥺//我家猫猫@amecandy_x🥰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 145,
+                "username": "amecandy_x"
+              }
+            ]
+          }
+        },
+        "id": "1735017872353808385",
+        "location": "南极洲企鹅之国驻华办事处",
+        "name": "尹家白雯雯",
+        "pinned_tweet_id": "1986436953705971880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993274180163502080/y3iK_vDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 444,
+          "following_count": 347,
+          "like_count": 4428,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 731
+        },
+        "username": "whitecloud_ybw",
+        "verified": false
+      }
+    ]
+  }
+}

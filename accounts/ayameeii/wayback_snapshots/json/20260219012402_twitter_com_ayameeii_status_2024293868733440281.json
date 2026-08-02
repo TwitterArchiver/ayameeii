@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2024050885198770469",
+    "created_at": "2026-02-19T01:24:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T02:24:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024293868733440281"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2020173367773724672",
+          "start": 0,
+          "username": "fu_gc78361"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024293868733440281",
+    "in_reply_to_user_id": "2020173367773724672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024050885198770469",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fu_gc78361 喜欢 或者因为我做的事情 我会自责\n关系不好的是讨厌吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2024050885198770469",
+        "created_at": "2026-02-19T01:24:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T02:24:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024293868733440281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2020173367773724672",
+              "start": 0,
+              "username": "fu_gc78361"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024293868733440281",
+        "in_reply_to_user_id": "2020173367773724672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024050885198770469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fu_gc78361 喜欢 或者因为我做的事情 我会自责\n关系不好的是讨厌吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020173367773724672",
+        "conversation_id": "2024050885198770469",
+        "created_at": "2026-02-18T09:18:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T10:18:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024050885198770469"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024050885198770469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1119,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "特别想问。有人为你们嗑药自残你们啥感觉。是害怕还是讨厌。真的有人是心疼吗。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2014053871983685932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 541,
+          "following_count": 409,
+          "like_count": 7263,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 2544
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-07T16:30:48.000Z",
+        "description": "🚪52纯圈",
+        "id": "2020173367773724672",
+        "name": "依赖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021269041428705280/9ba-LsA__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 8,
+          "like_count": 75,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 442
+        },
+        "username": "fu_gc78361",
+        "verified": false
+      }
+    ]
+  }
+}

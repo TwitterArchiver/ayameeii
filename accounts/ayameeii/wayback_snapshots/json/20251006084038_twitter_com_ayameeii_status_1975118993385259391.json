@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1975041604512800976",
+    "created_at": "2025-10-06T08:40:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T09:40:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975118993385259391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1233947131544821760",
+          "start": 0,
+          "username": "Lr_Amy_3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975118993385259391",
+    "in_reply_to_user_id": "1233947131544821760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975110273850888532",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lr_Amy_3 爱死你了🥰"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1975110273850888532].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1975110273850888532",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1975110273850888532"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1975041604512800976",
+        "created_at": "2025-10-06T08:40:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T09:40:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975118993385259391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1233947131544821760",
+              "start": 0,
+              "username": "Lr_Amy_3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975118993385259391",
+        "in_reply_to_user_id": "1233947131544821760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975110273850888532",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lr_Amy_3 爱死你了🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "狗狗kiss",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852135475403984896/GBdrMFBz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 111,
+          "like_count": 399,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 111
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-01T02:48:27.000Z",
+        "description": "谁家小孩",
+        "id": "1233947131544821760",
+        "name": "Lr_蘑蘑菇🍄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897334039599804416/_PxQEWTR_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 169,
+          "like_count": 12921,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 993
+        },
+        "username": "Lr_Amy_3",
+        "verified": false
+      }
+    ]
+  }
+}

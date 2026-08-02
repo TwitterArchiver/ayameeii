@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1984599533536624640"
+      ],
+      "media_source_tweet_id": [
+        "1984599634657104163"
+      ]
+    },
+    "author_id": "1852135214795100164",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1984610264399167892",
+    "created_at": "2025-11-01T13:15:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T14:15:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984610264399167892"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "997786053124616192",
+          "start": 3,
+          "username": "shirakamifubuki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XQKTeYoktV",
+          "end": 61,
+          "expanded_url": "https://x.com/shirakamifubuki/status/1984599634657104163/photo/1",
+          "media_key": "3_1984599533536624640",
+          "start": 38,
+          "url": "https://t.co/XQKTeYoktV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984610264399167892",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 903
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984599634657104163",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shirakamifubuki: かわ余すぎてキレそう💢💢すき💢💢 https://t.co/XQKTeYoktV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1984599533536624640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4q2wsnbQAAsJxO.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984599533536624640"
+          ],
+          "media_source_tweet_id": [
+            "1984599634657104163"
+          ]
+        },
+        "author_id": "1852135214795100164",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1984610264399167892",
+        "created_at": "2025-11-01T13:15:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T14:15:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984610264399167892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "997786053124616192",
+              "start": 3,
+              "username": "shirakamifubuki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XQKTeYoktV",
+              "end": 61,
+              "expanded_url": "https://x.com/shirakamifubuki/status/1984599634657104163/photo/1",
+              "media_key": "3_1984599533536624640",
+              "start": 38,
+              "url": "https://t.co/XQKTeYoktV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984610264399167892",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 903
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984599634657104163",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shirakamifubuki: かわ余すぎてキレそう💢💢すき💢💢 https://t.co/XQKTeYoktV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984599533536624640"
+          ]
+        },
+        "author_id": "997786053124616192",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1984599634657104163",
+        "created_at": "2025-11-01T12:33:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T13:33:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984599634657104163"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XQKTeYoktV",
+              "end": 40,
+              "expanded_url": "https://x.com/shirakamifubuki/status/1984599634657104163/photo/1",
+              "media_key": "3_1984599533536624640",
+              "start": 17,
+              "url": "https://t.co/XQKTeYoktV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984599634657104163",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 118,
+          "impression_count": 56729,
+          "like_count": 6647,
+          "quote_count": 13,
+          "reply_count": 237,
+          "retweet_count": 903
+        },
+        "reply_settings": "everyone",
+        "text": "かわ余すぎてキレそう💢💢すき💢💢 https://t.co/XQKTeYoktV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 192,
+          "like_count": 2249,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 642
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-19T10:28:27.000Z",
+        "description": "ホロライブ🦊 担当絵師:@lemon_mito 【素材】#白上配信素材【絵】＃絵フブキ 【配信】#フブキングダム【メン限】#フブキングダム総会【切り抜き】#フブ切り【ファン】#すこん部 【サブ】@fubuchandayo【VRC】#フブキングダムVRC【ねんどろ】 #ねんどろフブキ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 35,
+                "start": 28,
+                "tag": "白上配信素材"
+              },
+              {
+                "end": 43,
+                "start": 38,
+                "tag": "絵フブキ"
+              },
+              {
+                "end": 56,
+                "start": 48,
+                "tag": "フブキングダム"
+              },
+              {
+                "end": 71,
+                "start": 61,
+                "tag": "フブキングダム総会"
+              },
+              {
+                "end": 82,
+                "start": 77,
+                "tag": "フブ切り"
+              },
+              {
+                "end": 92,
+                "start": 87,
+                "tag": "すこん部"
+              },
+              {
+                "end": 126,
+                "start": 115,
+                "tag": "フブキングダムVRC"
+              },
+              {
+                "end": 141,
+                "start": 133,
+                "tag": "ねんどろフブキ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "lemon_mito"
+              },
+              {
+                "end": 110,
+                "start": 97,
+                "username": "fubuchandayo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCdn5B…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg?sub_confirmation=1",
+                "start": 0,
+                "url": "https://t.co/Z9k2AiKs2b"
+              }
+            ]
+          }
+        },
+        "id": "997786053124616192",
+        "location": "未来ノ王国、円卓の祝祭。",
+        "name": "白上フブキ🌽フブキングダム👑",
+        "pinned_tweet_id": "1983144210548306100",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901181089017942016/XT-8dH2J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1906417,
+          "following_count": 1414,
+          "like_count": 234995,
+          "listed_count": 16516,
+          "media_count": 17246,
+          "tweet_count": 126789
+        },
+        "url": "https://t.co/Z9k2AiKs2b",
+        "username": "shirakamifubuki",
+        "verified": true
+      }
+    ]
+  }
+}

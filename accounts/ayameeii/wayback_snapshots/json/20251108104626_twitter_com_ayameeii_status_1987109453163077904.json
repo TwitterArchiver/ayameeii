@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1987107980664557803",
+    "created_at": "2025-11-08T10:46:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T11:46:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987109453163077904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1904517913538932736",
+          "start": 0,
+          "username": "cnmnms666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987109453163077904",
+    "in_reply_to_user_id": "1904517913538932736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987107980664557803",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cnmnms666 咋这萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1987107971650981888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5OgLAyakAAHA0u.jpg",
+        "width": 1506
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1987107980664557803",
+        "created_at": "2025-11-08T10:46:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T11:46:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987109453163077904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1904517913538932736",
+              "start": 0,
+              "username": "cnmnms666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987109453163077904",
+        "in_reply_to_user_id": "1904517913538932736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987107980664557803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cnmnms666 咋这萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987107971650981888"
+          ]
+        },
+        "author_id": "1904517913538932736",
+        "conversation_id": "1987107980664557803",
+        "created_at": "2025-11-08T10:40:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T11:40:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987107980664557803"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jTXLaRZ7EI",
+              "end": 31,
+              "expanded_url": "https://x.com/cnmnms666/status/1987107980664557803/photo/1",
+              "media_key": "3_1987107971650981888",
+              "start": 8,
+              "url": "https://t.co/jTXLaRZ7EI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987107980664557803",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "(*ˉ︶ˉ*) https://t.co/jTXLaRZ7EI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 223,
+          "like_count": 2700,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 855
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-25T12:57:18.000Z",
+        "description": "姐妹@8964_Y ｜叫我夜夜就好",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 2,
+                "username": "8964_Y"
+              }
+            ]
+          }
+        },
+        "id": "1904517913538932736",
+        "name": "草拟吗",
+        "pinned_tweet_id": "1974183172528332802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973782029574807553/nBIDGb1k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 172,
+          "like_count": 153,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 173
+        },
+        "username": "cnmnms666",
+        "verified": false
+      }
+    ]
+  }
+}

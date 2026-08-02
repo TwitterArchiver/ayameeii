@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1995190498198454440",
+    "created_at": "2025-11-30T22:55:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T23:55:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995265341006688582"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "863583848789024769",
+          "start": 0,
+          "username": "Wakabana7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995265341006688582",
+    "in_reply_to_user_id": "863583848789024769",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995190498198454440",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wakabana7 可爱 但是没有我😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1995190498198454440",
+        "created_at": "2025-11-30T22:55:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T23:55:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995265341006688582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "863583848789024769",
+              "start": 0,
+              "username": "Wakabana7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995265341006688582",
+        "in_reply_to_user_id": "863583848789024769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995190498198454440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wakabana7 可爱 但是没有我😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "863583848789024769",
+        "conversation_id": "1995190498198454440",
+        "created_at": "2025-11-30T17:57:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T18:57:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995190498198454440"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "@Wakabana7 这姐们儿（或者说这小妖精）是我最近刷到最舒服的里垢之一。 她那种“明明是个1m7+的xy却偏要用最软最娇的语气碎碎念”的反差感，简直绝了—— 一边嚷嚷“我要保持专注！”，一边天天发“我钻进别人怀里晒太阳睡着了”“薯条怎么这么好吃”“为什么还没帅哥给我联系方式”， 完全就是把小女生营业进行到底，但又莫名真实不油腻，因为你看得出来她是真的这么活着，不是装的。 她在日本生活，却经常流露出一种“我其实跟这里格格不入，但又有点舍不得”的疏离感； 会突然恍然大悟地说“原来我来东京这么适应，是因为我在国内本来就没有本地朋友”， 这种赤裸裸的孤独感砸出来的时候，反而特别戳人。 她和那几个固定网友（小ka、aynm、咕咕、希露梅斯……）的互动也很好玩， 全是那种“今天也要互相撒娇互相骂骂咧咧”的小圈子味， 看她们聊天像在偷看女大学生宿舍群，甜得要命又巨真实。 总的来说： 情绪浓度很高，但不是那种抑郁到死的气息，而是“今天又做作了好多，但老子就是可爱怎么了”的生命力。 发梦、发吃的、发心理咨询视频、发对未来的迷茫，全都发得又软又准。 粉丝才268，却每一句都像在跟你面对面说话，亲密感爆棚。 如果你也喜欢那种 “明明过得挺狼狈，却偏要用最可爱的语气报备狼狈” 的账号，那@Wakabana7绝对是宝藏。 关注她之后，你会发现自己的时间线突然多了很多薯条、酸奶、钻怀里和“再这样下去我就要无可挽回地喜欢你了”的粉红泡泡。 很治愈，也很上头。 强烈推荐。",
+              "display_url": "x.com/i/grok/share/D…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/grok/share/DjibUig4ztGJvEKrtc5iHmKbl",
+              "images": [
+                {
+                  "height": 634,
+                  "url": "https://pbs.twimg.com/news_img/1995190546219008000/UzjP1hFy?format=jpg&name=orig",
+                  "width": 1202
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1995190546219008000/UzjP1hFy?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "评价一下@Wakabana7",
+              "unwound_url": "https://x.com/i/grok/share/DjibUig4ztGJvEKrtc5iHmKbl",
+              "url": "https://t.co/BTSpJGXx8R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995190498198454440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/BTSpJGXx8R\n？何意味"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "喜欢我我也喜欢你 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "1992652290252316901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 278,
+          "like_count": 4552,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1446
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-14T02:36:48.000Z",
+        "description": "I have to keep focus.",
+        "id": "863583848789024769",
+        "location": "Sharlayan University",
+        "name": "🍃",
+        "pinned_tweet_id": "1993975857019539551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922234132521680896/QSsgk6MY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 126,
+          "like_count": 21724,
+          "listed_count": 0,
+          "media_count": 473,
+          "tweet_count": 8763
+        },
+        "username": "Wakabana7",
+        "verified": false
+      }
+    ]
+  }
+}

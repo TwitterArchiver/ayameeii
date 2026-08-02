@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1982409791084626078",
+    "created_at": "2025-10-26T11:44:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T12:44:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982412978629890339"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1423220645383475200",
+          "start": 0,
+          "username": "sysjf0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982412978629890339",
+    "in_reply_to_user_id": "1423220645383475200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982409791084626078",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sysjf0 ？接近"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1982409791084626078",
+        "created_at": "2025-10-26T11:44:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T12:44:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982412978629890339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1423220645383475200",
+              "start": 0,
+              "username": "sysjf0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982412978629890339",
+        "in_reply_to_user_id": "1423220645383475200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982409791084626078",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sysjf0 ？接近"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1423220645383475200",
+        "conversation_id": "1982409791084626078",
+        "created_at": "2025-10-26T11:31:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T12:31:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982409791084626078"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1982409791084626078",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不要接近十九方，会变得不幸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 188,
+          "like_count": 1851,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 499
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-05T09:53:54.000Z",
+        "description": "最喜欢的推 @BeetiIsDog @umichen0502324",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 6,
+                "username": "BeetiIsDog"
+              },
+              {
+                "end": 33,
+                "start": 18,
+                "username": "umichen0502324"
+              }
+            ]
+          }
+        },
+        "id": "1423220645383475200",
+        "location": "1",
+        "name": "十九方",
+        "pinned_tweet_id": "1862539669592031578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956994819726934016/GalXyNzP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1024,
+          "following_count": 913,
+          "like_count": 21347,
+          "listed_count": 5,
+          "media_count": 1618,
+          "tweet_count": 21551
+        },
+        "username": "sysjf0",
+        "verified": false
+      }
+    ]
+  }
+}

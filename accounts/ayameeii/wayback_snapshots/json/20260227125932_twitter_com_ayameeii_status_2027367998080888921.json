@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2027364367050973331",
+    "created_at": "2026-02-27T12:59:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T13:59:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027367998080888921"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1360772570769813505",
+          "start": 0,
+          "username": "BraveQuestEX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027367998080888921",
+    "in_reply_to_user_id": "1360772570769813505",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027364367050973331",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BraveQuestEX 你会喝自己的牛奶吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2027364363288621056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCKlJaAasAA4jkP.jpg",
+        "width": 1538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2027364367050973331",
+        "created_at": "2026-02-27T12:59:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T13:59:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027367998080888921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1360772570769813505",
+              "start": 0,
+              "username": "BraveQuestEX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027367998080888921",
+        "in_reply_to_user_id": "1360772570769813505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027364367050973331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BraveQuestEX 你会喝自己的牛奶吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027364363288621056"
+          ]
+        },
+        "author_id": "1360772570769813505",
+        "conversation_id": "2027364367050973331",
+        "created_at": "2026-02-27T12:45:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T13:45:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027364367050973331"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/onmU92VzUw",
+              "end": 165,
+              "expanded_url": "https://x.com/BraveQuestEX/status/2027364367050973331/photo/1",
+              "media_key": "3_2027364363288621056",
+              "start": 142,
+              "url": "https://t.co/onmU92VzUw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027364367050973331",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呵呵不愧是日本，随处可见的小商店货架上都能找到杯子。本来我对这种东西是不屑一顾的，直到我一眼瞥见了她——那款三十岁人生输家社畜大叔最爱用的潮流，那晶莹剔透波涛起伏的轮廓无不在挑逗我的感官，经不住诱惑的我把她带回了家，天天乐此不疲地灌入我新鲜的浓稠牛奶，这沉甸甸的手感真是让人欲罢不能 https://t.co/onmU92VzUw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2014053871983685932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 631,
+          "following_count": 431,
+          "like_count": 7491,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 2634
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-14T02:07:24.000Z",
+        "description": "笑ってくれてアリガトウ。\n网瘾期，转屎多，屁话少。\n无情的打游戏工具人一枚。\n边上学边打工的社畜一条。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bangumi.tv/user/seiuex",
+                "end": 23,
+                "expanded_url": "https://bangumi.tv/user/seiuex",
+                "start": 0,
+                "url": "https://t.co/sY3WqMyK49"
+              }
+            ]
+          }
+        },
+        "id": "1360772570769813505",
+        "location": "大阪",
+        "name": "セイヤ",
+        "pinned_tweet_id": "1984643565541363990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999425775150501888/aDG2Kzxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 897,
+          "following_count": 410,
+          "like_count": 27423,
+          "listed_count": 3,
+          "media_count": 1071,
+          "tweet_count": 5905
+        },
+        "url": "https://t.co/sY3WqMyK49",
+        "username": "BraveQuestEX",
+        "verified": false
+      }
+    ]
+  }
+}

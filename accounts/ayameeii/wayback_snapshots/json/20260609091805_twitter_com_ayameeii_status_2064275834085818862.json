@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064275830206025728"
+      ]
+    },
+    "author_id": "1852135214795100164",
+    "conversation_id": "2064275834085818862",
+    "created_at": "2026-06-09T09:18:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T10:18:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064275834085818862"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ohlJSYv5kL",
+          "end": 35,
+          "expanded_url": "https://x.com/ayameeii/status/2064275834085818862/photo/1",
+          "media_key": "3_2064275830206025728",
+          "start": 12,
+          "url": "https://t.co/ohlJSYv5kL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064275834085818862",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "宝宝你是谁！！喜欢你！ https://t.co/ohlJSYv5kL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1122,
+        "media_key": "3_2064275830206025728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKXH7jna0AAuFMJ.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064275830206025728"
+          ]
+        },
+        "author_id": "1852135214795100164",
+        "conversation_id": "2064275834085818862",
+        "created_at": "2026-06-09T09:18:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T10:18:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064275834085818862"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ohlJSYv5kL",
+              "end": 35,
+              "expanded_url": "https://x.com/ayameeii/status/2064275834085818862/photo/1",
+              "media_key": "3_2064275830206025728",
+              "start": 12,
+              "url": "https://t.co/ohlJSYv5kL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064275834085818862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "宝宝你是谁！！喜欢你！ https://t.co/ohlJSYv5kL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存| 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 34,
+                "start": 24,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1047,
+          "following_count": 681,
+          "like_count": 10424,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 3976
+        },
+        "username": "ayameeii",
+        "verified": false
+      }
+    ]
+  }
+}

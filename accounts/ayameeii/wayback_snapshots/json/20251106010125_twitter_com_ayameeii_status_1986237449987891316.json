@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1986226492955893823",
+    "created_at": "2025-11-06T01:01:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T02:01:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986237449987891316"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1934423287729455105",
+          "start": 0,
+          "username": "auroralia7777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986237449987891316",
+    "in_reply_to_user_id": "1934423287729455105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986231419178570086",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@auroralia7777 担心你！不过为什么会这么觉得呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1986226492955893823",
+        "created_at": "2025-11-06T01:01:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T02:01:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986237449987891316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1934423287729455105",
+              "start": 0,
+              "username": "auroralia7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986237449987891316",
+        "in_reply_to_user_id": "1934423287729455105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986231419178570086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@auroralia7777 担心你！不过为什么会这么觉得呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934423287729455105",
+        "conversation_id": "1986226492955893823",
+        "created_at": "2025-11-06T00:37:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T01:37:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986231419178570086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1852135214795100164",
+              "start": 0,
+              "username": "ayameeii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986231419178570086",
+        "in_reply_to_user_id": "1852135214795100164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986231280141541762",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayameeii ……呜……\n……不会很担心吗呜……（好自私…………"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 206,
+          "like_count": 2517,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 750
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-16T01:30:35.000Z",
+        "description": "「𝐴𝑢𝑟𝑜𝑟𝑎𝑙𝑖𝑎」\n                   ……𝘢𝘯𝘥 𝘩𝘦𝘳 𝘩𝘦𝘢𝘳𝘵 𝘧𝘶𝘭𝘭 𝘰𝘧 𝘧𝘢𝘭𝘭𝘪𝘯𝘨 𝘴𝘵𝘢𝘳𝘴☆\n\n𝐼 𝑙𝑜𝑣𝑒 𝑦𝑜𝑢, @yeziyu7777 .\n\n@zyh842159145",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 83,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 111,
+                "start": 98,
+                "username": "zyh842159145"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/auroralia7777",
+                "end": 23,
+                "expanded_url": "http://x.com/auroralia7777",
+                "start": 0,
+                "url": "https://t.co/v5PIIqHtUs"
+              }
+            ]
+          }
+        },
+        "id": "1934423287729455105",
+        "location": "up and beyond the Aurora.",
+        "name": "𝐴𝑢𝑟𝑜𝑟𝑎𝑙𝑖𝑎",
+        "pinned_tweet_id": "1963017759572529210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964180368439070722/GsHJLg3S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 185,
+          "like_count": 5891,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 1907
+        },
+        "url": "https://t.co/v5PIIqHtUs",
+        "username": "auroralia7777",
+        "verified": false
+      }
+    ]
+  }
+}

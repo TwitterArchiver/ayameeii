@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1980272553840329093",
+    "created_at": "2025-10-20T14:03:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T15:03:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980273637031837743"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1797143402347479040",
+          "start": 0,
+          "username": "s4tuRday_joe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980273637031837743",
+    "in_reply_to_user_id": "1797143402347479040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980272553840329093",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@s4tuRday_joe 还不错？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 558,
+        "media_key": "3_1980272550937563136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3tXZKUXEAAtju6.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1980272553840329093",
+        "created_at": "2025-10-20T14:03:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T15:03:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980273637031837743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1797143402347479040",
+              "start": 0,
+              "username": "s4tuRday_joe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980273637031837743",
+        "in_reply_to_user_id": "1797143402347479040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980272553840329093",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@s4tuRday_joe 还不错？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980272550937563136"
+          ]
+        },
+        "author_id": "1797143402347479040",
+        "conversation_id": "1980272553840329093",
+        "created_at": "2025-10-20T13:59:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T14:59:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980272553840329093"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bPjrQSe3Ja",
+              "end": 36,
+              "expanded_url": "https://x.com/s4tuRday_joe/status/1980272553840329093/photo/1",
+              "media_key": "3_1980272550937563136",
+              "start": 13,
+              "url": "https://t.co/bPjrQSe3Ja"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980272553840329093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今年第一天上学圆满完成。 https://t.co/bPjrQSe3Ja"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 171,
+          "like_count": 1361,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 366
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-02T05:49:33.000Z",
+        "description": "一个保持好奇的病人 | maimaiでらっくす退游了 | 高一 | TYLOO的CS2分部粉丝 | 坐标河北 稀罕您来 I嘻哈音乐爱好者 | 互fo欢迎\n裏：@Nek0_Arcue1d",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 79,
+                "username": "Nek0_Arcue1d"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/s4tuRday_joe",
+                "end": 23,
+                "expanded_url": "http://t.me/s4tuRday_joe",
+                "start": 0,
+                "url": "https://t.co/v3nJt0nbGJ"
+              }
+            ]
+          }
+        },
+        "id": "1797143402347479040",
+        "location": "建华东道26号",
+        "name": "周陸4ReaL",
+        "pinned_tweet_id": "1976909135737442362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951968369546244096/ybNtrd9H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 657,
+          "following_count": 785,
+          "like_count": 9093,
+          "listed_count": 4,
+          "media_count": 421,
+          "tweet_count": 2701
+        },
+        "url": "https://t.co/v3nJt0nbGJ",
+        "username": "s4tuRday_joe",
+        "verified": false
+      }
+    ]
+  }
+}

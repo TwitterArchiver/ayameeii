@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1988417541375668371",
+    "created_at": "2025-11-12T01:27:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T02:27:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988418429733531839"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1597257668313260033",
+          "start": 0,
+          "username": "Minokakay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988418429733531839",
+    "in_reply_to_user_id": "1597257668313260033",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988417541375668371",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Minokakay 好典雅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1988417533003845632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5hHNg_aUAA90m6.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1988417532991336450",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5hHNg8bcAIPsQ1.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1988417541375668371",
+        "created_at": "2025-11-12T01:27:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T02:27:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988418429733531839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988418429733531839",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988417541375668371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay 好典雅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988417533003845632",
+            "3_1988417532991336450"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1988417541375668371",
+        "created_at": "2025-11-12T01:24:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T02:24:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988417541375668371"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/71IqD35fSw",
+              "end": 32,
+              "expanded_url": "https://x.com/Minokakay/status/1988417541375668371/photo/1",
+              "media_key": "3_1988417533003845632",
+              "start": 9,
+              "url": "https://t.co/71IqD35fSw"
+            },
+            {
+              "display_url": "pic.x.com/71IqD35fSw",
+              "end": 32,
+              "expanded_url": "https://x.com/Minokakay/status/1988417541375668371/photo/1",
+              "media_key": "3_1988417532991336450",
+              "start": 9,
+              "url": "https://t.co/71IqD35fSw"
+            },
+            {
+              "display_url": "x.com/minokakay/stat…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/minokakay/status/1988416261718688025",
+              "start": 33,
+              "url": "https://t.co/HZjKMmp73k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988417541375668371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988416261718688025",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "早餐 和餐厅窗景 https://t.co/71IqD35fSw https://t.co/HZjKMmp73k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 224,
+          "like_count": 3019,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 926
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD精分抑鬱焦慮 Pansexual MtX，成都大阪香港随机刷新。买HRT补佳乐色普龙诺坤复/减肥/促智找@ChosekiNoraneko，全球可寄，我朋友开的我担保。买电子烟找@weita2024。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 85,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 131,
+                "start": 121,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1987176249970835785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12024,
+          "following_count": 1004,
+          "like_count": 45012,
+          "listed_count": 42,
+          "media_count": 1527,
+          "tweet_count": 22655
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

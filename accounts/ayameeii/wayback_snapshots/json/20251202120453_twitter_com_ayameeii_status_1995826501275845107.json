@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1995821222035423502",
+    "created_at": "2025-12-02T12:04:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T13:04:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995826501275845107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1153921233445986304",
+          "start": 0,
+          "username": "shirumesu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995826501275845107",
+    "in_reply_to_user_id": "1153921233445986304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995821222035423502",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shirumesu 你可以实践看看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1995821222035423502",
+        "created_at": "2025-12-02T12:04:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T13:04:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995826501275845107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1153921233445986304",
+              "start": 0,
+              "username": "shirumesu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995826501275845107",
+        "in_reply_to_user_id": "1153921233445986304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995821222035423502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirumesu 你可以实践看看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1153921233445986304",
+        "conversation_id": "1995821222035423502",
+        "created_at": "2025-12-02T11:43:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T12:43:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995821222035423502"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1995821222035423502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "55块跟精神小妹玩一天还真有点意思（）\n\n好便宜啊哪怕天天玩一个月也就1500 比谈恋爱便宜（）\n\n而且还真没有想象中的那种捞钱感，虽然确实伸手要钱挺多的，但态度很满意？完了我也是看态度了.jpg\n什么时候我家楼下会刷新便宜地雷.jpg\n\n虽然好像说有剧本嫌疑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "1992652290252316901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 284,
+          "like_count": 4710,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1498
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-24T06:53:55.000Z",
+        "description": "我oc，希露梅斯·莉莉丝·菲利欧露，巡礼魔女，愿歌赫姆的星光永不消逝/是infp～包健全的/fo无依据随缘看心情/祝你开心～",
+        "id": "1153921233445986304",
+        "location": "魔女之家",
+        "name": "希露梅斯",
+        "pinned_tweet_id": "1936780239897870805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977795066950471680/vx5I975C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 36,
+          "like_count": 26184,
+          "listed_count": 5,
+          "media_count": 458,
+          "tweet_count": 14596
+        },
+        "username": "shirumesu",
+        "verified": false
+      }
+    ]
+  }
+}

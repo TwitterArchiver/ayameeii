@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1985036726805676053",
+    "created_at": "2025-11-03T10:31:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T11:31:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985293767566586364"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "863583848789024769",
+          "start": 0,
+          "username": "Wakabana7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985293767566586364",
+    "in_reply_to_user_id": "863583848789024769",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985293228078424112",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wakabana7 😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1985036726805676053",
+        "created_at": "2025-11-03T10:31:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T11:31:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985293767566586364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "863583848789024769",
+              "start": 0,
+              "username": "Wakabana7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985293767566586364",
+        "in_reply_to_user_id": "863583848789024769",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985293228078424112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wakabana7 😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "863583848789024769",
+        "conversation_id": "1985036726805676053",
+        "created_at": "2025-11-03T10:29:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T11:29:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985293228078424112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1852135214795100164",
+              "start": 0,
+              "username": "ayameeii"
+            },
+            {
+              "end": 20,
+              "id": "1153921233445986304",
+              "start": 10,
+              "username": "shirumesu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985293228078424112",
+        "in_reply_to_user_id": "1852135214795100164",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985291077964943595",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayameeii @shirumesu 命令你【考上东大】"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 199,
+          "like_count": 2366,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 681
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-14T02:36:48.000Z",
+        "description": "大号@Aikasama7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Aikasama7"
+              }
+            ]
+          }
+        },
+        "id": "863583848789024769",
+        "name": "🍃",
+        "pinned_tweet_id": "1985024660589937076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922234132521680896/QSsgk6MY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 125,
+          "like_count": 19547,
+          "listed_count": 0,
+          "media_count": 428,
+          "tweet_count": 7814
+        },
+        "username": "Wakabana7",
+        "verified": false
+      }
+    ]
+  }
+}

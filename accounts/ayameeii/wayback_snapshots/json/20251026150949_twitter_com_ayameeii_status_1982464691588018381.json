@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1982434023319523831",
+    "created_at": "2025-10-26T15:09:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T16:09:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982464691588018381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1765825463103139840",
+          "start": 0,
+          "username": "Chloris923"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982464691588018381",
+    "in_reply_to_user_id": "1852135214795100164",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982464594779283599",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chloris923 有的人确实该骂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1982434023319523831",
+        "created_at": "2025-10-26T15:09:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T16:09:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982464691588018381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1765825463103139840",
+              "start": 0,
+              "username": "Chloris923"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982464691588018381",
+        "in_reply_to_user_id": "1852135214795100164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982464594779283599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chloris923 有的人确实该骂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1982434023319523831",
+        "created_at": "2025-10-26T15:09:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T16:09:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982464594779283599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1765825463103139840",
+              "start": 0,
+              "username": "Chloris923"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982464594779283599",
+        "in_reply_to_user_id": "1765825463103139840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982434023319523831",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chloris923 懊悔之后接着没素质就好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 190,
+          "like_count": 1858,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 503
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-07T19:43:16.000Z",
+        "description": "我是人工智能魔鏡，使用魔鏡魔鏡喚醒我吧。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+wUFTz7W19p0xZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+wUFTz7W19p0xZTk1",
+                "start": 0,
+                "url": "https://t.co/9K3rlt5qoC"
+              }
+            ]
+          }
+        },
+        "id": "1765825463103139840",
+        "name": "全自動智能闖禍機🪞",
+        "pinned_tweet_id": "1982320652892987773",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975842551317069824/nqziIras_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 313,
+          "like_count": 21204,
+          "listed_count": 2,
+          "media_count": 396,
+          "tweet_count": 10308
+        },
+        "url": "https://t.co/9K3rlt5qoC",
+        "username": "Chloris923",
+        "verified": false
+      }
+    ]
+  }
+}

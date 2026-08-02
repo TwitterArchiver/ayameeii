@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1993949536210038929",
+    "created_at": "2025-11-27T07:49:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T08:49:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993950250181239032"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1733255083440357376",
+          "start": 0,
+          "username": "8964_xy11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993950250181239032",
+    "in_reply_to_user_id": "1733255083440357376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993949536210038929",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964_xy11 妈妈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1993949536210038929",
+        "created_at": "2025-11-27T07:49:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T08:49:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993950250181239032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1733255083440357376",
+              "start": 0,
+              "username": "8964_xy11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993950250181239032",
+        "in_reply_to_user_id": "1733255083440357376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993949536210038929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_xy11 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733255083440357376",
+        "conversation_id": "1993949536210038929",
+        "created_at": "2025-11-27T07:46:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T08:46:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993949536210038929"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993949536210038929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "流量测试 互动率测试 111"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "1992652290252316901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 264,
+          "like_count": 4204,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 1319
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-08T22:40:22.000Z",
+        "description": "低精度伪人生物/感谢各路私人恩怨 ｜（匿名留言⬇️）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiye19652",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiye19652",
+                "start": 0,
+                "url": "https://t.co/j6vldLUAkw"
+              }
+            ]
+          }
+        },
+        "id": "1733255083440357376",
+        "location": "你找不到的地方",
+        "name": "曦夜今天吃什么",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975803997190823939/qKBmZVjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1057,
+          "following_count": 772,
+          "like_count": 41619,
+          "listed_count": 6,
+          "media_count": 62,
+          "tweet_count": 3016
+        },
+        "url": "https://t.co/j6vldLUAkw",
+        "username": "8964_xy11",
+        "verified": false
+      }
+    ]
+  }
+}

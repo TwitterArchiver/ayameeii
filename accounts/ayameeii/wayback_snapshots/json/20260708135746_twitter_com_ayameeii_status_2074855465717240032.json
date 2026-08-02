@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2074849071198777386",
+    "created_at": "2026-07-08T13:57:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T14:57:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074855465717240032"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "897749985361444866",
+          "start": 0,
+          "username": "woaishuji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074855465717240032",
+    "in_reply_to_user_id": "897749985361444866",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074849071198777386",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@woaishuji 说好了就不要再碰了哦👀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2074849053964464128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMtYOLgbcAA0MCm.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2074849071198777386",
+        "created_at": "2026-07-08T13:57:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T14:57:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074855465717240032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "897749985361444866",
+              "start": 0,
+              "username": "woaishuji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074855465717240032",
+        "in_reply_to_user_id": "897749985361444866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074849071198777386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woaishuji 说好了就不要再碰了哦👀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074849053964464128"
+          ]
+        },
+        "author_id": "897749985361444866",
+        "conversation_id": "2074849071198777386",
+        "created_at": "2026-07-08T13:32:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T14:32:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074849071198777386"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f8c8nMV26Z",
+              "end": 159,
+              "expanded_url": "https://x.com/woaishuji/status/2074849071198777386/photo/1",
+              "media_key": "3_2074849053964464128",
+              "start": 136,
+              "url": "https://t.co/f8c8nMV26Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074849071198777386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一想到需要再多的酒才能像之前那么舒服（好吧 其实也不怎么样）\n我都不知道我这是耐受太快还是怎么样\n干脆多吃氯硝（?）\n感觉这么折腾 苯二氮䓬也得被我吃耐受\n下一步就是回归od（虽然上一步就已经算od？）\n不过 至少未来几天甚至几周几个月不会再碰酒了吧\n可是 怎么通宵啊… https://t.co/f8c8nMV26Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存| 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 34,
+                "start": 24,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1079,
+          "following_count": 715,
+          "like_count": 10536,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 4110
+        },
+        "url": "",
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-16T09:20:50.000Z",
+        "description": "",
+        "id": "897749985361444866",
+        "name": "文学少女安德烈",
+        "pinned_tweet_id": "1862810120075583938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004417757199130624/fcknZsxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1701,
+          "following_count": 1952,
+          "like_count": 501192,
+          "listed_count": 9,
+          "media_count": 3055,
+          "tweet_count": 17750
+        },
+        "url": "",
+        "username": "woaishuji",
+        "verified": false
+      }
+    ]
+  }
+}

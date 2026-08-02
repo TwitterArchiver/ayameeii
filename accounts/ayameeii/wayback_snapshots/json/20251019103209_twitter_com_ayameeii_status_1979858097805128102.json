@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1979854693926141996",
+    "created_at": "2025-10-19T10:32:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T11:32:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979858097805128102"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1961060368463335424",
+          "start": 0,
+          "username": "appppp0122"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979858097805128102",
+    "in_reply_to_user_id": "1961060368463335424",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979854693926141996",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@appppp0122 🙋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1979854693926141996",
+        "created_at": "2025-10-19T10:32:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T11:32:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979858097805128102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1961060368463335424",
+              "start": 0,
+              "username": "appppp0122"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979858097805128102",
+        "in_reply_to_user_id": "1961060368463335424",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979854693926141996",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@appppp0122 🙋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1961060368463335424",
+        "conversation_id": "1979854693926141996",
+        "created_at": "2025-10-19T10:18:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T11:18:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979854693926141996"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1979854693926141996",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有以前認識我要互fo的嗎～\n在這邊跟我說一下！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 165,
+          "like_count": 1221,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 327
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-28T13:36:57.000Z",
+        "description": "這人死了",
+        "id": "1961060368463335424",
+        "name": "pp（๑⃙⃘ˊ꒳​ˋ๑⃙⃘）",
+        "pinned_tweet_id": "1979805560787861753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961060883561668608/-Vq7atLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 6,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 8
+        },
+        "username": "appppp0122",
+        "verified": false
+      }
+    ]
+  }
+}

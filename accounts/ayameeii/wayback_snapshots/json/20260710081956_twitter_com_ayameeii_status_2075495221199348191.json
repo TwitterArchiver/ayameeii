@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2075486241584549974",
+    "created_at": "2026-07-10T08:19:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T09:19:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075495221199348191"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2019069006649667584",
+          "start": 0,
+          "username": "shunyuTvT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075495221199348191",
+    "in_reply_to_user_id": "2019069006649667584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075486241584549974",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shunyuTvT 好快好快"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075486235720884224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM2bvChbIAAqROD.jpg",
+        "width": 922
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2075486238891728896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM2bvOVaYAA4N15.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2075486241584549974",
+        "created_at": "2026-07-10T08:19:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T09:19:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075495221199348191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2019069006649667584",
+              "start": 0,
+              "username": "shunyuTvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075495221199348191",
+        "in_reply_to_user_id": "2019069006649667584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075486241584549974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shunyuTvT 好快好快"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075486235720884224",
+            "3_2075486238891728896"
+          ]
+        },
+        "author_id": "2019069006649667584",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2075486241584549974",
+        "created_at": "2026-07-10T07:44:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T08:44:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075486241584549974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7h5F96pkm4",
+              "end": 62,
+              "expanded_url": "https://x.com/shunyuTvT/status/2075486241584549974/photo/1",
+              "media_key": "3_2075486235720884224",
+              "start": 39,
+              "url": "https://t.co/7h5F96pkm4"
+            },
+            {
+              "display_url": "pic.x.com/7h5F96pkm4",
+              "end": 62,
+              "expanded_url": "https://x.com/shunyuTvT/status/2075486241584549974/photo/1",
+              "media_key": "3_2075486238891728896",
+              "start": 39,
+              "url": "https://t.co/7h5F96pkm4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075486241584549974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 267,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "破1kfo了！！开心，不过截1010fo是因为我10.10生日hh爱你们！！ https://t.co/7h5F96pkm4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存| 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 34,
+                "start": 24,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1081,
+          "following_count": 717,
+          "like_count": 10586,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 4135
+        },
+        "url": "",
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-04T15:22:28.000Z",
+        "description": "11年｜♀｜中抑中焦｜戒割中...不od｜内向i人｜互关请私信！不过我会查成分｜更多属性指路置顶～｜🚪20（不聊黄不聊骚朋友圈无擦边没福利纯陪聊）｜我是@UXiaotu的狗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 76,
+                "username": "UXiaotu"
+              }
+            ]
+          }
+        },
+        "id": "2019069006649667584",
+        "name": "瞬雨",
+        "pinned_tweet_id": "2074562079697281117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074263947969216512/ltPefXnY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1013,
+          "following_count": 171,
+          "like_count": 122,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 313
+        },
+        "url": "",
+        "username": "shunyuTvT",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1975881993985655116",
+    "created_at": "2025-10-08T11:15:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T12:15:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975882767322988956"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1639894055948816387",
+          "start": 0,
+          "username": "sakumamutsuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975882767322988956",
+    "in_reply_to_user_id": "1639894055948816387",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975881993985655116",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sakumamutsuki 来了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1975881993985655116",
+        "created_at": "2025-10-08T11:15:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T12:15:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975882767322988956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1639894055948816387",
+              "start": 0,
+              "username": "sakumamutsuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975882767322988956",
+        "in_reply_to_user_id": "1639894055948816387",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975881993985655116",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakumamutsuki 来了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639894055948816387",
+        "conversation_id": "1975881993985655116",
+        "created_at": "2025-10-08T11:12:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T12:12:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975881993985655116"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "You are invited to a group chat on Telegr am. Click to",
+              "display_url": "t.me/+X9l5pmvhPBg5N…",
+              "end": 33,
+              "expanded_url": "https://t.me/+X9l5pmvhPBg5Njll",
+              "start": 10,
+              "status": 200,
+              "title": "Telegram: Join Group Chat",
+              "unwound_url": "https://t.me/+X9l5pmvhPBg5Njll",
+              "url": "https://t.co/c6ujgtSLfb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975881993985655116",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "要來我的群組玩嗎🥹\nhttps://t.co/c6ujgtSLfb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "狗狗kiss",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852135475403984896/GBdrMFBz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 123,
+          "like_count": 533,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 143
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-26T07:36:33.000Z",
+        "description": "kayo丨我只是覺得小格里斯這麽叫我我很喜歡丨你真聪明，你是最清醒的人 ，你对世间的一切都看的很透彻，所有的事情你都懂得，你总能提出最精准最准确的见解，你把人心看的很明白，和每个人的关系你都能精准把握，你掌握世界上所有小众正确的事情，这种众人皆醉我独醒的感觉让你觉得非常的爽，特立独行让你觉得你是为数不多的人才",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/ti/p/9SYzg9xb83",
+                "end": 23,
+                "expanded_url": "https://line.me/ti/p/9SYzg9xb83",
+                "start": 0,
+                "url": "https://t.co/sZHlu2ozaI"
+              }
+            ]
+          }
+        },
+        "id": "1639894055948816387",
+        "name": "卡優",
+        "pinned_tweet_id": "1975881993985655116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972956944848801792/wxobx5yd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1162,
+          "following_count": 1691,
+          "like_count": 23880,
+          "listed_count": 7,
+          "media_count": 49,
+          "tweet_count": 7962
+        },
+        "url": "https://t.co/sZHlu2ozaI",
+        "username": "sakumamutsuki",
+        "verified": false
+      }
+    ]
+  }
+}

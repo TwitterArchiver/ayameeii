@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2012174603469430862",
+    "created_at": "2026-01-16T14:56:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T15:56:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012177196807577613"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1561588899499196417",
+          "start": 0,
+          "username": "Tiandaidaidai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012177196807577613",
+    "in_reply_to_user_id": "1561588899499196417",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012174603469430862",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tiandaidaidai 我去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2012174603469430862",
+        "created_at": "2026-01-16T14:56:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T15:56:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012177196807577613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1561588899499196417",
+              "start": 0,
+              "username": "Tiandaidaidai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012177196807577613",
+        "in_reply_to_user_id": "1561588899499196417",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012174603469430862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tiandaidaidai 我去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561588899499196417",
+        "conversation_id": "2012174603469430862",
+        "created_at": "2026-01-16T14:46:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T15:46:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012174603469430862"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Yanluo_W/statu…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/Yanluo_W/status/2012116010594419115",
+              "start": 4,
+              "url": "https://t.co/f9hwO2aiwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012174603469430862",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012116010594419115",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "何意味 https://t.co/f9hwO2aiwO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2008864131290694085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 346,
+          "like_count": 6413,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 2115
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-22T05:39:42.000Z",
+        "description": "惨圈割手欧迪女 丨 LGBT+全友好🏳️‍🌈 丨 能看出成分的全会回fo 丨 狗@GHYYAYA 丨 提问箱https://t.co/nWrczArwoW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 40,
+                "username": "GHYYAYA"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/tiandai233",
+                "end": 77,
+                "expanded_url": "https://ngl.link/tiandai233",
+                "start": 54,
+                "url": "https://t.co/nWrczArwoW"
+              }
+            ]
+          }
+        },
+        "id": "1561588899499196417",
+        "location": "提瓦特大陆",
+        "name": "⊹天填甜田添恬黛⊹",
+        "pinned_tweet_id": "1985969041769701887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009405228379197440/gXCuPT5l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1982,
+          "following_count": 2177,
+          "like_count": 75106,
+          "listed_count": 8,
+          "media_count": 694,
+          "tweet_count": 11129
+        },
+        "username": "Tiandaidaidai",
+        "verified": false
+      }
+    ]
+  }
+}

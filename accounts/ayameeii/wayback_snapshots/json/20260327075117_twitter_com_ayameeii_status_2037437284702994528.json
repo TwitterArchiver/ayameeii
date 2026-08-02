@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2037312472944644483",
+    "created_at": "2026-03-27T07:51:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T08:51:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037437284702994528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1558634618739474432",
+          "start": 0,
+          "username": "Meico_Meico"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037437284702994528",
+    "in_reply_to_user_id": "1558634618739474432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037312472944644483",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Meico_Meico 怎么还这样..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2037312472944644483",
+        "created_at": "2026-03-27T07:51:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T08:51:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037437284702994528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1558634618739474432",
+              "start": 0,
+              "username": "Meico_Meico"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037437284702994528",
+        "in_reply_to_user_id": "1558634618739474432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037312472944644483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Meico_Meico 怎么还这样..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1558634618739474432",
+        "conversation_id": "2037312472944644483",
+        "created_at": "2026-03-26T23:35:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T00:35:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037312472944644483"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037312472944644483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 98,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不得劲\n把朋友介绍给其他朋友\n结果他们开始孤立我了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2036043044986953736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 706,
+          "following_count": 503,
+          "like_count": 8465,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 3097
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-14T02:01:31.000Z",
+        "description": "我喜欢谁谁就是对的（喜）      。。。 。。。       \n鱼板是一种食品\n\n女/缺爱/缺钱/脾气极其暴躁",
+        "id": "1558634618739474432",
+        "location": "🚪0.01",
+        "name": "9万🍥",
+        "pinned_tweet_id": "2005927260734280187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999054539853324288/rT17Tlgp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 156,
+          "like_count": 15206,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 2344
+        },
+        "username": "Meico_Meico",
+        "verified": false
+      }
+    ]
+  }
+}

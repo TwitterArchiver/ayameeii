@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2046185600852844901",
+    "created_at": "2026-04-20T11:48:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T12:48:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046194387751932031"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1942213542104510464",
+          "start": 0,
+          "username": "SillmanW78399"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046194387751932031",
+    "in_reply_to_user_id": "1942213542104510464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046194198974734405",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SillmanW78399 我去不早说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2046185600852844901",
+        "created_at": "2026-04-20T11:48:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T12:48:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046194387751932031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1942213542104510464",
+              "start": 0,
+              "username": "SillmanW78399"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046194387751932031",
+        "in_reply_to_user_id": "1942213542104510464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046194198974734405",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SillmanW78399 我去不早说"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942213542104510464",
+        "conversation_id": "2046185600852844901",
+        "created_at": "2026-04-20T11:48:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T12:48:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046194198974734405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1852135214795100164",
+              "start": 0,
+              "username": "ayameeii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046194198974734405",
+        "in_reply_to_user_id": "1852135214795100164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046185600852844901",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayameeii 什么未来 哪有未来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存|对象❤️@AAAAAMTxT 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "AAAAAMTxT"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 48,
+                "start": 38,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 801,
+          "following_count": 596,
+          "like_count": 9511,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 3531
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-07T13:26:14.000Z",
+        "description": "＝Rain/雨｜发的都是不想被熟人看见的",
+        "id": "1942213542104510464",
+        "name": "Rain-",
+        "pinned_tweet_id": "1981325575324381221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042677424480227329/v0fHlEPj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 42,
+          "like_count": 83,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 197
+        },
+        "username": "SillmanW78399",
+        "verified": false
+      }
+    ]
+  }
+}

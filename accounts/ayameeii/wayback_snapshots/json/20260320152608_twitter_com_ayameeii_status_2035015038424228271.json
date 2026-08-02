@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2035014246652903489",
+    "created_at": "2026-03-20T15:26:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T16:26:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035015038424228271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2015660394967404544",
+          "start": 0,
+          "username": "Rien6cf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035015038424228271",
+    "in_reply_to_user_id": "2015660394967404544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035014246652903489",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rien6cf 萌。。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14300,
+        "height": 1280,
+        "media_key": "13_2035014120756715524",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2035014120756715524/img/Q3CFcrUYjTpRfmim.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035014120756715524/vid/avc1/320x568/4WNYY5QwMu-N9S2B.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035014120756715524/vid/avc1/480x852/IlJWvc_jNHhuiUNV.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035014120756715524/vid/avc1/720x1280/LYg0K3pwYqmgz4PS.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2035014120756715524/pl/OXp56kI0Cs8sSt5X.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2035014246652903489",
+        "created_at": "2026-03-20T15:26:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T16:26:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035015038424228271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2015660394967404544",
+              "start": 0,
+              "username": "Rien6cf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035015038424228271",
+        "in_reply_to_user_id": "2015660394967404544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035014246652903489",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rien6cf 萌。。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2035014120756715524"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2035014246652903489",
+        "created_at": "2026-03-20T15:22:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T16:22:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035014246652903489"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TGedXboubQ",
+              "end": 40,
+              "expanded_url": "https://x.com/Rien6cf/status/2035014246652903489/video/1",
+              "media_key": "13_2035014120756715524",
+              "start": 17,
+              "url": "https://t.co/TGedXboubQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035014246652903489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "换了眼线笔和美瞳感觉好用多了，耶 https://t.co/TGedXboubQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2027766234981494956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 656,
+          "following_count": 460,
+          "like_count": 7966,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 2854
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "ラッコと愛と希望がほしいです",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2034827283526295875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 113,
+          "like_count": 1897,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 1181
+        },
+        "username": "Rien6cf",
+        "verified": false
+      }
+    ]
+  }
+}

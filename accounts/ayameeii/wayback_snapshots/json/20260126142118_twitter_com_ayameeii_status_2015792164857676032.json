@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2015475306279350436",
+    "created_at": "2026-01-26T14:21:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T15:21:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015792164857676032"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1153921233445986304",
+          "start": 0,
+          "username": "shirumesu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015792164857676032",
+    "in_reply_to_user_id": "1153921233445986304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015475306279350436",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shirumesu 我可以填全绿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2015475306279350436",
+        "created_at": "2026-01-26T14:21:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T15:21:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015792164857676032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1153921233445986304",
+              "start": 0,
+              "username": "shirumesu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015792164857676032",
+        "in_reply_to_user_id": "1153921233445986304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015475306279350436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirumesu 我可以填全绿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1153921233445986304",
+        "conversation_id": "2015475306279350436",
+        "created_at": "2026-01-25T17:22:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T18:22:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015475306279350436"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wo4wendidegou/…",
+              "end": 171,
+              "expanded_url": "https://twitter.com/wo4wendidegou/status/2015371513797705962",
+              "start": 148,
+              "url": "https://t.co/XysG4BGFMc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015475306279350436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 130,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015371513797705962",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "刷到的我也玩\n你的社会观点有多“进步”\n🟩支持同性婚姻\n🟥毒品除罪化\n🟩承认跨性别\n🟩同意第三种性别的存在\n🟥废除死刑\n🟩/🟥世俗主义（我去 这个地上天国真帅吧）\n🟥反对体罚小孩（无脑禁养出神人小孩哥就老实了）\n🟥允许多边恋（有需求就建立亲密友谊关系而不是多个恋爱关系 除非你是连体婴有两个头） https://t.co/XysG4BGFMc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2014053871983685932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 361,
+          "like_count": 6688,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 2254
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-24T06:53:55.000Z",
+        "description": "我oc，希露梅斯·莉莉丝·菲利欧露，巡礼魔女，愿歌赫姆的星光永不消逝/是infp～包健全的/fo无依据随缘看心情/祝你开心～",
+        "id": "1153921233445986304",
+        "location": "琉璃离院",
+        "name": "希露梅斯",
+        "pinned_tweet_id": "1936780239897870805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010647803731865601/_NAbQ5vo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 28,
+          "like_count": 27938,
+          "listed_count": 7,
+          "media_count": 475,
+          "tweet_count": 16051
+        },
+        "username": "shirumesu",
+        "verified": false
+      }
+    ]
+  }
+}

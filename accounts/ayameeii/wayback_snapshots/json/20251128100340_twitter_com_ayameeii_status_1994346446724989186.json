@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1994341872420999431",
+    "created_at": "2025-11-28T10:03:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T11:03:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994346446724989186"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1873582469854949376",
+          "start": 0,
+          "username": "shikonnotama999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994346446724989186",
+    "in_reply_to_user_id": "1873582469854949376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994341872420999431",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shikonnotama999 学\n到\n了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1937,
+        "media_key": "3_1994341861595746305",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G61TW00bEAELJ5p.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1994341872420999431",
+        "created_at": "2025-11-28T10:03:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T11:03:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994346446724989186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1873582469854949376",
+              "start": 0,
+              "username": "shikonnotama999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994346446724989186",
+        "in_reply_to_user_id": "1873582469854949376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994341872420999431",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shikonnotama999 学\n到\n了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994341861595746305"
+          ]
+        },
+        "author_id": "1873582469854949376",
+        "conversation_id": "1994341872420999431",
+        "created_at": "2025-11-28T09:45:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T10:45:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994341872420999431"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HjANxMhTxA",
+              "end": 61,
+              "expanded_url": "https://x.com/shikonnotama999/status/1994341872420999431/photo/1",
+              "media_key": "3_1994341861595746305",
+              "start": 38,
+              "url": "https://t.co/HjANxMhTxA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994341872420999431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在试探我的朋友们…问他们如果在推上刷到我会不会很尴尬…( ´◔ ‸◔') https://t.co/HjANxMhTxA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "喜欢我我也喜欢你 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "1992652290252316901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 273,
+          "like_count": 4343,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1367
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-30T04:10:58.000Z",
+        "description": "彼此礼貌一些！我喜欢和友善的人交流！ 🚪好友位52 除了女孩其他的看心情回复",
+        "id": "1873582469854949376",
+        "name": "愈美湯力水oO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991094893671043072/8cS_5IHe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 99,
+          "like_count": 512,
+          "listed_count": 2,
+          "media_count": 6,
+          "tweet_count": 42
+        },
+        "username": "shikonnotama999",
+        "verified": false
+      }
+    ]
+  }
+}

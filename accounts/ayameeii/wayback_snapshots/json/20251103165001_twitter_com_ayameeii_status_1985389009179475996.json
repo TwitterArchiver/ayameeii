@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1985385047051153901",
+    "created_at": "2025-11-03T16:50:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T17:50:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985389009179475996"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "863583848789024769",
+          "start": 0,
+          "username": "Wakabana7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985389009179475996",
+    "in_reply_to_user_id": "863583848789024769",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985385047051153901",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wakabana7 我不要钱我来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1985385047051153901",
+        "created_at": "2025-11-03T16:50:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T17:50:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985389009179475996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "863583848789024769",
+              "start": 0,
+              "username": "Wakabana7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985389009179475996",
+        "in_reply_to_user_id": "863583848789024769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985385047051153901",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wakabana7 我不要钱我来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "863583848789024769",
+        "conversation_id": "1985385047051153901",
+        "created_at": "2025-11-03T16:34:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T17:34:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985385047051153901"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wakabana7/stat…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/wakabana7/status/1985036726805676053",
+              "start": 56,
+              "url": "https://t.co/vOQN5olXMv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985385047051153901",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985036726805676053",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "但仔细想了想风俗其实很贵而我需要的真的只有抱一抱，这是严重的无法接受的溢价\n\n也许我需要的只是（付费？）ソフレ https://t.co/vOQN5olXMv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 201,
+          "like_count": 2397,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 694
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-14T02:36:48.000Z",
+        "description": "大号@Aikasama7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Aikasama7"
+              }
+            ]
+          }
+        },
+        "id": "863583848789024769",
+        "name": "🍃",
+        "pinned_tweet_id": "1985024660589937076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922234132521680896/QSsgk6MY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 126,
+          "like_count": 19590,
+          "listed_count": 0,
+          "media_count": 428,
+          "tweet_count": 7844
+        },
+        "username": "Wakabana7",
+        "verified": false
+      }
+    ]
+  }
+}

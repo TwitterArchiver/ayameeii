@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2035939800424096104",
+    "created_at": "2026-03-23T05:39:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T06:39:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035954584305447388"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1525433973111140353",
+          "start": 0,
+          "username": "10CFreeze"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035954584305447388",
+    "in_reply_to_user_id": "1525433973111140353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035939800424096104",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@10CFreeze 自己的绝望也是真的 没有比较痛苦的意义"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2035939800424096104",
+        "created_at": "2026-03-23T05:39:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T06:39:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035954584305447388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1525433973111140353",
+              "start": 0,
+              "username": "10CFreeze"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035954584305447388",
+        "in_reply_to_user_id": "1525433973111140353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035939800424096104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10CFreeze 自己的绝望也是真的 没有比较痛苦的意义"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1525433973111140353",
+        "conversation_id": "2035939800424096104",
+        "created_at": "2026-03-23T04:40:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T05:40:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035939800424096104"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035939800424096104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每天感觉自己要死了要死了一切都完蛋了但自己所承受的可能不到别人的百分之一\n绝望。但更绝望的是知道自己还没落到谷底却已经矫情的撑不住了\n想杀人\n但感觉该死的是自己"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2027766234981494956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 663,
+          "following_count": 476,
+          "like_count": 8130,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 2914
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-14T11:13:35.000Z",
+        "description": "舟批 澄厨\nArknights player，Goldenglow lover\n\n——————以上为原版简介——————\n\n把推特当推推空间用 / 不爱鉴证 / 想到什么会随便说说/想骂我就是你赢了 / 每天活在焦虑抑郁之中 / 戒除od中/ 被bpd搞砸一切 / 不害怕bpd欢迎互关 / 尝试打工中",
+        "id": "1525433973111140353",
+        "name": "10CFREEZE/テンフリーズ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1645932489544957952/d7Aovv6N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 170,
+          "like_count": 2760,
+          "listed_count": 1,
+          "media_count": 174,
+          "tweet_count": 1680
+        },
+        "username": "10CFreeze",
+        "verified": false
+      }
+    ]
+  }
+}

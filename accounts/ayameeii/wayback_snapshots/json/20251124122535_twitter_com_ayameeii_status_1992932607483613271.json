@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1992931680123019602",
+    "created_at": "2025-11-24T12:25:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T13:25:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992932607483613271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "863583848789024769",
+          "start": 0,
+          "username": "Wakabana7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992932607483613271",
+    "in_reply_to_user_id": "863583848789024769",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992931680123019602",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wakabana7 所以是消耗的很多的意思吗！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 826,
+        "media_key": "3_1992931257525952513",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6hQa3KbYAE-0MU.png",
+        "width": 1058
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1992931680123019602",
+        "created_at": "2025-11-24T12:25:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T13:25:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992932607483613271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "863583848789024769",
+              "start": 0,
+              "username": "Wakabana7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992932607483613271",
+        "in_reply_to_user_id": "863583848789024769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992931680123019602",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wakabana7 所以是消耗的很多的意思吗！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992931257525952513"
+          ]
+        },
+        "author_id": "863583848789024769",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10044419438",
+              "name": "Apple - Watch"
+            }
+          }
+        ],
+        "conversation_id": "1992931680123019602",
+        "created_at": "2025-11-24T12:21:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T13:21:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992931680123019602"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Be8roYfwVv",
+              "end": 107,
+              "expanded_url": "https://x.com/Wakabana7/status/1992931680123019602/photo/1",
+              "media_key": "3_1992931257525952513",
+              "start": 84,
+              "url": "https://t.co/Be8roYfwVv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992931680123019602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一直以来都不怎么相信AppleWatch的基础代谢和运动消耗的计算，实在没法相信自己是一个一天消耗1600+500kcal的可怕生物\n但是没想到仔细一算其实还差不多？ https://t.co/Be8roYfwVv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "1992652290252316901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 251,
+          "like_count": 4032,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 1253
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-14T02:36:48.000Z",
+        "description": "I have to keep focus.",
+        "id": "863583848789024769",
+        "name": "🍃",
+        "pinned_tweet_id": "1991916188549746854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922234132521680896/QSsgk6MY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 131,
+          "like_count": 21105,
+          "listed_count": 0,
+          "media_count": 461,
+          "tweet_count": 8485
+        },
+        "username": "Wakabana7",
+        "verified": false
+      }
+    ]
+  }
+}

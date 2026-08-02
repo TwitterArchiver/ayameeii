@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1992279649481839072",
+    "created_at": "2025-11-22T18:09:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T19:09:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992294283815371249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1981563709102477312",
+          "start": 0,
+          "username": "yui804275429451"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992294283815371249",
+    "in_reply_to_user_id": "1981563709102477312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992279649481839072",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yui804275429451 想要露露酱那样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1992279649481839072",
+        "created_at": "2025-11-22T18:09:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T19:09:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992294283815371249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1981563709102477312",
+              "start": 0,
+              "username": "yui804275429451"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992294283815371249",
+        "in_reply_to_user_id": "1981563709102477312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992279649481839072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yui804275429451 想要露露酱那样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1981563709102477312",
+        "conversation_id": "1992279649481839072",
+        "created_at": "2025-11-22T17:10:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T18:10:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992279649481839072"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1992279649481839072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 158,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我如果要自杀就开直播跳楼！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 244,
+          "like_count": 3882,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 1213
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-24T03:29:48.000Z",
+        "description": "希望天使降临在我身边",
+        "id": "1981563709102477312",
+        "location": "北校C栋",
+        "name": "rain",
+        "pinned_tweet_id": "1986500531519701099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984910597394505728/ts_obaKh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1806,
+          "following_count": 566,
+          "like_count": 1610,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 711
+        },
+        "username": "yui804275429451",
+        "verified": false
+      }
+    ]
+  }
+}

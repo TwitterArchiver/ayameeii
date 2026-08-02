@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2022331075427815723",
+    "created_at": "2026-02-13T19:27:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T20:27:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022392310802321819"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1944225210284314624",
+          "start": 0,
+          "username": "NMD_China"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022392310802321819",
+    "in_reply_to_user_id": "1944225210284314624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022331075427815723",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NMD_China 怎么解决"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2022331075427815723",
+        "created_at": "2026-02-13T19:27:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T20:27:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022392310802321819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1944225210284314624",
+              "start": 0,
+              "username": "NMD_China"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022392310802321819",
+        "in_reply_to_user_id": "1944225210284314624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022331075427815723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NMD_China 怎么解决"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944225210284314624",
+        "conversation_id": "2022331075427815723",
+        "created_at": "2026-02-13T15:24:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T16:24:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022331075427815723"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022331075427815723",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 121,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在一见到人家已读不回我就慌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2014053871983685932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 535,
+          "following_count": 400,
+          "like_count": 7063,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 2447
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-13T02:40:02.000Z",
+        "description": "波尔布特|包蜜|面向未来，目光如炬|入🚪89.64|主人@TheNan19930731|不互fo找自己问题|锁推的和三无号去死|永远是你的波头鹰|加速！加速！崩溃！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 28,
+                "username": "TheNan19930731"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "114514.com",
+                "end": 23,
+                "expanded_url": "http://114514.com",
+                "start": 0,
+                "url": "https://t.co/APOiQu7DxP"
+              }
+            ]
+          }
+        },
+        "id": "1944225210284314624",
+        "location": "野獸邸",
+        "name": "波89头64鹰🇰🇭",
+        "pinned_tweet_id": "2020139501327192168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009065279201095680/OWiNletC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2597,
+          "following_count": 673,
+          "like_count": 121119,
+          "listed_count": 28,
+          "media_count": 1107,
+          "tweet_count": 4548
+        },
+        "url": "https://t.co/APOiQu7DxP",
+        "username": "NMD_China",
+        "verified": false
+      }
+    ]
+  }
+}

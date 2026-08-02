@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1992956143405289956",
+    "created_at": "2025-11-24T13:59:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T14:59:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992956143405289956"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 119,
+          "start": 113,
+          "tag": "自撮り界隈"
+        },
+        {
+          "end": 124,
+          "start": 120,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 128,
+          "start": 125,
+          "tag": "门槛"
+        },
+        {
+          "end": 134,
+          "start": 129,
+          "tag": "线下线上"
+        },
+        {
+          "end": 138,
+          "start": 135,
+          "tag": "纯绿"
+        },
+        {
+          "end": 142,
+          "start": 139,
+          "tag": "半绿"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1882936483662663680",
+          "start": 3,
+          "username": "jngyn298282"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992956143405289956",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992943700444688618",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jngyn298282: 我是镜音我来挣点吃饭买药钱了＞^&lt;，请支持这个可怜的镜音谢谢喵🥹 我会认真对待所有过门的喵 也欢迎礼貌私信😺\n我这周末开始放月假可以来找我约线下\n\n前三个188🚪可免费获得随机丝袜一份\n#自撮り界隈 #门槛妹 #门槛 #线下线上 #纯绿 #半绿…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1992956143405289956].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1992956143405289956",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1992956143405289956"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1500,
+        "media_key": "3_1992943687639441408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6hbuY8bIAAhbI9.jpg",
+        "width": 1500
+      },
+      {
+        "height": 779,
+        "media_key": "3_1992943688415391745",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6hbub1bMAEDv7T.png",
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1992943689975713793",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6hbuhpb0AEFC1t.jpg",
+        "width": 1922
+      },
+      {
+        "height": 691,
+        "media_key": "3_1992943689468092416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6hbufwaIAArgy0.jpg",
+        "width": 691
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992943687639441408",
+            "3_1992943688415391745",
+            "3_1992943689975713793",
+            "3_1992943689468092416"
+          ]
+        },
+        "author_id": "1882936483662663680",
+        "conversation_id": "1992943700444688618",
+        "created_at": "2025-11-24T13:09:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T14:09:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992943700444688618"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 102,
+              "start": 96,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 107,
+              "start": 103,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 111,
+              "start": 108,
+              "tag": "门槛"
+            },
+            {
+              "end": 117,
+              "start": 112,
+              "tag": "线下线上"
+            },
+            {
+              "end": 121,
+              "start": 118,
+              "tag": "纯绿"
+            },
+            {
+              "end": 125,
+              "start": 122,
+              "tag": "半绿"
+            },
+            {
+              "end": 130,
+              "start": 126,
+              "tag": "学生妹"
+            },
+            {
+              "end": 136,
+              "start": 131,
+              "tag": "女高中生"
+            },
+            {
+              "end": 141,
+              "start": 137,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 146,
+              "start": 142,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 152,
+              "start": 147,
+              "tag": "地雷女子"
+            },
+            {
+              "end": 158,
+              "start": 153,
+              "tag": "电子女友"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kGEzNevUWH",
+              "end": 182,
+              "expanded_url": "https://x.com/jngyn298282/status/1992943700444688618/photo/1",
+              "media_key": "3_1992943687639441408",
+              "start": 159,
+              "url": "https://t.co/kGEzNevUWH"
+            },
+            {
+              "display_url": "pic.x.com/kGEzNevUWH",
+              "end": 182,
+              "expanded_url": "https://x.com/jngyn298282/status/1992943700444688618/photo/1",
+              "media_key": "3_1992943688415391745",
+              "start": 159,
+              "url": "https://t.co/kGEzNevUWH"
+            },
+            {
+              "display_url": "pic.x.com/kGEzNevUWH",
+              "end": 182,
+              "expanded_url": "https://x.com/jngyn298282/status/1992943700444688618/photo/1",
+              "media_key": "3_1992943689975713793",
+              "start": 159,
+              "url": "https://t.co/kGEzNevUWH"
+            },
+            {
+              "display_url": "pic.x.com/kGEzNevUWH",
+              "end": 182,
+              "expanded_url": "https://x.com/jngyn298282/status/1992943700444688618/photo/1",
+              "media_key": "3_1992943689468092416",
+              "start": 159,
+              "url": "https://t.co/kGEzNevUWH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992943700444688618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 156,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我是镜音我来挣点吃饭买药钱了＞^&lt;，请支持这个可怜的镜音谢谢喵🥹 我会认真对待所有过门的喵 也欢迎礼貌私信😺\n我这周末开始放月假可以来找我约线下\n\n前三个188🚪可免费获得随机丝袜一份\n#自撮り界隈 #门槛妹 #门槛 #线下线上 #纯绿 #半绿 #学生妹 #女高中生 #爸爸活 #妈妈活 #地雷女子 #电子女友 https://t.co/kGEzNevUWH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "1992652290252316901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 251,
+          "like_count": 4038,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 1256
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T23:40:25.000Z",
+        "description": "我看着幸福的日子被我给摧毁后开心地闭上了眼/\n \n口粮：@420420420CTL/\n\n接受药圈新闻投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 28,
+                "username": "420420420CTL"
+              }
+            ]
+          }
+        },
+        "id": "1882936483662663680",
+        "location": "🚪88/188/388/520",
+        "name": "镜音",
+        "pinned_tweet_id": "1992943700444688618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983881848775438338/SaevqnOR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1098,
+          "following_count": 192,
+          "like_count": 15768,
+          "listed_count": 1,
+          "media_count": 244,
+          "tweet_count": 2369
+        },
+        "username": "jngyn298282",
+        "verified": false
+      }
+    ]
+  }
+}

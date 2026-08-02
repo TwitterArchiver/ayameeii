@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2047149236391973115",
+    "created_at": "2026-04-23T23:45:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T00:45:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047461834836635774"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1627301480440164352",
+          "start": 0,
+          "username": "NWA12302"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047461834836635774",
+    "in_reply_to_user_id": "1627301480440164352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047149236391973115",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NWA12302 宝宝怎么了想休学啊。。其实休学也是给自己调整的机会不用太害怕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2047149236391973115",
+        "created_at": "2026-04-23T23:45:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T00:45:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047461834836635774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1627301480440164352",
+              "start": 0,
+              "username": "NWA12302"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047461834836635774",
+        "in_reply_to_user_id": "1627301480440164352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047149236391973115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NWA12302 宝宝怎么了想休学啊。。其实休学也是给自己调整的机会不用太害怕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1627301480440164352",
+        "conversation_id": "2047149236391973115",
+        "created_at": "2026-04-23T03:03:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T04:03:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047149236391973115"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047149236391973115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 761,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有点犹豫要不要办休学"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存|对象❤️@tngxngxng13171 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 10,
+                "username": "tngxngxng13171"
+              },
+              {
+                "end": 38,
+                "start": 28,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 53,
+                "start": 43,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 806,
+          "following_count": 604,
+          "like_count": 9630,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 3590
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-19T13:38:19.000Z",
+        "description": "地质学Geology & 陨石学 Meteoritics ｜科研日记本｜我永远喜欢蜜莓、黍、嵯峨、玉藻十字、艾蕾｜粥9摆烂选手｜业余摄影师｜jpop 日摇 术力口｜INFJ｜华枝春满，天心月圆@LihaigeUpasaka｜芦毛偏爱｜做个好玩的人\n｜我推@hatunagi_yuzuki｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 96,
+                "username": "LihaigeUpasaka"
+              },
+              {
+                "end": 143,
+                "start": 127,
+                "username": "hatunagi_yuzuki"
+              }
+            ]
+          }
+        },
+        "id": "1627301480440164352",
+        "location": "Kyoto-fu, Japan",
+        "name": "AAA特雷森糖浆专卖🐱",
+        "pinned_tweet_id": "1780992344306983398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036992189163855872/Z7fvMs-3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1652,
+          "following_count": 1435,
+          "like_count": 142094,
+          "listed_count": 7,
+          "media_count": 2125,
+          "tweet_count": 10661
+        },
+        "username": "NWA12302",
+        "verified": false
+      }
+    ]
+  }
+}

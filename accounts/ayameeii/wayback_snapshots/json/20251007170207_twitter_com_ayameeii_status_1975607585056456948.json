@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1975606829939138571",
+    "created_at": "2025-10-07T17:02:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T18:02:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975607585056456948"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1153921233445986304",
+          "start": 0,
+          "username": "shirumesu"
+        },
+        {
+          "end": 22,
+          "id": "863583848789024769",
+          "start": 11,
+          "username": "wakahana77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975607585056456948",
+    "in_reply_to_user_id": "1153921233445986304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975607182663295437",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shirumesu @wakahana77 这是我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1975606829939138571",
+        "created_at": "2025-10-07T17:02:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T18:02:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975607585056456948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1153921233445986304",
+              "start": 0,
+              "username": "shirumesu"
+            },
+            {
+              "end": 22,
+              "id": "863583848789024769",
+              "start": 11,
+              "username": "wakahana77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975607585056456948",
+        "in_reply_to_user_id": "1153921233445986304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975607182663295437",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirumesu @wakahana77 这是我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1153921233445986304",
+        "conversation_id": "1975606829939138571",
+        "created_at": "2025-10-07T17:00:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T18:00:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975607182663295437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "863583848789024769",
+              "start": 0,
+              "username": "wakahana77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975607182663295437",
+        "in_reply_to_user_id": "863583848789024769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975606829939138571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wakahana77 12.25\n让我栞栞圣诞节.jpg\n\n话说你们相册真那么多图片吗 我相册只有收藏的二次元图（？）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "狗狗kiss",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852135475403984896/GBdrMFBz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 119,
+          "like_count": 503,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 132
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-24T06:53:55.000Z",
+        "description": "我oc，希露梅斯·莉莉丝·菲利欧露，巡礼魔女，愿歌赫姆的星光永不消逝/是infp～包健全的/fo无依据随缘看心情/祝你开心～",
+        "id": "1153921233445986304",
+        "location": "镜中城 拉·瑟兰德尼姆",
+        "name": "希露梅斯",
+        "pinned_tweet_id": "1936780239897870805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964015080477249536/BbQ06nlH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 44,
+          "like_count": 24196,
+          "listed_count": 6,
+          "media_count": 433,
+          "tweet_count": 13295
+        },
+        "username": "shirumesu",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-14T02:36:48.000Z",
+        "description": "中文/English/日本語 | 🏳️‍🌈",
+        "id": "863583848789024769",
+        "location": "シャーレアン魔法大学",
+        "name": "🌸",
+        "pinned_tweet_id": "1964894090958717029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922234132521680896/QSsgk6MY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 116,
+          "like_count": 18004,
+          "listed_count": 0,
+          "media_count": 376,
+          "tweet_count": 6853
+        },
+        "username": "wakahana77",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1995418525188669882",
+    "created_at": "2025-12-01T21:41:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T22:41:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995609281056718904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "863583848789024769",
+          "start": 0,
+          "username": "Wakabana7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995609281056718904",
+    "in_reply_to_user_id": "863583848789024769",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995418525188669882",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wakabana7 宝宝你要幸福"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1995418525188669882",
+        "created_at": "2025-12-01T21:41:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T22:41:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995609281056718904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "863583848789024769",
+              "start": 0,
+              "username": "Wakabana7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995609281056718904",
+        "in_reply_to_user_id": "863583848789024769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995418525188669882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wakabana7 宝宝你要幸福"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "863583848789024769",
+        "conversation_id": "1995418525188669882",
+        "created_at": "2025-12-01T09:03:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T10:03:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995418525188669882"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ayanami_rin0/s…",
+              "end": 141,
+              "expanded_url": "https://twitter.com/ayanami_rin0/status/1902778984368312650",
+              "start": 118,
+              "url": "https://t.co/BomucHfS2j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995418525188669882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 827,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902778984368312650",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有完全接受并爱我的爸妈，有在乎自己的朋友们，有支持我每天打游戏的家庭条件和LGBT Friendly的学校\n我也，好幸福！\n\n虽然其实大部分时候还是会不满的怨恨自己如果不是mtf更是能过上什么样的网文人生，可是有些时候就还是知足一下吧 https://t.co/BomucHfS2j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "喜欢我我也喜欢你 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "1992652290252316901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 280,
+          "like_count": 4623,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1464
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-14T02:36:48.000Z",
+        "description": "I have to keep focus.",
+        "id": "863583848789024769",
+        "name": "🍃",
+        "pinned_tweet_id": "1995515865899708813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922234132521680896/QSsgk6MY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 126,
+          "like_count": 21829,
+          "listed_count": 0,
+          "media_count": 474,
+          "tweet_count": 8803
+        },
+        "username": "Wakabana7",
+        "verified": false
+      }
+    ]
+  }
+}

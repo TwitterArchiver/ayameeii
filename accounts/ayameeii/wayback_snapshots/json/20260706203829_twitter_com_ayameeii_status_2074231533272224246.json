@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2074231533272224246",
+    "created_at": "2026-07-06T20:38:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T21:38:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074231533272224246"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ayameeii/statu…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/ayameeii/status/2073873391753527434",
+          "start": 8,
+          "url": "https://t.co/RVphfaRs1j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074231533272224246",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073873391753527434",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "醒了 还是这样 https://t.co/RVphfaRs1j"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2074231533272224246",
+        "created_at": "2026-07-06T20:38:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T21:38:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074231533272224246"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ayameeii/statu…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/ayameeii/status/2073873391753527434",
+              "start": 8,
+              "url": "https://t.co/RVphfaRs1j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074231533272224246",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073873391753527434",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "醒了 还是这样 https://t.co/RVphfaRs1j"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2073873391753527434",
+        "created_at": "2026-07-05T20:55:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T21:55:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073873391753527434"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073873391753527434",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 134,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "再睡觉就和鬼压床一样脑袋要炸开了 虽然很困也只好爬起来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存| 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 34,
+                "start": 24,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1054,
+          "following_count": 693,
+          "like_count": 10389,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 4053
+        },
+        "url": "",
+        "username": "ayameeii",
+        "verified": false
+      }
+    ]
+  }
+}

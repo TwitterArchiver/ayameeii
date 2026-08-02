@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994316541144518657"
+      ]
+    },
+    "author_id": "1852135214795100164",
+    "conversation_id": "1994316545023963367",
+    "created_at": "2025-11-28T08:04:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T09:04:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994316545023963367"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gnz5Xg5jRF",
+          "end": 37,
+          "expanded_url": "https://x.com/ayameeii/status/1994316545023963367/photo/1",
+          "media_key": "3_1994316541144518657",
+          "start": 14,
+          "url": "https://t.co/gnz5Xg5jRF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994316545023963367",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我给这幅画命名为绝望的文盲 https://t.co/gnz5Xg5jRF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1706,
+        "media_key": "3_1994316541144518657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G608U-ya0AEK13y.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994316541144518657"
+          ]
+        },
+        "author_id": "1852135214795100164",
+        "conversation_id": "1994316545023963367",
+        "created_at": "2025-11-28T08:04:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T09:04:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994316545023963367"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gnz5Xg5jRF",
+              "end": 37,
+              "expanded_url": "https://x.com/ayameeii/status/1994316545023963367/photo/1",
+              "media_key": "3_1994316541144518657",
+              "start": 14,
+              "url": "https://t.co/gnz5Xg5jRF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994316545023963367",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我给这幅画命名为绝望的文盲 https://t.co/gnz5Xg5jRF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "喜欢我我也喜欢你 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "1992652290252316901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 269,
+          "like_count": 4333,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1364
+        },
+        "username": "ayameeii",
+        "verified": false
+      }
+    ]
+  }
+}

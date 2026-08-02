@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2051873429188685833",
+    "created_at": "2026-05-06T03:55:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T04:55:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051873429188685833"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2051682020347326464",
+          "start": 3,
+          "username": "PhonyR22701"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051873429188685833",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051683599741771998",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PhonyR22701: 转发关注评论抽奖\n抽1t 4-ho-met\n六周目堂堂复活！！！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2051873429188685833",
+        "created_at": "2026-05-06T03:55:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T04:55:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051873429188685833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2051682020347326464",
+              "start": 3,
+              "username": "PhonyR22701"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051873429188685833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051683599741771998",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PhonyR22701: 转发关注评论抽奖\n抽1t 4-ho-met\n六周目堂堂复活！！！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051682020347326464",
+        "conversation_id": "2051683599741771998",
+        "created_at": "2026-05-05T15:21:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T16:21:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051683599741771998"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051683599741771998",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1523,
+          "like_count": 24,
+          "quote_count": 1,
+          "reply_count": 22,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "转发关注评论抽奖\n抽1t 4-ho-met\n六周目堂堂复活！！！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存|对象❤️@tngxngxng13171 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 10,
+                "username": "tngxngxng13171"
+              },
+              {
+                "end": 38,
+                "start": 28,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 53,
+                "start": 43,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 839,
+          "following_count": 624,
+          "like_count": 9697,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 3653
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-05T15:14:54.000Z",
+        "description": "对象@Sunset__3000",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "Sunset__3000"
+              }
+            ]
+          }
+        },
+        "id": "2051682020347326464",
+        "name": "异世界优泠#六周目",
+        "pinned_tweet_id": "2051683400168423461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051682089570033664/vi9Qt5M2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 8,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 13
+        },
+        "username": "PhonyR22701",
+        "verified": false
+      }
+    ]
+  }
+}

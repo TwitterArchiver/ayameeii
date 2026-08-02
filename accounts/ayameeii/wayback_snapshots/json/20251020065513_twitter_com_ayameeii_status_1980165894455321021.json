@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1980138805228409201",
+    "created_at": "2025-10-20T06:55:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T07:55:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980165894455321021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1966368367494967301",
+          "start": 0,
+          "username": "grainyrain_awa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980165894455321021",
+    "in_reply_to_user_id": "1966368367494967301",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980138805228409201",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@grainyrain_awa 呃呃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1980138805228409201",
+        "created_at": "2025-10-20T06:55:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T07:55:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980165894455321021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1966368367494967301",
+              "start": 0,
+              "username": "grainyrain_awa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980165894455321021",
+        "in_reply_to_user_id": "1966368367494967301",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980138805228409201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grainyrain_awa 呃呃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1966368367494967301",
+        "conversation_id": "1980138805228409201",
+        "created_at": "2025-10-20T05:07:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T06:07:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980138805228409201"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1980138805228409201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "因为不会骂人所以平时都是主动避免发生冲突\n不是不想骂人只是语言实在是有点缺乏攻击性\n于是最后变得只会说呃呃了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 168,
+          "like_count": 1286,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 347
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-12T05:09:12.000Z",
+        "description": "自卑阴暗社恐自闭有害废物\n偶尔（经常？）发些碎碎念",
+        "id": "1966368367494967301",
+        "name": "与和☘️",
+        "pinned_tweet_id": "1967754207555096828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966368813232041984/dRxPYic3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 203,
+          "like_count": 8657,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 825
+        },
+        "username": "grainyrain_awa",
+        "verified": false
+      }
+    ]
+  }
+}

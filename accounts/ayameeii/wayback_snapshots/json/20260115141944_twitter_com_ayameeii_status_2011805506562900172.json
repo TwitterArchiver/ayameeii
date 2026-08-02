@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2011805211879145493",
+    "created_at": "2026-01-15T14:19:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-15T15:19:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011805506562900172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1504630614578073600",
+          "start": 0,
+          "username": "yunxvan1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011805506562900172",
+    "in_reply_to_user_id": "1504630614578073600",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011805211879145493",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yunxvan1 接"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2011805211879145493",
+        "created_at": "2026-01-15T14:19:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T15:19:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011805506562900172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1504630614578073600",
+              "start": 0,
+              "username": "yunxvan1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011805506562900172",
+        "in_reply_to_user_id": "1504630614578073600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011805211879145493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yunxvan1 接"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504630614578073600",
+        "conversation_id": "2011805211879145493",
+        "created_at": "2026-01-15T14:18:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T15:18:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011805211879145493"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2011805211879145493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想要谈一个反差的，大方会照顾人会爆金币"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2008864131290694085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 340,
+          "like_count": 6357,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 2092
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-18T01:27:56.000Z",
+        "description": "我是圣诞帽 查成分互fo 性格很烂 想交朋友 🚪100纯绿色我可以逗你开心",
+        "id": "1504630614578073600",
+        "location": "冰岛",
+        "name": "一个温良可爱患有蛇精病的女孩",
+        "pinned_tweet_id": "2002250159384899692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003097612799598592/tpc5iV9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 523,
+          "following_count": 664,
+          "like_count": 5312,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 717
+        },
+        "username": "yunxvan1",
+        "verified": false
+      }
+    ]
+  }
+}

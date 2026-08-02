@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2015785754614694171",
+    "created_at": "2026-01-26T13:55:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T14:55:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015785754614694171"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nothousand/sta…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/nothousand/status/2015785612176203855",
+          "start": 17,
+          "url": "https://t.co/EoBHZH1PEA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015785754614694171",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015785612176203855",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哎哎怎么推友一个个都那么可爱。😭 https://t.co/EoBHZH1PEA"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2015785754614694171",
+        "created_at": "2026-01-26T13:55:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T14:55:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015785754614694171"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nothousand/sta…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/nothousand/status/2015785612176203855",
+              "start": 17,
+              "url": "https://t.co/EoBHZH1PEA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015785754614694171",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015785612176203855",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哎哎怎么推友一个个都那么可爱。😭 https://t.co/EoBHZH1PEA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "623965569",
+        "conversation_id": "2015785612176203855",
+        "created_at": "2026-01-26T13:55:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T14:55:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015785612176203855"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hoshinemu123/s…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/hoshinemu123/status/2015776194244042885",
+              "start": 17,
+              "url": "https://t.co/SsaK3UBviu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015785612176203855",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015776194244042885",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哎哎怎么推友一个个都那么可爱。😭 https://t.co/SsaK3UBviu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2014053871983685932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 362,
+          "like_count": 6686,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 2250
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2012-07-01T16:27:02.000Z",
+        "description": "并非这个世界的生命体",
+        "id": "623965569",
+        "location": "earth",
+        "name": "芊茉音華",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013567842088632320/c6VRi4wa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2006,
+          "following_count": 119,
+          "like_count": 7060,
+          "listed_count": 5,
+          "media_count": 431,
+          "tweet_count": 4918
+        },
+        "username": "nothousand",
+        "verified": false
+      }
+    ]
+  }
+}

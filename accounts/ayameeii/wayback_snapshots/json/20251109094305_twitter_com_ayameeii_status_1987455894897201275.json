@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1987401854125547958",
+    "created_at": "2025-11-09T09:43:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T10:43:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987455894897201275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1821560692140544000",
+          "start": 0,
+          "username": "Numiouo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987455894897201275",
+    "in_reply_to_user_id": "1821560692140544000",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987401854125547958",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Numiouo 真的很辛苦...要好好的呀🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1642,
+        "media_key": "3_1987401847246888964",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5Src0sbIAQltfD.jpg",
+        "width": 1179
+      },
+      {
+        "height": 770,
+        "media_key": "3_1987401847255277569",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5Src0ubIAEIdZS.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1987401854125547958",
+        "created_at": "2025-11-09T09:43:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T10:43:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987455894897201275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1821560692140544000",
+              "start": 0,
+              "username": "Numiouo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987455894897201275",
+        "in_reply_to_user_id": "1821560692140544000",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987401854125547958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouo 真的很辛苦...要好好的呀🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987401847246888964",
+            "3_1987401847255277569"
+          ]
+        },
+        "author_id": "1821560692140544000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1987401854125547958",
+        "created_at": "2025-11-09T06:08:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T07:08:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987401854125547958"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OyqepxSU1b",
+              "end": 157,
+              "expanded_url": "https://x.com/Numiouo/status/1987401854125547958/photo/1",
+              "media_key": "3_1987401847246888964",
+              "start": 134,
+              "url": "https://t.co/OyqepxSU1b"
+            },
+            {
+              "display_url": "pic.x.com/OyqepxSU1b",
+              "end": 157,
+              "expanded_url": "https://x.com/Numiouo/status/1987401854125547958/photo/1",
+              "media_key": "3_1987401847255277569",
+              "start": 134,
+              "url": "https://t.co/OyqepxSU1b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987401854125547958",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 951,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想死，好讨厌我的社会关系，我被爱捆绑而不能逃脱，但这些都是我的自作自受。我不停地交朋友和大家交换爱，我被很多人羡慕，但我自己并不羡慕自己，说到底这只是我的社会化，我想证明我是一个健全人有健全强大的社会关联网络，最后却累得要死，这种事情不是第一次发生也不会是最后一次 https://t.co/OyqepxSU1b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 223,
+          "like_count": 2770,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 879
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-08T14:55:11.000Z",
+        "description": "走在违法背德前线💥我是精神病一点就炸💥疯狗狂犬病 和我吵会染病💥接受指正不接受指点❤️不认可就去死💥舞到主页必疯咬💥同类fo必回-漏fo请私-爱我的互关♪点赞评论bot-讨厌闲聊不感兴趣不会回复♡喜欢sex与drug♡勿骚扰不提供咨询♡non-binary友跨友全部🏳️‍🌈🏳️‍⚧️",
+        "id": "1821560692140544000",
+        "name": "ᨳ 糯米糖纸ઉ ᖭིᖫྀ",
+        "pinned_tweet_id": "1986774690237669395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984461180929523715/z3O7oiOS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 618,
+          "following_count": 490,
+          "like_count": 2060,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 886
+        },
+        "username": "Numiouo",
+        "verified": false
+      }
+    ]
+  }
+}

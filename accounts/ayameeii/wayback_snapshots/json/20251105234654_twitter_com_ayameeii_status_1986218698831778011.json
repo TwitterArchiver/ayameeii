@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1986218210136637802",
+    "created_at": "2025-11-05T23:46:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T00:46:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986218698831778011"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1385462127100669958",
+          "start": 0,
+          "username": "Dany_Ducky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986218698831778011",
+    "in_reply_to_user_id": "1385462127100669958",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986218210136637802",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dany_Ducky 多玩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1986218210136637802",
+        "created_at": "2025-11-05T23:46:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T00:46:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986218698831778011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1385462127100669958",
+              "start": 0,
+              "username": "Dany_Ducky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986218698831778011",
+        "in_reply_to_user_id": "1385462127100669958",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986218210136637802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dany_Ducky 多玩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1385462127100669958",
+        "conversation_id": "1986218210136637802",
+        "created_at": "2025-11-05T23:44:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T00:44:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986218210136637802"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1986218210136637802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "就目前的情況\n玩音樂是唯一能開心的事情"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 206,
+          "like_count": 2506,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 747
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-23T05:15:07.000Z",
+        "description": "ロータリー中毒者🍙 永遠に18歳のままです✨ 無言フォロー失礼します🙇‍♀️ 日本人ではない、迷惑ならごめんなさい🙇‍♀️ 六弦ベース練習継続中🎸",
+        "id": "1385462127100669958",
+        "location": "不運な",
+        "name": "振作ㄉ苯氮鴨",
+        "pinned_tweet_id": "1986053125833437410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831168640475074560/7rGxJDij_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1562,
+          "following_count": 3487,
+          "like_count": 200742,
+          "listed_count": 19,
+          "media_count": 1068,
+          "tweet_count": 28784
+        },
+        "username": "Dany_Ducky",
+        "verified": false
+      }
+    ]
+  }
+}

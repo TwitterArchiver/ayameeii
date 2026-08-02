@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1994252054760653286",
+    "created_at": "2025-11-28T03:52:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T04:52:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994253085045117042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1956295307886788608",
+          "start": 0,
+          "username": "Huimao_ow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994253085045117042",
+    "in_reply_to_user_id": "1956295307886788608",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994252054760653286",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Huimao_ow 好可怕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1994252054760653286",
+        "created_at": "2025-11-28T03:52:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T04:52:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994253085045117042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1956295307886788608",
+              "start": 0,
+              "username": "Huimao_ow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994253085045117042",
+        "in_reply_to_user_id": "1956295307886788608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994252054760653286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Huimao_ow 好可怕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956295307886788608",
+        "conversation_id": "1994252054760653286",
+        "created_at": "2025-11-28T03:48:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T04:48:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994252054760653286"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1994252054760653286",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我昨晚梦到差点被人给强暴了(´;ω;`)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "喜欢我我也喜欢你 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "1992652290252316901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 266,
+          "like_count": 4304,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1347
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-15T10:02:13.000Z",
+        "description": "是重感情小哭包、喜欢玩音游、是好孩子的小灰。我是香港人，在广东生活，祝大家天天开心 ww 🥰@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 46,
+                "username": "Eureka222323"
+              }
+            ]
+          }
+        },
+        "id": "1956295307886788608",
+        "location": "北极星",
+        "name": "小灰",
+        "pinned_tweet_id": "1986883055857115435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993997284405858310/m6kJ-TZT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 519,
+          "like_count": 2284,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 1051
+        },
+        "username": "Huimao_ow",
+        "verified": false
+      }
+    ]
+  }
+}

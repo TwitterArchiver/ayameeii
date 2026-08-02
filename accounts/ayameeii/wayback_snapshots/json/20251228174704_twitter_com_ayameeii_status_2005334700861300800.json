@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2005332715042984235",
+    "created_at": "2025-12-28T17:47:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T18:47:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005334700861300800"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1991364416823259139",
+          "start": 0,
+          "username": "NikaidoHiro0110"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005334700861300800",
+    "in_reply_to_user_id": "1991364416823259139",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005332715042984235",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NikaidoHiro0110 参考别人 我觉得还行"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 848,
+        "media_key": "3_2005332700295491584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9Rfd1mWcAAPiP8.jpg",
+        "width": 1059
+      },
+      {
+        "height": 607,
+        "media_key": "3_2005332700303876096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9Rfd1oWYAAgx4O.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2005332700274552832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9Rfd1hW8AABf8c.jpg",
+        "width": 641
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2005332715042984235",
+        "created_at": "2025-12-28T17:47:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T18:47:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005334700861300800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1991364416823259139",
+              "start": 0,
+              "username": "NikaidoHiro0110"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005334700861300800",
+        "in_reply_to_user_id": "1991364416823259139",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005332715042984235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NikaidoHiro0110 参考别人 我觉得还行"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005332700295491584",
+            "3_2005332700303876096",
+            "3_2005332700274552832"
+          ]
+        },
+        "author_id": "1991364416823259139",
+        "conversation_id": "2005332715042984235",
+        "created_at": "2025-12-28T17:39:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T18:39:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005332715042984235"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oUDoSBk7qW",
+              "end": 42,
+              "expanded_url": "https://x.com/NikaidoHiro0110/status/2005332715042984235/photo/1",
+              "media_key": "3_2005332700295491584",
+              "start": 19,
+              "url": "https://t.co/oUDoSBk7qW"
+            },
+            {
+              "display_url": "pic.x.com/oUDoSBk7qW",
+              "end": 42,
+              "expanded_url": "https://x.com/NikaidoHiro0110/status/2005332715042984235/photo/1",
+              "media_key": "3_2005332700303876096",
+              "start": 19,
+              "url": "https://t.co/oUDoSBk7qW"
+            },
+            {
+              "display_url": "pic.x.com/oUDoSBk7qW",
+              "end": 42,
+              "expanded_url": "https://x.com/NikaidoHiro0110/status/2005332715042984235/photo/1",
+              "media_key": "3_2005332700274552832",
+              "start": 19,
+              "url": "https://t.co/oUDoSBk7qW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005332715042984235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我挂个收款码想回回血你们会不会骂我🥲 https://t.co/oUDoSBk7qW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "1992652290252316901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 316,
+          "like_count": 5954,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 1922
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-20T04:34:18.000Z",
+        "description": "喜欢观察人类 喜欢认识有意思的人 b站：https://t.co/D8SULUCESy 男",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "b23.tv/kTDbwUY",
+                "end": 43,
+                "expanded_url": "https://b23.tv/kTDbwUY",
+                "start": 20,
+                "url": "https://t.co/D8SULUCESy"
+              }
+            ]
+          }
+        },
+        "id": "1991364416823259139",
+        "name": "Nikaido Hiro",
+        "pinned_tweet_id": "2000925960875729116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991365556956807168/b84rccpy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1266,
+          "following_count": 568,
+          "like_count": 3738,
+          "listed_count": 2,
+          "media_count": 38,
+          "tweet_count": 1065
+        },
+        "username": "NikaidoHiro0110",
+        "verified": false
+      }
+    ]
+  }
+}

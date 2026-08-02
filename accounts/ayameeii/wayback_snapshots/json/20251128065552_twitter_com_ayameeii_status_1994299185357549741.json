@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994299182140862464"
+      ]
+    },
+    "author_id": "1852135214795100164",
+    "conversation_id": "1994299185357549741",
+    "created_at": "2025-11-28T06:55:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T07:55:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994299185357549741"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gHnOMa8SNh",
+          "end": 30,
+          "expanded_url": "https://x.com/ayameeii/status/1994299185357549741/photo/1",
+          "media_key": "3_1994299182140862464",
+          "start": 7,
+          "url": "https://t.co/gHnOMa8SNh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994299185357549741",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谁懂我的艺术 https://t.co/gHnOMa8SNh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1727,
+        "media_key": "3_1994299182140862464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G60sijdbsAAGNcx.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994299182140862464"
+          ]
+        },
+        "author_id": "1852135214795100164",
+        "conversation_id": "1994299185357549741",
+        "created_at": "2025-11-28T06:55:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T07:55:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994299185357549741"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gHnOMa8SNh",
+              "end": 30,
+              "expanded_url": "https://x.com/ayameeii/status/1994299185357549741/photo/1",
+              "media_key": "3_1994299182140862464",
+              "start": 7,
+              "url": "https://t.co/gHnOMa8SNh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994299185357549741",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁懂我的艺术 https://t.co/gHnOMa8SNh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "喜欢我我也喜欢你 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "1992652290252316901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 268,
+          "like_count": 4328,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1358
+        },
+        "username": "ayameeii",
+        "verified": false
+      }
+    ]
+  }
+}

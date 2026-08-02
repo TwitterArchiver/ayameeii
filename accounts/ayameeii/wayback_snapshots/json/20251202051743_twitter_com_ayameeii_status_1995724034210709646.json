@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1995718482424467491",
+    "created_at": "2025-12-02T05:17:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T06:17:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995724034210709646"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1512776681085607940",
+          "start": 0,
+          "username": "_sorano_asa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995724034210709646",
+    "in_reply_to_user_id": "1512776681085607940",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995718482424467491",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_sorano_asa 我真的怀疑这是机器人还是"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 926,
+        "media_key": "3_1995718477060222976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7I3YZDbsAAfWQz.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1995718482424467491",
+        "created_at": "2025-12-02T05:17:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T06:17:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995724034210709646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1512776681085607940",
+              "start": 0,
+              "username": "_sorano_asa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995724034210709646",
+        "in_reply_to_user_id": "1512776681085607940",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995718482424467491",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_sorano_asa 我真的怀疑这是机器人还是"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995718477060222976"
+          ]
+        },
+        "author_id": "1512776681085607940",
+        "conversation_id": "1995718482424467491",
+        "created_at": "2025-12-02T04:55:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T05:55:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995718482424467491"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V3oC3N97PH",
+              "end": 36,
+              "expanded_url": "https://x.com/_sorano_asa/status/1995718482424467491/photo/1",
+              "media_key": "3_1995718477060222976",
+              "start": 13,
+              "url": "https://t.co/V3oC3N97PH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995718482424467491",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 32,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "饥渴白奶奶和饥渴白爷爷🤣 https://t.co/V3oC3N97PH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "1992652290252316901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 282,
+          "like_count": 4644,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1478
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-09T12:57:45.000Z",
+        "description": "在日外人です☺️  || 百合/VTuber/地雷系/オトコの娘好き|| 很高兴认识你们🥰 || 喜欢穿地雷系，でも可愛くなくてごめん🥺 || ADHD合并抑郁症所以偶尔会发癫🥺\n|| ❤️推し: @AZKi_VDiVA  @ui_shig @virtual_kaf\n||   恋人：鲨鲨布罗艾",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "AZKi_VDiVA"
+              },
+              {
+                "end": 120,
+                "start": 112,
+                "username": "ui_shig"
+              },
+              {
+                "end": 133,
+                "start": 121,
+                "username": "virtual_kaf"
+              }
+            ]
+          }
+        },
+        "id": "1512776681085607940",
+        "location": "次元の隙間",
+        "name": "空乃明咲",
+        "pinned_tweet_id": "1972197819185614899",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961595750993088513/L2Y2iHS3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2776,
+          "following_count": 675,
+          "like_count": 19467,
+          "listed_count": 7,
+          "media_count": 824,
+          "tweet_count": 6718
+        },
+        "username": "_sorano_asa",
+        "verified": false
+      }
+    ]
+  }
+}

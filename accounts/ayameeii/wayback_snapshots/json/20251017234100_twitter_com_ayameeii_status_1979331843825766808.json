@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1979331843825766808",
+    "created_at": "2025-10-17T23:41:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T00:41:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1979331843825766808"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ayameeii/statu…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/ayameeii/status/1979331461120765960",
+          "start": 39,
+          "url": "https://t.co/N8X7LgpHZ9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979331843825766808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979331461120765960",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "啊我的意思不是为自己辩护 别人根本不想理你就不要想怎么和他说话了 越说越讨厌 https://t.co/N8X7LgpHZ9"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1979331843825766808",
+        "created_at": "2025-10-17T23:41:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T00:41:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979331843825766808"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ayameeii/statu…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/ayameeii/status/1979331461120765960",
+              "start": 39,
+              "url": "https://t.co/N8X7LgpHZ9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979331843825766808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979331461120765960",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "啊我的意思不是为自己辩护 别人根本不想理你就不要想怎么和他说话了 越说越讨厌 https://t.co/N8X7LgpHZ9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1979331461120765960",
+        "created_at": "2025-10-17T23:39:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T00:39:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979331461120765960"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1979331461120765960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "问了ai两遍一模一样的问题就是换了个词 他竟然很认真的说我问的很有洞察力 说我问的第二遍很细很关键 想起来之前和喜欢的人说话 每句都在阅读理解 想了一万遍说什么好 当然结局很惨 被讨厌的很痛苦 那些心思一点用也没有 当不了人 说不出人话 没有人的心思"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 158,
+          "like_count": 1099,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 281
+        },
+        "username": "ayameeii",
+        "verified": false
+      }
+    ]
+  }
+}

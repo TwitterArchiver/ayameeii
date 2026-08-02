@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1981309935783989509",
+    "created_at": "2025-10-23T10:41:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T11:41:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981309935783989509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1621552410048237569",
+          "start": 3,
+          "username": "amecandy_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981309935783989509",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981300758495842461",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amecandy_x: 小雨的置顶图兼‼️4000fo抽奖‼️来啦🥰\n💛88.88元红包🧧*1\n🟢KFC🍔*5\n🔵奶茶*5\n🍥xyn特别奖：国产补佳乐*1\n❗均可折现❗\n🟥参与方式关注➕评论➕转发➕点赞\n🕰️时限：2025/11/15截止\n\n另：👇\n要互fo的欢迎直接说…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1356,
+        "media_key": "3_1981300746512404480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G37-iBUWkAA4_Tr.jpg",
+        "width": 1413
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1981309935783989509",
+        "created_at": "2025-10-23T10:41:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T11:41:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981309935783989509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1621552410048237569",
+              "start": 3,
+              "username": "amecandy_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981309935783989509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981300758495842461",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amecandy_x: 小雨的置顶图兼‼️4000fo抽奖‼️来啦🥰\n💛88.88元红包🧧*1\n🟢KFC🍔*5\n🔵奶茶*5\n🍥xyn特别奖：国产补佳乐*1\n❗均可折现❗\n🟥参与方式关注➕评论➕转发➕点赞\n🕰️时限：2025/11/15截止\n\n另：👇\n要互fo的欢迎直接说…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981300746512404480"
+          ]
+        },
+        "author_id": "1621552410048237569",
+        "conversation_id": "1981300758495842461",
+        "created_at": "2025-10-23T10:04:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T11:04:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981300758495842461"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O0RtiVJbLC",
+              "end": 181,
+              "expanded_url": "https://x.com/amecandy_x/status/1981300758495842461/photo/1",
+              "media_key": "3_1981300746512404480",
+              "start": 158,
+              "url": "https://t.co/O0RtiVJbLC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981300758495842461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 161,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "小雨的置顶图兼‼️4000fo抽奖‼️来啦🥰\n💛88.88元红包🧧*1\n🟢KFC🍔*5\n🔵奶茶*5\n🍥xyn特别奖：国产补佳乐*1\n❗均可折现❗\n🟥参与方式关注➕评论➕转发➕点赞\n🕰️时限：2025/11/15截止\n\n另：👇\n要互fo的欢迎直接说\n要加墙内好友咱们至少混个眼熟哦\n我的小猫🐱叫卡尔，卡尔马克思的卡尔 https://t.co/O0RtiVJbLC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 180,
+          "like_count": 1570,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 427
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-03T16:53:25.000Z",
+        "description": "小雨不乖，请你抱紧。🌧Transfeminine·HRT since 2022🍥CS→Fullstack/LLM🌐双相情感障碍💔blogger✒️旅游✈历史📚政治🕴️奇怪的暴论📢 #odtwt #お薬もぐもぐ #藥物濫用  #shtwt #drugtwt #psychotwt ❤🩵@wawoqu2772",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 96,
+                "start": 90,
+                "tag": "odtwt"
+              },
+              {
+                "end": 104,
+                "start": 97,
+                "tag": "お薬もぐもぐ"
+              },
+              {
+                "end": 110,
+                "start": 105,
+                "tag": "藥物濫用"
+              },
+              {
+                "end": 118,
+                "start": 112,
+                "tag": "shtwt"
+              },
+              {
+                "end": 127,
+                "start": 119,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 138,
+                "start": 128,
+                "tag": "psychotwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 152,
+                "start": 141,
+                "username": "wawoqu2772"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/Ul32kqFwEJ"
+              }
+            ]
+          }
+        },
+        "id": "1621552410048237569",
+        "location": "山东📍济南",
+        "name": "小雨🏳️‍⚧️♀",
+        "pinned_tweet_id": "1981300758495842461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976595751519326208/nobANKHE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4014,
+          "following_count": 1434,
+          "like_count": 20943,
+          "listed_count": 12,
+          "media_count": 721,
+          "tweet_count": 6820
+        },
+        "url": "https://t.co/Ul32kqFwEJ",
+        "username": "amecandy_x",
+        "verified": false
+      }
+    ]
+  }
+}

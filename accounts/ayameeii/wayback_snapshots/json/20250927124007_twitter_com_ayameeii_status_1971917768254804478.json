@@ -1,0 +1,143 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1971916863920812032"
+      ]
+    },
+    "author_id": "1852135214795100164",
+    "conversation_id": "1971917768254804478",
+    "created_at": "2025-09-27T12:40:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T13:40:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1971917768254804478"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QLX6JxNURW",
+          "end": 65,
+          "expanded_url": "https://x.com/ayameeii/status/1971917768254804478/photo/1",
+          "media_key": "3_1971916863920812032",
+          "start": 42,
+          "url": "https://t.co/QLX6JxNURW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971917768254804478",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "丝之歌打到第二幕了 其实末代裁决者打起来还挺爽的 不会飞 可以连出几刀 血量也不厚 https://t.co/QLX6JxNURW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2160,
+        "media_key": "3_1971916863920812032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G12n8KiaMAABXZl.png",
+        "width": 3840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971916863920812032"
+          ]
+        },
+        "author_id": "1852135214795100164",
+        "conversation_id": "1971917768254804478",
+        "created_at": "2025-09-27T12:40:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T13:40:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971917768254804478"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QLX6JxNURW",
+              "end": 65,
+              "expanded_url": "https://x.com/ayameeii/status/1971917768254804478/photo/1",
+              "media_key": "3_1971916863920812032",
+              "start": 42,
+              "url": "https://t.co/QLX6JxNURW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971917768254804478",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "丝之歌打到第二幕了 其实末代裁决者打起来还挺爽的 不会飞 可以连出几刀 血量也不厚 https://t.co/QLX6JxNURW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852135475403984896/GBdrMFBz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 45,
+          "like_count": 185,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 51
+        },
+        "username": "ayameeii",
+        "verified": false
+      }
+    ]
+  }
+}

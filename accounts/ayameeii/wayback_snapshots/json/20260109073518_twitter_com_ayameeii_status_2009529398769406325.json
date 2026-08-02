@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2009520358605639695",
+    "created_at": "2026-01-09T07:35:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T08:35:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009529398769406325"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1956567270739828736",
+          "start": 0,
+          "username": "Truffaut897456"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009529398769406325",
+    "in_reply_to_user_id": "1956567270739828736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009520358605639695",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Truffaut897456 感觉这种东西日常压力很重要 作息什么的 不上班上学问题少一半（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2009520358605639695",
+        "created_at": "2026-01-09T07:35:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T08:35:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009529398769406325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1956567270739828736",
+              "start": 0,
+              "username": "Truffaut897456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009529398769406325",
+        "in_reply_to_user_id": "1956567270739828736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009520358605639695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Truffaut897456 感觉这种东西日常压力很重要 作息什么的 不上班上学问题少一半（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956567270739828736",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2009520358605639695",
+        "created_at": "2026-01-09T06:59:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T07:59:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009520358605639695"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2009520358605639695",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 338,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们说我吃那些甜甜的水果，和吃蛋糕甜点会一样吗，脸上长痘痘那样，吃芒果甜瓜哈密瓜，吃水果应该很健康吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2008864131290694085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 332,
+          "like_count": 6139,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 2013
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-16T04:02:53.000Z",
+        "description": "是男生，喜欢电影🎦 不限类型不限国家，喜欢记导演，标豆瓣（玩豆瓣的可以私信来互关），喜欢恐怖片（铅黄 好莱坞b恐 邵氏恐怖 香港恐怖 日恐），对烂片有瘾，品味也烂爆，更广泛一些的电影也都会看一些，以及二次元少女乐队特摄古早动画都涉猎，喜欢拍cos和女装，纯高p，实际丑蛆🐛！！！",
+        "id": "1956567270739828736",
+        "location": "我想吃薯条",
+        "name": "Truffaut",
+        "pinned_tweet_id": "2001567503110279683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996106954553655297/C05ObKRg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12937,
+          "following_count": 1258,
+          "like_count": 7478,
+          "listed_count": 48,
+          "media_count": 152,
+          "tweet_count": 3469
+        },
+        "username": "Truffaut897456",
+        "verified": false
+      }
+    ]
+  }
+}

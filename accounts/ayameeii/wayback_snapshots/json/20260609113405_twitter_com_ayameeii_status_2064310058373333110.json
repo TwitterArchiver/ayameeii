@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2064257754165055550",
+    "created_at": "2026-06-09T11:34:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T12:34:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064310058373333110"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2031599737078689793",
+          "start": 0,
+          "username": "aihekeleqaq666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064310058373333110",
+    "in_reply_to_user_id": "2031599737078689793",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064305039448182823",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aihekeleqaq666 谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2064257754165055550",
+        "created_at": "2026-06-09T11:34:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T12:34:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064310058373333110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2031599737078689793",
+              "start": 0,
+              "username": "aihekeleqaq666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064310058373333110",
+        "in_reply_to_user_id": "2031599737078689793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064305039448182823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aihekeleqaq666 谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031599737078689793",
+        "conversation_id": "2064257754165055550",
+        "created_at": "2026-06-09T11:14:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T12:14:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064305039448182823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1852135214795100164",
+              "start": 0,
+              "username": "ayameeii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064305039448182823",
+        "in_reply_to_user_id": "1852135214795100164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064257754165055550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayameeii 我喜欢你。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存| 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 34,
+                "start": 24,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1048,
+          "following_count": 684,
+          "like_count": 10437,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 3985
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-11T05:15:04.000Z",
+        "description": "百分百互fo，别问在不在，看到就会回复。魔怔抽象人勿扰，看到就拉黑。（搭讪僚机互fo）屏蔽对等操作 一般不屏蔽人，除非您坚持……",
+        "id": "2031599737078689793",
+        "location": "朝鲜🇰🇵",
+        "name": "爱喝可乐🥤（百分百互fo）",
+        "pinned_tweet_id": "2059518903097991234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059518390017163266/CnhJ3wS7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 214,
+          "like_count": 105,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 237
+        },
+        "username": "aihekeleqaq666",
+        "verified": false
+      }
+    ]
+  }
+}

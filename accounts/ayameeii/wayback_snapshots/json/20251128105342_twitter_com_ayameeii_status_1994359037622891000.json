@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1994316545023963367",
+    "created_at": "2025-11-28T10:53:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T11:53:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994359037622891000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1239120348680863745",
+          "start": 0,
+          "username": "CharLotte_tysy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994359037622891000",
+    "in_reply_to_user_id": "1239120348680863745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994357049921347726",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CharLotte_tysy 你懂我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1994316545023963367",
+        "created_at": "2025-11-28T10:53:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T11:53:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994359037622891000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1239120348680863745",
+              "start": 0,
+              "username": "CharLotte_tysy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994359037622891000",
+        "in_reply_to_user_id": "1239120348680863745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994357049921347726",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CharLotte_tysy 你懂我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1239120348680863745",
+        "conversation_id": "1994316545023963367",
+        "created_at": "2025-11-28T10:45:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T11:45:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994357049921347726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1852135214795100164",
+              "start": 0,
+              "username": "ayameeii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994357049921347726",
+        "in_reply_to_user_id": "1852135214795100164",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994316545023963367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayameeii 大作"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "喜欢我我也喜欢你 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "1992652290252316901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 273,
+          "like_count": 4349,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1368
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-15T09:24:57.000Z",
+        "description": "吸血鬼就要无情的活在这世上！陷入药物滥用中的小蝙蝠一枚。",
+        "id": "1239120348680863745",
+        "location": "intelnet",
+        "name": "植野直花（小蝙蝠版",
+        "pinned_tweet_id": "1857462491527405822",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971276790481158145/i-9y1Mt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 196,
+          "like_count": 12390,
+          "listed_count": 2,
+          "media_count": 307,
+          "tweet_count": 8021
+        },
+        "username": "CharLotte_tysy",
+        "verified": false
+      }
+    ]
+  }
+}

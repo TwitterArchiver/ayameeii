@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2007639317943075086",
+    "created_at": "2026-01-04T02:29:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T03:29:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007640385510936918"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1943704460813041665",
+          "start": 0,
+          "username": "misakixyg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007640385510936918",
+    "in_reply_to_user_id": "1943704460813041665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007639317943075086",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@misakixyg 还真是 感觉能有自己圈子玩的上网就是纯遭罪了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2007639317943075086",
+        "created_at": "2026-01-04T02:29:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T03:29:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007640385510936918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1943704460813041665",
+              "start": 0,
+              "username": "misakixyg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007640385510936918",
+        "in_reply_to_user_id": "1943704460813041665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007639317943075086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misakixyg 还真是 感觉能有自己圈子玩的上网就是纯遭罪了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943704460813041665",
+        "conversation_id": "2007639317943075086",
+        "created_at": "2026-01-04T02:24:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T03:24:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007639317943075086"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2007639317943075086",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不想混药圈了，这个地方仿佛天天在打狼人杀和无限制格斗，我可没心情陪大家玩这个，我自己玩自己的去了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "1992652290252316901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 321,
+          "like_count": 6036,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 1967
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-11T16:10:40.000Z",
+        "description": "三崎，是🐟而已，没什么，58🚪",
+        "id": "1943704460813041665",
+        "name": "三崎（前前前前世）",
+        "pinned_tweet_id": "2006899682652598590",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967897431917596672/s-g3H3pD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2834,
+          "following_count": 979,
+          "like_count": 18793,
+          "listed_count": 5,
+          "media_count": 170,
+          "tweet_count": 5320
+        },
+        "username": "misakixyg",
+        "verified": false
+      }
+    ]
+  }
+}

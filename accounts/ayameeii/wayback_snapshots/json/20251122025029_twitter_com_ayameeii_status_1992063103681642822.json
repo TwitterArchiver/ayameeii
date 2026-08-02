@@ -1,0 +1,103 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1992063103681642822",
+    "created_at": "2025-11-22T02:50:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T03:50:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992063103681642822"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1992063103681642822",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我是不是做了什么错事 然后我小心翼翼的搜寻罪证 但是我好像并不是真的想找 我在避免什么 安慰着自己 我感觉我有罪 我没有找到罪证 我安慰着自己没有罪 但只是欺骗着自己没有去找\n我真的不敢 我没有被讨厌的勇气 但是我还是问了 你们有人讨厌我吗 不喜欢我或者我的某一部分\n我小心翼翼的犯了所有的错误"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1992063103681642822",
+        "created_at": "2025-11-22T02:50:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T03:50:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992063103681642822"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1992063103681642822",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是不是做了什么错事 然后我小心翼翼的搜寻罪证 但是我好像并不是真的想找 我在避免什么 安慰着自己 我感觉我有罪 我没有找到罪证 我安慰着自己没有罪 但只是欺骗着自己没有去找\n我真的不敢 我没有被讨厌的勇气 但是我还是问了 你们有人讨厌我吗 不喜欢我或者我的某一部分\n我小心翼翼的犯了所有的错误"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 244,
+          "like_count": 3866,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 1205
+        },
+        "username": "ayameeii",
+        "verified": false
+      }
+    ]
+  }
+}

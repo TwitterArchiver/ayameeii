@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1980282011354087667",
+    "created_at": "2025-10-21T01:32:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T02:32:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980446965226959055"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1360772570769813505",
+          "start": 0,
+          "username": "BraveQuestEX"
+        },
+        {
+          "end": 24,
+          "id": "1153921233445986304",
+          "start": 14,
+          "username": "shirumesu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980446965226959055",
+    "in_reply_to_user_id": "1360772570769813505",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980300959038497131",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BraveQuestEX @shirumesu 我看你是故意的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1980282011354087667",
+        "created_at": "2025-10-21T01:32:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T02:32:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980446965226959055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1360772570769813505",
+              "start": 0,
+              "username": "BraveQuestEX"
+            },
+            {
+              "end": 24,
+              "id": "1153921233445986304",
+              "start": 14,
+              "username": "shirumesu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980446965226959055",
+        "in_reply_to_user_id": "1360772570769813505",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980300959038497131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BraveQuestEX @shirumesu 我看你是故意的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360772570769813505",
+        "conversation_id": "1980282011354087667",
+        "created_at": "2025-10-20T15:51:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T16:51:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980300959038497131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1153921233445986304",
+              "start": 0,
+              "username": "shirumesu"
+            },
+            {
+              "end": 20,
+              "id": "1852135214795100164",
+              "start": 11,
+              "username": "ayameeii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980300959038497131",
+        "in_reply_to_user_id": "1153921233445986304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980296699655733549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirumesu @ayameeii ？改名打错字马斯克不让我改了😭😭😭😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 172,
+          "like_count": 1388,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 374
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-14T02:07:24.000Z",
+        "description": "某在职游戏汉化测试人员。笑ってくれてアリガトウ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bangumi.tv/user/seiuex",
+                "end": 23,
+                "expanded_url": "https://bangumi.tv/user/seiuex",
+                "start": 0,
+                "url": "https://t.co/sY3WqMyceB"
+              }
+            ]
+          }
+        },
+        "id": "1360772570769813505",
+        "location": "关西",
+        "name": "我的性福",
+        "pinned_tweet_id": "1979057865588392225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976613984091668480/tcTGOATV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 399,
+          "like_count": 18675,
+          "listed_count": 2,
+          "media_count": 733,
+          "tweet_count": 3647
+        },
+        "url": "https://t.co/sY3WqMyceB",
+        "username": "BraveQuestEX",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-24T06:53:55.000Z",
+        "description": "我oc，希露梅斯·莉莉丝·菲利欧露，巡礼魔女，愿歌赫姆的星光永不消逝/是infp～包健全的/fo无依据随缘看心情/祝你开心～",
+        "id": "1153921233445986304",
+        "location": "魔女之家",
+        "name": "希露梅斯",
+        "pinned_tweet_id": "1936780239897870805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977795066950471680/vx5I975C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 43,
+          "like_count": 24927,
+          "listed_count": 6,
+          "media_count": 441,
+          "tweet_count": 13794
+        },
+        "username": "shirumesu",
+        "verified": false
+      }
+    ]
+  }
+}

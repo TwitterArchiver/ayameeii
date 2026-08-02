@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1994823905023070284",
+    "created_at": "2025-11-29T23:24:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T00:24:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994910314652209652"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1825573182482563072",
+          "start": 0,
+          "username": "cotton0205"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994910314652209652",
+    "in_reply_to_user_id": "1825573182482563072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994823905023070284",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cotton0205 好专注好厉害"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1994823905023070284",
+        "created_at": "2025-11-29T23:24:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T00:24:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994910314652209652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1825573182482563072",
+              "start": 0,
+              "username": "cotton0205"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994910314652209652",
+        "in_reply_to_user_id": "1825573182482563072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994823905023070284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cotton0205 好专注好厉害"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1825573182482563072",
+        "conversation_id": "1994823905023070284",
+        "created_at": "2025-11-29T17:40:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T18:40:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994823905023070284"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1994823905023070284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 312,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我比較笨讀的慢。\n前幾天在補習班讀到只剩我 櫃檯姐姐都下班了的那種 整個地下室都沒有燈（其實有一點怕\n回家後和媽咪說這件事 她和我說以後不准讀這麼晚怕我被鬼抓走（？）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "喜欢我我也喜欢你 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "1992652290252316901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 275,
+          "like_count": 4491,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1424
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-19T16:39:11.000Z",
+        "description": "叫我棉花叭｜#shtwt🈶",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 12,
+                "start": 6,
+                "tag": "shtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fufu39692",
+                "end": 23,
+                "expanded_url": "https://ngl.link/fufu39692",
+                "start": 0,
+                "url": "https://t.co/Ywv1DqhjwJ"
+              }
+            ]
+          }
+        },
+        "id": "1825573182482563072",
+        "location": "🕊️",
+        "name": "棉棉眠𝚣 ᶻ ᴢ",
+        "pinned_tweet_id": "1988467061560143968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992950085391716352/dWxVbRV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 664,
+          "following_count": 549,
+          "like_count": 27955,
+          "listed_count": 4,
+          "media_count": 262,
+          "tweet_count": 3823
+        },
+        "url": "https://t.co/Ywv1DqhjwJ",
+        "username": "cotton0205",
+        "verified": false
+      }
+    ]
+  }
+}

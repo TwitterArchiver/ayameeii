@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2038582475270791489",
+    "created_at": "2026-03-30T11:52:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T12:52:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038585155020095674"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1450882079353344004",
+          "start": 0,
+          "username": "znstl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038585155020095674",
+    "in_reply_to_user_id": "1450882079353344004",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038582475270791489",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@znstl 千万不要误入歧途啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2038582475270791489",
+        "created_at": "2026-03-30T11:52:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T12:52:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038585155020095674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1450882079353344004",
+              "start": 0,
+              "username": "znstl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038585155020095674",
+        "in_reply_to_user_id": "1450882079353344004",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038582475270791489",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@znstl 千万不要误入歧途啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1450882079353344004",
+        "conversation_id": "2038582475270791489",
+        "created_at": "2026-03-30T11:41:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T12:41:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038582475270791489"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038582475270791489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我去，涩涩小视频两千赞了，还涨了快五百粉，感谢各位的支持！！！下次也会试着多拍一些的（）😇😇😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2036043044986953736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 728,
+          "following_count": 512,
+          "like_count": 8688,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 3196
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-20T17:50:33.000Z",
+        "description": "我是男生请注意😇\n发发自己的cosplay照片\n私信会看 意义不明的不回\n感谢你的喜欢(^з^)-☆",
+        "id": "1450882079353344004",
+        "location": "-.-- / ....",
+        "name": "紫色的安静",
+        "pinned_tweet_id": "2029889762153398525",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955980722306785280/2wnWheHi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2428,
+          "following_count": 747,
+          "like_count": 8344,
+          "listed_count": 11,
+          "media_count": 179,
+          "tweet_count": 2789
+        },
+        "username": "znstl",
+        "verified": false
+      }
+    ]
+  }
+}

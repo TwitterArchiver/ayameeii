@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1992388202293035049",
+    "created_at": "2025-11-23T00:25:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T01:25:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992389083247817159"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1832763086039896064",
+          "start": 0,
+          "username": "caliE694030"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992389083247817159",
+    "in_reply_to_user_id": "1832763086039896064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992388858378633304",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caliE694030 将手写贯彻到底👍处方要自己写 打字也要自己写"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1992388202293035049",
+        "created_at": "2025-11-23T00:25:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T01:25:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992389083247817159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1832763086039896064",
+              "start": 0,
+              "username": "caliE694030"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992389083247817159",
+        "in_reply_to_user_id": "1832763086039896064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992388858378633304",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caliE694030 将手写贯彻到底👍处方要自己写 打字也要自己写"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1832763086039896064",
+        "conversation_id": "1992388202293035049",
+        "created_at": "2025-11-23T00:24:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T01:24:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992388858378633304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1852135214795100164",
+              "start": 0,
+              "username": "ayameeii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992388858378633304",
+        "in_reply_to_user_id": "1852135214795100164",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992388682662420951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayameeii “本”人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 248,
+          "like_count": 3923,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 1222
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-08T12:51:34.000Z",
+        "description": "精神超稳定（* 超稳定是理想目标）｜100%互fo",
+        "id": "1832763086039896064",
+        "name": "🍀Nano Catfish🐟🐟🐟",
+        "pinned_tweet_id": "1985858852060070241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942597096261181441/evKFN1Pb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 139,
+          "like_count": 2729,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 408
+        },
+        "username": "caliE694030",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2037037583671374171",
+    "created_at": "2026-03-26T05:32:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T06:32:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037040092683133220"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1976153303080894465",
+          "start": 0,
+          "username": "shinimukuyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037040092683133220",
+    "in_reply_to_user_id": "1976153303080894465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037037583671374171",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shinimukuyo 没力气了就不要强迫自己 既然不是那个好好学的人 那做好自己就可以 别这么想宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2037037583671374171",
+        "created_at": "2026-03-26T05:32:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T06:32:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037040092683133220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1976153303080894465",
+              "start": 0,
+              "username": "shinimukuyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037040092683133220",
+        "in_reply_to_user_id": "1976153303080894465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037037583671374171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shinimukuyo 没力气了就不要强迫自己 既然不是那个好好学的人 那做好自己就可以 别这么想宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976153303080894465",
+        "conversation_id": "2037037583671374171",
+        "created_at": "2026-03-26T05:23:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T06:23:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037037583671374171"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037037583671374171",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每天都嚷着要学实际上晚上下班没力气到只能背个单词"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某次",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2036043044986953736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 698,
+          "following_count": 495,
+          "like_count": 8361,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 3044
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-09T05:10:51.000Z",
+        "description": "我吗？我想要的我就一定会得到。",
+        "id": "1976153303080894465",
+        "name": "yoitai",
+        "pinned_tweet_id": "2025949551815754234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033055400774565888/uKSUmTWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 85,
+          "like_count": 12399,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 2851
+        },
+        "username": "shinimukuyo",
+        "verified": false
+      }
+    ]
+  }
+}

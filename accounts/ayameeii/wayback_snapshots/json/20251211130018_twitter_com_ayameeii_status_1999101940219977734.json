@@ -1,0 +1,348 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1999101940219977734",
+    "created_at": "2025-12-11T13:00:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T14:00:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999101940219977734"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1999007250829230080",
+          "start": 3,
+          "username": "DDaquaforever"
+        },
+        {
+          "end": 64,
+          "id": "1429829081684537345",
+          "start": 50,
+          "username": "Rabbubble550W"
+        },
+        {
+          "end": 80,
+          "id": "1865419581206208512",
+          "start": 65,
+          "username": "DDzhanshou5150"
+        },
+        {
+          "end": 95,
+          "id": "1158382980076716032",
+          "start": 82,
+          "username": "kokodayo5150"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999101940219977734",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999101315126116445",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DDaquaforever: 新置顶🔝\n名稱:早露泡泡兔\n暱稱:早子姐，早露，泡泡兔\n前世\n@rabbubble550w\n@DDzhanshou5150 \n@kokodayo5150\n 找回推油中\nKig志向: 出自己最喜歡的角色，與更多娃娃貼貼\nKig角色:湊阿庫婭…"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [Rabbubble550W].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "Rabbubble550W",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "Rabbubble550W"
+    },
+    {
+      "detail": "User has been suspended: [DDzhanshou5150].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "DDzhanshou5150",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "DDzhanshou5150"
+    },
+    {
+      "detail": "User has been suspended: [kokodayo5150].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "kokodayo5150",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "kokodayo5150"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 959,
+        "media_key": "3_1999100640568676354",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G747cN9aEAIVfrC.jpg",
+        "width": 720
+      },
+      {
+        "height": 2731,
+        "media_key": "3_1999100952067133440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G747uWYbUAA3rDC.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_1999101072544268288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7471XMagAAxeiz.jpg",
+        "width": 2731
+      },
+      {
+        "height": 4096,
+        "media_key": "3_1999101135790243840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7475CzbgAAPp8E.jpg",
+        "width": 2731
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1999101940219977734",
+        "created_at": "2025-12-11T13:00:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T14:00:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999101940219977734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1999007250829230080",
+              "start": 3,
+              "username": "DDaquaforever"
+            },
+            {
+              "end": 64,
+              "id": "1429829081684537345",
+              "start": 50,
+              "username": "Rabbubble550W"
+            },
+            {
+              "end": 80,
+              "id": "1865419581206208512",
+              "start": 65,
+              "username": "DDzhanshou5150"
+            },
+            {
+              "end": 95,
+              "id": "1158382980076716032",
+              "start": 82,
+              "username": "kokodayo5150"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999101940219977734",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999101315126116445",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DDaquaforever: 新置顶🔝\n名稱:早露泡泡兔\n暱稱:早子姐，早露，泡泡兔\n前世\n@rabbubble550w\n@DDzhanshou5150 \n@kokodayo5150\n 找回推油中\nKig志向: 出自己最喜歡的角色，與更多娃娃貼貼\nKig角色:湊阿庫婭…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999100640568676354",
+            "3_1999100952067133440",
+            "3_1999101072544268288",
+            "3_1999101135790243840"
+          ]
+        },
+        "author_id": "1999007250829230080",
+        "conversation_id": "1999101315126116445",
+        "created_at": "2025-12-11T12:57:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T13:57:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999101315126116445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 45,
+              "id": "1429829081684537345",
+              "start": 31,
+              "username": "Rabbubble550W"
+            },
+            {
+              "end": 61,
+              "id": "1865419581206208512",
+              "start": 46,
+              "username": "DDzhanshou5150"
+            },
+            {
+              "end": 76,
+              "id": "1158382980076716032",
+              "start": 63,
+              "username": "kokodayo5150"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GTNv98OO50",
+              "end": 143,
+              "expanded_url": "https://x.com/DDaquaforever/status/1999101315126116445/photo/1",
+              "media_key": "3_1999100640568676354",
+              "start": 120,
+              "url": "https://t.co/GTNv98OO50"
+            },
+            {
+              "display_url": "pic.x.com/GTNv98OO50",
+              "end": 143,
+              "expanded_url": "https://x.com/DDaquaforever/status/1999101315126116445/photo/1",
+              "media_key": "3_1999100952067133440",
+              "start": 120,
+              "url": "https://t.co/GTNv98OO50"
+            },
+            {
+              "display_url": "pic.x.com/GTNv98OO50",
+              "end": 143,
+              "expanded_url": "https://x.com/DDaquaforever/status/1999101315126116445/photo/1",
+              "media_key": "3_1999101072544268288",
+              "start": 120,
+              "url": "https://t.co/GTNv98OO50"
+            },
+            {
+              "display_url": "pic.x.com/GTNv98OO50",
+              "end": 143,
+              "expanded_url": "https://x.com/DDaquaforever/status/1999101315126116445/photo/1",
+              "media_key": "3_1999101135790243840",
+              "start": 120,
+              "url": "https://t.co/GTNv98OO50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999101315126116445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "新置顶🔝\n名稱:早露泡泡兔\n暱稱:早子姐，早露，泡泡兔\n前世\n@rabbubble550w\n@DDzhanshou5150 \n@kokodayo5150\n 找回推油中\nKig志向: 出自己最喜歡的角色，與更多娃娃貼貼\nKig角色:湊阿庫婭 https://t.co/GTNv98OO50"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "1992652290252316901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 303,
+          "like_count": 5319,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1690
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T06:44:17.000Z",
+        "description": "不想多说什么了",
+        "id": "1999007250829230080",
+        "location": "Kowloon City District",
+        "name": "早露泡泡兔（四代目）寻回推油中",
+        "pinned_tweet_id": "1999101315126116445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999012450235199488/oiXZrvSO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 186,
+          "like_count": 48,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 90
+        },
+        "username": "DDaquaforever",
+        "verified": false
+      }
+    ]
+  }
+}

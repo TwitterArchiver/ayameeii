@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2025998407278707073",
+    "created_at": "2026-02-23T18:17:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T19:17:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025998407278707073"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Spr1ngWlnd/sta…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/Spr1ngWlnd/status/2025727120144744511",
+          "start": 19,
+          "url": "https://t.co/BUaa3WPL0l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025998407278707073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025727120144744511",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个我是真想吃...什么时候国内上市 https://t.co/BUaa3WPL0l"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1328,
+        "media_key": "3_2025727117443596288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBzUFJ8aAAAqaAi.jpg",
+        "width": 719
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2025998407278707073",
+        "created_at": "2026-02-23T18:17:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T19:17:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025998407278707073"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Spr1ngWlnd/sta…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/Spr1ngWlnd/status/2025727120144744511",
+              "start": 19,
+              "url": "https://t.co/BUaa3WPL0l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025998407278707073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025727120144744511",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个我是真想吃...什么时候国内上市 https://t.co/BUaa3WPL0l"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025727117443596288"
+          ]
+        },
+        "author_id": "1916824571128287232",
+        "conversation_id": "2025727120144744511",
+        "created_at": "2026-02-23T00:19:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T01:19:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025727120144744511"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/go404DwNMO",
+              "end": 42,
+              "expanded_url": "https://x.com/Spr1ngWlnd/status/2025727120144744511/photo/1",
+              "media_key": "3_2025727117443596288",
+              "start": 19,
+              "url": "https://t.co/go404DwNMO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025727120144744511",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 26681,
+          "like_count": 179,
+          "quote_count": 11,
+          "reply_count": 26,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "右美沙芬 安非他酮复合\n已上架拼多多 https://t.co/go404DwNMO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2014053871983685932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 624,
+          "following_count": 422,
+          "like_count": 7471,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 2620
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T11:59:48.000Z",
+        "description": "谨以此号，纪念我的童年，那是一段小有遗憾的幸福时光...",
+        "id": "1916824571128287232",
+        "location": "Japan",
+        "name": "Spring风#物质研究",
+        "pinned_tweet_id": "2023996995975684451",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023980914729254912/9d2mun2U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 113,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 78
+        },
+        "username": "Spr1ngWlnd",
+        "verified": false
+      }
+    ]
+  }
+}

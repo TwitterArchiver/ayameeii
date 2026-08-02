@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2011641718039593435",
+    "created_at": "2026-01-15T09:57:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-15T10:57:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011739508627378560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1956567270739828736",
+          "start": 0,
+          "username": "Truffaut897456"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011739508627378560",
+    "in_reply_to_user_id": "1956567270739828736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011641718039593435",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Truffaut897456 这期神了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2011641554281385984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-rJVeJbUAAs6AS.jpg",
+        "width": 1365
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2011641718039593435",
+        "created_at": "2026-01-15T09:57:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T10:57:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011739508627378560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1956567270739828736",
+              "start": 0,
+              "username": "Truffaut897456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011739508627378560",
+        "in_reply_to_user_id": "1956567270739828736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011641718039593435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Truffaut897456 这期神了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011641554281385984"
+          ]
+        },
+        "author_id": "1956567270739828736",
+        "conversation_id": "2011641718039593435",
+        "created_at": "2026-01-15T03:28:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T04:28:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011641718039593435"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I0bmsoLU5y",
+              "end": 46,
+              "expanded_url": "https://x.com/Truffaut897456/status/2011641718039593435/photo/1",
+              "media_key": "3_2011641554281385984",
+              "start": 23,
+              "url": "https://t.co/I0bmsoLU5y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011641718039593435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 5999,
+          "like_count": 582,
+          "quote_count": 0,
+          "reply_count": 40,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "这啥雷霆角度，啥雷霆姿势\n这期拉了\n这期神了 https://t.co/I0bmsoLU5y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2008864131290694085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 340,
+          "like_count": 6323,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 2086
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-16T04:02:53.000Z",
+        "description": "是男生，喜欢电影🎦 不限类型不限国家，喜欢记导演，标豆瓣（玩豆瓣的可以私信来互关），喜欢恐怖片（铅黄 好莱坞b恐 邵氏恐怖 香港恐怖 日恐），对烂片有瘾，品味也烂爆，更广泛一些的电影也都会看一些，以及二次元少女乐队特摄古早动画都涉猎，喜欢拍cos和女装，纯高p，实际丑蛆🐛！！！",
+        "id": "1956567270739828736",
+        "location": "我想吃薯条",
+        "name": "Truffaut",
+        "pinned_tweet_id": "2001567503110279683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996106954553655297/C05ObKRg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13203,
+          "following_count": 1263,
+          "like_count": 7779,
+          "listed_count": 48,
+          "media_count": 162,
+          "tweet_count": 3599
+        },
+        "username": "Truffaut897456",
+        "verified": false
+      }
+    ]
+  }
+}

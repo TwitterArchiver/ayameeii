@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1986452555699003430",
+    "created_at": "2025-11-06T22:22:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T23:22:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986559889876152627"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1639894055948816387",
+          "start": 0,
+          "username": "sakumamutsuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986559889876152627",
+    "in_reply_to_user_id": "1639894055948816387",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986452555699003430",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sakumamutsuki 抱抱kayo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1986452555699003430",
+        "created_at": "2025-11-06T22:22:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T23:22:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986559889876152627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1639894055948816387",
+              "start": 0,
+              "username": "sakumamutsuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986559889876152627",
+        "in_reply_to_user_id": "1639894055948816387",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986452555699003430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakumamutsuki 抱抱kayo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639894055948816387",
+        "conversation_id": "1986452555699003430",
+        "created_at": "2025-11-06T15:16:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T16:16:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986452555699003430"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1986452555699003430",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "騙子\n說過的話原來可以這樣現在可以裝做完全沒有發生過，到底有沒有尊重過我\n我一直在被當成工具利用\n要不我們吵一架，反目成仇算了，這樣我就可以真心實意恨你了\n算了，反正我早就說了你的很多壞話，我要讓你在我朋友面前身敗名裂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 208,
+          "like_count": 2570,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 778
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-26T07:36:33.000Z",
+        "description": "kayo卡優丨小格里斯這麽叫我我很喜歡丨中學生備考中丨特此聲明本人沒有精力一一回覆每條留言、私訊丨一切的互聯網帳號只是分享日常 當下的想法而已 不要評價我 不要和我吵架 願我們都能以一個平和的心態交流",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/ti/p/9SYzg9xb83",
+                "end": 23,
+                "expanded_url": "https://line.me/ti/p/9SYzg9xb83",
+                "start": 0,
+                "url": "https://t.co/sZHlu2o1la"
+              }
+            ]
+          }
+        },
+        "id": "1639894055948816387",
+        "name": "卡優",
+        "pinned_tweet_id": "1975881993985655116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972956944848801792/wxobx5yd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1186,
+          "following_count": 1739,
+          "like_count": 23913,
+          "listed_count": 7,
+          "media_count": 62,
+          "tweet_count": 8517
+        },
+        "url": "https://t.co/sZHlu2o1la",
+        "username": "sakumamutsuki",
+        "verified": false
+      }
+    ]
+  }
+}

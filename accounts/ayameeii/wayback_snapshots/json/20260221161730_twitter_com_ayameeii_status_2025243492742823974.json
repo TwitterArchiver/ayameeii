@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2025240610203148542",
+    "created_at": "2026-02-21T16:17:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T17:17:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025243492742823974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1948395176831131648",
+          "start": 0,
+          "username": "zy89644"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025243492742823974",
+    "in_reply_to_user_id": "1948395176831131648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025242108987367649",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zy89644 这是为何"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2025240610203148542",
+        "created_at": "2026-02-21T16:17:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T17:17:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025243492742823974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1948395176831131648",
+              "start": 0,
+              "username": "zy89644"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025243492742823974",
+        "in_reply_to_user_id": "1948395176831131648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025242108987367649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zy89644 这是为何"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948395176831131648",
+        "conversation_id": "2025240610203148542",
+        "created_at": "2026-02-21T16:12:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T17:12:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025242108987367649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1852135214795100164",
+              "start": 0,
+              "username": "ayameeii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025242108987367649",
+        "in_reply_to_user_id": "1852135214795100164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025240610203148542",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayameeii 三个并排会炸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2014053871983685932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 556,
+          "following_count": 418,
+          "like_count": 7397,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 2592
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-24T14:50:02.000Z",
+        "description": "天上地下找不到了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zy89644",
+                "end": 23,
+                "expanded_url": "http://ngl.link/zy89644",
+                "start": 0,
+                "url": "https://t.co/tLgc8L3Uoh"
+              }
+            ]
+          }
+        },
+        "id": "1948395176831131648",
+        "location": "上下左右之处",
+        "name": "이×3(犬犬前",
+        "pinned_tweet_id": "1996872829674102939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019060807036973056/P1q-I5cW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 234,
+          "like_count": 48793,
+          "listed_count": 1,
+          "media_count": 244,
+          "tweet_count": 5921
+        },
+        "url": "https://t.co/tLgc8L3Uoh",
+        "username": "zy89644",
+        "verified": true
+      }
+    ]
+  }
+}

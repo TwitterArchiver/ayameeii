@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1987814895023464756",
+    "created_at": "2025-11-10T09:39:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T10:39:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987817438956880077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1657288224451203073",
+          "start": 0,
+          "username": "Cialloi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987817438956880077",
+    "in_reply_to_user_id": "1657288224451203073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987814895023464756",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cialloi 怎么拍成这样子的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1987814892016128000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5YjHMXaUAAtxRJ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1987814895023464756",
+        "created_at": "2025-11-10T09:39:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T10:39:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987817438956880077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1657288224451203073",
+              "start": 0,
+              "username": "Cialloi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987817438956880077",
+        "in_reply_to_user_id": "1657288224451203073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987814895023464756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cialloi 怎么拍成这样子的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987814892016128000"
+          ]
+        },
+        "author_id": "1657288224451203073",
+        "conversation_id": "1987814895023464756",
+        "created_at": "2025-11-10T09:29:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T10:29:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987814895023464756"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B5XGOG1T1X",
+              "end": 28,
+              "expanded_url": "https://x.com/Cialloi/status/1987814895023464756/photo/1",
+              "media_key": "3_1987814892016128000",
+              "start": 5,
+              "url": "https://t.co/B5XGOG1T1X"
+            },
+            {
+              "display_url": "x.com/Cialloi/status…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/Cialloi/status/1893891970898051230",
+              "start": 29,
+              "url": "https://t.co/IRSmVqNSZk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987814895023464756",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893891970898051230",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "拍的好丑 https://t.co/B5XGOG1T1X https://t.co/IRSmVqNSZk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 222,
+          "like_count": 2854,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 902
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-13T07:34:48.000Z",
+        "description": "耶耶的主人@_NekoMoonLight",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 5,
+                "username": "_NekoMoonLight"
+              }
+            ]
+          }
+        },
+        "id": "1657288224451203073",
+        "name": "耶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973665601962037248/go6TumTl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1340,
+          "following_count": 622,
+          "like_count": 54256,
+          "listed_count": 6,
+          "media_count": 419,
+          "tweet_count": 14122
+        },
+        "username": "Cialloi",
+        "verified": false
+      }
+    ]
+  }
+}

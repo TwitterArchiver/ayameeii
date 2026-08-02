@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1991137411787878855",
+    "created_at": "2025-11-19T13:32:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T14:32:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991137411787878855"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1882936483662663680",
+          "start": 3,
+          "username": "jngyn298282"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991137411787878855",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991136367816876444",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jngyn298282: 我是小音 我没钱买药吃饭了 请多多支持镜音谢谢喵  互fo私信查成分回fo🐱\n🚪88 好友位开放朋友圈\n🚪188 图包 开放线下会认真回消息 \n🚪388 视频图包 可以做你一周的电子女友  偶尔图片掉落 \n🚪520 可赠送原味包邮 两周电子宠物…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1991137411787878855].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1991137411787878855",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1991137411787878855"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1500,
+        "media_key": "3_1991136355490099200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6Hv90BacAAGw8x.jpg",
+        "width": 1500
+      },
+      {
+        "height": 757,
+        "media_key": "3_1991136357725671424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6Hv98WakAA-tlC.png",
+        "width": 720
+      },
+      {
+        "height": 691,
+        "media_key": "3_1991136356916207616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6Hv95VbIAA2YW0.jpg",
+        "width": 691
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991136355490099200",
+            "3_1991136357725671424",
+            "3_1991136356916207616"
+          ]
+        },
+        "author_id": "1882936483662663680",
+        "conversation_id": "1991136367816876444",
+        "created_at": "2025-11-19T13:27:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T14:27:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991136367816876444"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tmN8kA0no5",
+              "end": 182,
+              "expanded_url": "https://x.com/jngyn298282/status/1991136367816876444/photo/1",
+              "media_key": "3_1991136355490099200",
+              "start": 159,
+              "url": "https://t.co/tmN8kA0no5"
+            },
+            {
+              "display_url": "pic.x.com/tmN8kA0no5",
+              "end": 182,
+              "expanded_url": "https://x.com/jngyn298282/status/1991136367816876444/photo/1",
+              "media_key": "3_1991136357725671424",
+              "start": 159,
+              "url": "https://t.co/tmN8kA0no5"
+            },
+            {
+              "display_url": "pic.x.com/tmN8kA0no5",
+              "end": 182,
+              "expanded_url": "https://x.com/jngyn298282/status/1991136367816876444/photo/1",
+              "media_key": "3_1991136356916207616",
+              "start": 159,
+              "url": "https://t.co/tmN8kA0no5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991136367816876444",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我是小音 我没钱买药吃饭了 请多多支持镜音谢谢喵  互fo私信查成分回fo🐱\n🚪88 好友位开放朋友圈\n🚪188 图包 开放线下会认真回消息 \n🚪388 视频图包 可以做你一周的电子女友  偶尔图片掉落 \n🚪520 可赠送原味包邮 两周电子宠物 可打语音 视频图片掉落\n欢迎私信咪脾气真的很好，投喂大欢迎，接受验证🥺 https://t.co/tmN8kA0no5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 234,
+          "like_count": 3658,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 1119
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T23:40:25.000Z",
+        "description": "我看着幸福的日子被我给摧毁后开心地闭上了眼\n \n口粮：@420420420CTL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 27,
+                "username": "420420420CTL"
+              }
+            ]
+          }
+        },
+        "id": "1882936483662663680",
+        "name": "镜音",
+        "pinned_tweet_id": "1983521365727891517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983881848775438338/SaevqnOR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1018,
+          "following_count": 184,
+          "like_count": 15183,
+          "listed_count": 1,
+          "media_count": 228,
+          "tweet_count": 2177
+        },
+        "username": "jngyn298282",
+        "verified": false
+      }
+    ]
+  }
+}

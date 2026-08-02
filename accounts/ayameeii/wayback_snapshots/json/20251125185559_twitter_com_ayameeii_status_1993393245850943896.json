@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1993392901985124849",
+    "created_at": "2025-11-25T18:55:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T19:55:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993393245850943896"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 9,
+          "normalized_text": "好美",
+          "probability": 0.4881,
+          "start": 8,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1991153082332585984",
+          "start": 0,
+          "username": "_j14q1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993393245850943896",
+    "in_reply_to_user_id": "1991153082332585984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993392901985124849",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_j14q1 好美"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1993392895089688582",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6n0RtGbwAY9Rsd.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1993392901985124849",
+        "created_at": "2025-11-25T18:55:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T19:55:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993393245850943896"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "好美",
+              "probability": 0.4881,
+              "start": 8,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1991153082332585984",
+              "start": 0,
+              "username": "_j14q1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993393245850943896",
+        "in_reply_to_user_id": "1991153082332585984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993392901985124849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_j14q1 好美"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993392895089688582"
+          ]
+        },
+        "author_id": "1991153082332585984",
+        "conversation_id": "1993392901985124849",
+        "created_at": "2025-11-25T18:54:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T19:54:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993392901985124849"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z8AnJ0B1Zy",
+              "end": 25,
+              "expanded_url": "https://x.com/_j14q1/status/1993392901985124849/photo/1",
+              "media_key": "3_1993392895089688582",
+              "start": 2,
+              "url": "https://t.co/Z8AnJ0B1Zy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993392901985124849",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "♡ https://t.co/Z8AnJ0B1Zy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "1992652290252316901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 256,
+          "like_count": 4082,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 1269
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-19T14:34:51.000Z",
+        "description": "もう無理 バイバイ！！ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ\n251 @_04x_d \nㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤhttps://t.co/ZjNZGY9U7y",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 29,
+                "username": "_04x_d"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/j14q1_",
+                "end": 78,
+                "expanded_url": "https://ngl.link/j14q1_",
+                "start": 55,
+                "url": "https://t.co/ZjNZGY9U7y"
+              }
+            ]
+          }
+        },
+        "id": "1991153082332585984",
+        "name": "溶けた",
+        "pinned_tweet_id": "1991524639764607416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991154218980536320/WG4V4qWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 129,
+          "like_count": 798,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 220
+        },
+        "username": "_j14q1",
+        "verified": false
+      }
+    ]
+  }
+}

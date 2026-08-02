@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2046638785732235456",
+    "created_at": "2026-04-21T17:23:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T18:23:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046640951784067516"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1266316422428258311",
+          "start": 0,
+          "username": "mania_chan_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046640951784067516",
+    "in_reply_to_user_id": "1266316422428258311",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046639923286221280",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mania_chan_ www我觉得单论锋利度的话没有东西比得过手术刀吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2046638785732235456",
+        "created_at": "2026-04-21T17:23:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T18:23:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046640951784067516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1266316422428258311",
+              "start": 0,
+              "username": "mania_chan_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046640951784067516",
+        "in_reply_to_user_id": "1266316422428258311",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046639923286221280",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mania_chan_ www我觉得单论锋利度的话没有东西比得过手术刀吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1266316422428258311",
+        "conversation_id": "2046638785732235456",
+        "created_at": "2026-04-21T17:19:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T18:19:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046639923286221280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1852135214795100164",
+              "start": 0,
+              "username": "ayameeii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046639923286221280",
+        "in_reply_to_user_id": "1852135214795100164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046639603541745974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayameeii 那我还是用手术刀好了！那天看到金贝印还心动了一下🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存|对象❤️@AAAAAMTxT 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "AAAAAMTxT"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 48,
+                "start": 38,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 806,
+          "following_count": 598,
+          "like_count": 9544,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 3542
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-29T10:32:25.000Z",
+        "description": "🇨🇳\n中文/English/Français\n✍🏻Writer/🎶Composer\n🟦Asexual/Gender-neutral\n💊od/selfharm_cutting/psy\n✝️Christian",
+        "id": "1266316422428258311",
+        "location": "Heaven",
+        "name": "Licentious_Chirp_肆鳴_",
+        "pinned_tweet_id": "2024013576336212268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045529322942062593/NLZAQaB1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 244,
+          "like_count": 3319,
+          "listed_count": 2,
+          "media_count": 548,
+          "tweet_count": 2108
+        },
+        "username": "mania_chan_",
+        "verified": false
+      }
+    ]
+  }
+}

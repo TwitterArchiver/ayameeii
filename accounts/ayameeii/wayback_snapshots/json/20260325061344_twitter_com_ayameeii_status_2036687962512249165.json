@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2036686610578968576"
+      ],
+      "media_source_tweet_id": [
+        "2036686613007507779"
+      ]
+    },
+    "author_id": "1852135214795100164",
+    "conversation_id": "2036687962512249165",
+    "created_at": "2026-03-25T06:13:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T07:13:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036687962512249165"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 41,
+          "start": 36,
+          "tag": "三角初华"
+        },
+        {
+          "end": 45,
+          "start": 42,
+          "tag": "男娘"
+        },
+        {
+          "end": 49,
+          "start": 46,
+          "tag": "伪娘"
+        },
+        {
+          "end": 54,
+          "start": 50,
+          "tag": "cos"
+        },
+        {
+          "end": 65,
+          "start": 55,
+          "tag": "avemujica"
+        },
+        {
+          "end": 71,
+          "start": 66,
+          "tag": "mygo"
+        },
+        {
+          "end": 82,
+          "start": 72,
+          "tag": "bangdream"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1946989530269057024",
+          "start": 3,
+          "username": "Doro215941"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nYW0pd84Fa",
+          "end": 106,
+          "expanded_url": "https://x.com/Doro215941/status/2036686613007507779/photo/1",
+          "media_key": "3_2036686610578968576",
+          "start": 83,
+          "url": "https://t.co/nYW0pd84Fa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036687962512249165",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036686613007507779",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Doro215941: 我去我怎么这么萌 ˃̶͈ ꇴ ˂̶͈ \n#三角初华 #男娘 #伪娘 #cos #avemujica #mygo #bangdream https://t.co/nYW0pd84Fa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2036686610578968576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEPDrnZakAAP9d4.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036686610578968576"
+          ],
+          "media_source_tweet_id": [
+            "2036686613007507779"
+          ]
+        },
+        "author_id": "1852135214795100164",
+        "conversation_id": "2036687962512249165",
+        "created_at": "2026-03-25T06:13:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T07:13:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036687962512249165"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 36,
+              "tag": "三角初华"
+            },
+            {
+              "end": 45,
+              "start": 42,
+              "tag": "男娘"
+            },
+            {
+              "end": 49,
+              "start": 46,
+              "tag": "伪娘"
+            },
+            {
+              "end": 54,
+              "start": 50,
+              "tag": "cos"
+            },
+            {
+              "end": 65,
+              "start": 55,
+              "tag": "avemujica"
+            },
+            {
+              "end": 71,
+              "start": 66,
+              "tag": "mygo"
+            },
+            {
+              "end": 82,
+              "start": 72,
+              "tag": "bangdream"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1946989530269057024",
+              "start": 3,
+              "username": "Doro215941"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nYW0pd84Fa",
+              "end": 106,
+              "expanded_url": "https://x.com/Doro215941/status/2036686613007507779/photo/1",
+              "media_key": "3_2036686610578968576",
+              "start": 83,
+              "url": "https://t.co/nYW0pd84Fa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036687962512249165",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036686613007507779",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Doro215941: 我去我怎么这么萌 ˃̶͈ ꇴ ˂̶͈ \n#三角初华 #男娘 #伪娘 #cos #avemujica #mygo #bangdream https://t.co/nYW0pd84Fa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036686610578968576"
+          ]
+        },
+        "author_id": "1946989530269057024",
+        "conversation_id": "2036686613007507779",
+        "created_at": "2026-03-25T06:08:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T07:08:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036686613007507779"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 20,
+              "tag": "三角初华"
+            },
+            {
+              "end": 29,
+              "start": 26,
+              "tag": "男娘"
+            },
+            {
+              "end": 33,
+              "start": 30,
+              "tag": "伪娘"
+            },
+            {
+              "end": 38,
+              "start": 34,
+              "tag": "cos"
+            },
+            {
+              "end": 49,
+              "start": 39,
+              "tag": "avemujica"
+            },
+            {
+              "end": 55,
+              "start": 50,
+              "tag": "mygo"
+            },
+            {
+              "end": 66,
+              "start": 56,
+              "tag": "bangdream"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nYW0pd84Fa",
+              "end": 90,
+              "expanded_url": "https://x.com/Doro215941/status/2036686613007507779/photo/1",
+              "media_key": "3_2036686610578968576",
+              "start": 67,
+              "url": "https://t.co/nYW0pd84Fa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036686613007507779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我去我怎么这么萌 ˃̶͈ ꇴ ˂̶͈ \n#三角初华 #男娘 #伪娘 #cos #avemujica #mygo #bangdream https://t.co/nYW0pd84Fa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2036043044986953736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 693,
+          "following_count": 493,
+          "like_count": 8309,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 3006
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-20T17:45:14.000Z",
+        "description": "🔥cn：qiqi  | entp | 17岁 | ♂ | 不抽烟 | 不喝酒 🔥（不要搬运照片到其它平台😡）（已有对象不约不网恋⭐️🦆🐜勿扰）\n成分： \n主坑：百合  邦多利  cosplay（主播是淡人学生党QAQ\n激推：rock ars sakiko 🥰\n游戏主玩邦邦（底力不高邦邦基本打低强度红谱）",
+        "id": "1946989530269057024",
+        "location": "地球",
+        "name": "qiqi_◑.◑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002398657472311296/aYT1Ydqw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 74,
+          "like_count": 319,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 94
+        },
+        "username": "Doro215941",
+        "verified": false
+      }
+    ]
+  }
+}

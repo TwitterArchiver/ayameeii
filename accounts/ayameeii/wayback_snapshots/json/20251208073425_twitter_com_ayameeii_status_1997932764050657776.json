@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1997924643169288215",
+    "created_at": "2025-12-08T07:34:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T08:34:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997932764050657776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1561588899499196417",
+          "start": 0,
+          "username": "Tiandaidaidai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997932764050657776",
+    "in_reply_to_user_id": "1561588899499196417",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997924643169288215",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tiandaidaidai 喜欢你的人不一定会翻你的所有推文 但是鸡哥会"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1997924623061864448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7oN2_Wb0AA4Pv8.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1997924643169288215",
+        "created_at": "2025-12-08T07:34:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T08:34:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997932764050657776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1561588899499196417",
+              "start": 0,
+              "username": "Tiandaidaidai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997932764050657776",
+        "in_reply_to_user_id": "1561588899499196417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997924643169288215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tiandaidaidai 喜欢你的人不一定会翻你的所有推文 但是鸡哥会"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997924623061864448"
+          ]
+        },
+        "author_id": "1561588899499196417",
+        "conversation_id": "1997924643169288215",
+        "created_at": "2025-12-08T07:02:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T08:02:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997924643169288215"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W8oQJynZVX",
+              "end": 58,
+              "expanded_url": "https://x.com/Tiandaidaidai/status/1997924643169288215/photo/1",
+              "media_key": "3_1997924623061864448",
+              "start": 35,
+              "url": "https://t.co/W8oQJynZVX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997924643169288215",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "鸡哥这次连文案带图都是我的我一直在笑卧槽。。这张图是我刚上推那会拍的 https://t.co/W8oQJynZVX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "1992652290252316901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 298,
+          "like_count": 5096,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1610
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-22T05:39:42.000Z",
+        "description": "惨圈割手欧迪女 丨 LGBT+全友好🏳️‍🌈 丨 能看出成分的全会回fo 丨 狗@GHYYAYA 丨 提问箱https://t.co/nWrczArwoW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 40,
+                "username": "GHYYAYA"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/tiandai233",
+                "end": 77,
+                "expanded_url": "https://ngl.link/tiandai233",
+                "start": 54,
+                "url": "https://t.co/nWrczArwoW"
+              }
+            ]
+          }
+        },
+        "id": "1561588899499196417",
+        "location": "提瓦特大陆",
+        "name": "⊹天填甜田添恬黛⊹",
+        "pinned_tweet_id": "1985969041769701887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991726376056147968/PjjXSzE4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1666,
+          "following_count": 1944,
+          "like_count": 69311,
+          "listed_count": 8,
+          "media_count": 622,
+          "tweet_count": 10231
+        },
+        "username": "Tiandaidaidai",
+        "verified": false
+      }
+    ]
+  }
+}

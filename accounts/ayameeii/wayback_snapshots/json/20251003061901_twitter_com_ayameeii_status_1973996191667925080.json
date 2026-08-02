@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1973965770574188678",
+    "created_at": "2025-10-03T06:19:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T07:19:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973996191667925080"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1693873810469199872",
+          "start": 0,
+          "username": "eve_city"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973996191667925080",
+    "in_reply_to_user_id": "1693873810469199872",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973965770574188678",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eve_city 恭喜🎉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1973965761799725056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2TvZt7bIAAJTTl.jpg",
+        "width": 917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1973965770574188678",
+        "created_at": "2025-10-03T06:19:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T07:19:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973996191667925080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1693873810469199872",
+              "start": 0,
+              "username": "eve_city"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973996191667925080",
+        "in_reply_to_user_id": "1693873810469199872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973965770574188678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eve_city 恭喜🎉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973965761799725056"
+          ]
+        },
+        "author_id": "1693873810469199872",
+        "conversation_id": "1973965770574188678",
+        "created_at": "2025-10-03T04:18:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T05:18:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973965770574188678"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PBWeEPh7Og",
+              "end": 31,
+              "expanded_url": "https://x.com/eve_city/status/1973965770574188678/photo/1",
+              "media_key": "3_1973965761799725056",
+              "start": 8,
+              "url": "https://t.co/PBWeEPh7Og"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973965770574188678",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 203,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "18岁！成年！ https://t.co/PBWeEPh7Og"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "狗狗kiss",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852135475403984896/GBdrMFBz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 100,
+          "like_count": 287,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 82
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-22T06:32:52.000Z",
+        "description": "HRT 2024.3.4 / 07年 成都📖 / https://t.co/BfsZkEfpcK✈️ / 1056540854🐧 /  喜欢音游 MC 轨交🐱 / 最可爱的猫猫🐈 @Jin_Ge233 @yoka740273 @TianshaYS / 最可爱的月月🌕@Dymoons_tis",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 90,
+                "username": "Jin_Ge233"
+              },
+              {
+                "end": 112,
+                "start": 101,
+                "username": "yoka740273"
+              },
+              {
+                "end": 123,
+                "start": 113,
+                "username": "TianshaYS"
+              },
+              {
+                "end": 145,
+                "start": 133,
+                "username": "Dymoons_tis"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+5Hyy_7AnXjg4Z…",
+                "end": 48,
+                "expanded_url": "http://t.me/+5Hyy_7AnXjg4ZDI1",
+                "start": 25,
+                "url": "https://t.co/BfsZkEfpcK"
+              }
+            ]
+          }
+        },
+        "id": "1693873810469199872",
+        "location": "Estradiol Planet",
+        "name": "雨城EveningCity🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941145792586084352/Jd8lQnWY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2090,
+          "following_count": 970,
+          "like_count": 20037,
+          "listed_count": 4,
+          "media_count": 356,
+          "tweet_count": 5773
+        },
+        "username": "eve_city",
+        "verified": false
+      }
+    ]
+  }
+}

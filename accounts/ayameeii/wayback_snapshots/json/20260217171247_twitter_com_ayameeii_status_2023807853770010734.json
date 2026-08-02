@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2023685967119606180",
+    "created_at": "2026-02-17T17:12:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T18:12:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023807853770010734"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1595657541803204608",
+          "start": 0,
+          "username": "watashi_shiko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023807853770010734",
+    "in_reply_to_user_id": "1595657541803204608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023806952384721398",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@watashi_shiko 老实说我也不知道...宝宝我回头帮你转发试试吧！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2023685967119606180",
+        "created_at": "2026-02-17T17:12:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T18:12:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023807853770010734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1595657541803204608",
+              "start": 0,
+              "username": "watashi_shiko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023807853770010734",
+        "in_reply_to_user_id": "1595657541803204608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023806952384721398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@watashi_shiko 老实说我也不知道...宝宝我回头帮你转发试试吧！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1595657541803204608",
+        "conversation_id": "2023685967119606180",
+        "created_at": "2026-02-17T17:09:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T18:09:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023806952384721398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1852135214795100164",
+              "start": 0,
+              "username": "ayameeii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023806952384721398",
+        "in_reply_to_user_id": "1852135214795100164",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023803523104932198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayameeii 為何我也想不通流量那麼少？😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2014053871983685932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 537,
+          "following_count": 405,
+          "like_count": 7164,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 2499
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-24T05:56:27.000Z",
+        "description": "😈 男の娘 × 反格式化靈魂 × 夜羽信徒第11年 🚌 靈界結界《Numazu》🗾｜✝️ 你，準備好踏入神與幽之間的真實了嗎✡️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/watashishiko",
+                "end": 23,
+                "expanded_url": "https://lit.link/watashishiko",
+                "start": 0,
+                "url": "https://t.co/0GOef122te"
+              }
+            ]
+          }
+        },
+        "id": "1595657541803204608",
+        "location": "✝️つしまの神殿@沼津😈",
+        "name": "🇭🇰香港男娘椎子Shiko😈",
+        "pinned_tweet_id": "2022699947964141921",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000554382560198657/gl82lFW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5858,
+          "following_count": 1589,
+          "like_count": 16054,
+          "listed_count": 32,
+          "media_count": 1410,
+          "tweet_count": 3756
+        },
+        "url": "https://t.co/0GOef122te",
+        "username": "watashi_shiko",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1981724203184468362",
+    "created_at": "2025-10-24T14:15:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T15:15:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981726274612514819"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1552918719440924672",
+          "start": 0,
+          "username": "Sanx0n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981726274612514819",
+    "in_reply_to_user_id": "1552918719440924672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981724203184468362",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sanx0n 请"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1981724203184468362",
+        "created_at": "2025-10-24T14:15:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T15:15:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981726274612514819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "Sanx0n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981726274612514819",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981724203184468362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sanx0n 请"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "1981724203184468362",
+        "created_at": "2025-10-24T14:07:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T15:07:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981724203184468362"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Sanx0n/status/…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/Sanx0n/status/1981688862440403319",
+              "start": 8,
+              "url": "https://t.co/fW90PCiK5E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981724203184468362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981688862440403319",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大伙想听故事么 https://t.co/fW90PCiK5E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 188,
+          "like_count": 1638,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 446
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "14岁初二休学 @HobartR6 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "HobartR6"
+              },
+              {
+                "end": 29,
+                "start": 18,
+                "username": "_FurryFur_"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "name": "Lumi & 猫卷 Co. (日雌380包邮",
+        "pinned_tweet_id": "1979225533306278000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981599824827838464/S98pBSrV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1513,
+          "following_count": 745,
+          "like_count": 552,
+          "listed_count": 2,
+          "media_count": 78,
+          "tweet_count": 1341
+        },
+        "username": "Sanx0n",
+        "verified": true
+      }
+    ]
+  }
+}

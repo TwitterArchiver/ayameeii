@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2047258906737680506",
+    "created_at": "2026-04-23T23:49:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T00:49:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047462844204285960"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1720425128125947904",
+          "start": 0,
+          "username": "xxz10110116791"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047462844204285960",
+    "in_reply_to_user_id": "1720425128125947904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047277873296441609",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxz10110116791 确实没有用，会让我同时讨厌上西柚和愈美的味道"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2047258906737680506",
+        "created_at": "2026-04-23T23:49:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T00:49:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047462844204285960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1720425128125947904",
+              "start": 0,
+              "username": "xxz10110116791"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047462844204285960",
+        "in_reply_to_user_id": "1720425128125947904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047277873296441609",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxz10110116791 确实没有用，会让我同时讨厌上西柚和愈美的味道"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720425128125947904",
+        "conversation_id": "2047258906737680506",
+        "created_at": "2026-04-23T11:34:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T12:34:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047277873296441609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2031715041196875776",
+              "start": 0,
+              "username": "wu_si114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047277873296441609",
+        "in_reply_to_user_id": "2031715041196875776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 176,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047258906737680506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wu_si114514 这个真的有用吗？看起来含量很少呃。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存|对象❤️@tngxngxng13171 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 10,
+                "username": "tngxngxng13171"
+              },
+              {
+                "end": 38,
+                "start": 28,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 53,
+                "start": 43,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 806,
+          "following_count": 604,
+          "like_count": 9630,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 3591
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-03T12:58:18.000Z",
+        "description": "Mtf🏳️‍⚧️|地球ol注册日期2010.7.26| 现读高一 | 不经常建政| 技术宅(?│喜欢编程💻,数码,AI,vocaloid | INFP\n│曾经也是信竞生（│\nOD💊|无证含糖🍥2026.3.27",
+        "id": "1720425128125947904",
+        "name": "xnfvotyierslol🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026281829343657984/QQiFEm47_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 170,
+          "like_count": 5225,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 316
+        },
+        "username": "xxz10110116791",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2013604789595091112",
+    "created_at": "2026-01-20T14:37:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T15:37:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013622038318194700"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1942213542104510464",
+          "start": 0,
+          "username": "SillmanW78399"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013622038318194700",
+    "in_reply_to_user_id": "1942213542104510464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013604789595091112",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SillmanW78399 把命都给你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2013604785841229824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_HC4loX0AAkwy0.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2013604789595091112",
+        "created_at": "2026-01-20T14:37:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T15:37:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013622038318194700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1942213542104510464",
+              "start": 0,
+              "username": "SillmanW78399"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013622038318194700",
+        "in_reply_to_user_id": "1942213542104510464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013604789595091112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SillmanW78399 把命都给你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013604785841229824"
+          ]
+        },
+        "author_id": "1942213542104510464",
+        "conversation_id": "2013604789595091112",
+        "created_at": "2026-01-20T13:29:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T14:29:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013604789595091112"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TalCkK2ghc",
+              "end": 42,
+              "expanded_url": "https://x.com/SillmanW78399/status/2013604789595091112/photo/1",
+              "media_key": "3_2013604785841229824",
+              "start": 19,
+              "url": "https://t.co/TalCkK2ghc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013604789595091112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就是想让你为了我对别人坏^ _ ^ https://t.co/TalCkK2ghc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2008864131290694085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 352,
+          "like_count": 6556,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 2189
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-07T13:26:14.000Z",
+        "description": "",
+        "id": "1942213542104510464",
+        "location": "任何地方",
+        "name": "Rain-",
+        "pinned_tweet_id": "1981325575324381221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965095899061010432/Xs7-T0pm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 39,
+          "like_count": 85,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 125
+        },
+        "username": "SillmanW78399",
+        "verified": false
+      }
+    ]
+  }
+}

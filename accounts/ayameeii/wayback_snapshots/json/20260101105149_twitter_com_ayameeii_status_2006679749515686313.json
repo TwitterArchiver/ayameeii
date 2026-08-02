@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2006644017111634296",
+    "created_at": "2026-01-01T10:51:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T11:51:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006679749515686313"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1458289368079421443",
+          "start": 0,
+          "username": "Kian031019"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006679749515686313",
+    "in_reply_to_user_id": "1458289368079421443",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006644017111634296",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kian031019 好看！！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 945,
+        "media_key": "3_2006643996198842373",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9kIFTgaMAU2zza.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2006643996052041730",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9kIFS9aMAIqzXD.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2006643996853215232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9kIFV8bIAACUsM.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2006643999793360904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9kIFg5aMAg-ekg.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2006644017111634296",
+        "created_at": "2026-01-01T10:51:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T11:51:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006679749515686313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1458289368079421443",
+              "start": 0,
+              "username": "Kian031019"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006679749515686313",
+        "in_reply_to_user_id": "1458289368079421443",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006644017111634296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kian031019 好看！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006643996198842373",
+            "3_2006643996052041730",
+            "3_2006643996853215232",
+            "3_2006643999793360904"
+          ]
+        },
+        "author_id": "1458289368079421443",
+        "conversation_id": "2006644017111634296",
+        "created_at": "2026-01-01T08:29:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T09:29:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006644017111634296"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "魔法少女ノ魔女裁判"
+            },
+            {
+              "end": 17,
+              "start": 11,
+              "tag": "橘シェリー"
+            },
+            {
+              "end": 22,
+              "start": 18,
+              "tag": "橘雪莉"
+            },
+            {
+              "end": 31,
+              "start": 23,
+              "tag": "cospaly"
+            },
+            {
+              "end": 36,
+              "start": 32,
+              "tag": "cos"
+            },
+            {
+              "end": 40,
+              "start": 37,
+              "tag": "男娘"
+            },
+            {
+              "end": 45,
+              "start": 41,
+              "tag": "男の娘"
+            },
+            {
+              "end": 53,
+              "start": 46,
+              "tag": "可爱的男孩子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8Q3UFoKSum",
+              "end": 77,
+              "expanded_url": "https://x.com/Kian031019/status/2006644017111634296/photo/1",
+              "media_key": "3_2006643996198842373",
+              "start": 54,
+              "url": "https://t.co/8Q3UFoKSum"
+            },
+            {
+              "display_url": "pic.x.com/8Q3UFoKSum",
+              "end": 77,
+              "expanded_url": "https://x.com/Kian031019/status/2006644017111634296/photo/1",
+              "media_key": "3_2006643996052041730",
+              "start": 54,
+              "url": "https://t.co/8Q3UFoKSum"
+            },
+            {
+              "display_url": "pic.x.com/8Q3UFoKSum",
+              "end": 77,
+              "expanded_url": "https://x.com/Kian031019/status/2006644017111634296/photo/1",
+              "media_key": "3_2006643996853215232",
+              "start": 54,
+              "url": "https://t.co/8Q3UFoKSum"
+            },
+            {
+              "display_url": "pic.x.com/8Q3UFoKSum",
+              "end": 77,
+              "expanded_url": "https://x.com/Kian031019/status/2006644017111634296/photo/1",
+              "media_key": "3_2006643999793360904",
+              "start": 54,
+              "url": "https://t.co/8Q3UFoKSum"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006644017111634296",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 350,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#魔法少女ノ魔女裁判 ＃橘シェリー ＃橘雪莉 ＃cospaly ＃cos ＃男娘 #男の娘 #可爱的男孩子 https://t.co/8Q3UFoKSum"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "1992652290252316901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 319,
+          "like_count": 6019,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 1946
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-10T04:24:47.000Z",
+        "description": "甘味依賴/回避依戀/社交懶惰/速溶元気",
+        "id": "1458289368079421443",
+        "location": "无锡/常州",
+        "name": "雨森リオ",
+        "pinned_tweet_id": "1990817819135455463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975926316042993664/XkhN6cC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 527,
+          "like_count": 45,
+          "listed_count": 11,
+          "media_count": 55,
+          "tweet_count": 134
+        },
+        "username": "Kian031019",
+        "verified": false
+      }
+    ]
+  }
+}

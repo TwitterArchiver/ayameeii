@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1988481962366169367",
+    "created_at": "2025-11-12T06:11:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T07:11:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988489802677682650"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1956567270739828736",
+          "start": 0,
+          "username": "Truffaut897456"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988489802677682650",
+    "in_reply_to_user_id": "1956567270739828736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988481962366169367",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Truffaut897456 怎么当你室友😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1988481949292437504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5iBzCXaIAAFEMH.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1988481962366169367",
+        "created_at": "2025-11-12T06:11:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T07:11:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988489802677682650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1956567270739828736",
+              "start": 0,
+              "username": "Truffaut897456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988489802677682650",
+        "in_reply_to_user_id": "1956567270739828736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988481962366169367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Truffaut897456 怎么当你室友😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988481949292437504"
+          ]
+        },
+        "author_id": "1956567270739828736",
+        "conversation_id": "1988481962366169367",
+        "created_at": "2025-11-12T05:40:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T06:40:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988481962366169367"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CnAnmtXJ1y",
+              "end": 50,
+              "expanded_url": "https://x.com/Truffaut897456/status/1988481962366169367/photo/1",
+              "media_key": "3_1988481949292437504",
+              "start": 27,
+              "url": "https://t.co/CnAnmtXJ1y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988481962366169367",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 406,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "嗯固定舍友摄影环节（）\n好喜欢这个角度这个姿势拍的🤲 https://t.co/CnAnmtXJ1y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 225,
+          "like_count": 3045,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 933
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-16T04:02:53.000Z",
+        "description": "是男生（⚠️）喜欢电影🎦 不限类型 不限国家，喜欢记导演，标豆瓣（玩豆瓣的可以私信来互关），问豆包（低质的内容风格制作历史讨论），喜欢恐怖片（铅黄 好莱坞b恐 邵氏恐怖 香港恐怖 日恐），对烂片有瘾，品味也烂爆 二次元马娘少女乐队特摄车万古早动画都涉猎/喜欢拍cos和女装，纯高p，实际丑蛆🐛/",
+        "id": "1956567270739828736",
+        "location": "我想吃薯条",
+        "name": "Truffaut",
+        "pinned_tweet_id": "1984477957231128693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969769601384022016/D7d4y2EH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7424,
+          "following_count": 983,
+          "like_count": 3641,
+          "listed_count": 23,
+          "media_count": 68,
+          "tweet_count": 1703
+        },
+        "username": "Truffaut897456",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2015793713415659937",
+    "created_at": "2026-01-26T14:28:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T15:28:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015794047886180593"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1976153303080894465",
+          "start": 0,
+          "username": "shinimukuyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015794047886180593",
+    "in_reply_to_user_id": "1976153303080894465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015793713415659937",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shinimukuyo 哪里的策划组啊（问了不该问的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2015793713415659937",
+        "created_at": "2026-01-26T14:28:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T15:28:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015794047886180593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1976153303080894465",
+              "start": 0,
+              "username": "shinimukuyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015794047886180593",
+        "in_reply_to_user_id": "1976153303080894465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015793713415659937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shinimukuyo 哪里的策划组啊（问了不该问的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976153303080894465",
+        "conversation_id": "2015793713415659937",
+        "created_at": "2026-01-26T14:27:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T15:27:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015793713415659937"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015793713415659937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "整个策划组对终末地的评价都好高\n一开始不解\n直到我被剧透了后面的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2014053871983685932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 361,
+          "like_count": 6692,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 2258
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-09T05:10:51.000Z",
+        "description": "又回避又依赖型人格",
+        "id": "1976153303080894465",
+        "name": "yoitai",
+        "pinned_tweet_id": "1989905516290871474",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990639814409105408/BObOz40p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 75,
+          "like_count": 9723,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 2012
+        },
+        "username": "shinimukuyo",
+        "verified": false
+      }
+    ]
+  }
+}

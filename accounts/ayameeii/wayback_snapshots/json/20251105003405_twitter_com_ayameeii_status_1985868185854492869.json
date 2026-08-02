@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1985859316017217538",
+    "created_at": "2025-11-05T00:34:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T01:34:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985868185854492869"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1864820482865795072",
+          "start": 0,
+          "username": "zZzz_68982"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985868185854492869",
+    "in_reply_to_user_id": "1864820482865795072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985859316017217538",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zZzz_68982 说到做到👍"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1985859316017217538].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1985859316017217538",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1985859316017217538"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1985859316017217538",
+        "created_at": "2025-11-05T00:34:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T01:34:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985868185854492869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1864820482865795072",
+              "start": 0,
+              "username": "zZzz_68982"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985868185854492869",
+        "in_reply_to_user_id": "1864820482865795072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985859316017217538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zZzz_68982 说到做到👍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 204,
+          "like_count": 2470,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 735
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-05T23:53:55.000Z",
+        "description": "Fu€k",
+        "id": "1864820482865795072",
+        "name": "Camltst",
+        "pinned_tweet_id": "1953126593188204655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985534158999887872/x46Q1B-C_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 71,
+          "like_count": 570,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 692
+        },
+        "username": "zZzz_68982",
+        "verified": false
+      }
+    ]
+  }
+}

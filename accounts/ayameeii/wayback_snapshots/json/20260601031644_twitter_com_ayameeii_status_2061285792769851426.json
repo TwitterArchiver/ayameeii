@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2061285792769851426",
+    "created_at": "2026-06-01T03:16:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T04:16:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061285792769851426"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/gfxvjt/status/…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/gfxvjt/status/2060588869867999482",
+          "start": 9,
+          "url": "https://t.co/CL7UkfzCEU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061285792769851426",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060588869867999482",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "見てくれたかな。 https://t.co/CL7UkfzCEU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2061285792769851426",
+        "created_at": "2026-06-01T03:16:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T04:16:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061285792769851426"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gfxvjt/status/…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/gfxvjt/status/2060588869867999482",
+              "start": 9,
+              "url": "https://t.co/CL7UkfzCEU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061285792769851426",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060588869867999482",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "見てくれたかな。 https://t.co/CL7UkfzCEU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839273704859250689",
+        "conversation_id": "2060588869867999482",
+        "created_at": "2026-05-30T05:07:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T06:07:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060588869867999482"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060588869867999482",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 772,
+          "impression_count": 338284,
+          "like_count": 5523,
+          "quote_count": 708,
+          "reply_count": 0,
+          "retweet_count": 951
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "나 버리지마.. 내가 잘못했어.. 나 이용해도 좋으니까 나 버리지만 말아줘… 나 너한테 사랑받는거 원하지도않아 그냥 나 사용해줘… 곁에만 있을게 내가 남자친구 아니여도 괜찮아 다른 남자랑 있어도 상관안해… 이대로 우리 관계 끝내지 말아줘.. 난 이제 너 없으면 안될거 같아… 제발 부탁이야…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存| 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 34,
+                "start": 24,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1002,
+          "following_count": 662,
+          "like_count": 10264,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 3895
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-26T12:00:05.000Z",
+        "description": "뭘봐?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pushoong.com/ask/4192438055/",
+                "end": 23,
+                "expanded_url": "https://pushoong.com/ask/4192438055/",
+                "start": 0,
+                "url": "https://t.co/NOs5VHrmC8"
+              }
+            ]
+          }
+        },
+        "id": "1839273704859250689",
+        "location": "MS",
+        "name": "📷",
+        "pinned_tweet_id": "1961665532022964318",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6290,
+          "following_count": 0,
+          "like_count": 70,
+          "listed_count": 5,
+          "media_count": 3,
+          "tweet_count": 291
+        },
+        "url": "https://t.co/NOs5VHrmC8",
+        "username": "gfxvjt",
+        "verified": false
+      }
+    ]
+  }
+}

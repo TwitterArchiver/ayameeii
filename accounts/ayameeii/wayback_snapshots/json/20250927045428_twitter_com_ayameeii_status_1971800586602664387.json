@@ -1,0 +1,143 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1971799937693417472"
+      ]
+    },
+    "author_id": "1852135214795100164",
+    "conversation_id": "1971800586602664387",
+    "created_at": "2025-09-27T04:54:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T05:54:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1971800586602664387"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/D3XXXlCAtq",
+          "end": 54,
+          "expanded_url": "https://x.com/ayameeii/status/1971800586602664387/photo/1",
+          "media_key": "3_1971799937693417472",
+          "start": 31,
+          "url": "https://t.co/D3XXXlCAtq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971800586602664387",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "投诉这个NPC洛迪 打靶的小游戏把我辛辛苦苦攒的念珠全花没了 https://t.co/D3XXXlCAtq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2160,
+        "media_key": "3_1971799937693417472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G109mKZagAAhegK.jpg",
+        "width": 3840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971799937693417472"
+          ]
+        },
+        "author_id": "1852135214795100164",
+        "conversation_id": "1971800586602664387",
+        "created_at": "2025-09-27T04:54:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T05:54:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971800586602664387"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D3XXXlCAtq",
+              "end": 54,
+              "expanded_url": "https://x.com/ayameeii/status/1971800586602664387/photo/1",
+              "media_key": "3_1971799937693417472",
+              "start": 31,
+              "url": "https://t.co/D3XXXlCAtq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971800586602664387",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "投诉这个NPC洛迪 打靶的小游戏把我辛辛苦苦攒的念珠全花没了 https://t.co/D3XXXlCAtq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "已切割 没消息就是真死了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852135475403984896/GBdrMFBz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 41,
+          "like_count": 178,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 47
+        },
+        "username": "ayameeii",
+        "verified": false
+      }
+    ]
+  }
+}

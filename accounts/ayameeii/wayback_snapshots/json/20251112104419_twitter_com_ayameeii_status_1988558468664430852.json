@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1988557234742194629",
+    "created_at": "2025-11-12T10:44:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T11:44:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988558468664430852"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1360772570769813505",
+          "start": 0,
+          "username": "BraveQuestEX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988558468664430852",
+    "in_reply_to_user_id": "1360772570769813505",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988557234742194629",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BraveQuestEX 这米饭可太米饭了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1538,
+        "media_key": "3_1988557231085002752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5jGRA5bIAAEFvx.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1988557234742194629",
+        "created_at": "2025-11-12T10:44:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T11:44:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988558468664430852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1360772570769813505",
+              "start": 0,
+              "username": "BraveQuestEX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988558468664430852",
+        "in_reply_to_user_id": "1360772570769813505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988557234742194629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BraveQuestEX 这米饭可太米饭了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988557231085002752"
+          ]
+        },
+        "author_id": "1360772570769813505",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1988557234742194629",
+        "created_at": "2025-11-12T10:39:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T11:39:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988557234742194629"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QyWQ0T2IZa",
+              "end": 34,
+              "expanded_url": "https://x.com/BraveQuestEX/status/1988557234742194629/photo/1",
+              "media_key": "3_1988557231085002752",
+              "start": 11,
+              "url": "https://t.co/QyWQ0T2IZa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988557234742194629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天新学的菜，好香啊 https://t.co/QyWQ0T2IZa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 226,
+          "like_count": 3088,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 944
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-14T02:07:24.000Z",
+        "description": "笑ってくれてアリガトウ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bangumi.tv/user/seiuex",
+                "end": 23,
+                "expanded_url": "https://bangumi.tv/user/seiuex",
+                "start": 0,
+                "url": "https://t.co/sY3WqMyceB"
+              }
+            ]
+          }
+        },
+        "id": "1360772570769813505",
+        "location": "关西",
+        "name": "不新鲜的6090",
+        "pinned_tweet_id": "1984643565541363990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988212401104396288/YiM_5cHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 695,
+          "following_count": 398,
+          "like_count": 22569,
+          "listed_count": 2,
+          "media_count": 930,
+          "tweet_count": 4719
+        },
+        "url": "https://t.co/sY3WqMyceB",
+        "username": "BraveQuestEX",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2073447209035829271",
+    "created_at": "2026-07-05T12:53:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T13:53:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073752145229434987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1999303908502753280",
+          "start": 0,
+          "username": "xinnanmu05"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073752145229434987",
+    "in_reply_to_user_id": "1999303908502753280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073447209035829271",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xinnanmu05 生日快乐🎂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073447205541969920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMZdP3LbAAAFQrr.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2073447200752046080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMZdPlVakAA9zj8.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2073447202123575297",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMZdPqcacAENPut.jpg",
+        "width": 940
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2073447209035829271",
+        "created_at": "2026-07-05T12:53:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T13:53:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073752145229434987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1999303908502753280",
+              "start": 0,
+              "username": "xinnanmu05"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073752145229434987",
+        "in_reply_to_user_id": "1999303908502753280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073447209035829271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinnanmu05 生日快乐🎂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073447205541969920",
+            "3_2073447200752046080",
+            "3_2073447202123575297"
+          ]
+        },
+        "author_id": "1999303908502753280",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2073447209035829271",
+        "created_at": "2026-07-04T16:41:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T17:41:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073447209035829271"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 13,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/t27P66xXCV",
+              "end": 40,
+              "expanded_url": "https://x.com/xinnanmu05/status/2073447209035829271/photo/1",
+              "media_key": "3_2073447205541969920",
+              "start": 17,
+              "url": "https://t.co/t27P66xXCV"
+            },
+            {
+              "display_url": "pic.x.com/t27P66xXCV",
+              "end": 40,
+              "expanded_url": "https://x.com/xinnanmu05/status/2073447209035829271/photo/1",
+              "media_key": "3_2073447200752046080",
+              "start": 17,
+              "url": "https://t.co/t27P66xXCV"
+            },
+            {
+              "display_url": "pic.x.com/t27P66xXCV",
+              "end": 40,
+              "expanded_url": "https://x.com/xinnanmu05/status/2073447209035829271/photo/1",
+              "media_key": "3_2073447202123575297",
+              "start": 17,
+              "url": "https://t.co/t27P66xXCV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073447209035829271",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 7101,
+          "like_count": 93,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "人生的花期又短了一年喵😇\n#男娘 https://t.co/t27P66xXCV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存| 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 34,
+                "start": 24,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1051,
+          "following_count": 690,
+          "like_count": 10358,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 4043
+        },
+        "url": "",
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-12T02:23:50.000Z",
+        "description": "旧号没了捏，开个新号😋\n180cm（穿鞋😠）70kg（浮动中一般是➖2kg😋）欢迎各位喵（掰）",
+        "id": "1999303908502753280",
+        "name": "楠木",
+        "pinned_tweet_id": "2021169926434660372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072886717661761536/iA3dbp2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1500,
+          "following_count": 741,
+          "like_count": 4393,
+          "listed_count": 7,
+          "media_count": 138,
+          "tweet_count": 897
+        },
+        "url": "",
+        "username": "xinnanmu05",
+        "verified": false
+      }
+    ]
+  }
+}

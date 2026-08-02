@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2029267993956642982",
+    "created_at": "2026-03-04T18:52:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T19:52:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029268829218717741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1668257047647776770",
+          "start": 0,
+          "username": "strip0w076377"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029268829218717741",
+    "in_reply_to_user_id": "1668257047647776770",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029267993956642982",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@strip0w076377 不喜欢舔狗吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2029267993956642982",
+        "created_at": "2026-03-04T18:52:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T19:52:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029268829218717741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1668257047647776770",
+              "start": 0,
+              "username": "strip0w076377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029268829218717741",
+        "in_reply_to_user_id": "1668257047647776770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029267993956642982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@strip0w076377 不喜欢舔狗吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668257047647776770",
+        "conversation_id": "2029267993956642982",
+        "created_at": "2026-03-04T18:49:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T19:49:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029267993956642982"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029267993956642982",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我操，我刚才突然想起一个我那个神人同学就是我操，我在那里画画，然后就是就是突然过来找我说话，然后说脆香米（本人现实名字）我想操你，我就很烦啊，然后我就说，我操，你能不能别老这么跟我说话，行不行？我太烦你了。然后他就跟我说，你这么说，我会想割腕。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2027766234981494956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 647,
+          "following_count": 437,
+          "like_count": 7624,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 2703
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-12T14:01:46.000Z",
+        "description": "低能量低自尊低素质低道德痛苦女孩里垢  看你们也没多喜欢我 关注我干嘛？",
+        "id": "1668257047647776770",
+        "location": "🚪188  ",
+        "name": "丰川祥子爱分尸",
+        "pinned_tweet_id": "2024841962806010115",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954570231411863552/kdFzZzC9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1639,
+          "following_count": 205,
+          "like_count": 6727,
+          "listed_count": 1,
+          "media_count": 241,
+          "tweet_count": 3188
+        },
+        "username": "strip0w076377",
+        "verified": false
+      }
+    ]
+  }
+}

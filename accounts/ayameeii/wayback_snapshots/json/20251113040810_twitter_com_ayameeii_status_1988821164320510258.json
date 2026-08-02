@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1988800357733122052",
+    "created_at": "2025-11-13T04:08:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T05:08:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988821164320510258"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1127115227630149632",
+          "start": 0,
+          "username": "hatsuki_mumu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988821164320510258",
+    "in_reply_to_user_id": "1127115227630149632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988800357733122052",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hatsuki_mumu 辣么火"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 48,
+        "media_key": "16_1988800328511418372",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G5mjXJYacAQ3QiR.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G5mjXJYacAQ3QiR.mp4"
+          }
+        ],
+        "width": 48
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1988800357733122052",
+        "created_at": "2025-11-13T04:08:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T05:08:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988821164320510258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1127115227630149632",
+              "start": 0,
+              "username": "hatsuki_mumu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988821164320510258",
+        "in_reply_to_user_id": "1127115227630149632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988800357733122052",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hatsuki_mumu 辣么火"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1988800328511418372"
+          ]
+        },
+        "author_id": "1127115227630149632",
+        "conversation_id": "1988800357733122052",
+        "created_at": "2025-11-13T02:45:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T03:45:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988800357733122052"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DrLohBdAro",
+              "end": 43,
+              "expanded_url": "https://x.com/hatsuki_mumu/status/1988800357733122052/photo/1",
+              "media_key": "16_1988800328511418372",
+              "start": 20,
+              "url": "https://t.co/DrLohBdAro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988800357733122052",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "逃课就为了吃麦麦新汉堡结果刚到就卖完了 https://t.co/DrLohBdAro"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 227,
+          "like_count": 3099,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 948
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-11T07:36:25.000Z",
+        "description": "🐱@CelestialNeb 🐰@InnocetRabbit",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "CelestialNeb"
+              },
+              {
+                "end": 30,
+                "start": 16,
+                "username": "InnocetRabbit"
+              }
+            ]
+          }
+        },
+        "id": "1127115227630149632",
+        "name": "叶yezi🍃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964725251323146240/CHh7_PAs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 47,
+          "like_count": 11623,
+          "listed_count": 2,
+          "media_count": 489,
+          "tweet_count": 1706
+        },
+        "username": "hatsuki_mumu",
+        "verified": false
+      }
+    ]
+  }
+}

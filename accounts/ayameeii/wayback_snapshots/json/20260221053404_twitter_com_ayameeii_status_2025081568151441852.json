@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2024873263718097179",
+    "created_at": "2026-02-21T05:34:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T06:34:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025081568151441852"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1938866971669606400",
+          "start": 0,
+          "username": "alcoholism19953"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025081568151441852",
+    "in_reply_to_user_id": "1938866971669606400",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024873772260700587",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@alcoholism19953 我来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2024873263718097179",
+        "created_at": "2026-02-21T05:34:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T06:34:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025081568151441852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1938866971669606400",
+              "start": 0,
+              "username": "alcoholism19953"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025081568151441852",
+        "in_reply_to_user_id": "1938866971669606400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024873772260700587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@alcoholism19953 我来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938866971669606400",
+        "conversation_id": "2024873263718097179",
+        "created_at": "2026-02-20T15:48:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T16:48:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024873772260700587"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024873772260700587",
+        "in_reply_to_user_id": "1938866971669606400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024873540827426977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "但事实上我不收门槛费也没人来找我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2014053871983685932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 547,
+          "following_count": 417,
+          "like_count": 7367,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 2581
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-28T07:48:19.000Z",
+        "description": "于45%vol泥中｜MtX｜🚪88｜@Citrus_amara｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xiaosong2_33",
+                "end": 23,
+                "expanded_url": "http://t.me/xiaosong2_33",
+                "start": 0,
+                "url": "https://t.co/5G61b8WWz2"
+              }
+            ]
+          }
+        },
+        "id": "1938866971669606400",
+        "name": "xiaosong 🏳‍⚧",
+        "pinned_tweet_id": "2021589139636809772",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021087303582826496/K-7is1Bs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 150,
+          "like_count": 2440,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 434
+        },
+        "url": "https://t.co/5G61b8WWz2",
+        "username": "alcoholism19953",
+        "verified": false
+      }
+    ]
+  }
+}

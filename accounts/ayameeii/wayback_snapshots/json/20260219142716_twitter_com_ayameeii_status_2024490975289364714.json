@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2024295396181495952",
+    "created_at": "2026-02-19T14:27:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T15:27:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024490975289364714"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2024030266264858624",
+          "start": 0,
+          "username": "Nlan1007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024490975289364714",
+    "in_reply_to_user_id": "2024030266264858624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024489501696152016",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nlan1007 不喜欢章鱼吗~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2024295396181495952",
+        "created_at": "2026-02-19T14:27:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T15:27:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024490975289364714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2024030266264858624",
+              "start": 0,
+              "username": "Nlan1007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024490975289364714",
+        "in_reply_to_user_id": "2024030266264858624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024489501696152016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nlan1007 不喜欢章鱼吗~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024030266264858624",
+        "conversation_id": "2024295396181495952",
+        "created_at": "2026-02-19T14:21:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T15:21:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024489501696152016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1852135214795100164",
+              "start": 0,
+              "username": "ayameeii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024489501696152016",
+        "in_reply_to_user_id": "1852135214795100164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024488977391382849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayameeii 小...小章魚...沒事，也很貼切"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2014053871983685932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 409,
+          "like_count": 7280,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 2559
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-18T07:56:45.000Z",
+        "description": "像是有很多話想說，卻說不出的阻塞\n\n死在了無人問津的角落，隨著我的理想一起....逐漸被世人遺忘",
+        "id": "2024030266264858624",
+        "name": "嵐",
+        "pinned_tweet_id": "2024134614848028759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024387544763551753/MPa3gTXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 13,
+          "like_count": 274,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 27
+        },
+        "username": "Nlan1007",
+        "verified": false
+      }
+    ]
+  }
+}

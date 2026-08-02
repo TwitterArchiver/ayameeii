@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2046813660329525271",
+    "created_at": "2026-04-22T19:31:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T20:31:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047035518240821684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1595657541803204608",
+          "start": 0,
+          "username": "watashi_shiko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047035518240821684",
+    "in_reply_to_user_id": "1595657541803204608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046813660329525271",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@watashi_shiko 妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046813654046392320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGe-LILawAA46Af.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2046813660329525271",
+        "created_at": "2026-04-22T19:31:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T20:31:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047035518240821684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1595657541803204608",
+              "start": 0,
+              "username": "watashi_shiko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047035518240821684",
+        "in_reply_to_user_id": "1595657541803204608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046813660329525271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@watashi_shiko 妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046813654046392320"
+          ]
+        },
+        "author_id": "1595657541803204608",
+        "conversation_id": "2046813660329525271",
+        "created_at": "2026-04-22T04:49:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T05:49:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046813660329525271"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tl6p0ZaU6R",
+              "end": 26,
+              "expanded_url": "https://x.com/watashi_shiko/status/2046813660329525271/photo/1",
+              "media_key": "3_2046813654046392320",
+              "start": 3,
+              "url": "https://t.co/tl6p0ZaU6R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046813660329525271",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 336,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "😈😈 https://t.co/tl6p0ZaU6R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存|对象❤️@AAAAAMTxT 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "AAAAAMTxT"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 48,
+                "start": 38,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 807,
+          "following_count": 601,
+          "like_count": 9595,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 3568
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-24T05:56:27.000Z",
+        "description": "😈 男の娘 × 反格式化靈魂 × 夜羽信徒第11年 🚌 靈界結界《Numazu》🗾｜✝️ 你，準備好踏入神與幽之間的真實了嗎✡️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/watashishiko",
+                "end": 23,
+                "expanded_url": "https://lit.link/watashishiko",
+                "start": 0,
+                "url": "https://t.co/0GOef122te"
+              }
+            ]
+          }
+        },
+        "id": "1595657541803204608",
+        "location": "✝️つしまの神殿@沼津😈",
+        "name": "🇭🇰香港男娘椎子Shiko😈",
+        "pinned_tweet_id": "2022699947964141921",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038308908931190784/L5Qccdbq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5668,
+          "following_count": 1655,
+          "like_count": 17345,
+          "listed_count": 33,
+          "media_count": 1455,
+          "tweet_count": 4099
+        },
+        "url": "https://t.co/0GOef122te",
+        "username": "watashi_shiko",
+        "verified": true
+      }
+    ]
+  }
+}

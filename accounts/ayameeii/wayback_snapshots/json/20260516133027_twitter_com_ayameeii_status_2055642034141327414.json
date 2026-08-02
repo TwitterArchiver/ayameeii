@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2055540198197678325",
+    "created_at": "2026-05-16T13:30:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T14:30:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055642034141327414"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1966338408005201921",
+          "start": 0,
+          "username": "SThoWs1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055642034141327414",
+    "in_reply_to_user_id": "1966338408005201921",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055546158836338889",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SThoWs1 但是我真的急了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2055540198197678325",
+        "created_at": "2026-05-16T13:30:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T14:30:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055642034141327414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1966338408005201921",
+              "start": 0,
+              "username": "SThoWs1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055642034141327414",
+        "in_reply_to_user_id": "1966338408005201921",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055546158836338889",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SThoWs1 但是我真的急了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1966338408005201921",
+        "conversation_id": "2055540198197678325",
+        "created_at": "2026-05-16T07:09:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T08:09:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055546158836338889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1852135214795100164",
+              "start": 0,
+              "username": "ayameeii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055546158836338889",
+        "in_reply_to_user_id": "1852135214795100164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055540198197678325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayameeii 別病急乱投医只能说"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存| 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 34,
+                "start": 24,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 962,
+          "following_count": 653,
+          "like_count": 10030,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 3784
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-12T03:09:51.000Z",
+        "description": "常驻江苏，183/75，母胎solo想和xnn谈恋爱",
+        "id": "1966338408005201921",
+        "location": "江苏",
+        "name": "Kolr",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981552673246593024/L-n114fc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 153,
+          "like_count": 129,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 41
+        },
+        "username": "SThoWs1",
+        "verified": false
+      }
+    ]
+  }
+}

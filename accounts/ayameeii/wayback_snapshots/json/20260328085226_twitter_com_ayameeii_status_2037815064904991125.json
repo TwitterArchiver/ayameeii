@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2037807641574138013",
+    "created_at": "2026-03-28T08:52:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T09:52:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037815064904991125"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1966368367494967301",
+          "start": 0,
+          "username": "grainyrain_awa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037815064904991125",
+    "in_reply_to_user_id": "1966368367494967301",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037807641574138013",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@grainyrain_awa 宝你也太厉害了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7573,
+        "height": 1278,
+        "media_key": "7_2037807613904347136",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2037807613904347136/pu/img/KVpycl6Buv43lqi3.jpg",
+        "public_metrics": {
+          "view_count": 7
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2037807613904347136/pu/vid/avc1/320x702/N-Y1qUiaufxpa6xl.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2037807613904347136/pu/vid/avc1/480x1054/vJ3TAf92GcUSHXQl.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2037807613904347136/pu/vid/avc1/582x1278/uUZBRxocu4sUOpfm.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2037807613904347136/pu/pl/bDZ-44koUTGHtSp8.m3u8?tag=12"
+          }
+        ],
+        "width": 582
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2037807641574138013",
+        "created_at": "2026-03-28T08:52:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T09:52:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037815064904991125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1966368367494967301",
+              "start": 0,
+              "username": "grainyrain_awa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037815064904991125",
+        "in_reply_to_user_id": "1966368367494967301",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037807641574138013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grainyrain_awa 宝你也太厉害了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2037807613904347136"
+          ]
+        },
+        "author_id": "1966368367494967301",
+        "conversation_id": "2037807641574138013",
+        "created_at": "2026-03-28T08:22:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T09:22:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037807641574138013"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J2XGNi8NS7",
+              "end": 27,
+              "expanded_url": "https://x.com/grainyrain_awa/status/2037807641574138013/video/1",
+              "media_key": "7_2037807613904347136",
+              "start": 4,
+              "url": "https://t.co/J2XGNi8NS7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037807641574138013",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "awa https://t.co/J2XGNi8NS7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2036043044986953736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 709,
+          "following_count": 504,
+          "like_count": 8540,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 3144
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-12T05:09:12.000Z",
+        "description": "自卑阴暗社恐自闭有害废物\n偶尔（经常？）发些碎碎念",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/rainygrain_awa",
+                "end": 23,
+                "expanded_url": "https://x.com/rainygrain_awa",
+                "start": 0,
+                "url": "https://t.co/e8Bh2tmDI4"
+              }
+            ]
+          }
+        },
+        "id": "1966368367494967301",
+        "location": "半截入土",
+        "name": "与和☘️",
+        "pinned_tweet_id": "2004700645811781787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966368813232041984/dRxPYic3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 290,
+          "like_count": 29854,
+          "listed_count": 0,
+          "media_count": 222,
+          "tweet_count": 4628
+        },
+        "url": "https://t.co/e8Bh2tmDI4",
+        "username": "grainyrain_awa",
+        "verified": false
+      }
+    ]
+  }
+}

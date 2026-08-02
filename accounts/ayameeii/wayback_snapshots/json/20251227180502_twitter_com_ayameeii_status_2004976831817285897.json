@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2004976831817285897",
+    "created_at": "2025-12-27T18:05:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T19:05:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2004976831817285897"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ayameeii/statu…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/ayameeii/status/2004851175070597627",
+          "start": 8,
+          "url": "https://t.co/Dkk9fZkcZ6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004976831817285897",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004851175070597627",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "手指上都是口子 https://t.co/Dkk9fZkcZ6"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2004976831817285897",
+        "created_at": "2025-12-27T18:05:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T19:05:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004976831817285897"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ayameeii/statu…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/ayameeii/status/2004851175070597627",
+              "start": 8,
+              "url": "https://t.co/Dkk9fZkcZ6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004976831817285897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004851175070597627",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "手指上都是口子 https://t.co/Dkk9fZkcZ6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2004851175070597627",
+        "created_at": "2025-12-27T09:45:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T10:45:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004851175070597627"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004851175070597627",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "温馨提示手指没什么血 我昨天有点脑子不好使划手指想写血书结果压根写不出来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "1992652290252316901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 316,
+          "like_count": 5924,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 1917
+        },
+        "username": "ayameeii",
+        "verified": false
+      }
+    ]
+  }
+}

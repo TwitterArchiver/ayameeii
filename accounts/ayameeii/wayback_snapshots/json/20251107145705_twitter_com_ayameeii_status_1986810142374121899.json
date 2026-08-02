@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1986809825905475948",
+    "created_at": "2025-11-07T14:57:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T15:57:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986810142374121899"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1638804999357759491",
+          "start": 0,
+          "username": "qiezijiangnie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986810142374121899",
+    "in_reply_to_user_id": "1638804999357759491",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986809825905475948",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiezijiangnie 茄子酱？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1986809825905475948",
+        "created_at": "2025-11-07T14:57:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T15:57:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986810142374121899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1638804999357759491",
+              "start": 0,
+              "username": "qiezijiangnie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986810142374121899",
+        "in_reply_to_user_id": "1638804999357759491",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986809825905475948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiezijiangnie 茄子酱？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1638804999357759491",
+        "conversation_id": "1986809825905475948",
+        "created_at": "2025-11-07T14:55:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T15:55:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986809825905475948"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1986809825905475948",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁能帮帮我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 216,
+          "like_count": 2637,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 835
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T07:29:29.000Z",
+        "description": "二次元  动漫杂谈  cosplay  绘画  金融 数学\n\n备用号：@qiezijiangniee.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 35,
+                "username": "qiezijiangniee"
+              }
+            ]
+          }
+        },
+        "id": "1638804999357759491",
+        "location": "神滨市",
+        "name": "茄子酱",
+        "pinned_tweet_id": "1882266804057444384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1678180822069944320/GdPAewoL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6178,
+          "following_count": 69,
+          "like_count": 48,
+          "listed_count": 23,
+          "media_count": 808,
+          "tweet_count": 5560
+        },
+        "username": "qiezijiangnie",
+        "verified": false
+      }
+    ]
+  }
+}

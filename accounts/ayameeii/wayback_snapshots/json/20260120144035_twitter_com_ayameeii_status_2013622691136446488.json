@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2013548191669457124",
+    "created_at": "2026-01-20T14:40:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T15:40:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013622691136446488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1708493840477458432",
+          "start": 0,
+          "username": "gCdQqjm35088619"
+        },
+        {
+          "end": 27,
+          "id": "2007068022750814208",
+          "start": 17,
+          "username": "futi78999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013622691136446488",
+    "in_reply_to_user_id": "1708493840477458432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013621945565356258",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gCdQqjm35088619 @futi78999 会被👮找好像是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2013548191669457124",
+        "created_at": "2026-01-20T14:40:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T15:40:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013622691136446488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1708493840477458432",
+              "start": 0,
+              "username": "gCdQqjm35088619"
+            },
+            {
+              "end": 27,
+              "id": "2007068022750814208",
+              "start": 17,
+              "username": "futi78999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013622691136446488",
+        "in_reply_to_user_id": "1708493840477458432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013621945565356258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gCdQqjm35088619 @futi78999 会被👮找好像是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708493840477458432",
+        "conversation_id": "2013548191669457124",
+        "created_at": "2026-01-20T14:37:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T15:37:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013621945565356258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2007068022750814208",
+              "start": 0,
+              "username": "futi78999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013621945565356258",
+        "in_reply_to_user_id": "2007068022750814208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013548191669457124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@futi78999 想问下dpt是被列管了吗？怎么看有人说被禁了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2008864131290694085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 352,
+          "like_count": 6559,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 2191
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-01T14:47:38.000Z",
+        "description": "看来，死亡的天空和生存的天空一样明媚。而且，我忘记了黑暗的思考。这个世界已经没有痛苦了",
+        "id": "1708493840477458432",
+        "name": "電気サーカス",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004188978749345792/74sAh7CM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 47,
+          "like_count": 96,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 106
+        },
+        "username": "gCdQqjm35088619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-02T12:34:56.000Z",
+        "description": "我是扶梯 我存在中重度精分发散中 色胺宇宙的精灵 所有展示的药品均为化学研究 欢迎互fo lgbt全友好",
+        "id": "2007068022750814208",
+        "name": "扶梯（二世）",
+        "pinned_tweet_id": "2007078563661623386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012641969843945472/mP8dcabp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 317,
+          "like_count": 1375,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 259
+        },
+        "username": "futi78999",
+        "verified": false
+      }
+    ]
+  }
+}

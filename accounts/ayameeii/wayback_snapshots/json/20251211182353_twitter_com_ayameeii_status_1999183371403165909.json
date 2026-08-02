@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1999044932573823224",
+    "created_at": "2025-12-11T18:23:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T19:23:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999183371403165909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1597559674647498755",
+          "start": 0,
+          "username": "xlstc173"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999183371403165909",
+    "in_reply_to_user_id": "1597559674647498755",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999044932573823224",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xlstc173 摸你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1999044932573823224",
+        "created_at": "2025-12-11T18:23:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T19:23:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999183371403165909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1597559674647498755",
+              "start": 0,
+              "username": "xlstc173"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999183371403165909",
+        "in_reply_to_user_id": "1597559674647498755",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999044932573823224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xlstc173 摸你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597559674647498755",
+        "conversation_id": "1999044932573823224",
+        "created_at": "2025-12-11T09:13:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T10:13:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999044932573823224"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999044932573823224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好无聊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "1992652290252316901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 301,
+          "like_count": 5358,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1709
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-29T11:54:51.000Z",
+        "description": "Shanghaiの大学生です、いま日本語を勉強します、好きのgameわArknightsと1999です、アニメが好きです",
+        "id": "1597559674647498755",
+        "location": "Shanghai",
+        "name": "やなみ あんな",
+        "pinned_tweet_id": "1982761343485964656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984132697795809280/pUZOS0nv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 221,
+          "like_count": 2938,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 890
+        },
+        "username": "xlstc173",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1995809834525139428",
+    "created_at": "2025-12-02T10:58:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T11:58:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995809834525139428"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1598245359083347968",
+          "start": 3,
+          "username": "YODAYOsub"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995809834525139428",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 860
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995805610538139839",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YODAYOsub: 毎回なんて伝えたらいいのか分からなくなる\n伝えたいことは沢山あるのに"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1995809834525139428",
+        "created_at": "2025-12-02T10:58:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T11:58:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995809834525139428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1598245359083347968",
+              "start": 3,
+              "username": "YODAYOsub"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995809834525139428",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 860
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995805610538139839",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YODAYOsub: 毎回なんて伝えたらいいのか分からなくなる\n伝えたいことは沢山あるのに"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598245359083347968",
+        "conversation_id": "1995805610538139839",
+        "created_at": "2025-12-02T10:41:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T11:41:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995805610538139839"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1995805610538139839",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 133,
+          "impression_count": 68238,
+          "like_count": 8457,
+          "quote_count": 2,
+          "reply_count": 249,
+          "retweet_count": 860
+        },
+        "reply_settings": "everyone",
+        "text": "毎回なんて伝えたらいいのか分からなくなる\n伝えたいことは沢山あるのに"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "1992652290252316901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 283,
+          "like_count": 4696,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1494
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-01T09:19:32.000Z",
+        "description": "余ーだよ",
+        "id": "1598245359083347968",
+        "location": "ホロライブ",
+        "name": "余",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958361748635103232/bRL4l11m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342374,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 2747,
+          "media_count": 23,
+          "tweet_count": 1207
+        },
+        "username": "YODAYOsub",
+        "verified": false
+      }
+    ]
+  }
+}

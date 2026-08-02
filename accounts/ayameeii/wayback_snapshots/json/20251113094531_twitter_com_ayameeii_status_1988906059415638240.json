@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1988905826317189184",
+    "created_at": "2025-11-13T09:45:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T10:45:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988906059415638240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1910605041087766529",
+          "start": 0,
+          "username": "Apibaizhou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988906059415638240",
+    "in_reply_to_user_id": "1910605041087766529",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988905826317189184",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Apibaizhou 尝尝你的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1988905818654486528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5oDTeybsAAGQzK.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1988905826317189184",
+        "created_at": "2025-11-13T09:45:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T10:45:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988906059415638240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1910605041087766529",
+              "start": 0,
+              "username": "Apibaizhou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988906059415638240",
+        "in_reply_to_user_id": "1910605041087766529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988905826317189184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Apibaizhou 尝尝你的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988905818654486528"
+          ]
+        },
+        "author_id": "1910605041087766529",
+        "conversation_id": "1988905826317189184",
+        "created_at": "2025-11-13T09:44:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T10:44:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988905826317189184"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0JOCR5WQCt",
+              "end": 33,
+              "expanded_url": "https://x.com/Apibaizhou/status/1988905826317189184/photo/1",
+              "media_key": "3_1988905818654486528",
+              "start": 10,
+              "url": "https://t.co/0JOCR5WQCt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988905826317189184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已严肃品尝绿猫袜子 https://t.co/0JOCR5WQCt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 228,
+          "like_count": 3153,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 970
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-11T08:05:59.000Z",
+        "description": "ドラマチックに人が死ぬストーリーって売れるじゃないですか",
+        "id": "1910605041087766529",
+        "name": "玉梅好甜喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988489962615173120/4sj7wrqy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 495,
+          "like_count": 1918,
+          "listed_count": 2,
+          "media_count": 39,
+          "tweet_count": 189
+        },
+        "username": "Apibaizhou",
+        "verified": false
+      }
+    ]
+  }
+}

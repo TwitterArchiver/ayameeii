@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2035098503387730191",
+    "created_at": "2026-03-20T20:57:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T21:57:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035098503387730191"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ayameeii/statu…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/ayameeii/status/2035094991752896625",
+          "start": 16,
+          "url": "https://t.co/ovs1NBBk0j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035098503387730191",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035094991752896625",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "喜欢二次元的可以这样和角色互动 https://t.co/ovs1NBBk0j"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2035098503387730191",
+        "created_at": "2026-03-20T20:57:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T21:57:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035098503387730191"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ayameeii/statu…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/ayameeii/status/2035094991752896625",
+              "start": 16,
+              "url": "https://t.co/ovs1NBBk0j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035098503387730191",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035094991752896625",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "喜欢二次元的可以这样和角色互动 https://t.co/ovs1NBBk0j"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2035094991752896625",
+        "created_at": "2026-03-20T20:43:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T21:43:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035094991752896625"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ayameeii/statu…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/ayameeii/status/2035093578549186686",
+              "start": 18,
+              "url": "https://t.co/fLlU4TcJ9H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035094991752896625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035093578549186686",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "能让喜欢的人物变成立体的 很有意思 https://t.co/fLlU4TcJ9H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2027766234981494956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 660,
+          "following_count": 464,
+          "like_count": 7988,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 2866
+        },
+        "username": "ayameeii",
+        "verified": false
+      }
+    ]
+  }
+}

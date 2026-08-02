@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1979774003758956773",
+    "created_at": "2025-10-19T05:01:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T06:01:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979774970462081507"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "623965569",
+          "start": 0,
+          "username": "nothousand"
+        },
+        {
+          "end": 21,
+          "id": "1795785939438215168",
+          "start": 12,
+          "username": "EMeowSys"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979774970462081507",
+    "in_reply_to_user_id": "623965569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979774003758956773",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nothousand @EMeowSys 这是什么游戏"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4433,
+        "height": 960,
+        "media_key": "13_1979773934548484096",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1979773934548484096/img/ivpZNzMfSIr63PlQ.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1979773934548484096/vid/avc1/320x426/2JNAQErUXAQ9kQE5.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1979773934548484096/vid/avc1/480x640/hl570icitT43TwsJ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1979773934548484096/vid/avc1/720x960/jQTWlpz9Q8dIXaK8.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1979773934548484096/pl/1Fa5sfK8-3z8w9fl.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 6555,
+        "height": 720,
+        "media_key": "13_1979773934552707072",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1979773934552707072/img/WFz7umoj31wMpsOg.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1979773934552707072/vid/avc1/480x270/kcQb6uW7uS_aT_u4.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1979773934552707072/vid/avc1/640x360/MwiaqNQV7iIesnZb.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1979773934552707072/vid/avc1/1280x720/fKq8PgWQPBS2q2zK.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1979773934552707072/pl/paJ4WW_WWDnNokZA.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1979774003758956773",
+        "created_at": "2025-10-19T05:01:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T06:01:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979774970462081507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "623965569",
+              "start": 0,
+              "username": "nothousand"
+            },
+            {
+              "end": 21,
+              "id": "1795785939438215168",
+              "start": 12,
+              "username": "EMeowSys"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979774970462081507",
+        "in_reply_to_user_id": "623965569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979774003758956773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nothousand @EMeowSys 这是什么游戏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1979773934548484096",
+            "13_1979773934552707072"
+          ]
+        },
+        "author_id": "623965569",
+        "conversation_id": "1979774003758956773",
+        "created_at": "2025-10-19T04:57:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T05:57:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979774003758956773"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tjChGtLgvt",
+              "end": 38,
+              "expanded_url": "https://x.com/nothousand/status/1979774003758956773/video/1",
+              "media_key": "13_1979773934548484096",
+              "start": 15,
+              "url": "https://t.co/tjChGtLgvt"
+            },
+            {
+              "display_url": "pic.x.com/tjChGtLgvt",
+              "end": 38,
+              "expanded_url": "https://x.com/nothousand/status/1979774003758956773/video/1",
+              "media_key": "13_1979773934552707072",
+              "start": 15,
+              "url": "https://t.co/tjChGtLgvt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979774003758956773",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在家招待 末影喵喵玩游戏ww https://t.co/tjChGtLgvt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 164,
+          "like_count": 1196,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 315
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2012-07-01T16:27:02.000Z",
+        "description": "/记录一些异世界的碎碎念w #INFJ\n##有奇怪想法和需求的人看黄男别来关注我关了也会被我清理！！\n/谨慎fo因为我们可能不是一类人，或者不是你以为的那类人喔\n/不定期删除三无号，不同频的人还请见谅\n/需要回fo请大胆和我说我会来仔细观察你然后给你答案\n//雷自残od各种赤裸色色看到这样的人会unfo",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 19,
+                "start": 14,
+                "tag": "INFJ"
+              },
+              {
+                "end": 48,
+                "start": 21,
+                "tag": "有奇怪想法和需求的人看黄男别来关注我关了也会被我清理"
+              }
+            ]
+          }
+        },
+        "id": "623965569",
+        "location": "earth",
+        "name": "芊茉音華🏳️‍⚧️",
+        "pinned_tweet_id": "1940754100695769098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967060261854212096/znbkYaQl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1606,
+          "following_count": 108,
+          "like_count": 5010,
+          "listed_count": 1,
+          "media_count": 290,
+          "tweet_count": 3633
+        },
+        "username": "nothousand",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-29T11:55:18.000Z",
+        "description": "这里易喵系统/末影猫/BG5CYK\n自发型/创伤型多意识体\nCN/EN/JP学习中\n社交渴望\n墙内活跃\n二次元/业余无线电/轨道交通/程序设计/Minecraft",
+        "id": "1795785939438215168",
+        "location": "虚空中的易喵系统",
+        "name": "易喵系统(末影猫Project)",
+        "pinned_tweet_id": "1968195420506771945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795786104316272640/IXVNkPY1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 720,
+          "following_count": 1785,
+          "like_count": 5674,
+          "listed_count": 5,
+          "media_count": 329,
+          "tweet_count": 3478
+        },
+        "username": "EMeowSys",
+        "verified": false
+      }
+    ]
+  }
+}

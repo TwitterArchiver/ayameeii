@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1976587978937168271",
+    "created_at": "2025-10-10T09:57:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T10:57:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1976587978937168271"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ayameeii/statu…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/ayameeii/status/1976587919000547530",
+          "start": 18,
+          "url": "https://t.co/z7wqdNNl83"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976587978937168271",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976587919000547530",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "所以怎么样都可以 怎么样都无所谓了 https://t.co/z7wqdNNl83"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1976587978937168271",
+        "created_at": "2025-10-10T09:57:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T10:57:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976587978937168271"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ayameeii/statu…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/ayameeii/status/1976587919000547530",
+              "start": 18,
+              "url": "https://t.co/z7wqdNNl83"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976587978937168271",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976587919000547530",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以怎么样都可以 怎么样都无所谓了 https://t.co/z7wqdNNl83"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1976587919000547530",
+        "created_at": "2025-10-10T09:57:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T10:57:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976587919000547530"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1976587919000547530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "理所应当是伪命题"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852135475403984896/GBdrMFBz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 128,
+          "like_count": 667,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 168
+        },
+        "username": "ayameeii",
+        "verified": false
+      }
+    ]
+  }
+}

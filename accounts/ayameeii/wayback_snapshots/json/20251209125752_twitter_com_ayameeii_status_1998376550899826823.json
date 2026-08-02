@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1998373450847838319",
+    "created_at": "2025-12-09T12:57:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T13:57:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998376550899826823"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1812304729432838144",
+          "start": 0,
+          "username": "huimu420"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998376550899826823",
+    "in_reply_to_user_id": "1812304729432838144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998373450847838319",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huimu420 我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1998373450847838319",
+        "created_at": "2025-12-09T12:57:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T13:57:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998376550899826823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1812304729432838144",
+              "start": 0,
+              "username": "huimu420"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998376550899826823",
+        "in_reply_to_user_id": "1812304729432838144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998373450847838319",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huimu420 我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812304729432838144",
+        "conversation_id": "1998373450847838319",
+        "created_at": "2025-12-09T12:45:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T13:45:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998373450847838319"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1998373450847838319",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为啥都没有人跟我网易云一起听。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "1992652290252316901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 301,
+          "like_count": 5233,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1658
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T01:55:01.000Z",
+        "description": "＝回木｜负能↑｜碎碎念｜割手嗑药｜友跨顺女｜泛性恋  偏好流动｜休学中｜很好相处｜fo你是暗恋你☆欢迎和我互fo喵 没回是看不出来成分｜xp是正太萝莉和神职人员♡｜爱人是酷拉皮卡💕",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/huimu420",
+                "end": 23,
+                "expanded_url": "https://t.me/huimu420",
+                "start": 0,
+                "url": "https://t.co/t5cTc4RQ0i"
+              }
+            ]
+          }
+        },
+        "id": "1812304729432838144",
+        "location": "来找我玩",
+        "name": "回木",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997638534576898049/zZRmGg1p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 351,
+          "like_count": 8989,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 2206
+        },
+        "url": "https://t.co/t5cTc4RQ0i",
+        "username": "huimu420",
+        "verified": false
+      }
+    ]
+  }
+}

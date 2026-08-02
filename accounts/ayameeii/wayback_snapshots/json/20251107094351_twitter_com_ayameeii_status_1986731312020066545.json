@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1986693198702649655",
+    "created_at": "2025-11-07T09:43:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T10:43:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986731312020066545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1956567270739828736",
+          "start": 0,
+          "username": "Truffaut897456"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986731312020066545",
+    "in_reply_to_user_id": "1956567270739828736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986693198702649655",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Truffaut897456 恭喜恭喜恭喜🎉主播特别特别可爱！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1986693187415777281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5Im7ZGbIAE6_I0.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1366,
+        "media_key": "3_1986693187419971591",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5Im7ZHbIAc8sAv.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1986693198702649655",
+        "created_at": "2025-11-07T09:43:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T10:43:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986731312020066545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1956567270739828736",
+              "start": 0,
+              "username": "Truffaut897456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986731312020066545",
+        "in_reply_to_user_id": "1956567270739828736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986693198702649655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Truffaut897456 恭喜恭喜恭喜🎉主播特别特别可爱！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986693187415777281",
+            "3_1986693187419971591"
+          ]
+        },
+        "author_id": "1956567270739828736",
+        "conversation_id": "1986693198702649655",
+        "created_at": "2025-11-07T07:12:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T08:12:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986693198702649655"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wDERPY9rs2",
+              "end": 110,
+              "expanded_url": "https://x.com/Truffaut897456/status/1986693198702649655/photo/1",
+              "media_key": "3_1986693187415777281",
+              "start": 87,
+              "url": "https://t.co/wDERPY9rs2"
+            },
+            {
+              "display_url": "pic.x.com/wDERPY9rs2",
+              "end": 110,
+              "expanded_url": "https://x.com/Truffaut897456/status/1986693198702649655/photo/1",
+              "media_key": "3_1986693187419971591",
+              "start": 87,
+              "url": "https://t.co/wDERPY9rs2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986693198702649655",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 4929,
+          "like_count": 190,
+          "quote_count": 1,
+          "reply_count": 30,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "6000fo了！\n谢谢宝宝们喜欢看我乱七八糟的日常🥺\n真的这套羽丘校服感觉特别萌（是说衣服萌啊），嗯后面有机会一定要化全妆再出一次，还有忘记换墨绿色袜子了。下次会补上的嗯。 https://t.co/wDERPY9rs2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 214,
+          "like_count": 2577,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 819
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-16T04:02:53.000Z",
+        "description": "是男生（⚠️）喜欢电影🎦 不限类型 不限国家，喜欢记导演，标豆瓣（玩豆瓣的可以私信来互关），问豆包（低质的内容风格制作历史讨论），喜欢恐怖片（铅黄 好莱坞b恐 邵氏恐怖 香港恐怖 日恐），对烂片有瘾，品味也烂爆 二次元马娘少女乐队特摄车万古早动画都涉猎/喜欢拍cos和女装，纯高p，实际丑蛆🐛/",
+        "id": "1956567270739828736",
+        "location": "我想吃薯条",
+        "name": "Truffaut",
+        "pinned_tweet_id": "1984477957231128693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969769601384022016/D7d4y2EH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6095,
+          "following_count": 952,
+          "like_count": 3283,
+          "listed_count": 19,
+          "media_count": 62,
+          "tweet_count": 1468
+        },
+        "username": "Truffaut897456",
+        "verified": false
+      }
+    ]
+  }
+}

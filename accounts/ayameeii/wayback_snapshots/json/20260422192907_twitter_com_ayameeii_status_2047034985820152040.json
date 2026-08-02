@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2047018094821089281",
+    "created_at": "2026-04-22T19:29:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T20:29:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047034985820152040"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "193648759",
+          "start": 0,
+          "username": "ripo0079"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047034985820152040",
+    "in_reply_to_user_id": "193648759",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047018094821089281",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ripo0079 晚安！不过没有太看懂 意思是你某种程度上不在乎被叫小日本 但是“人妖”很介意  是这个意思吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2047018094821089281",
+        "created_at": "2026-04-22T19:29:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T20:29:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047034985820152040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "193648759",
+              "start": 0,
+              "username": "ripo0079"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047034985820152040",
+        "in_reply_to_user_id": "193648759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047018094821089281",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ripo0079 晚安！不过没有太看懂 意思是你某种程度上不在乎被叫小日本 但是“人妖”很介意  是这个意思吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "193648759",
+        "conversation_id": "2047018094821089281",
+        "created_at": "2026-04-22T18:22:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T19:21:07.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047017874422931703",
+          "2047018094821089281"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047018094821089281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 325,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天我的跨友很忙的\n因此、明天我们学两个广播讲座\n\n今天我也学了多领国\n\n对不起、你们担心我了。\n\n我之前知道了“小日本”的意义。\n我不在乎了。\n但我不好“人妖”。\n\n我很高兴你们的善意\n谢谢\n\n晚安💤\n我与鲨鱼同眠🦈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存|对象❤️@AAAAAMTxT 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "AAAAAMTxT"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 48,
+                "start": 38,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 807,
+          "following_count": 601,
+          "like_count": 9594,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 3566
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2010-09-22T10:51:40.000Z",
+        "description": "🏳️‍⚧️Ripo(中文:莉珀)🏳️‍⚧️ Jpn/Eng/在学中文 インターネット🏳️‍⚧️界隈 国際ニートなご令嬢。青組。🍥跨性别。人間はやっていく生き物です。ソ連、オタク、歴史、旅行、ジェンダーを雑多にやっていくアカウントです。オタクをきちんとやっていきます。🏳️‍⚧️pride.",
+        "id": "193648759",
+        "location": "東側",
+        "name": "りぽたん",
+        "pinned_tweet_id": "2042211394763034677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1489537206905872384/Wlz54C4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9341,
+          "following_count": 1393,
+          "like_count": 71345,
+          "listed_count": 121,
+          "media_count": 4303,
+          "tweet_count": 53997
+        },
+        "username": "ripo0079",
+        "verified": true
+      }
+    ]
+  }
+}

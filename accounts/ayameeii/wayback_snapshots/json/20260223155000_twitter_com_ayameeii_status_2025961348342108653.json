@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2025960006949167306",
+    "created_at": "2026-02-23T15:50:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T16:50:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025961348342108653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1739391734491086848",
+          "start": 0,
+          "username": "IXXA00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025961348342108653",
+    "in_reply_to_user_id": "1739391734491086848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025960006949167306",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IXXA00 ？你没有5个手指吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2025960006949167306",
+        "created_at": "2026-02-23T15:50:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T16:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025961348342108653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025961348342108653",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025960006949167306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 ？你没有5个手指吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2025960006949167306",
+        "created_at": "2026-02-23T15:44:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T16:44:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025960006949167306"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/IXXA00/status/…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/IXXA00/status/2025924770576179534",
+              "start": 23,
+              "url": "https://t.co/zX62BjT9Ml"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025960006949167306",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025924770576179534",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "主包小手还挺好看的，要是有5个手指就更好了。 https://t.co/zX62BjT9Ml"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2014053871983685932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 623,
+          "following_count": 419,
+          "like_count": 7426,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 2607
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "你好，我是卖的。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "pinned_tweet_id": "2016421959370997852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993889710620733440/BLn_aHlJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5746,
+          "following_count": 4471,
+          "like_count": 35996,
+          "listed_count": 15,
+          "media_count": 2619,
+          "tweet_count": 36048
+        },
+        "username": "IXXA00",
+        "verified": false
+      }
+    ]
+  }
+}

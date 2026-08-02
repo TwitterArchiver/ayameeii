@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2025855235835711921",
+    "created_at": "2026-02-23T15:41:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T16:41:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025959137616765206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1769904101704552448",
+          "start": 0,
+          "username": "ShengTian22332"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025959137616765206",
+    "in_reply_to_user_id": "1769904101704552448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025855235835711921",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShengTian22332 北京不是消费很高吗🫨怎么会有这么贵的 感觉不如饿肚子"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3117,
+        "media_key": "3_2025855183981621248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB1Ijm-bsAABHL8.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2025855235835711921",
+        "created_at": "2026-02-23T15:41:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T16:41:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025959137616765206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1769904101704552448",
+              "start": 0,
+              "username": "ShengTian22332"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025959137616765206",
+        "in_reply_to_user_id": "1769904101704552448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025855235835711921",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShengTian22332 北京不是消费很高吗🫨怎么会有这么贵的 感觉不如饿肚子"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025855183981621248"
+          ]
+        },
+        "author_id": "1769904101704552448",
+        "conversation_id": "2025855235835711921",
+        "created_at": "2026-02-23T08:48:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T09:48:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025855235835711921"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5lloGUmEdI",
+              "end": 44,
+              "expanded_url": "https://x.com/ShengTian22332/status/2025855235835711921/photo/1",
+              "media_key": "3_2025855183981621248",
+              "start": 21,
+              "url": "https://t.co/5lloGUmEdI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025855235835711921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妈咪，我是北京来的穷逼，我要吃不起泡馍了 https://t.co/5lloGUmEdI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2014053871983685932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 623,
+          "following_count": 418,
+          "like_count": 7416,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 2603
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-19T01:50:31.000Z",
+        "description": "mtf🏳️‍⚧️/小证含糖🍥/4k epsilon ln14/HRT2024.06/健身/爱吃好吃的/同类贴贴互fo/日常推美食推\n已被开除音游籍/可愛妹妹 @KoishinFlandre\n/打mai的可爱妹妹@Raychan_da/数学物理/intp/贴贴/应该是温柔的人/欢迎来找我聊天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 79,
+                "username": "KoishinFlandre"
+              },
+              {
+                "end": 116,
+                "start": 105,
+                "username": "Raychan_da"
+              }
+            ]
+          }
+        },
+        "id": "1769904101704552448",
+        "location": "Los Angeles, CA",
+        "name": "甜普生🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004731002049204224/v3p2e3Lu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 345,
+          "like_count": 1936,
+          "listed_count": 1,
+          "media_count": 372,
+          "tweet_count": 1837
+        },
+        "username": "ShengTian22332",
+        "verified": false
+      }
+    ]
+  }
+}

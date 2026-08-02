@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999393111848681478"
+      ],
+      "media_source_tweet_id": [
+        "1999393129489924498"
+      ]
+    },
+    "author_id": "1852135214795100164",
+    "conversation_id": "1999456081375002793",
+    "created_at": "2025-12-12T12:27:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T13:27:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999456081375002793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1024532356554608640",
+          "start": 3,
+          "username": "nakiriayame"
+        }
+      ],
+      "urls": [
+        {
+          "description": "- - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - -ഒ˖° 🌟百鬼あやめ活動7周年記念グッズ🌟 2025年10月06日 1...",
+          "display_url": "youtube.com/live/wrdX3OJYv…",
+          "end": 110,
+          "expanded_url": "https://youtube.com/live/wrdX3OJYvkI?feature=share",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/1999393130190372869/sP2n02Tw?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1999393130190372869/sP2n02Tw?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 87,
+          "status": 200,
+          "title": "お誕生日カウントダウン！！皆と見届けるぞおおおおおお【百鬼あやめ/ホロライブ】",
+          "unwound_url": "https://www.youtube.com/live/wrdX3OJYvkI?feature=share",
+          "url": "https://t.co/tIoGO0TKBB"
+        },
+        {
+          "display_url": "pic.x.com/rEZ4nhVTEW",
+          "end": 134,
+          "expanded_url": "https://x.com/nakiriayame/status/1999393129489924498/photo/1",
+          "media_key": "3_1999393111848681478",
+          "start": 111,
+          "url": "https://t.co/rEZ4nhVTEW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999456081375002793",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2083
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999393129489924498",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nakiriayame: 😈放送告知😈\n\nお誕生日カウントダウン！！\nみんなと見届けるぞ～～！！🥳🥳\n\n📅配信日時\n12月12日(金) 23時30分～\n\n🔽待機所🔽\nhttps://t.co/tIoGO0TKBB https://t.co/rEZ4nhVTEW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_1999393111848681478",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G79FcSYagAYoQOo.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999393111848681478"
+          ],
+          "media_source_tweet_id": [
+            "1999393129489924498"
+          ]
+        },
+        "author_id": "1852135214795100164",
+        "conversation_id": "1999456081375002793",
+        "created_at": "2025-12-12T12:27:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T13:27:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999456081375002793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1024532356554608640",
+              "start": 3,
+              "username": "nakiriayame"
+            }
+          ],
+          "urls": [
+            {
+              "description": "- - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - -ഒ˖° 🌟百鬼あやめ活動7周年記念グッズ🌟 2025年10月06日 1...",
+              "display_url": "youtube.com/live/wrdX3OJYv…",
+              "end": 110,
+              "expanded_url": "https://youtube.com/live/wrdX3OJYvkI?feature=share",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1999393130190372869/sP2n02Tw?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1999393130190372869/sP2n02Tw?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 87,
+              "status": 200,
+              "title": "お誕生日カウントダウン！！皆と見届けるぞおおおおおお【百鬼あやめ/ホロライブ】",
+              "unwound_url": "https://www.youtube.com/live/wrdX3OJYvkI?feature=share",
+              "url": "https://t.co/tIoGO0TKBB"
+            },
+            {
+              "display_url": "pic.x.com/rEZ4nhVTEW",
+              "end": 134,
+              "expanded_url": "https://x.com/nakiriayame/status/1999393129489924498/photo/1",
+              "media_key": "3_1999393111848681478",
+              "start": 111,
+              "url": "https://t.co/rEZ4nhVTEW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999456081375002793",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2083
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999393129489924498",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nakiriayame: 😈放送告知😈\n\nお誕生日カウントダウン！！\nみんなと見届けるぞ～～！！🥳🥳\n\n📅配信日時\n12月12日(金) 23時30分～\n\n🔽待機所🔽\nhttps://t.co/tIoGO0TKBB https://t.co/rEZ4nhVTEW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999393111848681478"
+          ]
+        },
+        "author_id": "1024532356554608640",
+        "conversation_id": "1999393129489924498",
+        "created_at": "2025-12-12T08:17:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T09:17:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999393129489924498"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "- - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - -ഒ˖° 🌟百鬼あやめ活動7周年記念グッズ🌟 2025年10月06日 1...",
+              "display_url": "youtube.com/live/wrdX3OJYv…",
+              "end": 93,
+              "expanded_url": "https://youtube.com/live/wrdX3OJYvkI?feature=share",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1999393130190372869/sP2n02Tw?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1999393130190372869/sP2n02Tw?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 70,
+              "status": 200,
+              "title": "お誕生日カウントダウン！！皆と見届けるぞおおおおおお【百鬼あやめ/ホロライブ】",
+              "unwound_url": "https://www.youtube.com/live/wrdX3OJYvkI?feature=share",
+              "url": "https://t.co/tIoGO0TKBB"
+            },
+            {
+              "display_url": "pic.x.com/rEZ4nhVTEW",
+              "end": 117,
+              "expanded_url": "https://x.com/nakiriayame/status/1999393129489924498/photo/1",
+              "media_key": "3_1999393111848681478",
+              "start": 94,
+              "url": "https://t.co/rEZ4nhVTEW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999393129489924498",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 150,
+          "impression_count": 105893,
+          "like_count": 9992,
+          "quote_count": 31,
+          "reply_count": 247,
+          "retweet_count": 2083
+        },
+        "reply_settings": "everyone",
+        "text": "😈放送告知😈\n\nお誕生日カウントダウン！！\nみんなと見届けるぞ～～！！🥳🥳\n\n📅配信日時\n12月12日(金) 23時30分～\n\n🔽待機所🔽\nhttps://t.co/tIoGO0TKBB https://t.co/rEZ4nhVTEW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "1992652290252316901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 303,
+          "like_count": 5419,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1735
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-01T05:48:43.000Z",
+        "description": "ホロライブ2期生 百鬼あやめ (なきり あやめ)😈 ￤生放送ﾀｸﾞ ＃百鬼あやめch ￤ﾌｧﾝｱｰﾄ ＃百鬼絵巻 (※活動で使用する場合があります！) ￤ﾎﾞｲｽ感想 #百鬼ボイス￤サブ垢@YODAYOsub",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 42,
+                "start": 34,
+                "tag": "百鬼あやめch"
+              },
+              {
+                "end": 56,
+                "start": 51,
+                "tag": "百鬼絵巻"
+              },
+              {
+                "end": 90,
+                "start": 84,
+                "tag": "百鬼ボイス"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 104,
+                "start": 94,
+                "username": "YODAYOsub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UC7fk0…",
+                "end": 23,
+                "expanded_url": "http://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg?sub_confirmation=1",
+                "start": 0,
+                "url": "https://t.co/muahfPjbYG"
+              }
+            ]
+          }
+        },
+        "id": "1024532356554608640",
+        "location": "ホロライブ",
+        "name": "百鬼あやめ😈ホロライブ2期生",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963252234743078912/_XXu6PyY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1380345,
+          "following_count": 1195,
+          "like_count": 10969,
+          "listed_count": 13200,
+          "media_count": 1392,
+          "tweet_count": 15647
+        },
+        "url": "https://t.co/muahfPjbYG",
+        "username": "nakiriayame",
+        "verified": true
+      }
+    ]
+  }
+}

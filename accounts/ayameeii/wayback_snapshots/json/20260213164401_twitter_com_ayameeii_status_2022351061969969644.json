@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2022283403190804665",
+    "created_at": "2026-02-13T16:44:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T17:44:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022351061969969644"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1997141885589377026",
+          "start": 0,
+          "username": "syokora755476"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022351061969969644",
+    "in_reply_to_user_id": "1997141885589377026",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022283403190804665",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@syokora755476 宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2022283403190804665",
+        "created_at": "2026-02-13T16:44:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T17:44:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022351061969969644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1997141885589377026",
+              "start": 0,
+              "username": "syokora755476"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022351061969969644",
+        "in_reply_to_user_id": "1997141885589377026",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022283403190804665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@syokora755476 宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997141885589377026",
+        "conversation_id": "2022283403190804665",
+        "created_at": "2026-02-13T12:15:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T13:15:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022283403190804665"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022283403190804665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有人吗有人吗有人吗有人吗有人吗有人吗有人吗有人吗有人吗有人吗有人吗有人吗有人吗有人吗有人吗有人吗有人吗有人吗有人吗有人吗有人吗有人吗有人吗有人吗有人吗有人吗有人吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2014053871983685932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 533,
+          "following_count": 384,
+          "like_count": 7018,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 2427
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-06T03:12:08.000Z",
+        "description": "做人缺爱，做爱缺人",
+        "id": "1997141885589377026",
+        "name": "citrus",
+        "pinned_tweet_id": "2022293463757451640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022307272748318720/wR1Nc9gm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 14,
+          "like_count": 88,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 109
+        },
+        "username": "syokora755476",
+        "verified": false
+      }
+    ]
+  }
+}

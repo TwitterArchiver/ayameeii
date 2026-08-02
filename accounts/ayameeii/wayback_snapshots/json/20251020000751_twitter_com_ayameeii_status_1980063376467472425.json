@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1980063034648461561",
+    "created_at": "2025-10-20T00:07:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T01:07:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980063376467472425"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1692136120027320320",
+          "start": 0,
+          "username": "AlbertIsCypress"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980063376467472425",
+    "in_reply_to_user_id": "1692136120027320320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980063034648461561",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AlbertIsCypress 这么命运多舛...但是现在这样不也是在活着吗🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 924,
+        "media_key": "3_1980062110575976449",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3qX_64XYAE1Zjz.jpg",
+        "width": 1079
+      },
+      {
+        "height": 762,
+        "media_key": "3_1980062111058329600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3qX_8rXgAAPYWD.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1980063034648461561",
+        "created_at": "2025-10-20T00:07:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T01:07:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980063376467472425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1692136120027320320",
+              "start": 0,
+              "username": "AlbertIsCypress"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980063376467472425",
+        "in_reply_to_user_id": "1692136120027320320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980063034648461561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AlbertIsCypress 这么命运多舛...但是现在这样不也是在活着吗🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980062110575976449",
+            "3_1980062111058329600"
+          ]
+        },
+        "author_id": "1692136120027320320",
+        "conversation_id": "1980063034648461561",
+        "created_at": "2025-10-20T00:06:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T01:02:50.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980062113830957495",
+          "1980062616732274870",
+          "1980063034648461561"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/13aqgH4S3P",
+              "end": 168,
+              "expanded_url": "https://x.com/AlbertIsCypress/status/1980063034648461561/photo/1",
+              "media_key": "3_1980062110575976449",
+              "start": 145,
+              "url": "https://t.co/13aqgH4S3P"
+            },
+            {
+              "display_url": "pic.x.com/13aqgH4S3P",
+              "end": 168,
+              "expanded_url": "https://x.com/AlbertIsCypress/status/1980063034648461561/photo/1",
+              "media_key": "3_1980062111058329600",
+              "start": 145,
+              "url": "https://t.co/13aqgH4S3P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980063034648461561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "OK了家人们，我现在真有点子不想活了，精神状态一塌糊涂就算了肉体也是个病秧子。精神问题就不提了，基本上需要长期服药以decade为单位的那种，心脏病主动脉瓣畸形只能手术，后面又有一点糖耐量受损遗传的在吃二甲双胍，眼睛也有毛病也只能手术，又是贫血状态需要吃补铁的药。又给我来个拇外翻以及脚趾畸形。。。\n我有点子想笑。我靠。这些东西连带精神的问题全治好加上后续吃药应该得有100个吧。\n\n那我还活鸡毛啊，跳了兄弟。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "OK了家人们，我现在真有点子不想活了，精神状态一塌糊涂就算了肉体也是个病秧子。精神问题就不提了，基本上需要长期服药以decade为单位的那种，心脏病主动脉瓣畸形只能手术，后面又有一点糖耐量受损遗传的在吃二甲双胍，眼睛也有毛病也只能手术，又是贫血状态需要吃补铁的药。又给我来个拇外翻以及脚趾 https://t.co/13aqgH4S3P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 166,
+          "like_count": 1253,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 335
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-17T11:27:49.000Z",
+        "description": "低浮上|不是人类不说人话&精神(不是情绪)状态是量子叠加态|成分复杂关注请谨慎|INFJ sp/so5w6|Median系统|分裂情感性精神病&阿斯伯格|无性恋&泛浪漫|误block致歉|看我不爽建议您去死捏|第二人格@theLostCypress",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 109,
+                "username": "theLostCypress"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/OyZXUu3",
+                "end": 23,
+                "expanded_url": "https://b23.tv/OyZXUu3",
+                "start": 0,
+                "url": "https://t.co/oROirNnIey"
+              }
+            ]
+          }
+        },
+        "id": "1692136120027320320",
+        "location": "星期八",
+        "name": "住在星期八的柏树7.0【#INSANE】",
+        "pinned_tweet_id": "1965435278488903800",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965431647366774786/86s4Wmng_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1566,
+          "following_count": 1208,
+          "like_count": 35054,
+          "listed_count": 8,
+          "media_count": 1597,
+          "tweet_count": 10586
+        },
+        "url": "https://t.co/oROirNnIey",
+        "username": "AlbertIsCypress",
+        "verified": true
+      }
+    ]
+  }
+}

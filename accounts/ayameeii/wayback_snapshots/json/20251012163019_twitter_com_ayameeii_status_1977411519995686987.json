@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1977116385890517193",
+    "created_at": "2025-10-12T16:30:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T17:30:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977411519995686987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1597605170502062080",
+          "start": 0,
+          "username": "Ayanami_rin0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977411519995686987",
+    "in_reply_to_user_id": "1597605170502062080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977116385890517193",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ayanami_rin0 怎么现在才看见（生日快乐🎂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1977116379116716032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3Ag3yDbwAAa057.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1977116385890517193",
+        "created_at": "2025-10-12T16:30:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T17:30:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977411519995686987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1597605170502062080",
+              "start": 0,
+              "username": "Ayanami_rin0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977411519995686987",
+        "in_reply_to_user_id": "1597605170502062080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977116385890517193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayanami_rin0 怎么现在才看见（生日快乐🎂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977116379116716032"
+          ]
+        },
+        "author_id": "1597605170502062080",
+        "conversation_id": "1977116385890517193",
+        "created_at": "2025-10-11T20:57:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T21:57:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977116385890517193"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4IOee6I5AK",
+              "end": 96,
+              "expanded_url": "https://x.com/Ayanami_rin0/status/1977116385890517193/photo/1",
+              "media_key": "3_1977116379116716032",
+              "start": 73,
+              "url": "https://t.co/4IOee6I5AK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977116385890517193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 7789,
+          "like_count": 134,
+          "quote_count": 1,
+          "reply_count": 47,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢你🙏推特\n玩城市天际线玩一不小心玩到半夜五点准备睡觉看手机发现居然有气球，第一反应是注册软件的时候乱输的生日，仔细一想不对，好像真是我生日（ https://t.co/4IOee6I5AK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852135475403984896/GBdrMFBz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 135,
+          "like_count": 782,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 194
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-29T14:55:41.000Z",
+        "description": "只管开心,无需正常,#祝自由 ，#啊呀纳米相册 水中寒月如雪， 指尖轻点融解， 断桥是否下过雪🫖#小绫的诗歌日记本 糊满腻子的垃圾场于美丽的新世界🍨喜欢吃杨梅冰粉雪绵豆沙和马桶盖子 #小绫饭店 世界上最幸福的人",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 14,
+                "start": 10,
+                "tag": "祝自由"
+              },
+              {
+                "end": 23,
+                "start": 16,
+                "tag": "啊呀纳米相册"
+              },
+              {
+                "end": 57,
+                "start": 48,
+                "tag": "小绫的诗歌日记本"
+              },
+              {
+                "end": 96,
+                "start": 91,
+                "tag": "小绫饭店"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ayanami_rin0eat",
+                "end": 23,
+                "expanded_url": "https://t.me/Ayanami_rin0eat",
+                "start": 0,
+                "url": "https://t.co/yZdZaQl6hE"
+              }
+            ]
+          }
+        },
+        "id": "1597605170502062080",
+        "location": "美丽而纯洁无瑕的少女总有一些小秘密，不是吗？",
+        "name": "涟漪aynm💨♿️🍼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962518783266054144/hR8KOYEs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3860,
+          "following_count": 562,
+          "like_count": 8787,
+          "listed_count": 10,
+          "media_count": 1083,
+          "tweet_count": 6342
+        },
+        "url": "https://t.co/yZdZaQl6hE",
+        "username": "Ayanami_rin0",
+        "verified": false
+      }
+    ]
+  }
+}

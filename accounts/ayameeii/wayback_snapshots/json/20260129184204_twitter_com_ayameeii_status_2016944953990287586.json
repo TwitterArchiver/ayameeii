@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2016936033385173111",
+    "created_at": "2026-01-29T18:42:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T19:42:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016944953990287586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1959373035997450240",
+          "start": 0,
+          "username": "yutun_baizi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016944953990287586",
+    "in_reply_to_user_id": "1959373035997450240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016944108690944070",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yutun_baizi 不会讲🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2016936033385173111",
+        "created_at": "2026-01-29T18:42:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T19:42:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016944953990287586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1959373035997450240",
+              "start": 0,
+              "username": "yutun_baizi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016944953990287586",
+        "in_reply_to_user_id": "1959373035997450240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016944108690944070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yutun_baizi 不会讲🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959373035997450240",
+        "conversation_id": "2016936033385173111",
+        "created_at": "2026-01-29T18:38:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T19:38:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016944108690944070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1852135214795100164",
+              "start": 0,
+              "username": "ayameeii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016944108690944070",
+        "in_reply_to_user_id": "1959373035997450240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016943869288473086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayameeii 讲睡前故事"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2014053871983685932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 371,
+          "like_count": 6788,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 2308
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-23T21:52:35.000Z",
+        "description": "",
+        "id": "1959373035997450240",
+        "location": "Tokyo-to, Japan",
+        "name": "鱼鲀白子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959374298810060800/clyY30AL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 16,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 203
+        },
+        "username": "yutun_baizi",
+        "verified": false
+      }
+    ]
+  }
+}

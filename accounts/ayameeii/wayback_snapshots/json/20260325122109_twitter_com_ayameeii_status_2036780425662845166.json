@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2036777482716926082",
+    "created_at": "2026-03-25T12:21:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T13:21:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036780425662845166"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1932805110712971266",
+          "start": 0,
+          "username": "Qingyue24100"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036780425662845166",
+    "in_reply_to_user_id": "1932805110712971266",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036777482716926082",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qingyue24100 都有的 不要这么责怪自己呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2036777482716926082",
+        "created_at": "2026-03-25T12:21:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T13:21:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036780425662845166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1932805110712971266",
+              "start": 0,
+              "username": "Qingyue24100"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036780425662845166",
+        "in_reply_to_user_id": "1932805110712971266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036777482716926082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qingyue24100 都有的 不要这么责怪自己呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932805110712971266",
+        "conversation_id": "2036777482716926082",
+        "created_at": "2026-03-25T12:09:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T13:09:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036777482716926082"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036777482716926082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么别人抑郁都是厌食，我抑郁就暴饮暴食.."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2036043044986953736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 692,
+          "following_count": 493,
+          "like_count": 8331,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 3016
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-11T14:20:30.000Z",
+        "description": "我的头怎么这么大\n没撅嘴，我是嘴凸",
+        "id": "1932805110712971266",
+        "name": "kuroniko🍓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016832108808024064/0D3YX6zi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 155,
+          "like_count": 6333,
+          "listed_count": 2,
+          "media_count": 181,
+          "tweet_count": 1383
+        },
+        "username": "Qingyue24100",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2033202046573420580",
+    "created_at": "2026-03-16T12:29:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T13:29:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033521009752682757"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1749765063446233088",
+          "start": 0,
+          "username": "ChaBingovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033521009752682757",
+    "in_reply_to_user_id": "1749765063446233088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033202046573420580",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChaBingovo 生日快乐🎂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2033202040667856896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDdie86bYAAzWJ4.jpg",
+        "width": 951
+      },
+      {
+        "height": 1538,
+        "media_key": "3_2033202042794311680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDdifE1agAA7UAK.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1538,
+        "media_key": "3_2033202043188613120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDdifGTbEAA5ny-.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2033202046573420580",
+        "created_at": "2026-03-16T12:29:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T13:29:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033521009752682757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1749765063446233088",
+              "start": 0,
+              "username": "ChaBingovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033521009752682757",
+        "in_reply_to_user_id": "1749765063446233088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033202046573420580",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChaBingovo 生日快乐🎂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033202040667856896",
+            "3_2033202042794311680",
+            "3_2033202043188613120"
+          ]
+        },
+        "author_id": "1749765063446233088",
+        "conversation_id": "2033202046573420580",
+        "created_at": "2026-03-15T15:21:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T16:21:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033202046573420580"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZNG2DLt3Iq",
+              "end": 45,
+              "expanded_url": "https://x.com/ChaBingovo/status/2033202046573420580/photo/1",
+              "media_key": "3_2033202040667856896",
+              "start": 22,
+              "url": "https://t.co/ZNG2DLt3Iq"
+            },
+            {
+              "display_url": "pic.x.com/ZNG2DLt3Iq",
+              "end": 45,
+              "expanded_url": "https://x.com/ChaBingovo/status/2033202046573420580/photo/1",
+              "media_key": "3_2033202042794311680",
+              "start": 22,
+              "url": "https://t.co/ZNG2DLt3Iq"
+            },
+            {
+              "display_url": "pic.x.com/ZNG2DLt3Iq",
+              "end": 45,
+              "expanded_url": "https://x.com/ChaBingovo/status/2033202046573420580/photo/1",
+              "media_key": "3_2033202043188613120",
+              "start": 22,
+              "url": "https://t.co/ZNG2DLt3Iq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033202046573420580",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4729,
+          "like_count": 74,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "依旧年更，终于快满18惹\n祝我自己生日快乐 https://t.co/ZNG2DLt3Iq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2027766234981494956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 640,
+          "following_count": 447,
+          "like_count": 7810,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 2781
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-23T12:04:43.000Z",
+        "description": "09/超喜欢xyn和小男娘/INFP/泛性恋",
+        "id": "1749765063446233088",
+        "location": "XinJiang",
+        "name": "茶冰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765698993743646720/Be_lpq_7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 515,
+          "following_count": 1223,
+          "like_count": 2727,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 22
+        },
+        "username": "ChaBingovo",
+        "verified": false
+      }
+    ]
+  }
+}

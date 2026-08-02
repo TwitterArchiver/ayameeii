@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1994597339168997635",
+    "created_at": "2025-11-29T03:24:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T04:24:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994608284024934887"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1194283796314509312",
+          "start": 0,
+          "username": "gana0w0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994608284024934887",
+    "in_reply_to_user_id": "1194283796314509312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994597339168997635",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gana0w0 这事也太荒唐了。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1994597339168997635",
+        "created_at": "2025-11-29T03:24:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T04:24:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994608284024934887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1194283796314509312",
+              "start": 0,
+              "username": "gana0w0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994608284024934887",
+        "in_reply_to_user_id": "1194283796314509312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994597339168997635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gana0w0 这事也太荒唐了。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1194283796314509312",
+        "conversation_id": "1994597339168997635",
+        "created_at": "2025-11-29T02:40:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T03:40:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994597339168997635"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/simonjp404/sta…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/simonjp404/status/1994379209364615179",
+              "start": 13,
+              "url": "https://t.co/X5YQ2t9llW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994597339168997635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 586,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994379209364615179",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看以后还有谁敢来开演唱会 https://t.co/X5YQ2t9llW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "喜欢我我也喜欢你 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "1992652290252316901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 273,
+          "like_count": 4426,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1399
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-12T16:00:27.000Z",
+        "description": "🚪288（仅好友位没有任何福利，女生免 ） 日本語垢@ganaqwq 🐈@Torakoqwq 📕同名 リスカ@xian__xxx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 26,
+                "username": "ganaqwq"
+              },
+              {
+                "end": 46,
+                "start": 36,
+                "username": "Torakoqwq"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "xian__xxx"
+              }
+            ]
+          }
+        },
+        "id": "1194283796314509312",
+        "location": "接塔罗35/一个问题",
+        "name": "gana",
+        "pinned_tweet_id": "1711723495728836643",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938585834489602048/q7s5J0cU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66012,
+          "following_count": 164,
+          "like_count": 9373,
+          "listed_count": 198,
+          "media_count": 1431,
+          "tweet_count": 6517
+        },
+        "username": "gana0w0",
+        "verified": false
+      }
+    ]
+  }
+}

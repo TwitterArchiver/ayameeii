@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2052966617412436176",
+    "created_at": "2026-05-09T04:19:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T05:19:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052966617412436176"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2043952988557803520",
+          "start": 3,
+          "username": "tngxngxng13171"
+        },
+        {
+          "end": 33,
+          "id": "1852135214795100164",
+          "start": 24,
+          "username": "ayameeii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052966617412436176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051952311644323949",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tngxngxng13171: 我的挚爱@ayameeii"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2052966617412436176",
+        "created_at": "2026-05-09T04:19:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T05:19:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052966617412436176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2043952988557803520",
+              "start": 3,
+              "username": "tngxngxng13171"
+            },
+            {
+              "end": 33,
+              "id": "1852135214795100164",
+              "start": 24,
+              "username": "ayameeii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052966617412436176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051952311644323949",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tngxngxng13171: 我的挚爱@ayameeii"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043952988557803520",
+        "conversation_id": "2051952311644323949",
+        "created_at": "2026-05-06T09:08:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T10:08:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051952311644323949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1852135214795100164",
+              "start": 4,
+              "username": "ayameeii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051952311644323949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的挚爱@ayameeii"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存|对象❤️@tngxngxng13171 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 10,
+                "username": "tngxngxng13171"
+              },
+              {
+                "end": 38,
+                "start": 28,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 53,
+                "start": 43,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 840,
+          "following_count": 623,
+          "like_count": 9701,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 3663
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-14T07:22:50.000Z",
+        "description": "互联网的堕天使/白骑士综合征/地雷/餐券/病弱/抖M/恋痛/生理双性/无性别主义者/永远怀念@AAAAAMTxT /❤️@ayameeii/互fo寻回中... \n\n主坑prsk/主推宵崎奏、晓山瑞希、望月穗波、日野森志步/团推Leoneed&25时/会出一些相关的cos\n\n副坑神椿/喜欢可不的歌声",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 46,
+                "username": "AAAAAMTxT"
+              },
+              {
+                "end": 69,
+                "start": 60,
+                "username": "ayameeii"
+              }
+            ]
+          }
+        },
+        "id": "2043952988557803520",
+        "location": "Hong Kong",
+        "name": "星雫瑞星",
+        "pinned_tweet_id": "2049221796327838000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048446214245691392/lQgtgY8z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 164,
+          "like_count": 2432,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 300
+        },
+        "username": "tngxngxng13171",
+        "verified": false
+      }
+    ]
+  }
+}

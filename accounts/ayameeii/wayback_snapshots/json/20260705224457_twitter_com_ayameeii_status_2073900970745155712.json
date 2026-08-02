@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2073789956011778189",
+    "created_at": "2026-07-05T22:44:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T23:44:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073900970745155712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1835112020007596032",
+          "start": 0,
+          "username": "ManTian99501"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073900970745155712",
+    "in_reply_to_user_id": "1835112020007596032",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073789956011778189",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ManTian99501 好看！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073789900311461888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMeU7UrbgAA_q1r.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2073789956011778189",
+        "created_at": "2026-07-05T22:44:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T23:44:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073900970745155712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1835112020007596032",
+              "start": 0,
+              "username": "ManTian99501"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073900970745155712",
+        "in_reply_to_user_id": "1835112020007596032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073789956011778189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ManTian99501 好看！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073789900311461888"
+          ]
+        },
+        "author_id": "1835112020007596032",
+        "conversation_id": "2073789956011778189",
+        "created_at": "2026-07-05T15:23:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T16:23:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073789956011778189"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yPiOTXBr8M",
+              "end": 34,
+              "expanded_url": "https://x.com/ManTian99501/status/2073789956011778189/photo/1",
+              "media_key": "3_2073789900311461888",
+              "start": 11,
+              "url": "https://t.co/yPiOTXBr8M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073789956011778189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 159,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "超级网感女神（确信） https://t.co/yPiOTXBr8M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存| 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 34,
+                "start": 24,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1053,
+          "following_count": 691,
+          "like_count": 10365,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 4046
+        },
+        "url": "",
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-15T00:23:18.000Z",
+        "description": "本当はもっとバカでいたい くだらないこと歌にして死にたい",
+        "id": "1835112020007596032",
+        "location": "China",
+        "name": "天滿",
+        "pinned_tweet_id": "1995461615102091670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060771474903076864/gOlIla94_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 508,
+          "following_count": 1403,
+          "like_count": 14777,
+          "listed_count": 3,
+          "media_count": 242,
+          "tweet_count": 1572
+        },
+        "url": "",
+        "username": "ManTian99501",
+        "verified": false
+      }
+    ]
+  }
+}

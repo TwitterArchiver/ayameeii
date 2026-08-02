@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1994467172392079581",
+    "created_at": "2025-11-29T00:58:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T01:58:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994571634506964995"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1783748675183030273",
+          "start": 0,
+          "username": "lainlain8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994571634506964995",
+    "in_reply_to_user_id": "1783748675183030273",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994467172392079581",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lainlain8964 我吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1994467166352281604",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G63FUhabkAQoAvI.jpg",
+        "width": 1692
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1994467172392079581",
+        "created_at": "2025-11-29T00:58:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T01:58:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994571634506964995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1783748675183030273",
+              "start": 0,
+              "username": "lainlain8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994571634506964995",
+        "in_reply_to_user_id": "1783748675183030273",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994467172392079581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lainlain8964 我吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994467166352281604"
+          ]
+        },
+        "author_id": "1783748675183030273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1994467172392079581",
+        "created_at": "2025-11-28T18:03:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T19:03:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994467172392079581"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NBcGetygWb",
+              "end": 38,
+              "expanded_url": "https://x.com/lainlain8964/status/1994467172392079581/photo/1",
+              "media_key": "3_1994467166352281604",
+              "start": 15,
+              "url": "https://t.co/NBcGetygWb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994467172392079581",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 122,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "誰吃我蒸的蛋蛋（醬油放太多了 https://t.co/NBcGetygWb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "喜欢我我也喜欢你 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "1992652290252316901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 272,
+          "like_count": 4402,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1390
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-26T06:43:50.000Z",
+        "description": "HKer/Cantonese/Mandarin/English",
+        "id": "1783748675183030273",
+        "location": "Transmasc",
+        "name": "戀色病棟",
+        "pinned_tweet_id": "1985288119391006829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992239325418074112/qIBLQ3ja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 181,
+          "like_count": 3548,
+          "listed_count": 2,
+          "media_count": 39,
+          "tweet_count": 584
+        },
+        "username": "lainlain8964",
+        "verified": false
+      }
+    ]
+  }
+}

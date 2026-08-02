@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1982648585276793203",
+    "created_at": "2025-10-27T03:44:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T04:44:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982654708604100962"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1735017872353808385",
+          "start": 0,
+          "username": "wawoqu2772"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982654708604100962",
+    "in_reply_to_user_id": "1735017872353808385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982648585276793203",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wawoqu2772 住院了吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1982648585276793203",
+        "created_at": "2025-10-27T03:44:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T04:44:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982654708604100962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1735017872353808385",
+              "start": 0,
+              "username": "wawoqu2772"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982654708604100962",
+        "in_reply_to_user_id": "1735017872353808385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982648585276793203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wawoqu2772 住院了吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1735017872353808385",
+        "conversation_id": "1982648585276793203",
+        "created_at": "2025-10-27T03:20:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T04:20:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982648585276793203"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1982648585276793203",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "出院！\n（后天复查）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 191,
+          "like_count": 1865,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 508
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-13T19:24:40.000Z",
+        "description": "尹白雯//精神南极人，身份认同是企鹅//地科只学了一晚居然省一//身心两健但是情感功能部分缺失//INF…P或J随缘//17岁小废物//2025.7.23纪念糖🏳️‍⚧️🍥//想要长发想要RLE//私信扩列//这是小雨@amecandy_x🥰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 109,
+                "username": "amecandy_x"
+              }
+            ]
+          }
+        },
+        "id": "1735017872353808385",
+        "location": "南极洲",
+        "name": "可能是雯雯🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975016159910199296/uWHoG_7L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 139,
+          "like_count": 1944,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 348
+        },
+        "username": "wawoqu2772",
+        "verified": false
+      }
+    ]
+  }
+}

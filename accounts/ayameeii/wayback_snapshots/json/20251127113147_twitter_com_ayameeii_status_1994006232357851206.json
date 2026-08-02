@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1993953039603126508",
+    "created_at": "2025-11-27T11:31:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T12:31:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994006232357851206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1142269209138720769",
+          "start": 0,
+          "username": "2SJ7ntKBdEtTKrM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994006232357851206",
+    "in_reply_to_user_id": "1142269209138720769",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993994354734846269",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2SJ7ntKBdEtTKrM 出来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1993953039603126508",
+        "created_at": "2025-11-27T11:31:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T12:31:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994006232357851206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1142269209138720769",
+              "start": 0,
+              "username": "2SJ7ntKBdEtTKrM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994006232357851206",
+        "in_reply_to_user_id": "1142269209138720769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993994354734846269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2SJ7ntKBdEtTKrM 出来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1142269209138720769",
+        "conversation_id": "1993953039603126508",
+        "created_at": "2025-11-27T10:44:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T11:44:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993994354734846269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1852135214795100164",
+              "start": 0,
+              "username": "ayameeii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993994354734846269",
+        "in_reply_to_user_id": "1852135214795100164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993953039603126508",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayameeii 出来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "1992652290252316901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 265,
+          "like_count": 4235,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 1327
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-22T03:12:56.000Z",
+        "description": "中度抑郁（？）+轻度焦虑（？）中....                                       魔法喵：@owl8964cat",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 63,
+                "username": "owl8964cat"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/2sj7ntkbdettkrm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/2sj7ntkbdettkrm",
+                "start": 0,
+                "url": "https://t.co/5Fim7CNIiI"
+              }
+            ]
+          }
+        },
+        "id": "1142269209138720769",
+        "name": "不爱吃麦当劳の魔法使",
+        "pinned_tweet_id": "1984854737418928503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919772351656558595/dFSkHTIL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 596,
+          "like_count": 20503,
+          "listed_count": 4,
+          "media_count": 140,
+          "tweet_count": 3833
+        },
+        "url": "https://t.co/5Fim7CNIiI",
+        "username": "2SJ7ntKBdEtTKrM",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2027372906750316957",
+    "created_at": "2026-02-27T13:35:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T14:35:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027376972536648057"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1734992918312800257",
+          "start": 0,
+          "username": "xs_sanso"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027376972536648057",
+    "in_reply_to_user_id": "1734992918312800257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027372906750316957",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xs_sanso 唑吡坦可能有怪行为 左匹克隆味道苦\n莱博雷生 达利雷生 关闭清醒所以需要本来困\n或者bzd 氯硝西冸之类"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2027372906750316957",
+        "created_at": "2026-02-27T13:35:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T14:35:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027376972536648057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1734992918312800257",
+              "start": 0,
+              "username": "xs_sanso"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027376972536648057",
+        "in_reply_to_user_id": "1734992918312800257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027372906750316957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xs_sanso 唑吡坦可能有怪行为 左匹克隆味道苦\n莱博雷生 达利雷生 关闭清醒所以需要本来困\n或者bzd 氯硝西冸之类"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1734992918312800257",
+        "conversation_id": "2027372906750316957",
+        "created_at": "2026-02-27T13:19:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T14:19:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027372906750316957"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027372906750316957",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不o，单纯安眠的话，哪个安眠药效果好副作用少❓\n只吃过曲唑酮和喹硫平，现在不想吃了……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2014053871983685932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 631,
+          "following_count": 431,
+          "like_count": 7491,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 2637
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-13T17:45:28.000Z",
+        "description": "直女/INFP/有精神病/负能量碎碎念/涉黄/会发血图/约炮聊骚顺直键政别来/互fo请私信/不喜欢的私信不回\n🚪:纯绿随便给 半绿请私聊 不线下不露脸\n（纯绿没有服从你的义务）\n匿名提问箱:https://t.co/IQtQodTr01",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xs_sanso",
+                "end": 118,
+                "expanded_url": "https://ngl.link/xs_sanso",
+                "start": 95,
+                "url": "https://t.co/IQtQodTr01"
+              }
+            ]
+          }
+        },
+        "id": "1734992918312800257",
+        "location": "离你1.14km",
+        "name": "かがみ",
+        "pinned_tweet_id": "2006055293890036008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025022830250000385/rPh50lsG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 40,
+          "like_count": 966,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 1525
+        },
+        "username": "xs_sanso",
+        "verified": false
+      }
+    ]
+  }
+}

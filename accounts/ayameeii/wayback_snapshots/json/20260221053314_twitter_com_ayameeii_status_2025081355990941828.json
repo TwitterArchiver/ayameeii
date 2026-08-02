@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2024947142536958006",
+    "created_at": "2026-02-21T05:33:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T06:33:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025081355990941828"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1910085836420558848",
+          "start": 0,
+          "username": "BaiandErika8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025081355990941828",
+    "in_reply_to_user_id": "1910085836420558848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024947142536958006",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BaiandErika8964 喝点烈酒..？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2024947142536958006",
+        "created_at": "2026-02-21T05:33:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T06:33:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025081355990941828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1910085836420558848",
+              "start": 0,
+              "username": "BaiandErika8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025081355990941828",
+        "in_reply_to_user_id": "1910085836420558848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024947142536958006",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BaiandErika8964 喝点烈酒..？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910085836420558848",
+        "conversation_id": "2024947142536958006",
+        "created_at": "2026-02-20T20:39:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T21:39:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024947142536958006"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024947142536958006",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 123,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "什么时候才能喝醉呢。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2014053871983685932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 547,
+          "following_count": 417,
+          "like_count": 7363,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 2580
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-09T21:42:17.000Z",
+        "description": "这里有什么？",
+        "id": "1910085836420558848",
+        "location": "1989.6.4",
+        "name": "诅咒是纯白色",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011694325986643968/2Lj2OZgE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 539,
+          "like_count": 385,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 1876
+        },
+        "username": "BaiandErika8964",
+        "verified": false
+      }
+    ]
+  }
+}

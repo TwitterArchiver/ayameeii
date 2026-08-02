@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2037079839195455699",
+    "created_at": "2026-03-26T10:21:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T11:21:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037112794970304618"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1856186701280075776",
+          "start": 0,
+          "username": "baizhouzi520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037112794970304618",
+    "in_reply_to_user_id": "1856186701280075776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037079839195455699",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baizhouzi520 什么时候可以拿手机。。。\n严重精神病算又怎么了 od没什么事都是处方药 别太慌\n希望赶紧结束。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2037079839195455699",
+        "created_at": "2026-03-26T10:21:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T11:21:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037112794970304618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1856186701280075776",
+              "start": 0,
+              "username": "baizhouzi520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037112794970304618",
+        "in_reply_to_user_id": "1856186701280075776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037079839195455699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baizhouzi520 什么时候可以拿手机。。。\n严重精神病算又怎么了 od没什么事都是处方药 别太慌\n希望赶紧结束。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1856186701280075776",
+        "conversation_id": "2037079839195455699",
+        "created_at": "2026-03-26T08:10:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T09:10:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037079839195455699"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037079839195455699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 216,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我靠，下午被晶哥叫去了\n说是什么严重精神病什么回访\n然后我妈跟警察说我od要给我关起来\n😭😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某次",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2036043044986953736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 701,
+          "following_count": 497,
+          "like_count": 8382,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 3060
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-12T04:06:17.000Z",
+        "description": "小证含糖半家长党（?）|hrt2024.12.15|死精神病一个|有时候会od，自残|多意识体（白洲/黎星/诗遥/haku）|最爱的姐姐/爱人：@mishamimihemumu|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 72,
+                "username": "mishamimihemumu"
+              }
+            ]
+          }
+        },
+        "id": "1856186701280075776",
+        "location": "姐姐的怀里",
+        "name": "白白白白洲洲洲洲🍥🍔🍙💊",
+        "pinned_tweet_id": "2036634550647038008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035716012918886400/w1JKUgDd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1342,
+          "following_count": 639,
+          "like_count": 11509,
+          "listed_count": 3,
+          "media_count": 473,
+          "tweet_count": 1679
+        },
+        "username": "baizhouzi520",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1994274913679520221",
+    "created_at": "2025-11-28T05:27:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T06:27:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994277006088044955"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1167502107429105670",
+          "start": 0,
+          "username": "kotomiouo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994277006088044955",
+    "in_reply_to_user_id": "1167502107429105670",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994274913679520221",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kotomiouo 什么他竟然"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1994274913679520221",
+        "created_at": "2025-11-28T05:27:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T06:27:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994277006088044955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1167502107429105670",
+              "start": 0,
+              "username": "kotomiouo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994277006088044955",
+        "in_reply_to_user_id": "1167502107429105670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994274913679520221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kotomiouo 什么他竟然"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1167502107429105670",
+        "conversation_id": "1994274913679520221",
+        "created_at": "2025-11-28T05:19:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T06:19:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994274913679520221"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kotomiouo/stat…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/kotomiouo/status/1883273119777103996",
+              "start": 13,
+              "url": "https://t.co/ND41gRVCQa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994274913679520221",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883273119777103996",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我眼光真的很差 死出軌男 https://t.co/ND41gRVCQa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "喜欢我我也喜欢你 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "1992652290252316901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 266,
+          "like_count": 4308,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1350
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-30T18:19:39.000Z",
+        "description": "台湾.病み\nJpop🦌🦔🍏.\n音ゲー.東方プロ.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/loveacane1314?…",
+                "end": 23,
+                "expanded_url": "https://x.com/loveacane1314?t=X_dTdJCqcQ1_qmAEe9iJBw&s=09",
+                "start": 0,
+                "url": "https://t.co/FI0p9fkn74"
+              }
+            ]
+          }
+        },
+        "id": "1167502107429105670",
+        "location": "幻想鄉",
+        "name": "ことみ",
+        "pinned_tweet_id": "1992211371841519826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980205504610648064/JhboBi0M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1125,
+          "following_count": 779,
+          "like_count": 15019,
+          "listed_count": 3,
+          "media_count": 383,
+          "tweet_count": 6236
+        },
+        "url": "https://t.co/FI0p9fkn74",
+        "username": "kotomiouo",
+        "verified": false
+      }
+    ]
+  }
+}

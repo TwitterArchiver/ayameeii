@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1979505020753293781",
+    "created_at": "2025-10-18T11:09:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T12:09:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979505162927636752"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1571814120692785152",
+          "start": 0,
+          "username": "404_ynne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979505162927636752",
+    "in_reply_to_user_id": "1571814120692785152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979505020753293781",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@404_ynne 对不起"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1979505020753293781",
+        "created_at": "2025-10-18T11:09:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T12:09:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979505162927636752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1571814120692785152",
+              "start": 0,
+              "username": "404_ynne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979505162927636752",
+        "in_reply_to_user_id": "1571814120692785152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979505020753293781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@404_ynne 对不起"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571814120692785152",
+        "conversation_id": "1979505020753293781",
+        "created_at": "2025-10-18T11:09:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T12:09:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979505020753293781"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/igeekbb/status…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/igeekbb/status/1978600197383983250",
+              "start": 26,
+              "url": "https://t.co/fitQvx8cbA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979505020753293781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978600197383983250",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "配不上发你麻痹呢。早点去种地嗯造几个玉米棒子不香嘛 https://t.co/fitQvx8cbA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 163,
+          "like_count": 1150,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 303
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-19T10:51:14.000Z",
+        "description": "",
+        "id": "1571814120692785152",
+        "name": "kumori☁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977217405983375360/QOyrhS1S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 675,
+          "following_count": 832,
+          "like_count": 79187,
+          "listed_count": 3,
+          "media_count": 915,
+          "tweet_count": 16948
+        },
+        "username": "404_ynne",
+        "verified": false
+      }
+    ]
+  }
+}

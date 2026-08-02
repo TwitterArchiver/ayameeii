@@ -1,0 +1,540 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2012173853301358592",
+        "3_2012173853297184768"
+      ],
+      "media_source_tweet_id": [
+        "2012173885463024103",
+        "2012173885463024103"
+      ]
+    },
+    "author_id": "1852135214795100164",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10043651948",
+          "name": "Re:ゼロから始める異世界体験"
+        }
+      },
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "1229696070654889984",
+          "name": "Re:ゼロから始める異世界生活"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1296957403020189698",
+          "name": "Re:Zero − Starting Life in Another World"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1296957403020189698",
+          "name": "Re:Zero − Starting Life in Another World"
+        }
+      }
+    ],
+    "conversation_id": "2012176071634923999",
+    "created_at": "2026-01-16T14:52:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T15:52:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012176071634923999"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 15,
+          "tag": "ラムコスプレ"
+        },
+        {
+          "end": 37,
+          "start": 23,
+          "tag": "リゼロから始める異世界生活"
+        },
+        {
+          "end": 45,
+          "start": 38,
+          "tag": "rezero"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1546369501503135744",
+          "start": 3,
+          "username": "xiumianqi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/f1ChIKn6VN",
+          "end": 69,
+          "expanded_url": "https://x.com/xiumianqi/status/2012173885463024103/photo/1",
+          "media_key": "3_2012173853301358592",
+          "start": 46,
+          "url": "https://t.co/f1ChIKn6VN"
+        },
+        {
+          "display_url": "pic.x.com/f1ChIKn6VN",
+          "end": 69,
+          "expanded_url": "https://x.com/xiumianqi/status/2012173885463024103/photo/1",
+          "media_key": "3_2012173853297184768",
+          "start": 46,
+          "url": "https://t.co/f1ChIKn6VN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012176071634923999",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012173885463024103",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiumianqi: #ラムコスプレ #リゼロから始める異世界生活 #rezero https://t.co/f1ChIKn6VN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2012173853301358592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-ytdWhbQAARRm3.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2012173853297184768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-ytdWgbkAAmts9.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012173853301358592",
+            "3_2012173853297184768"
+          ],
+          "media_source_tweet_id": [
+            "2012173885463024103",
+            "2012173885463024103"
+          ]
+        },
+        "author_id": "1852135214795100164",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10043651948",
+              "name": "Re:ゼロから始める異世界体験"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1229696070654889984",
+              "name": "Re:ゼロから始める異世界生活"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1296957403020189698",
+              "name": "Re:Zero − Starting Life in Another World"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296957403020189698",
+              "name": "Re:Zero − Starting Life in Another World"
+            }
+          }
+        ],
+        "conversation_id": "2012176071634923999",
+        "created_at": "2026-01-16T14:52:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T15:52:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012176071634923999"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 15,
+              "tag": "ラムコスプレ"
+            },
+            {
+              "end": 37,
+              "start": 23,
+              "tag": "リゼロから始める異世界生活"
+            },
+            {
+              "end": 45,
+              "start": 38,
+              "tag": "rezero"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1546369501503135744",
+              "start": 3,
+              "username": "xiumianqi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/f1ChIKn6VN",
+              "end": 69,
+              "expanded_url": "https://x.com/xiumianqi/status/2012173885463024103/photo/1",
+              "media_key": "3_2012173853301358592",
+              "start": 46,
+              "url": "https://t.co/f1ChIKn6VN"
+            },
+            {
+              "display_url": "pic.x.com/f1ChIKn6VN",
+              "end": 69,
+              "expanded_url": "https://x.com/xiumianqi/status/2012173885463024103/photo/1",
+              "media_key": "3_2012173853297184768",
+              "start": 46,
+              "url": "https://t.co/f1ChIKn6VN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012176071634923999",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012173885463024103",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiumianqi: #ラムコスプレ #リゼロから始める異世界生活 #rezero https://t.co/f1ChIKn6VN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012173853301358592",
+            "3_2012173853297184768"
+          ]
+        },
+        "author_id": "1546369501503135744",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10043651948",
+              "name": "Re:ゼロから始める異世界体験"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1229696070654889984",
+              "name": "Re:ゼロから始める異世界生活"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1296957403020189698",
+              "name": "Re:Zero − Starting Life in Another World"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296957403020189698",
+              "name": "Re:Zero − Starting Life in Another World"
+            }
+          }
+        ],
+        "conversation_id": "2012173885463024103",
+        "created_at": "2026-01-16T14:43:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T15:43:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012173885463024103"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "ラムコスプレ"
+            },
+            {
+              "end": 22,
+              "start": 8,
+              "tag": "リゼロから始める異世界生活"
+            },
+            {
+              "end": 30,
+              "start": 23,
+              "tag": "rezero"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/f1ChIKn6VN",
+              "end": 54,
+              "expanded_url": "https://x.com/xiumianqi/status/2012173885463024103/photo/1",
+              "media_key": "3_2012173853301358592",
+              "start": 31,
+              "url": "https://t.co/f1ChIKn6VN"
+            },
+            {
+              "display_url": "pic.x.com/f1ChIKn6VN",
+              "end": 54,
+              "expanded_url": "https://x.com/xiumianqi/status/2012173885463024103/photo/1",
+              "media_key": "3_2012173853297184768",
+              "start": 31,
+              "url": "https://t.co/f1ChIKn6VN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012173885463024103",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "#ラムコスプレ #リゼロから始める異世界生活 #rezero https://t.co/f1ChIKn6VN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2008864131290694085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 346,
+          "like_count": 6412,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 2114
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-11T05:43:39.000Z",
+        "description": "我是小漆丨喜欢我可以打赏谢谢",
+        "id": "1546369501503135744",
+        "name": "7xmq7",
+        "pinned_tweet_id": "2009637908781961526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006698954671411200/AiMud0bn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 66,
+          "like_count": 80,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 28
+        },
+        "username": "xiumianqi",
+        "verified": false
+      }
+    ]
+  }
+}

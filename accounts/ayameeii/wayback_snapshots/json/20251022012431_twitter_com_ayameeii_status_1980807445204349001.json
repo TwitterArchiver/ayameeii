@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1980682011007414574",
+    "created_at": "2025-10-22T01:24:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T02:24:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980807445204349001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1330075972557803522",
+          "start": 0,
+          "username": "GreyGreyWater"
+        },
+        {
+          "end": 30,
+          "id": "1769904101704552448",
+          "start": 15,
+          "username": "ShengTian22332"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980807445204349001",
+    "in_reply_to_user_id": "1330075972557803522",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980806370841751913",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GreyGreyWater @ShengTian22332 男的就不能玩吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1980682011007414574",
+        "created_at": "2025-10-22T01:24:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T02:24:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980807445204349001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1330075972557803522",
+              "start": 0,
+              "username": "GreyGreyWater"
+            },
+            {
+              "end": 30,
+              "id": "1769904101704552448",
+              "start": 15,
+              "username": "ShengTian22332"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980807445204349001",
+        "in_reply_to_user_id": "1330075972557803522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980806370841751913",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GreyGreyWater @ShengTian22332 男的就不能玩吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1330075972557803522",
+        "conversation_id": "1980682011007414574",
+        "created_at": "2025-10-22T01:20:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T02:20:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980806370841751913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1769904101704552448",
+              "start": 0,
+              "username": "ShengTian22332"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980806370841751913",
+        "in_reply_to_user_id": "1769904101704552448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980710576490967193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShengTian22332 我是男的我是男的😱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 175,
+          "like_count": 1467,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 393
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-21T09:10:06.000Z",
+        "description": "下头看黄蝻",
+        "id": "1330075972557803522",
+        "name": "灰灰水",
+        "pinned_tweet_id": "1763801395017474340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1709625234922627072/TnTWx8ZW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 492,
+          "like_count": 1922,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 3343
+        },
+        "username": "GreyGreyWater",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-19T01:50:31.000Z",
+        "description": "mtf🏳️‍⚧️/小证含糖🍥/HRT2024.06/健身/爱吃好吃的/同类贴贴互fo/日常推美食推\n已被开除音游籍/可愛妹妹 @KoishinFlandre\n/打maimai的可爱妹妹@Raychan_da/数学物理/intp/贴贴/应该是温柔的人/欢迎来找我聊天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 63,
+                "username": "KoishinFlandre"
+              },
+              {
+                "end": 103,
+                "start": 92,
+                "username": "Raychan_da"
+              }
+            ]
+          }
+        },
+        "id": "1769904101704552448",
+        "location": "Los Angeles, CA",
+        "name": "甜普生🍥",
+        "pinned_tweet_id": "1975959023859204158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769904776354160640/T01noA-j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 298,
+          "like_count": 1605,
+          "listed_count": 0,
+          "media_count": 268,
+          "tweet_count": 1469
+        },
+        "username": "ShengTian22332",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2063390664273088979",
+    "created_at": "2026-06-07T06:38:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T07:38:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063510840863871482"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1351485882696548357",
+          "start": 0,
+          "username": "OnlyAppleCanDo"
+        },
+        {
+          "end": 25,
+          "id": "1280001743162609664",
+          "start": 16,
+          "username": "Poca2381"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063510840863871482",
+    "in_reply_to_user_id": "1351485882696548357",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063390664273088979",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OnlyAppleCanDo @Poca2381 生日快乐🎂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063390656534646784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKKi3qubkAAJbEH.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2063390664273088979",
+        "created_at": "2026-06-07T06:38:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T07:38:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063510840863871482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1351485882696548357",
+              "start": 0,
+              "username": "OnlyAppleCanDo"
+            },
+            {
+              "end": 25,
+              "id": "1280001743162609664",
+              "start": 16,
+              "username": "Poca2381"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063510840863871482",
+        "in_reply_to_user_id": "1351485882696548357",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063390664273088979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OnlyAppleCanDo @Poca2381 生日快乐🎂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063390656534646784"
+          ]
+        },
+        "author_id": "1351485882696548357",
+        "conversation_id": "2063390664273088979",
+        "created_at": "2026-06-06T22:40:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T23:40:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063390664273088979"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wSrV6n6bOD",
+              "end": 40,
+              "expanded_url": "https://x.com/OnlyAppleCanDo/status/2063390664273088979/photo/1",
+              "media_key": "3_2063390656534646784",
+              "start": 17,
+              "url": "https://t.co/wSrV6n6bOD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063390664273088979",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4987,
+          "like_count": 104,
+          "quote_count": 0,
+          "reply_count": 56,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "今天是我生日，大家可以來戳氣球w https://t.co/wSrV6n6bOD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存| 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 34,
+                "start": 24,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1043,
+          "following_count": 676,
+          "like_count": 10388,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 3950
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-19T11:05:27.000Z",
+        "description": "貓不要吃我O_0｜在HKG活動｜可愛得意先係最大本領｜",
+        "id": "1351485882696548357",
+        "location": "Hong Kong",
+        "name": "meow!🐭",
+        "pinned_tweet_id": "2063390664273088979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038936941018906625/oKeygUjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1528,
+          "following_count": 909,
+          "like_count": 55182,
+          "listed_count": 5,
+          "media_count": 2613,
+          "tweet_count": 12410
+        },
+        "username": "OnlyAppleCanDo",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21492,
+          "following_count": 8973,
+          "like_count": 151854,
+          "listed_count": 52,
+          "media_count": 4611,
+          "tweet_count": 50585
+        },
+        "username": "Poca2381",
+        "verified": true
+      }
+    ]
+  }
+}

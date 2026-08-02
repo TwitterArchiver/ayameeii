@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1995661217508327578",
+    "created_at": "2025-12-02T10:55:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T11:55:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995808943852200347"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1081884310829813761",
+          "start": 0,
+          "username": "NomoreTsukum0"
+        },
+        {
+          "end": 26,
+          "id": "1706612962168070144",
+          "start": 15,
+          "username": "langheying"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995808943852200347",
+    "in_reply_to_user_id": "1081884310829813761",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995803769855246512",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NomoreTsukum0 @langheying 少的他可以补给我吗、、、"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1995661217508327578",
+        "created_at": "2025-12-02T10:55:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T11:55:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995808943852200347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1081884310829813761",
+              "start": 0,
+              "username": "NomoreTsukum0"
+            },
+            {
+              "end": 26,
+              "id": "1706612962168070144",
+              "start": 15,
+              "username": "langheying"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995808943852200347",
+        "in_reply_to_user_id": "1081884310829813761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995803769855246512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NomoreTsukum0 @langheying 少的他可以补给我吗、、、"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1081884310829813761",
+        "conversation_id": "1995661217508327578",
+        "created_at": "2025-12-02T10:34:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T11:34:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995803769855246512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1706612962168070144",
+              "start": 0,
+              "username": "langheying"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995803769855246512",
+        "in_reply_to_user_id": "1706612962168070144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 182,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995661217508327578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@langheying 張口就來外賣員一個月7、8000"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "1992652290252316901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 283,
+          "like_count": 4691,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1491
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-06T12:04:54.000Z",
+        "description": "水手服配百褶裙 最可愛妹妹@yukiaqwq123 老妹@TennoujiNyano 反跨baka @UkiStelo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 13,
+                "username": "yukiaqwq123"
+              },
+              {
+                "end": 42,
+                "start": 28,
+                "username": "TennoujiNyano"
+              },
+              {
+                "end": 59,
+                "start": 50,
+                "username": "UkiStelo"
+              }
+            ]
+          }
+        },
+        "id": "1081884310829813761",
+        "location": "距離你5m",
+        "name": "九九",
+        "pinned_tweet_id": "1654452448004812800",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762452022421528576/Rb5NeJGQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2972,
+          "following_count": 2009,
+          "like_count": 605684,
+          "listed_count": 24,
+          "media_count": 469,
+          "tweet_count": 61747
+        },
+        "username": "NomoreTsukum0",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-26T10:13:39.000Z",
+        "description": "狼桜一生押し",
+        "id": "1706612962168070144",
+        "location": "Hong Kong",
+        "name": "リシャオラン🐻",
+        "pinned_tweet_id": "1992797915874803874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954197516884336640/mj-WM2By_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1342,
+          "following_count": 1259,
+          "like_count": 3588,
+          "listed_count": 2,
+          "media_count": 914,
+          "tweet_count": 2882
+        },
+        "username": "langheying",
+        "verified": false
+      }
+    ]
+  }
+}

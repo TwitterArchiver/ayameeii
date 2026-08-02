@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1993703837195194423",
+    "created_at": "2025-11-26T17:43:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T18:43:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993737400762372565"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1552918719440924672",
+          "start": 0,
+          "username": "sprLumi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993737400762372565",
+    "in_reply_to_user_id": "1552918719440924672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993730377928827248",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sprLumi 何意味猫卷是不是你举报的粉丝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1993703837195194423",
+        "created_at": "2025-11-26T17:43:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T18:43:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993737400762372565"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "sprLumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993737400762372565",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993730377928827248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sprLumi 何意味猫卷是不是你举报的粉丝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "1993703837195194423",
+        "created_at": "2025-11-26T17:15:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T18:15:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993730377928827248"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993730377928827248",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993703837195194423",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Wah my followers 里面快一半被晶过… 是我罪大恶极还是你们罪大恶极"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "1992652290252316901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 264,
+          "like_count": 4181,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 1311
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "小中是我的狗 // @HobartR6 @_FurryFur_ // 泰补180包邮",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "HobartR6"
+              },
+              {
+                "end": 31,
+                "start": 20,
+                "username": "_FurryFur_"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "location": "🌃",
+        "name": "𝙨𝙥𝙧𝙇𝙪𝙢𝙞💫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992623703566495744/J0QecfTJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3265,
+          "following_count": 903,
+          "like_count": 1206,
+          "listed_count": 5,
+          "media_count": 41,
+          "tweet_count": 524
+        },
+        "username": "sprLumi",
+        "verified": true
+      }
+    ]
+  }
+}

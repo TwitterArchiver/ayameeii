@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1983227274695733630",
+    "created_at": "2025-10-28T17:54:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T18:54:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983231009433997748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1360772570769813505",
+          "start": 0,
+          "username": "BraveQuestEX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983231009433997748",
+    "in_reply_to_user_id": "1360772570769813505",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983227274695733630",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BraveQuestEX 4 9 16（？）20"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_1983227272334323717",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4XWslRasAUcnb2.jpg",
+        "width": 888
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1983227274695733630",
+        "created_at": "2025-10-28T17:54:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T18:54:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983231009433997748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1360772570769813505",
+              "start": 0,
+              "username": "BraveQuestEX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983231009433997748",
+        "in_reply_to_user_id": "1360772570769813505",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983227274695733630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BraveQuestEX 4 9 16（？）20"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983227272334323717"
+          ]
+        },
+        "author_id": "1360772570769813505",
+        "conversation_id": "1983227274695733630",
+        "created_at": "2025-10-28T17:40:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T18:40:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983227274695733630"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sZXdVm8QoO",
+              "end": 33,
+              "expanded_url": "https://x.com/BraveQuestEX/status/1983227274695733630/photo/1",
+              "media_key": "3_1983227272334323717",
+              "start": 10,
+              "url": "https://t.co/sZXdVm8QoO"
+            },
+            {
+              "display_url": "x.com/shirumesu/stat…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/shirumesu/status/1983221582261805474",
+              "start": 34,
+              "url": "https://t.co/0YVwlERrja"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983227274695733630",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983221582261805474",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "总之我也玩.exe https://t.co/sZXdVm8QoO https://t.co/0YVwlERrja"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 189,
+          "like_count": 1974,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 549
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-14T02:07:24.000Z",
+        "description": "笑ってくれてアリガトウ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bangumi.tv/user/seiuex",
+                "end": 23,
+                "expanded_url": "https://bangumi.tv/user/seiuex",
+                "start": 0,
+                "url": "https://t.co/sY3WqMyceB"
+              }
+            ]
+          }
+        },
+        "id": "1360772570769813505",
+        "location": "关西",
+        "name": "暁",
+        "pinned_tweet_id": "1979057865588392225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976613984091668480/tcTGOATV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 581,
+          "following_count": 400,
+          "like_count": 19764,
+          "listed_count": 2,
+          "media_count": 778,
+          "tweet_count": 3902
+        },
+        "url": "https://t.co/sY3WqMyceB",
+        "username": "BraveQuestEX",
+        "verified": false
+      }
+    ]
+  }
+}

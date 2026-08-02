@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059823214206033920"
+      ]
+    },
+    "author_id": "1852135214795100164",
+    "conversation_id": "2059823216961703955",
+    "created_at": "2026-05-28T02:24:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T03:24:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059823216961703955"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hoidatg7zB",
+          "end": 80,
+          "expanded_url": "https://x.com/ayameeii/status/2059823216961703955/photo/1",
+          "media_key": "3_2059823214206033920",
+          "start": 57,
+          "url": "https://t.co/hoidatg7zB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059823216961703955",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "啊啊啊啊啊没有 很多人被过滤所以我没发现 而且我不是那么经常看推的有时候也在玩游戏什么的啊啊啊我现在找你你是谁！ https://t.co/hoidatg7zB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1157,
+        "media_key": "3_2059823214206033920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJX2TMbaoAAwV7r.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059823214206033920"
+          ]
+        },
+        "author_id": "1852135214795100164",
+        "conversation_id": "2059823216961703955",
+        "created_at": "2026-05-28T02:24:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T03:24:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059823216961703955"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hoidatg7zB",
+              "end": 80,
+              "expanded_url": "https://x.com/ayameeii/status/2059823216961703955/photo/1",
+              "media_key": "3_2059823214206033920",
+              "start": 57,
+              "url": "https://t.co/hoidatg7zB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059823216961703955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊啊啊啊啊没有 很多人被过滤所以我没发现 而且我不是那么经常看推的有时候也在玩游戏什么的啊啊啊我现在找你你是谁！ https://t.co/hoidatg7zB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存| 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 34,
+                "start": 24,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 985,
+          "following_count": 664,
+          "like_count": 10231,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 3870
+        },
+        "username": "ayameeii",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2016537758416920706",
+    "created_at": "2026-01-28T17:02:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T18:02:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016557533008454030"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1904517913538932736",
+          "start": 0,
+          "username": "cnmnms666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016557533008454030",
+    "in_reply_to_user_id": "1904517913538932736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016537758416920706",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cnmnms666 二小姐萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_2016537748631597056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_wuZfdaMAAXA7n.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2016537758416920706",
+        "created_at": "2026-01-28T17:02:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T18:02:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016557533008454030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1904517913538932736",
+              "start": 0,
+              "username": "cnmnms666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016557533008454030",
+        "in_reply_to_user_id": "1904517913538932736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016537758416920706",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cnmnms666 二小姐萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016537748631597056"
+          ]
+        },
+        "author_id": "1904517913538932736",
+        "conversation_id": "2016537758416920706",
+        "created_at": "2026-01-28T15:44:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T16:44:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016537758416920706"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/29MzekFqRD",
+              "end": 28,
+              "expanded_url": "https://x.com/cnmnms666/status/2016537758416920706/photo/1",
+              "media_key": "3_2016537748631597056",
+              "start": 5,
+              "url": "https://t.co/29MzekFqRD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016537758416920706",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 115,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "✌️✌️ https://t.co/29MzekFqRD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2014053871983685932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 502,
+          "following_count": 368,
+          "like_count": 6750,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 2286
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-25T12:57:18.000Z",
+        "description": "cnm@8964_Y ｜叫我夜夜就好｜什么都发",
+        "id": "1904517913538932736",
+        "name": "草拟吗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016459711646711808/m8EIVXxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 749,
+          "following_count": 251,
+          "like_count": 692,
+          "listed_count": 4,
+          "media_count": 49,
+          "tweet_count": 520
+        },
+        "username": "cnmnms666",
+        "verified": false
+      }
+    ]
+  }
+}

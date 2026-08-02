@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1987456626660606053",
+    "created_at": "2025-11-09T09:47:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T10:47:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987457096733151736"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1233947131544821760",
+          "start": 0,
+          "username": "Lr_Amy_3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987457096733151736",
+    "in_reply_to_user_id": "1233947131544821760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987456626660606053",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lr_Amy_3 去做保安了？！"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1987456626660606053].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1987456626660606053",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1987456626660606053"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1987456626660606053",
+        "created_at": "2025-11-09T09:47:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T10:47:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987457096733151736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1233947131544821760",
+              "start": 0,
+              "username": "Lr_Amy_3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987457096733151736",
+        "in_reply_to_user_id": "1233947131544821760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987456626660606053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lr_Amy_3 去做保安了？！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 223,
+          "like_count": 2772,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 880
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-01T02:48:27.000Z",
+        "description": "谁家小孩",
+        "id": "1233947131544821760",
+        "name": "Lr_蘑蘑菇🍄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984352312996085762/lyYy9nxx_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 196,
+          "like_count": 15399,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 1239
+        },
+        "username": "Lr_Amy_3",
+        "verified": false
+      }
+    ]
+  }
+}

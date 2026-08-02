@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2039055513347076524",
+    "created_at": "2026-03-31T21:20:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T22:20:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039090428147085387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "623965569",
+          "start": 0,
+          "username": "nothousand"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039090428147085387",
+    "in_reply_to_user_id": "623965569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039055513347076524",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nothousand 地雷系！没看过你穿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2039055513347076524",
+        "created_at": "2026-03-31T21:20:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T22:20:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039090428147085387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "623965569",
+              "start": 0,
+              "username": "nothousand"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039090428147085387",
+        "in_reply_to_user_id": "623965569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039055513347076524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nothousand 地雷系！没看过你穿"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2039055512155947009"
+          ]
+        },
+        "author_id": "623965569",
+        "conversation_id": "2039055513347076524",
+        "created_at": "2026-03-31T19:01:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T20:01:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039055513347076524"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039055513347076524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明天去上海选什么穿好呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2036043044986953736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 745,
+          "following_count": 519,
+          "like_count": 8742,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 3247
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2012-07-01T16:27:02.000Z",
+        "description": "并非这个世界的生命体",
+        "id": "623965569",
+        "location": "earth",
+        "name": "芊茉音華",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022925457822486528/PFJoTs_J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2278,
+          "following_count": 124,
+          "like_count": 8018,
+          "listed_count": 5,
+          "media_count": 478,
+          "tweet_count": 5271
+        },
+        "username": "nothousand",
+        "verified": false
+      }
+    ]
+  }
+}

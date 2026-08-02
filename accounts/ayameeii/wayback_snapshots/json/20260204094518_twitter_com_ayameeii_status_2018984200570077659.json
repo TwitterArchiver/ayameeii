@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2018974400763306273",
+    "created_at": "2026-02-04T09:45:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T10:45:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018984200570077659"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2009488009180401667",
+          "start": 0,
+          "username": "asabakasaiko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018984200570077659",
+    "in_reply_to_user_id": "2009488009180401667",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018974400763306273",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@asabakasaiko ？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2018974393247137792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HATWg4AbAAAH30_.jpg",
+        "width": 1345
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2018974393251344384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HATWg4BbMAAeaFA.jpg",
+        "width": 1345
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2018974400763306273",
+        "created_at": "2026-02-04T09:45:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T10:45:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018984200570077659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2009488009180401667",
+              "start": 0,
+              "username": "asabakasaiko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018984200570077659",
+        "in_reply_to_user_id": "2009488009180401667",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018974400763306273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@asabakasaiko ？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018974393247137792",
+            "3_2018974393251344384"
+          ]
+        },
+        "author_id": "2009488009180401667",
+        "conversation_id": "2018974400763306273",
+        "created_at": "2026-02-04T09:06:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T10:06:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018974400763306273"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "原味"
+            },
+            {
+              "end": 30,
+              "start": 27,
+              "tag": "内衣"
+            },
+            {
+              "end": 35,
+              "start": 31,
+              "tag": "门槛妹"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OcfeMZE19H",
+              "end": 59,
+              "expanded_url": "https://x.com/asabakasaiko/status/2018974400763306273/photo/1",
+              "media_key": "3_2018974393247137792",
+              "start": 36,
+              "url": "https://t.co/OcfeMZE19H"
+            },
+            {
+              "display_url": "pic.x.com/OcfeMZE19H",
+              "end": 59,
+              "expanded_url": "https://x.com/asabakasaiko/status/2018974400763306273/photo/1",
+              "media_key": "3_2018974393251344384",
+              "start": 36,
+              "url": "https://t.co/OcfeMZE19H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018974400763306273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卖美少女原味丝袜内衣有人要吗，可以定制款式哦 #原味 #内衣 #门槛妹 https://t.co/OcfeMZE19H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2014053871983685932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 537,
+          "following_count": 374,
+          "like_count": 6874,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 2365
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-09T04:51:10.000Z",
+        "description": "我是🐟，很无辜很好看，男娘，🚪58，88，什么事都可以来私我",
+        "id": "2009488009180401667",
+        "location": "香港",
+        "name": "三崎笠井子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011710429840752640/TVZQw9bs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 147,
+          "like_count": 987,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 296
+        },
+        "username": "asabakasaiko",
+        "verified": false
+      }
+    ]
+  }
+}

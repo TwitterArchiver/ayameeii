@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1999264677692604477",
+    "created_at": "2025-12-12T13:15:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T14:15:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999468167631110494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1657055349982244865",
+          "start": 0,
+          "username": "Glagagapot"
+        },
+        {
+          "end": 24,
+          "id": "3012350599",
+          "start": 12,
+          "username": "__Ju___Ju__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999468167631110494",
+    "in_reply_to_user_id": "1657055349982244865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999400861878092157",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Glagagapot @__Ju___Ju__ 死人的反应竟然是离自己远点。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1999264677692604477",
+        "created_at": "2025-12-12T13:15:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T14:15:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999468167631110494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1657055349982244865",
+              "start": 0,
+              "username": "Glagagapot"
+            },
+            {
+              "end": 24,
+              "id": "3012350599",
+              "start": 12,
+              "username": "__Ju___Ju__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999468167631110494",
+        "in_reply_to_user_id": "1657055349982244865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999400861878092157",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Glagagapot @__Ju___Ju__ 死人的反应竟然是离自己远点。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657055349982244865",
+        "conversation_id": "1999264677692604477",
+        "created_at": "2025-12-12T08:48:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T09:48:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999400861878092157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "3012350599",
+              "start": 0,
+              "username": "__Ju___Ju__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999400861878092157",
+        "in_reply_to_user_id": "3012350599",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999264677692604477",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__Ju___Ju__ 逆天到不知道说什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "1992652290252316901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 303,
+          "like_count": 5437,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1741
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-12T16:09:28.000Z",
+        "description": "郭楠｜讲话猎奇恶俗请谨慎关注",
+        "id": "1657055349982244865",
+        "location": "嘎巢",
+        "name": "嘎咪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988971482501033984/3RyMzGth_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2039,
+          "following_count": 1064,
+          "like_count": 74422,
+          "listed_count": 6,
+          "media_count": 2090,
+          "tweet_count": 25156
+        },
+        "username": "Glagagapot",
+        "verified": true
+      },
+      {
+        "created_at": "2015-02-07T12:20:03.000Z",
+        "description": "是柑橘，也是兔子。收集毛绒娃娃🐰🍊/#すこ部 推し /恋人玖玖@GiveProofToLove 好诡秘@mukdengise",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 22,
+                "start": 18,
+                "tag": "すこ部"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 47,
+                "start": 31,
+                "username": "GiveProofToLove"
+              },
+              {
+                "end": 62,
+                "start": 51,
+                "username": "mukdengise"
+              }
+            ]
+          }
+        },
+        "id": "3012350599",
+        "location": "길림",
+        "name": "小学桔",
+        "pinned_tweet_id": "1571850748140621824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997559342225367040/C140_Wq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4081,
+          "following_count": 467,
+          "like_count": 39047,
+          "listed_count": 18,
+          "media_count": 2888,
+          "tweet_count": 40231
+        },
+        "username": "__Ju___Ju__",
+        "verified": true
+      }
+    ]
+  }
+}

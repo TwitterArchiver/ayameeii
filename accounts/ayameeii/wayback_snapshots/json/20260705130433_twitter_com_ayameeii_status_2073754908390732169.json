@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073723977827332096"
+      ],
+      "media_source_tweet_id": [
+        "2073723984567558636"
+      ]
+    },
+    "author_id": "1852135214795100164",
+    "conversation_id": "2073754908390732169",
+    "created_at": "2026-07-05T13:04:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T14:04:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073754908390732169"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1831671299057623040",
+          "start": 3,
+          "username": "afuai377"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/h0iz217lO6",
+          "end": 75,
+          "expanded_url": "https://x.com/afuai377/status/2073723984567558636/photo/1",
+          "media_key": "3_2073723977827332096",
+          "start": 52,
+          "url": "https://t.co/h0iz217lO6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073754908390732169",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073723984567558636",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @afuai377: 门槛🚪（+v)\n\n88 偶尔爆照和分享生活\n\n288 包括以上加了之后详谈 https://t.co/h0iz217lO6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073723977827332096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMdY-ISbsAAe856.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073723977827332096"
+          ],
+          "media_source_tweet_id": [
+            "2073723984567558636"
+          ]
+        },
+        "author_id": "1852135214795100164",
+        "conversation_id": "2073754908390732169",
+        "created_at": "2026-07-05T13:04:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T14:04:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073754908390732169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1831671299057623040",
+              "start": 3,
+              "username": "afuai377"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/h0iz217lO6",
+              "end": 75,
+              "expanded_url": "https://x.com/afuai377/status/2073723984567558636/photo/1",
+              "media_key": "3_2073723977827332096",
+              "start": 52,
+              "url": "https://t.co/h0iz217lO6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073754908390732169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073723984567558636",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @afuai377: 门槛🚪（+v)\n\n88 偶尔爆照和分享生活\n\n288 包括以上加了之后详谈 https://t.co/h0iz217lO6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073723977827332096"
+          ]
+        },
+        "author_id": "1831671299057623040",
+        "conversation_id": "2073723984567558636",
+        "created_at": "2026-07-05T11:01:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T12:01:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073723984567558636"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h0iz217lO6",
+              "end": 61,
+              "expanded_url": "https://x.com/afuai377/status/2073723984567558636/photo/1",
+              "media_key": "3_2073723977827332096",
+              "start": 38,
+              "url": "https://t.co/h0iz217lO6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073723984567558636",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 284,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "门槛🚪（+v)\n\n88 偶尔爆照和分享生活\n\n288 包括以上加了之后详谈 https://t.co/h0iz217lO6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存| 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 34,
+                "start": 24,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1051,
+          "following_count": 691,
+          "like_count": 10362,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 4044
+        },
+        "url": "",
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-05T12:30:55.000Z",
+        "description": "殺不死的roAch ✮同成分互fo請私信 通知常被吞 @fuaiy_37 防炸號互關來 @kana40427 かれし",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 27,
+                "username": "fuaiy_37"
+              },
+              {
+                "end": 54,
+                "start": 44,
+                "username": "kana40427"
+              }
+            ]
+          }
+        },
+        "id": "1831671299057623040",
+        "location": "地獄",
+        "name": "ふ愛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065055298252111872/lzcS5Ak3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8629,
+          "following_count": 229,
+          "like_count": 5558,
+          "listed_count": 8,
+          "media_count": 149,
+          "tweet_count": 695
+        },
+        "url": "",
+        "username": "afuai377",
+        "verified": false
+      }
+    ]
+  }
+}

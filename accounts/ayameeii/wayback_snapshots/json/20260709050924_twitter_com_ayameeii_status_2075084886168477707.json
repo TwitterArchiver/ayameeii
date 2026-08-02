@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2074865838948303149",
+    "created_at": "2026-07-09T05:09:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T06:09:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075084886168477707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1871102263206486016",
+          "start": 0,
+          "username": "wnchn77638"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075084886168477707",
+    "in_reply_to_user_id": "1871102263206486016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074882050369401000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wnchn77638 对"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1118,
+        "media_key": "3_2074882040286314496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMt2OPIagAA6rj8.jpg",
+        "width": 1258
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2074865838948303149",
+        "created_at": "2026-07-09T05:09:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T06:09:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075084886168477707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1871102263206486016",
+              "start": 0,
+              "username": "wnchn77638"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075084886168477707",
+        "in_reply_to_user_id": "1871102263206486016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074882050369401000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wnchn77638 对"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074882040286314496"
+          ]
+        },
+        "author_id": "1871102263206486016",
+        "conversation_id": "2074865838948303149",
+        "created_at": "2026-07-08T15:43:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T16:43:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074882050369401000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1852135214795100164",
+              "start": 0,
+              "username": "ayameeii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vEDmNu3sIx",
+              "end": 45,
+              "expanded_url": "https://x.com/wnchn77638/status/2074882050369401000/photo/1",
+              "media_key": "3_2074882040286314496",
+              "start": 22,
+              "url": "https://t.co/vEDmNu3sIx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074882050369401000",
+        "in_reply_to_user_id": "1852135214795100164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074865838948303149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayameeii 这么多粉丝还没有朋友吗 https://t.co/vEDmNu3sIx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存| 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 34,
+                "start": 24,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1081,
+          "following_count": 716,
+          "like_count": 10559,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 4123
+        },
+        "url": "",
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-23T07:55:48.000Z",
+        "description": "我是地球online的客服，近期收到多名玩家反馈说自己没有开局自带的摇杆，没有摇杆的玩家请拍摄缺失区域的照片，我审核过后将会补发",
+        "id": "1871102263206486016",
+        "location": "美国",
+        "name": "文尘",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067694870282870784/lKAPfrZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 11,
+          "like_count": 140,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 115
+        },
+        "url": "",
+        "username": "wnchn77638",
+        "verified": false
+      }
+    ]
+  }
+}

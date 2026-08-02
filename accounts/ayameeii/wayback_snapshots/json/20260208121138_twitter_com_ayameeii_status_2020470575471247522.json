@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2020470575471247522",
+    "created_at": "2026-02-08T12:11:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T13:11:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020470575471247522"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shirumesu/stat…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/shirumesu/status/2020467422541537717",
+          "start": 31,
+          "url": "https://t.co/241pfvRJjl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020470575471247522",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020467422541537717",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你们真的有社交障碍吗为啥网上有那么多朋友。。。教教我好不好😿 https://t.co/241pfvRJjl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2020470575471247522",
+        "created_at": "2026-02-08T12:11:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T13:11:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020470575471247522"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shirumesu/stat…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/shirumesu/status/2020467422541537717",
+              "start": 31,
+              "url": "https://t.co/241pfvRJjl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020470575471247522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020467422541537717",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们真的有社交障碍吗为啥网上有那么多朋友。。。教教我好不好😿 https://t.co/241pfvRJjl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1153921233445986304",
+        "conversation_id": "2020467422541537717",
+        "created_at": "2026-02-08T11:59:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T12:59:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020467422541537717"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/voelallll/stat…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/voelallll/status/2020174488017707307",
+              "start": 31,
+              "url": "https://t.co/VjFKUFUyuR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020467422541537717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 2,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020174488017707307",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们真的有社交障碍吗为啥网上有那么多朋友。。。教教我好不好😿 https://t.co/VjFKUFUyuR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2014053871983685932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 376,
+          "like_count": 6908,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 2381
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-24T06:53:55.000Z",
+        "description": "我oc，希露梅斯·莉莉丝·菲利欧露，巡礼魔女，愿歌赫姆的星光永不消逝/是infp～包健全的/fo无依据随缘看心情/祝你开心～",
+        "id": "1153921233445986304",
+        "location": "琉璃离院",
+        "name": "希露梅斯",
+        "pinned_tweet_id": "1936780239897870805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010647803731865601/_NAbQ5vo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 28,
+          "like_count": 28027,
+          "listed_count": 7,
+          "media_count": 476,
+          "tweet_count": 16166
+        },
+        "username": "shirumesu",
+        "verified": false
+      }
+    ]
+  }
+}

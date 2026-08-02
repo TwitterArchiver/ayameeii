@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1978948187579912309",
+    "created_at": "2025-10-16T22:19:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T23:19:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978949041997185515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1735017872353808385",
+          "start": 0,
+          "username": "wawoqu2772"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978949041997185515",
+    "in_reply_to_user_id": "1735017872353808385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978948187579912309",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wawoqu2772 虽然是外圈🙋很荣幸"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1978948180982272000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3ai4rxakAA_l5C.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1978948187579912309",
+        "created_at": "2025-10-16T22:19:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T23:19:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978949041997185515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1735017872353808385",
+              "start": 0,
+              "username": "wawoqu2772"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978949041997185515",
+        "in_reply_to_user_id": "1735017872353808385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978948187579912309",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wawoqu2772 虽然是外圈🙋很荣幸"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978948180982272000"
+          ]
+        },
+        "author_id": "1735017872353808385",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1978948187579912309",
+        "created_at": "2025-10-16T22:16:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T23:16:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978948187579912309"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infintytweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infintytweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1978517149191962625/k4bwbkC6?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1978517149191962625/k4bwbkC6?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infintytweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/XllKZKGGwA"
+            },
+            {
+              "display_url": "pic.x.com/klOn34ZNxh",
+              "end": 64,
+              "expanded_url": "https://x.com/wawoqu2772/status/1978948187579912309/photo/1",
+              "media_key": "3_1978948180982272000",
+              "start": 41,
+              "url": "https://t.co/klOn34ZNxh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978948187579912309",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/XllKZKGGwA https://t.co/klOn34ZNxh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 151,
+          "like_count": 1020,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 255
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-13T19:24:40.000Z",
+        "description": "尹白雯//精神南极人，身份认同是企鹅//地科只学了一晚居然省一//可能在山东//INF…P或J随缘//17岁小废物//2025.7.23纪念糖🏳️‍⚧️🍥",
+        "id": "1735017872353808385",
+        "location": "南极洲",
+        "name": "可能是雯雯🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975016159910199296/uWHoG_7L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 96,
+          "like_count": 1130,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 206
+        },
+        "username": "wawoqu2772",
+        "verified": false
+      }
+    ]
+  }
+}

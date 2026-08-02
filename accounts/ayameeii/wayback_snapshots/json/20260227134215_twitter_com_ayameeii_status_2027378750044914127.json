@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2027293275548426334",
+    "created_at": "2026-02-27T13:42:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T14:42:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027378750044914127"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1486755570694729729",
+          "start": 0,
+          "username": "inks_chain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027378750044914127",
+    "in_reply_to_user_id": "1486755570694729729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027293275548426334",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@inks_chain 宝宝怎么了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2027293273405235200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCJkfbjboAAI1wO.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2027293275548426334",
+        "created_at": "2026-02-27T13:42:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T14:42:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027378750044914127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1486755570694729729",
+              "start": 0,
+              "username": "inks_chain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027378750044914127",
+        "in_reply_to_user_id": "1486755570694729729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027293275548426334",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@inks_chain 宝宝怎么了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027293273405235200"
+          ]
+        },
+        "author_id": "1486755570694729729",
+        "conversation_id": "2027293275548426334",
+        "created_at": "2026-02-27T08:02:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T09:02:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027293275548426334"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1AqCxZnKEt",
+              "end": 51,
+              "expanded_url": "https://x.com/inks_chain/status/2027293275548426334/photo/1",
+              "media_key": "3_2027293273405235200",
+              "start": 28,
+              "url": "https://t.co/1AqCxZnKEt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027293275548426334",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1210,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "总而言之言而总之，被爹妈拖到医院洗胃去了\n人目前还没死 https://t.co/1AqCxZnKEt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2014053871983685932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 631,
+          "following_count": 431,
+          "like_count": 7493,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 2639
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-27T17:38:56.000Z",
+        "description": "厌世症",
+        "id": "1486755570694729729",
+        "name": "ヰ世界优泠8964_",
+        "pinned_tweet_id": "2000273872361496580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000078965458014209/yImgtI0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 375,
+          "like_count": 5625,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 2098
+        },
+        "username": "inks_chain",
+        "verified": false
+      }
+    ]
+  }
+}

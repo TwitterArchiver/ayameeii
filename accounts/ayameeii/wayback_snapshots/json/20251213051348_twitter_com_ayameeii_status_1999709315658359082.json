@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1999708110408286463",
+    "created_at": "2025-12-13T05:13:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T06:13:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999709315658359082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1194283796314509312",
+          "start": 0,
+          "username": "gana0w0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999709315658359082",
+    "in_reply_to_user_id": "1194283796314509312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999708110408286463",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gana0w0 还好现在非常非常好看！所以多想想现在吧！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1999708110408286463",
+        "created_at": "2025-12-13T05:13:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T06:13:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999709315658359082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1194283796314509312",
+              "start": 0,
+              "username": "gana0w0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999709315658359082",
+        "in_reply_to_user_id": "1194283796314509312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999708110408286463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gana0w0 还好现在非常非常好看！所以多想想现在吧！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1194283796314509312",
+        "conversation_id": "1999708110408286463",
+        "created_at": "2025-12-13T05:09:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T06:09:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999708110408286463"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999708110408286463",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的青春期从来都在自卑，和人对话不敢直视别人的眼睛，我总觉得自己不够漂亮，如果我再好看一点，是不是就敢直视你大方地笑了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "1992652290252316901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 303,
+          "like_count": 5483,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1762
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-12T16:00:27.000Z",
+        "description": "谢谢大家的喜欢  如果有多的钱可以给我",
+        "id": "1194283796314509312",
+        "name": "gana",
+        "pinned_tweet_id": "1746881168547405949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997675108085936128/G3NDcrqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65833,
+          "following_count": 168,
+          "like_count": 9400,
+          "listed_count": 199,
+          "media_count": 1463,
+          "tweet_count": 6583
+        },
+        "username": "gana0w0",
+        "verified": false
+      }
+    ]
+  }
+}

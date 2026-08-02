@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1980912031692935591",
+    "created_at": "2025-10-22T08:25:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T09:25:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980913484260077851"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "863583848789024769",
+          "start": 0,
+          "username": "wakahana77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980913484260077851",
+    "in_reply_to_user_id": "863583848789024769",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980912031692935591",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wakahana77 看不清..."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1980912023459287040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G32c_XGXUAAlM4j.jpg",
+        "width": 673
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1980912031692935591",
+        "created_at": "2025-10-22T08:25:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T09:25:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980913484260077851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "863583848789024769",
+              "start": 0,
+              "username": "wakahana77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980913484260077851",
+        "in_reply_to_user_id": "863583848789024769",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980912031692935591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wakahana77 看不清..."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980912023459287040"
+          ]
+        },
+        "author_id": "863583848789024769",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597017083904",
+              "name": "QSR - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1980912031692935591",
+        "created_at": "2025-10-22T08:20:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T09:20:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980912031692935591"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nxwf6Lws2O",
+              "end": 23,
+              "expanded_url": "https://x.com/wakahana77/status/1980912031692935591/photo/1",
+              "media_key": "3_1980912023459287040",
+              "start": 0,
+              "url": "https://t.co/Nxwf6Lws2O"
+            },
+            {
+              "display_url": "x.com/Ayanami_rin0/s…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/Ayanami_rin0/status/1980871048754262022",
+              "start": 24,
+              "url": "https://t.co/Bw5IUJsMjK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980912031692935591",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980871048754262022",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/Nxwf6Lws2O https://t.co/Bw5IUJsMjK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 175,
+          "like_count": 1493,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 400
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-14T02:36:48.000Z",
+        "description": "中文/English/日本語 | 🏳️‍🌈",
+        "id": "863583848789024769",
+        "name": "🌸",
+        "pinned_tweet_id": "1978681061321126189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922234132521680896/QSsgk6MY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 118,
+          "like_count": 18993,
+          "listed_count": 0,
+          "media_count": 405,
+          "tweet_count": 7464
+        },
+        "username": "wakahana77",
+        "verified": false
+      }
+    ]
+  }
+}

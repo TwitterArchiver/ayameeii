@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059888359645032448",
+        "3_2059888359519248384"
+      ]
+    },
+    "author_id": "1852135214795100164",
+    "conversation_id": "2059888362564337727",
+    "created_at": "2026-05-28T06:43:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T07:43:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059888362564337727"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UqZRnpasj0",
+          "end": 55,
+          "expanded_url": "https://x.com/ayameeii/status/2059888362564337727/photo/1",
+          "media_key": "3_2059888359645032448",
+          "start": 32,
+          "url": "https://t.co/UqZRnpasj0"
+        },
+        {
+          "display_url": "pic.x.com/UqZRnpasj0",
+          "end": 55,
+          "expanded_url": "https://x.com/ayameeii/status/2059888362564337727/photo/1",
+          "media_key": "3_2059888359519248384",
+          "start": 32,
+          "url": "https://t.co/UqZRnpasj0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059888362564337727",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "p1 可以呀！来找我一起玩呀！就是不知道你玩什么🥺 p2谢谢！ https://t.co/UqZRnpasj0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1172,
+        "media_key": "3_2059888359645032448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJYxjKGasAAaTv2.jpg",
+        "width": 1220
+      },
+      {
+        "height": 952,
+        "media_key": "3_2059888359519248384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJYxjJobYAAlvyl.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059888359645032448",
+            "3_2059888359519248384"
+          ]
+        },
+        "author_id": "1852135214795100164",
+        "conversation_id": "2059888362564337727",
+        "created_at": "2026-05-28T06:43:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T07:43:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059888362564337727"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UqZRnpasj0",
+              "end": 55,
+              "expanded_url": "https://x.com/ayameeii/status/2059888362564337727/photo/1",
+              "media_key": "3_2059888359645032448",
+              "start": 32,
+              "url": "https://t.co/UqZRnpasj0"
+            },
+            {
+              "display_url": "pic.x.com/UqZRnpasj0",
+              "end": 55,
+              "expanded_url": "https://x.com/ayameeii/status/2059888362564337727/photo/1",
+              "media_key": "3_2059888359519248384",
+              "start": 32,
+              "url": "https://t.co/UqZRnpasj0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059888362564337727",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "p1 可以呀！来找我一起玩呀！就是不知道你玩什么🥺 p2谢谢！ https://t.co/UqZRnpasj0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存| 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 34,
+                "start": 24,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 998,
+          "following_count": 663,
+          "like_count": 10238,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 3874
+        },
+        "username": "ayameeii",
+        "verified": false
+      }
+    ]
+  }
+}

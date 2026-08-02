@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2036096218464706669",
+    "created_at": "2026-03-23T16:11:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T17:11:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036113572519100774"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1991364416823259139",
+          "start": 0,
+          "username": "NikaidoHiro0110"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036113572519100774",
+    "in_reply_to_user_id": "1991364416823259139",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036096218464706669",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NikaidoHiro0110 主打陪伴，"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1221,
+        "media_key": "3_2036096208771719168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEGqttRboAAvHTg.jpg",
+        "width": 1221
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2036096218464706669",
+        "created_at": "2026-03-23T16:11:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T17:11:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036113572519100774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1991364416823259139",
+              "start": 0,
+              "username": "NikaidoHiro0110"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036113572519100774",
+        "in_reply_to_user_id": "1991364416823259139",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036096218464706669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NikaidoHiro0110 主打陪伴，"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036096208771719168"
+          ]
+        },
+        "author_id": "1991364416823259139",
+        "conversation_id": "2036096218464706669",
+        "created_at": "2026-03-23T15:02:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T16:02:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036096218464706669"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/73d2SIu5iI",
+              "end": 39,
+              "expanded_url": "https://x.com/NikaidoHiro0110/status/2036096218464706669/photo/1",
+              "media_key": "3_2036096208771719168",
+              "start": 16,
+              "url": "https://t.co/73d2SIu5iI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036096218464706669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我来圈米了因为我有点活不起了🥲 https://t.co/73d2SIu5iI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2036043044986953736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 678,
+          "following_count": 480,
+          "like_count": 8196,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 2951
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-20T04:34:18.000Z",
+        "description": "",
+        "id": "1991364416823259139",
+        "location": "月读",
+        "name": "雾中沉溺的蓝",
+        "pinned_tweet_id": "2036096218464706669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033066325728440322/9gD_Jtad_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1962,
+          "following_count": 107,
+          "like_count": 5979,
+          "listed_count": 5,
+          "media_count": 69,
+          "tweet_count": 555
+        },
+        "username": "NikaidoHiro0110",
+        "verified": false
+      }
+    ]
+  }
+}

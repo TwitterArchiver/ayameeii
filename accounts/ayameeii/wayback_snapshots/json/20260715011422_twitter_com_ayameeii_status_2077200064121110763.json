@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2077012144621752795",
+    "created_at": "2026-07-15T01:14:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T02:14:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077200064121110763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1966338408005201921",
+          "start": 0,
+          "username": "SThoWs1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077200064121110763",
+    "in_reply_to_user_id": "1966338408005201921",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077083020675498098",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SThoWs1 真"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2077012144621752795",
+        "created_at": "2026-07-15T01:14:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T02:14:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077200064121110763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1966338408005201921",
+              "start": 0,
+              "username": "SThoWs1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077200064121110763",
+        "in_reply_to_user_id": "1966338408005201921",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077083020675498098",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SThoWs1 真"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1966338408005201921",
+        "conversation_id": "2077012144621752795",
+        "created_at": "2026-07-14T17:29:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T18:29:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077083020675498098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1852135214795100164",
+              "start": 0,
+              "username": "ayameeii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077083020675498098",
+        "in_reply_to_user_id": "1852135214795100164",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077012144621752795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayameeii 真要假要"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存| 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 34,
+                "start": 24,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1094,
+          "following_count": 729,
+          "like_count": 10648,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 4178
+        },
+        "url": "",
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-12T03:09:51.000Z",
+        "description": "",
+        "id": "1966338408005201921",
+        "location": "江苏",
+        "name": "Kolr",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981552673246593024/L-n114fc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 174,
+          "like_count": 126,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 54
+        },
+        "url": "",
+        "username": "SThoWs1",
+        "verified": false
+      }
+    ]
+  }
+}

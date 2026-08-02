@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1990720195271270824",
+    "created_at": "2025-11-18T10:12:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T11:12:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990724889603453036"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1983516341400420352",
+          "start": 0,
+          "username": "2ikiW_deepSrevO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990724889603453036",
+    "in_reply_to_user_id": "1983516341400420352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990720195271270824",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2ikiW_deepSrevO 妈妈我想艹你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1990720195271270824",
+        "created_at": "2025-11-18T10:12:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T11:12:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990724889603453036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1983516341400420352",
+              "start": 0,
+              "username": "2ikiW_deepSrevO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990724889603453036",
+        "in_reply_to_user_id": "1983516341400420352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990720195271270824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2ikiW_deepSrevO 妈妈我想艹你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983516341400420352",
+        "conversation_id": "1990720195271270824",
+        "created_at": "2025-11-18T09:54:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T10:54:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990720195271270824"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/liaojieta1/sta…",
+              "end": 110,
+              "expanded_url": "https://twitter.com/liaojieta1/status/1990590497979838672",
+              "start": 87,
+              "url": "https://t.co/86NGPtYpfm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990720195271270824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990590497979838672",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实你们男的想操b真的不用拐弯抹角，真不如学学欧美白男自信大方一点，礼貌提出请求被拒绝就保持距离，不用有意无意地透露自己意图然后还故作姿态说我真没有别的意思，反而显得很猥琐 https://t.co/86NGPtYpfm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 236,
+          "like_count": 3587,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 1107
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-29T12:49:03.000Z",
+        "description": "户账本名命重将即 关无马人站原与论言户账本，散解已站原，割切站原与已",
+        "id": "1983516341400420352",
+        "name": "风晨户卓安 蛆药卓安 ➗跨卓安",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990368103788871682/QRmdAFC7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 155,
+          "like_count": 67,
+          "listed_count": 2,
+          "media_count": 7,
+          "tweet_count": 315
+        },
+        "username": "2ikiW_deepSrevO",
+        "verified": false
+      }
+    ]
+  }
+}

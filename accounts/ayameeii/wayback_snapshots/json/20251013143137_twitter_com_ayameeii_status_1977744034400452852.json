@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1977630830878142526",
+    "created_at": "2025-10-13T14:31:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T15:31:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977744034400452852"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1941079522490953728",
+          "start": 0,
+          "username": "xiyi_2233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977744034400452852",
+    "in_reply_to_user_id": "1941079522490953728",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977630830878142526",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiyi_2233 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1977630830878142526",
+        "created_at": "2025-10-13T14:31:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T15:31:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977744034400452852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1941079522490953728",
+              "start": 0,
+              "username": "xiyi_2233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977744034400452852",
+        "in_reply_to_user_id": "1941079522490953728",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977630830878142526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiyi_2233 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941079522490953728",
+        "conversation_id": "1977630830878142526",
+        "created_at": "2025-10-13T07:01:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T08:01:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977630830878142526"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/horizon_tem/st…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/horizon_tem/status/1977294430987288878",
+              "start": 14,
+              "url": "https://t.co/YOH9LQ0OMB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977630830878142526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 359,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977294430987288878",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有没有人可以和我做好朋友🥺 https://t.co/YOH9LQ0OMB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852135475403984896/GBdrMFBz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 141,
+          "like_count": 834,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 204
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-04T10:20:10.000Z",
+        "description": "安安 今天也要开心捏 同类互fo\n重郁中焦 HRT2025.10.6\n想要得到更多关心和爱的傻瓜\n提问箱:https://t.co/NRYtS9KSY1",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyi4388",
+                "end": 76,
+                "expanded_url": "https://ngl.link/xiyi4388",
+                "start": 53,
+                "url": "https://t.co/NRYtS9KSY1"
+              }
+            ]
+          }
+        },
+        "id": "1941079522490953728",
+        "location": "有你的地方",
+        "name": "兮意🍥🏳‍⚧",
+        "pinned_tweet_id": "1956816137423077530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977350702193360896/VnB9_1ef_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 234,
+          "like_count": 97,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 99
+        },
+        "username": "xiyi_2233",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2064225488143520057",
+    "created_at": "2026-06-09T06:00:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T07:00:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064226012607742401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1956567270739828736",
+          "start": 0,
+          "username": "Truffaut897456"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064226012607742401",
+    "in_reply_to_user_id": "1956567270739828736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064225488143520057",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Truffaut897456 可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11016,
+        "height": 1440,
+        "media_key": "13_2064225414453846017",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2064225414453846017/img/X-RekeTukBxD-EpH.jpg",
+        "public_metrics": {
+          "view_count": 3
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064225414453846017/vid/avc1/1080x1440/n12c0TFKK_u0zs3E.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064225414453846017/vid/avc1/320x426/yjAXoh08-tmGwq5x.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064225414453846017/vid/avc1/720x960/eeBeoJk2f8BtNSuR.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064225414453846017/vid/avc1/480x640/5GTHORJaVTGf6T8Q.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2064225414453846017/pl/SdggK5zUWR1uETOA.m3u8"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2064225488143520057",
+        "created_at": "2026-06-09T06:00:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T07:00:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064226012607742401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1956567270739828736",
+              "start": 0,
+              "username": "Truffaut897456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064226012607742401",
+        "in_reply_to_user_id": "1956567270739828736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064225488143520057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Truffaut897456 可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2064225414453846017"
+          ]
+        },
+        "author_id": "1956567270739828736",
+        "conversation_id": "2064225488143520057",
+        "created_at": "2026-06-09T05:58:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T06:58:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064225488143520057"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X9FopXqtGd",
+              "end": 30,
+              "expanded_url": "https://x.com/Truffaut897456/status/2064225488143520057/video/1",
+              "media_key": "13_2064225414453846017",
+              "start": 7,
+              "url": "https://t.co/X9FopXqtGd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064225488143520057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不知道在干嘛 https://t.co/X9FopXqtGd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存| 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 34,
+                "start": 24,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1044,
+          "following_count": 676,
+          "like_count": 10398,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 3963
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-16T04:02:53.000Z",
+        "description": "喜欢电影🎦 喜欢标豆瓣，玩豆瓣的可以私信来互关一下豆瓣，最喜欢恐怖片（意大利铅黄 好莱坞和各种欧美b恐 香港恐怖 日恐），对烂片有瘾，我品味烂爆，各类电影也都会看一点，还有二次元少女乐队特摄古早动画，平时喜欢拍cos和各种拍衣服，照片纯高p，线下丑蛆查无此人，如果撞上请不要骂我呜呜。",
+        "id": "1956567270739828736",
+        "location": "我想吃薯条",
+        "name": "Truffaut",
+        "pinned_tweet_id": "2001567503110279683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036327207875059712/2Y8IZf_n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20572,
+          "following_count": 1527,
+          "like_count": 12566,
+          "listed_count": 56,
+          "media_count": 322,
+          "tweet_count": 5078
+        },
+        "username": "Truffaut897456",
+        "verified": true
+      }
+    ]
+  }
+}

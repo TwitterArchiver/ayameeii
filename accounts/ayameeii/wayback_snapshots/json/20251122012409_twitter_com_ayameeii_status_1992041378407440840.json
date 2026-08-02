@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1992036697966629339",
+    "created_at": "2025-11-22T01:24:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T02:24:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992041378407440840"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1795072631169044480",
+          "start": 0,
+          "username": "FoxGod__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992041378407440840",
+    "in_reply_to_user_id": "1795072631169044480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992036697966629339",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FoxGod__ 记得头像 而且貌似很喜欢开空间"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3921,
+        "height": 720,
+        "media_key": "13_1992036671399862272",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1992036671399862272/img/679PxMTVcls4rhlO.jpg",
+        "public_metrics": {
+          "view_count": 17
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1992036671399862272/vid/avc1/480x270/K8kF1zp7S9Fz4sKw.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1992036671399862272/vid/avc1/640x360/FawRK16uG6LxRnvF.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1992036671399862272/vid/avc1/1280x720/Rv1HMS-UkYXL0RuI.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1992036671399862272/pl/C7ptT7mR4lpY65Vr.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1992036697966629339",
+        "created_at": "2025-11-22T01:24:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T02:24:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992041378407440840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1795072631169044480",
+              "start": 0,
+              "username": "FoxGod__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992041378407440840",
+        "in_reply_to_user_id": "1795072631169044480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992036697966629339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxGod__ 记得头像 而且貌似很喜欢开空间"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1992036671399862272"
+          ]
+        },
+        "author_id": "1795072631169044480",
+        "conversation_id": "1992036697966629339",
+        "created_at": "2025-11-22T01:05:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T02:05:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992036697966629339"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V15kMg3Uqd",
+              "end": 41,
+              "expanded_url": "https://x.com/FoxGod__/status/1992036697966629339/video/1",
+              "media_key": "13_1992036671399862272",
+              "start": 18,
+              "url": "https://t.co/V15kMg3Uqd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992036697966629339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "知道这个音频的都是我最忠诚的时家军 https://t.co/V15kMg3Uqd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 245,
+          "like_count": 3859,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 1202
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "我是谁？我无处不在",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/duoduofuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/duoduofuo",
+                "start": 0,
+                "url": "https://t.co/ZLduecxvmn"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "location": "失傳媒體",
+        "name": "時行の部屋",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991823421739511808/SrJ_IWX4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7508,
+          "following_count": 240,
+          "like_count": 31644,
+          "listed_count": 19,
+          "media_count": 188,
+          "tweet_count": 912
+        },
+        "url": "https://t.co/ZLduecxvmn",
+        "username": "FoxGod__",
+        "verified": false
+      }
+    ]
+  }
+}

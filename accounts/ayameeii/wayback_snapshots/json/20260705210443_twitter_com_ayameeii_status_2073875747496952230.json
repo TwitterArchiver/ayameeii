@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2073875747496952230",
+    "created_at": "2026-07-05T21:04:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T22:04:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073875747496952230"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/VickyisMe37rl/…",
+          "end": 65,
+          "expanded_url": "https://twitter.com/VickyisMe37rl/status/2073602521457950806",
+          "start": 42,
+          "url": "https://t.co/Y883ri0K1W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073875747496952230",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073602521457950806",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好冒犯的发言 什么时候人类才能明白性取向就是性取向 总喜欢把没有关系的绑定在一起吗 https://t.co/Y883ri0K1W"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2073875747496952230",
+        "created_at": "2026-07-05T21:04:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T22:04:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073875747496952230"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/VickyisMe37rl/…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/VickyisMe37rl/status/2073602521457950806",
+              "start": 42,
+              "url": "https://t.co/Y883ri0K1W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073875747496952230",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073602521457950806",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好冒犯的发言 什么时候人类才能明白性取向就是性取向 总喜欢把没有关系的绑定在一起吗 https://t.co/Y883ri0K1W"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051581559183155200",
+        "conversation_id": "2073602521457950806",
+        "created_at": "2026-07-05T02:59:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T03:59:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073602521457950806"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073602521457950806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 85803,
+          "like_count": 534,
+          "quote_count": 21,
+          "reply_count": 83,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "特别能理解女同为什么接受不了双性恋，换位思考一下我的对象男女都行，我也接受不了…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存| 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 34,
+                "start": 24,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1053,
+          "following_count": 691,
+          "like_count": 10364,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 4046
+        },
+        "url": "",
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-05T08:35:58.000Z",
+        "description": "一个欣赏自己并喜欢拍照的女人",
+        "id": "2051581559183155200",
+        "name": "Madokakkkkka",
+        "pinned_tweet_id": "2073357445762855336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063499665484689408/lTE9GLfP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 982,
+          "following_count": 24,
+          "like_count": 2366,
+          "listed_count": 2,
+          "media_count": 25,
+          "tweet_count": 526
+        },
+        "url": "",
+        "username": "VickyisMe37rl",
+        "verified": false
+      }
+    ]
+  }
+}

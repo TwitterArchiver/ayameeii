@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2041217083778986376",
+    "created_at": "2026-04-07T01:17:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T02:17:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041324439674233228"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1975850232094371840",
+          "start": 0,
+          "username": "zhizi160216"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041324439674233228",
+    "in_reply_to_user_id": "1975850232094371840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041217083778986376",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhizi160216 其实挺可爱的。。。可爱的人什么头型都可爱😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12698,
+        "height": 1280,
+        "media_key": "13_2041217014057058304",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2041217014057058304/img/7knp1gGTDUYh_VSr.jpg",
+        "public_metrics": {
+          "view_count": 103
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041217014057058304/vid/avc1/320x568/tcBytdvxDELET2tL.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041217014057058304/vid/avc1/480x852/VegcWLljIU9RUdpj.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041217014057058304/vid/avc1/720x1280/6qbXLcOt4MtroVZP.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2041217014057058304/pl/4DsXm-pje_ZxWyFM.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2041217083778986376",
+        "created_at": "2026-04-07T01:17:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T02:17:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041324439674233228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1975850232094371840",
+              "start": 0,
+              "username": "zhizi160216"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041324439674233228",
+        "in_reply_to_user_id": "1975850232094371840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041217083778986376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhizi160216 其实挺可爱的。。。可爱的人什么头型都可爱😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2041217014057058304"
+          ]
+        },
+        "author_id": "1975850232094371840",
+        "conversation_id": "2041217083778986376",
+        "created_at": "2026-04-06T18:10:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T19:10:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041217083778986376"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 45,
+              "start": 31,
+              "tag": "自撮り界隈さんと繋がりたい"
+            },
+            {
+              "end": 52,
+              "start": 46,
+              "tag": "地雷系女子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tZH2MVOAPo",
+              "end": 76,
+              "expanded_url": "https://x.com/zhizi160216/status/2041217083778986376/video/1",
+              "media_key": "13_2041217014057058304",
+              "start": 53,
+              "url": "https://t.co/tZH2MVOAPo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041217083778986376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 354,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在这个死头发是被学校逼着剪的 我很想念之前可爱的妹妹头 \n#自撮り界隈さんと繋がりたい #地雷系女子 https://t.co/tZH2MVOAPo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2036043044986953736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 770,
+          "following_count": 548,
+          "like_count": 9038,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 3340
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-08T09:07:43.000Z",
+        "description": "",
+        "id": "1975850232094371840",
+        "location": "距离你5.2km",
+        "name": "沫沫",
+        "pinned_tweet_id": "2027895896680370298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980630127638654976/q6sFuFBy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 90,
+          "like_count": 609,
+          "listed_count": 3,
+          "media_count": 109,
+          "tweet_count": 785
+        },
+        "username": "zhizi160216",
+        "verified": false
+      }
+    ]
+  }
+}

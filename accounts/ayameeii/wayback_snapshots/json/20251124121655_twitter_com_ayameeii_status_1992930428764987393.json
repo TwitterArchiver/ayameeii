@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1992928673704579207",
+    "created_at": "2025-11-24T12:16:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T13:16:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992930428764987393"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1709928872920469504",
+          "start": 0,
+          "username": "mahoshojopikapi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992930428764987393",
+    "in_reply_to_user_id": "1709928872920469504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992928673704579207",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mahoshojopikapi 我爱你(⁠╥⁠﹏⁠╥⁠)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1992928673704579207",
+        "created_at": "2025-11-24T12:16:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T13:16:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992930428764987393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1709928872920469504",
+              "start": 0,
+              "username": "mahoshojopikapi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992930428764987393",
+        "in_reply_to_user_id": "1709928872920469504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992928673704579207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mahoshojopikapi 我爱你(⁠╥⁠﹏⁠╥⁠)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1709928872920469504",
+        "conversation_id": "1992928673704579207",
+        "created_at": "2025-11-24T12:09:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T13:09:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992928673704579207"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1992928673704579207",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "能不能愛我 誰都可以"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "1992652290252316901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 251,
+          "like_count": 4029,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 1252
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-05T13:49:57.000Z",
+        "description": "互fo私信 會查成分 成分相似會回fo 盜圖4000+ 🚪199/288/520/1314/5200 都是台幣 不開非綠",
+        "id": "1709928872920469504",
+        "location": "天國",
+        "name": "✞︎ 魔法少女淺淺 ✞︎",
+        "pinned_tweet_id": "1989132784909336785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744442846533603329/SEKrTqv4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 476,
+          "like_count": 2250,
+          "listed_count": 0,
+          "media_count": 237,
+          "tweet_count": 1844
+        },
+        "username": "mahoshojopikapi",
+        "verified": false
+      }
+    ]
+  }
+}

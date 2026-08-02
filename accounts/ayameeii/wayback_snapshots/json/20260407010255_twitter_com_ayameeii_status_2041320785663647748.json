@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2041320785663647748",
+    "created_at": "2026-04-07T01:02:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T02:02:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041320785663647748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2013233628847980544",
+          "start": 3,
+          "username": "Asukai_Yuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041320785663647748",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041094444750106844",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Asukai_Yuki: ↑\n＝郁希/飛鳥井ユキ \n★enby 小男女孩★\n★sh | OverDriven| 绘画 | guitar★\n★06 | 惨圈女 | rock n roll | 乐队oc★\n自拍均为本人原相机/仅调色直出～\n交友互粉互转大欢迎☆\n门槛相关有且…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041094425900896256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFNskPDaUAAMZTn.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2041320785663647748",
+        "created_at": "2026-04-07T01:02:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T02:02:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041320785663647748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2013233628847980544",
+              "start": 3,
+              "username": "Asukai_Yuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041320785663647748",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041094444750106844",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Asukai_Yuki: ↑\n＝郁希/飛鳥井ユキ \n★enby 小男女孩★\n★sh | OverDriven| 绘画 | guitar★\n★06 | 惨圈女 | rock n roll | 乐队oc★\n自拍均为本人原相机/仅调色直出～\n交友互粉互转大欢迎☆\n门槛相关有且…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041094425900896256"
+          ]
+        },
+        "author_id": "2013233628847980544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2041094444750106844",
+        "created_at": "2026-04-06T10:03:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T11:03:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041094444750106844"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 142,
+              "start": 130,
+              "tag": "病み垢さんと繋がりたい"
+            },
+            {
+              "end": 147,
+              "start": 143,
+              "tag": "病み垢"
+            },
+            {
+              "end": 160,
+              "start": 148,
+              "tag": "自撮り界隈と繋がりたい"
+            },
+            {
+              "end": 167,
+              "start": 161,
+              "tag": "お友達探し"
+            },
+            {
+              "end": 171,
+              "start": 168,
+              "tag": "门槛"
+            },
+            {
+              "end": 176,
+              "start": 173,
+              "tag": "纯绿"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/viMDmFCzjW",
+              "end": 200,
+              "expanded_url": "https://x.com/Asukai_Yuki/status/2041094444750106844/photo/1",
+              "media_key": "3_2041094425900896256",
+              "start": 177,
+              "url": "https://t.co/viMDmFCzjW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041094444750106844",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 646,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "↑\n＝郁希/飛鳥井ユキ \n★enby 小男女孩★\n★sh | OverDriven| 绘画 | guitar★\n★06 | 惨圈女 | rock n roll | 乐队oc★\n自拍均为本人原相机/仅调色直出～\n交友互粉互转大欢迎☆\n门槛相关有且只有纯绿业务\n\n#病み垢さんと繋がりたい #病み垢 #自撮り界隈と繋がりたい #お友達探し #门槛  #纯绿 https://t.co/viMDmFCzjW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2036043044986953736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 769,
+          "following_count": 544,
+          "like_count": 9021,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 3333
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-19T12:54:43.000Z",
+        "description": "🏳️‍⚧️🏳️‍🌈＝郁希/飛鳥井ゆき | enby 泛性恋无浪漫，和我的琴已经结婚 | 06| 双相焦虑 | 🎸🎨  | rock'n'roll | oc | 我见你如于深井中窥飞鸟",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mikanseinonatsu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mikanseinonatsu",
+                "start": 0,
+                "url": "https://t.co/1wmN2eVRYQ"
+              }
+            ]
+          }
+        },
+        "id": "2013233628847980544",
+        "location": "喜欢我请给我打钱❤️",
+        "name": "郁希",
+        "pinned_tweet_id": "2041094444750106844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030567969726840832/5gci_IPw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 188,
+          "like_count": 287,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 1985
+        },
+        "url": "https://t.co/1wmN2eVRYQ",
+        "username": "Asukai_Yuki",
+        "verified": false
+      }
+    ]
+  }
+}

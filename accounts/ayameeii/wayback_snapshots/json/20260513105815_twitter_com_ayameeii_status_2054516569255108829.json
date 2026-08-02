@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2054503998045200430",
+    "created_at": "2026-05-13T10:58:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T11:58:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054516569255108829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2015660394967404544",
+          "start": 0,
+          "username": "Rien6cf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054516569255108829",
+    "in_reply_to_user_id": "2015660394967404544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054503998045200430",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rien6cf 惨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2054503998045200430",
+        "created_at": "2026-05-13T10:58:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T11:58:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054516569255108829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2015660394967404544",
+              "start": 0,
+              "username": "Rien6cf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054516569255108829",
+        "in_reply_to_user_id": "2015660394967404544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054503998045200430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rien6cf 惨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2054503998045200430",
+        "created_at": "2026-05-13T10:08:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T11:08:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054503998045200430"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054503998045200430",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每天呢上学就已经拼尽全力了，明明吃饭都没劲了然后还被逼着和不叼我的日本人说话，回到家发现在留卡丢了护照也丢了学生证还不认工作人员更是嬉皮笑脸，今天过了我就成他妈非法滞留了，处理完这堆破事想找个人哭发现哇，居然查无此人，牛逼，咋不杀了我？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存| 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 34,
+                "start": 24,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 927,
+          "following_count": 641,
+          "like_count": 9960,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 3757
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nADHD/ASD  SJK",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 170,
+          "like_count": 3877,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 2021
+        },
+        "username": "Rien6cf",
+        "verified": false
+      }
+    ]
+  }
+}

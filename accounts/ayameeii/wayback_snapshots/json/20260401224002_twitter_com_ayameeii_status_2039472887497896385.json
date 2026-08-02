@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2039472294763118638",
+    "created_at": "2026-04-01T22:40:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T23:40:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039472887497896385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1844290406391103488",
+          "start": 0,
+          "username": "qhqq114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039472887497896385",
+    "in_reply_to_user_id": "1844290406391103488",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039472294763118638",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qhqq114514 宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2039472294763118638",
+        "created_at": "2026-04-01T22:40:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T23:40:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039472887497896385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1844290406391103488",
+              "start": 0,
+              "username": "qhqq114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039472887497896385",
+        "in_reply_to_user_id": "1844290406391103488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039472294763118638",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qhqq114514 宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844290406391103488",
+        "conversation_id": "2039472294763118638",
+        "created_at": "2026-04-01T22:37:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T23:37:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039472294763118638"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039472294763118638",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有人要一起吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2036043044986953736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 747,
+          "following_count": 523,
+          "like_count": 8817,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 3275
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-10T08:14:42.000Z",
+        "description": "私：@FoxGod__ 信任的人过：@BadFoxGod_ 纯良号预备中：@die11037",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "FoxGod__"
+              },
+              {
+                "end": 29,
+                "start": 18,
+                "username": "BadFoxGod_"
+              },
+              {
+                "end": 46,
+                "start": 37,
+                "username": "die11037"
+              }
+            ]
+          }
+        },
+        "id": "1844290406391103488",
+        "location": "Osaka-fu, Japan",
+        "name": "命运石之门",
+        "pinned_tweet_id": "1858736060181914065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037238724485091328/ZfcaaSlv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540,
+          "following_count": 268,
+          "like_count": 2040,
+          "listed_count": 3,
+          "media_count": 189,
+          "tweet_count": 3852
+        },
+        "username": "qhqq114514",
+        "verified": false
+      }
+    ]
+  }
+}

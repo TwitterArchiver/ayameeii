@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1995595408232644922",
+    "created_at": "2025-12-01T21:25:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T22:25:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995605211512193520"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1934423287729455105",
+          "start": 0,
+          "username": "auroralia7777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995605211512193520",
+    "in_reply_to_user_id": "1934423287729455105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995595408232644922",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@auroralia7777 ？？？吃糖吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1995595408232644922",
+        "created_at": "2025-12-01T21:25:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T22:25:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995605211512193520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1934423287729455105",
+              "start": 0,
+              "username": "auroralia7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995605211512193520",
+        "in_reply_to_user_id": "1934423287729455105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995595408232644922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@auroralia7777 ？？？吃糖吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934423287729455105",
+        "conversation_id": "1995595408232644922",
+        "created_at": "2025-12-01T20:46:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T21:46:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995595408232644922"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1995595408232644922",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "2025/12/1\nday1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "喜欢我我也喜欢你 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "1992652290252316901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 280,
+          "like_count": 4605,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1460
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-16T01:30:35.000Z",
+        "description": "「𝐴𝑢𝑟𝑜𝑟𝑎𝑙𝑖𝑎」𝘢𝘯𝘥 𝘩𝘦𝘳 𝘩𝘦𝘢𝘳𝘵 𝘰𝘧 𝘧𝘢𝘭𝘭𝘪𝘯𝘨 𝘴𝘵𝘢𝘳𝘴☆\n\n𝐼 𝑙𝑜𝑣𝑒 𝑦𝑜𝑢, @yeziyu7777 .\n\n2025/12/1 rebirth\n\n大笨猪🐷@zyh842159145",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 56,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 107,
+                "start": 94,
+                "username": "zyh842159145"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/auroralia7777",
+                "end": 23,
+                "expanded_url": "http://x.com/auroralia7777",
+                "start": 0,
+                "url": "https://t.co/v5PIIqI1K0"
+              }
+            ]
+          }
+        },
+        "id": "1934423287729455105",
+        "location": "up and beyond the Aurora.",
+        "name": "オーロラリーア🏳️‍⚧️",
+        "pinned_tweet_id": "1993531283109298306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964180368439070722/GsHJLg3S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 195,
+          "like_count": 6553,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 2241
+        },
+        "url": "https://t.co/v5PIIqI1K0",
+        "username": "auroralia7777",
+        "verified": false
+      }
+    ]
+  }
+}

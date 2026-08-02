@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2022374045984133183",
+    "created_at": "2026-02-13T19:16:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T20:16:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022389361996894569"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1873582469854949376",
+          "start": 0,
+          "username": "shikonnotama999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022389361996894569",
+    "in_reply_to_user_id": "1873582469854949376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022374045984133183",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shikonnotama999 电波系？不过好多事情真的闹麻了纯让人头疼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2022374045984133183",
+        "created_at": "2026-02-13T19:16:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T20:16:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022389361996894569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1873582469854949376",
+              "start": 0,
+              "username": "shikonnotama999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022389361996894569",
+        "in_reply_to_user_id": "1873582469854949376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022374045984133183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shikonnotama999 电波系？不过好多事情真的闹麻了纯让人头疼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1873582469854949376",
+        "conversation_id": "2022374045984133183",
+        "created_at": "2026-02-13T18:15:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T19:15:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022374045984133183"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shikonnotama99…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/shikonnotama999/status/2022092792567410991",
+              "start": 17,
+              "url": "https://t.co/6uYDs3jZ5g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022374045984133183",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 98,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022092792567410991",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我本人称这种类型的女孩为*鬼畜女 https://t.co/6uYDs3jZ5g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2014053871983685932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 535,
+          "following_count": 398,
+          "like_count": 7060,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 2444
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-30T04:10:58.000Z",
+        "description": "我喜欢和淡淡的人交流 私信只回口令 一直问拉黑",
+        "id": "1873582469854949376",
+        "location": "🚪288/520/1314^ ^.",
+        "name": "愈美湯力水oO",
+        "pinned_tweet_id": "2019526992228741478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007098307173048320/lHWZnHB0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1037,
+          "following_count": 98,
+          "like_count": 801,
+          "listed_count": 3,
+          "media_count": 17,
+          "tweet_count": 148
+        },
+        "username": "shikonnotama999",
+        "verified": false
+      }
+    ]
+  }
+}

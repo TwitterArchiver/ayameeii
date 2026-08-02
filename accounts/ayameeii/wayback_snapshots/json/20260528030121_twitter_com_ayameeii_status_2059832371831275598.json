@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2059748041973026888",
+    "created_at": "2026-05-28T03:01:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T04:01:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059832371831275598"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1409516495571501066",
+          "start": 0,
+          "username": "DrankghostU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059832371831275598",
+    "in_reply_to_user_id": "1409516495571501066",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059748041973026888",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DrankghostU 真的吗  很善良的发言呀！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 770,
+        "media_key": "3_2059748035215949824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJWx7M3bAAAofsF.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2059748041973026888",
+        "created_at": "2026-05-28T03:01:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T04:01:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059832371831275598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1409516495571501066",
+              "start": 0,
+              "username": "DrankghostU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059832371831275598",
+        "in_reply_to_user_id": "1409516495571501066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059748041973026888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DrankghostU 真的吗  很善良的发言呀！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059748035215949824"
+          ]
+        },
+        "author_id": "1409516495571501066",
+        "conversation_id": "2059748041973026888",
+        "created_at": "2026-05-27T21:26:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T22:26:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059748041973026888"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0NtUE0MpZD",
+              "end": 162,
+              "expanded_url": "https://x.com/DrankghostU/status/2059748041973026888/photo/1",
+              "media_key": "3_2059748035215949824",
+              "start": 139,
+              "url": "https://t.co/0NtUE0MpZD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059748041973026888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 121,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很恶心很自我很自我意识过剩的发言。就当我乱说的吧。但我还是想鼓励那些犹豫要不要去死的孩子们活下去。因为活着的日子未必会变得更差。我始终相信触底反弹和否极泰来。因为我曾经经历三次低谷又一步步振作着爬起来。\n也许我只是自我意识过剩吧。但是不管怎样，死目莉想要大家安好的心情是真的。 https://t.co/0NtUE0MpZD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存| 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 34,
+                "start": 24,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 989,
+          "following_count": 664,
+          "like_count": 10235,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 3872
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "被msk气哭了。\n前世@SaotomeShimeri\n女宝互关熟了可以恰v \n男性推油请给恶魔死目莉的熔炼炉投入52cny喵😤\n没有喜欢死目莉的觉悟的人不能靠近死目莉！😤😤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 11,
+                "username": "SaotomeShimeri"
+              }
+            ]
+          }
+        },
+        "id": "1409516495571501066",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2059646950455279640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058389276015120384/ihPt3Trh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 146,
+          "like_count": 51,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 95
+        },
+        "username": "DrankghostU",
+        "verified": false
+      }
+    ]
+  }
+}

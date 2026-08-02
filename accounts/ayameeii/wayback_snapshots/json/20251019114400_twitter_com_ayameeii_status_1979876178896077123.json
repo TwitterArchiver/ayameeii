@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1979872331016421410",
+    "created_at": "2025-10-19T11:44:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T12:44:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979876178896077123"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1901858008210219008",
+          "start": 0,
+          "username": "shimokita_1204"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979876178896077123",
+    "in_reply_to_user_id": "1901858008210219008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979874872517128474",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shimokita_1204 我还咬舌头了😿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1979872331016421410",
+        "created_at": "2025-10-19T11:44:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T12:44:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979876178896077123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1901858008210219008",
+              "start": 0,
+              "username": "shimokita_1204"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979876178896077123",
+        "in_reply_to_user_id": "1901858008210219008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979874872517128474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shimokita_1204 我还咬舌头了😿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901858008210219008",
+        "conversation_id": "1979872331016421410",
+        "created_at": "2025-10-19T11:38:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T12:38:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979874872517128474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1852135214795100164",
+              "start": 0,
+              "username": "ayameeii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979874872517128474",
+        "in_reply_to_user_id": "1852135214795100164",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979874632305164545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayameeii 呜哇😭😭揉揉你😿抱抱🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 165,
+          "like_count": 1238,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 333
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-18T04:47:49.000Z",
+        "description": "偶尔上推/生理女非二元（？）/有对象了/无自杀倾向 有负能/会ban看黄推/互fo请私信",
+        "id": "1901858008210219008",
+        "name": "下北（可以找我互fo）",
+        "pinned_tweet_id": "1907846041032077774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970532651372339200/becZN-79_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 321,
+          "like_count": 1836,
+          "listed_count": 1,
+          "media_count": 358,
+          "tweet_count": 2034
+        },
+        "username": "shimokita_1204",
+        "verified": false
+      }
+    ]
+  }
+}

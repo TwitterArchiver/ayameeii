@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2046699705904886000",
+    "created_at": "2026-04-21T21:24:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T22:24:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046701552711487530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2031914328010735620",
+          "start": 0,
+          "username": "Xiaozhaisama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046701552711487530",
+    "in_reply_to_user_id": "2031914328010735620",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046699705904886000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xiaozhaisama 线下是不是还能买...可以现在药店囤点？或者去医院说家人咳嗽点名开点应该不严吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2046699705904886000",
+        "created_at": "2026-04-21T21:24:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T22:24:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046701552711487530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2031914328010735620",
+              "start": 0,
+              "username": "Xiaozhaisama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046701552711487530",
+        "in_reply_to_user_id": "2031914328010735620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046699705904886000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaozhaisama 线下是不是还能买...可以现在药店囤点？或者去医院说家人咳嗽点名开点应该不严吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031914328010735620",
+        "conversation_id": "2046699705904886000",
+        "created_at": "2026-04-21T21:16:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T22:16:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046699705904886000"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046699705904886000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不是以后都买不到玉梅片我真的不想活了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存|对象❤️@AAAAAMTxT 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "AAAAAMTxT"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 48,
+                "start": 38,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 807,
+          "following_count": 601,
+          "like_count": 9564,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 3552
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T02:06:21.000Z",
+        "description": "前世@zhaizhaiwa56701 \n🪼🪼🪼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "zhaizhaiwa56701"
+              }
+            ]
+          }
+        },
+        "id": "2031914328010735620",
+        "name": "阴暗死宅玻璃心",
+        "pinned_tweet_id": "2031928271437513152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031928510412177409/6fjzAQxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 20,
+          "like_count": 78,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 50
+        },
+        "username": "Xiaozhaisama",
+        "verified": false
+      }
+    ]
+  }
+}

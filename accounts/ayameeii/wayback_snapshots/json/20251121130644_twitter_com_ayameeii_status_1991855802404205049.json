@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1991855802404205049",
+    "created_at": "2025-11-21T13:06:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T14:06:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1991855802404205049"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/8964_Y/status/…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/8964_Y/status/1991855321548230666",
+          "start": 12,
+          "url": "https://t.co/lf1SRkBnK1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991855802404205049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991855321548230666",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "所有人来看可爱的阿喵喵 https://t.co/lf1SRkBnK1"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12500,
+        "height": 1280,
+        "media_key": "13_1991855122021044224",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1991855122021044224/img/TmwDuAe3RpX2Fuqq.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1991855122021044224/vid/avc1/320x568/FgdfxZBbPFJh6TN4.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1991855122021044224/vid/avc1/480x852/fInhRe1zKYpU-zVp.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1991855122021044224/vid/avc1/720x1280/PTWh_7JZnD1TSlB9.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1991855122021044224/pl/TFzwvHf6QR4n1U9h.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1991855802404205049",
+        "created_at": "2025-11-21T13:06:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T14:06:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991855802404205049"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/8964_Y/status/…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/8964_Y/status/1991855321548230666",
+              "start": 12,
+              "url": "https://t.co/lf1SRkBnK1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991855802404205049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991855321548230666",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所有人来看可爱的阿喵喵 https://t.co/lf1SRkBnK1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1991855122021044224"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "conversation_id": "1991855321548230666",
+        "created_at": "2025-11-21T13:04:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T14:04:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991855321548230666"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dyse9606km",
+              "end": 23,
+              "expanded_url": "https://x.com/8964_Y/status/1991855321548230666/video/1",
+              "media_key": "13_1991855122021044224",
+              "start": 0,
+              "url": "https://t.co/Dyse9606km"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991855321548230666",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "https://t.co/Dyse9606km"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 241,
+          "like_count": 3772,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 1169
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜只过信任的人：@llll3lll313｜专门发画的：@QY_art7 ｜我闺蜜我们两个不是同一个人@cnmnms666｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 18,
+                "username": "llll3lll313"
+              },
+              {
+                "end": 45,
+                "start": 37,
+                "username": "QY_art7"
+              },
+              {
+                "end": 70,
+                "start": 60,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1976991482767982990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5863,
+          "following_count": 863,
+          "like_count": 17060,
+          "listed_count": 17,
+          "media_count": 926,
+          "tweet_count": 13599
+        },
+        "username": "8964_Y",
+        "verified": false
+      }
+    ]
+  }
+}

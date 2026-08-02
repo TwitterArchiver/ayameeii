@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1995302460387394013",
+    "created_at": "2025-12-01T02:15:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T03:15:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995315734139023871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1559088842333769728",
+          "start": 0,
+          "username": "hsnyuia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995315734139023871",
+    "in_reply_to_user_id": "1559088842333769728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995302460387394013",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hsnyuia 这不是很可爱吗！很萌很自然"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1800,
+        "media_key": "3_1995302432059105280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7C8_YpbIAAmu6e.jpg",
+        "width": 3200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1995302460387394013",
+        "created_at": "2025-12-01T02:15:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T03:15:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995315734139023871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1559088842333769728",
+              "start": 0,
+              "username": "hsnyuia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995315734139023871",
+        "in_reply_to_user_id": "1559088842333769728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995302460387394013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsnyuia 这不是很可爱吗！很萌很自然"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995302432059105280"
+          ]
+        },
+        "author_id": "1559088842333769728",
+        "conversation_id": "1995302460387394013",
+        "created_at": "2025-12-01T01:22:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T02:22:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995302460387394013"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6fQUP29L40",
+              "end": 34,
+              "expanded_url": "https://x.com/hsnyuia/status/1995302460387394013/photo/1",
+              "media_key": "3_1995302432059105280",
+              "start": 11,
+              "url": "https://t.co/6fQUP29L40"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995302460387394013",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 63,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "只能拿来拍自拍的妆造 https://t.co/6fQUP29L40"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "喜欢我我也喜欢你 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "1992652290252316901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 280,
+          "like_count": 4562,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1451
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-15T08:05:37.000Z",
+        "description": "問題自体が解決できなければ質問者を解決する",
+        "id": "1559088842333769728",
+        "name": "ゆいあ",
+        "pinned_tweet_id": "1975265328822456504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967997570824990720/mxFlcf_v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1571,
+          "following_count": 1262,
+          "like_count": 11069,
+          "listed_count": 6,
+          "media_count": 652,
+          "tweet_count": 5019
+        },
+        "username": "hsnyuia",
+        "verified": false
+      }
+    ]
+  }
+}

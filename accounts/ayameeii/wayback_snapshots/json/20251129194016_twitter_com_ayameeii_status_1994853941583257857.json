@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1994853249762169060",
+    "created_at": "2025-11-29T19:40:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T20:40:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994853941583257857"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1938866971669606400",
+          "start": 0,
+          "username": "xiaosong2_33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994853941583257857",
+    "in_reply_to_user_id": "1938866971669606400",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994853249762169060",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaosong2_33 妈咪你很美"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1994853249762169060",
+        "created_at": "2025-11-29T19:40:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T20:40:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994853941583257857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1938866971669606400",
+              "start": 0,
+              "username": "xiaosong2_33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994853941583257857",
+        "in_reply_to_user_id": "1938866971669606400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994853249762169060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaosong2_33 妈咪你很美"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938866971669606400",
+        "conversation_id": "1994853249762169060",
+        "created_at": "2025-11-29T19:37:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T20:37:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994853249762169060"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1994853249762169060",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "长成这样没人下得去屌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "喜欢我我也喜欢你 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "1992652290252316901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 274,
+          "like_count": 4445,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1407
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-28T07:48:19.000Z",
+        "description": "地雷男。\n联系方式\nhttps://t.co/9EoQ9U4SJG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/xiaosong2_33",
+                "end": 33,
+                "expanded_url": "https://t.me/xiaosong2_33",
+                "start": 10,
+                "url": "https://t.co/9EoQ9U4SJG"
+              }
+            ]
+          }
+        },
+        "id": "1938866971669606400",
+        "name": "xiaosong 🏳️‍⚧️",
+        "pinned_tweet_id": "1994323767556743297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994324210794348544/4aqRFEq5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 101,
+          "like_count": 999,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 374
+        },
+        "username": "xiaosong2_33",
+        "verified": false
+      }
+    ]
+  }
+}

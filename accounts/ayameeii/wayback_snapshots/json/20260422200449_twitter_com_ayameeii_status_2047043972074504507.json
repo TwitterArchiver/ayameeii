@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2047037589962764396",
+    "created_at": "2026-04-22T20:04:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T21:04:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047043972074504507"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1868471300005797888",
+          "start": 0,
+          "username": "JONY1078425"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047043972074504507",
+    "in_reply_to_user_id": "1868471300005797888",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047037589962764396",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JONY1078425 唐笑呢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047037586682830848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGiJ1uQaYAACafl.jpg",
+        "width": 1367
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2047037589962764396",
+        "created_at": "2026-04-22T20:04:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T21:04:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047043972074504507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1868471300005797888",
+              "start": 0,
+              "username": "JONY1078425"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047043972074504507",
+        "in_reply_to_user_id": "1868471300005797888",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047037589962764396",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JONY1078425 唐笑呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047037586682830848"
+          ]
+        },
+        "author_id": "1868471300005797888",
+        "conversation_id": "2047037589962764396",
+        "created_at": "2026-04-22T19:39:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T20:39:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047037589962764396"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/383BFbj71U",
+              "end": 44,
+              "expanded_url": "https://x.com/JONY1078425/status/2047037589962764396/photo/1",
+              "media_key": "3_2047037586682830848",
+              "start": 21,
+              "url": "https://t.co/383BFbj71U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047037589962764396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "室友说我出的爱音唐完了哈哈哈\n真的很唐吗 https://t.co/383BFbj71U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存|对象❤️@tngxngxng13171 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 10,
+                "username": "tngxngxng13171"
+              },
+              {
+                "end": 38,
+                "start": 28,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 53,
+                "start": 43,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 807,
+          "following_count": 602,
+          "like_count": 9598,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 3571
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-16T01:40:57.000Z",
+        "description": "QQ群：1061451722约炮的别来\n不是门槛妹，要是实在喜欢我的话可以给我赞赏一点 o(╥﹏╥)o",
+        "id": "1868471300005797888",
+        "location": "你的心里",
+        "name": "小圆ovo",
+        "pinned_tweet_id": "2038992150483153357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038990216107859968/w1jwZJQG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4389,
+          "following_count": 199,
+          "like_count": 1503,
+          "listed_count": 12,
+          "media_count": 143,
+          "tweet_count": 1322
+        },
+        "username": "JONY1078425",
+        "verified": false
+      }
+    ]
+  }
+}

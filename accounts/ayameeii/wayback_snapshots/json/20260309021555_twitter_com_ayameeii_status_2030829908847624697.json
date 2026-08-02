@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2030829908847624697",
+    "created_at": "2026-03-09T02:15:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T03:15:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030829908847624697"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ayameeii/statu…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/ayameeii/status/2030809138771763529",
+          "start": 36,
+          "url": "https://t.co/amYRldNd0N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030829908847624697",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030809138771763529",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "马斯克你又在搞什么 有没有谁告诉我怎么办 我现在重下了一遍都登不上去了 https://t.co/amYRldNd0N"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2030829908847624697",
+        "created_at": "2026-03-09T02:15:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T03:15:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030829908847624697"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ayameeii/statu…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/ayameeii/status/2030809138771763529",
+              "start": 36,
+              "url": "https://t.co/amYRldNd0N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030829908847624697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030809138771763529",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "马斯克你又在搞什么 有没有谁告诉我怎么办 我现在重下了一遍都登不上去了 https://t.co/amYRldNd0N"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2030809138771763529",
+        "created_at": "2026-03-09T00:53:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T01:53:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030809138771763529"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030809138771763529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推特你怎么了我在手机上什么都发不出来吓死我了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2027766234981494956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 641,
+          "following_count": 439,
+          "like_count": 7650,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 2720
+        },
+        "username": "ayameeii",
+        "verified": false
+      }
+    ]
+  }
+}

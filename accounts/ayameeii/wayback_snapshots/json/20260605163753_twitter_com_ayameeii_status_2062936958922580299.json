@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2062931511079469394",
+    "created_at": "2026-06-05T16:37:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T17:37:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062936958922580299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1920147743043170304",
+          "start": 0,
+          "username": "xiaoyuyu0625"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062936958922580299",
+    "in_reply_to_user_id": "1920147743043170304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062935657245491300",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoyuyu0625 傻逼主页放牛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2062931511079469394",
+        "created_at": "2026-06-05T16:37:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T17:37:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062936958922580299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1920147743043170304",
+              "start": 0,
+              "username": "xiaoyuyu0625"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062936958922580299",
+        "in_reply_to_user_id": "1920147743043170304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062935657245491300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyuyu0625 傻逼主页放牛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920147743043170304",
+        "conversation_id": "2062931511079469394",
+        "created_at": "2026-06-05T16:32:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T17:32:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062935657245491300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1852135214795100164",
+              "start": 0,
+              "username": "ayameeii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062935657245491300",
+        "in_reply_to_user_id": "1852135214795100164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062931511079469394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayameeii 关注我宝宝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存| 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 34,
+                "start": 24,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1007,
+          "following_count": 669,
+          "like_count": 10360,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 3935
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-07T16:04:45.000Z",
+        "description": "",
+        "id": "1920147743043170304",
+        "name": "小鱼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062543966600642560/VazfzpzM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 12,
+          "like_count": 285,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 25
+        },
+        "username": "xiaoyuyu0625",
+        "verified": false
+      }
+    ]
+  }
+}

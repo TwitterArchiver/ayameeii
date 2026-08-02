@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1993644506605146148",
+    "created_at": "2025-11-26T11:37:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T12:37:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993645341649055886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1531874456997863424",
+          "start": 0,
+          "username": "guodongmaikefe2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993645341649055886",
+    "in_reply_to_user_id": "1531874456997863424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993644506605146148",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guodongmaikefe2 群里这么大吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1905,
+        "media_key": "3_1993644499994902528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6rZHCabgAA8bUO.jpg",
+        "width": 1072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1993644506605146148",
+        "created_at": "2025-11-26T11:37:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T12:37:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993645341649055886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1531874456997863424",
+              "start": 0,
+              "username": "guodongmaikefe2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993645341649055886",
+        "in_reply_to_user_id": "1531874456997863424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993644506605146148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guodongmaikefe2 群里这么大吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993644499994902528"
+          ]
+        },
+        "author_id": "1531874456997863424",
+        "conversation_id": "1993644506605146148",
+        "created_at": "2025-11-26T11:34:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T12:34:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993644506605146148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 42,
+              "id": "1768165061103640576",
+              "start": 29,
+              "username": "SEISEI_YUYU_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tlHeqbRtMG",
+              "end": 173,
+              "expanded_url": "https://x.com/guodongmaikefe2/status/1993644506605146148/photo/1",
+              "media_key": "3_1993644499994902528",
+              "start": 150,
+              "url": "https://t.co/tlHeqbRtMG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993644506605146148",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "群又又又炸了，存活四天破了记录，这个q群先用着。\n现群主是@SEISEI_YUYU_要举报去举报他，给群主点点关注\n依旧是小而美的尊重的活泼的礼貌的思想开放的精神病病友群。\n另:\n可备注自己推特ID加我微信Pixel-Anchor，我会根据q群精神状态，拉你们进过滤的提纯的精神较为稳定的小团体裙。 https://t.co/tlHeqbRtMG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "1992652290252316901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 264,
+          "like_count": 4176,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 1306
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-01T05:45:36.000Z",
+        "description": "纵欲无故，嗑药无度/不要做药物的奴隶，不要被任何事物掌控/我不会一直给你点赞/抑郁焦虑/同类互fo/发癫/异性恋/恐gay/恐跨/",
+        "id": "1531874456997863424",
+        "location": "明天",
+        "name": "不开心就od",
+        "pinned_tweet_id": "1993222609736249365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984521028274700291/SnoaoxPJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 117,
+          "like_count": 4441,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 624
+        },
+        "username": "guodongmaikefe2",
+        "verified": false
+      }
+    ]
+  }
+}

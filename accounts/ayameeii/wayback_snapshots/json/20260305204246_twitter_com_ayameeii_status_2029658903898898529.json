@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2029652417139405083",
+    "created_at": "2026-03-05T20:42:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T21:42:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029658903898898529"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1597257668313260033",
+          "start": 0,
+          "username": "Minokakay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029658903898898529",
+    "in_reply_to_user_id": "1597257668313260033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029652417139405083",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Minokakay ？祝您早日圈够钱😘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2029652417139405083",
+        "created_at": "2026-03-05T20:42:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T21:42:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029658903898898529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029658903898898529",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029652417139405083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay ？祝您早日圈够钱😘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "2029652417139405083",
+        "created_at": "2026-03-05T20:17:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T21:17:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029652417139405083"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/minokakay/stat…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/minokakay/status/2029651038991732746",
+              "start": 48,
+              "url": "https://t.co/LQJnEOO3Vw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029652417139405083",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029651038991732746",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "也就是我没钱（只有五位数），才敢在社交媒体上活跃。\n但凡我有个七位数我都销号过自己的日子去了。 https://t.co/LQJnEOO3Vw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2027766234981494956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 646,
+          "following_count": 440,
+          "like_count": 7643,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 2716
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "命に嫌われている。 正找寻着生命意义的人，精神病多到简介写不下，成都大阪随机刷新✝️找choseki见https://t.co/hStQSlMtBp，私信不回，打不开换梯子换浏览器",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/choseki111",
+                "end": 74,
+                "expanded_url": "http://linktr.ee/choseki111",
+                "start": 51,
+                "url": "https://t.co/hStQSlMtBp"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "2019736772826341551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14138,
+          "following_count": 1068,
+          "like_count": 44134,
+          "listed_count": 52,
+          "media_count": 1747,
+          "tweet_count": 25357
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

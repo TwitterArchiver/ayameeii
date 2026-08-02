@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037089512476860419"
+      ],
+      "media_source_tweet_id": [
+        "2037089526167019548"
+      ]
+    },
+    "author_id": "1852135214795100164",
+    "conversation_id": "2037101461071683697",
+    "created_at": "2026-03-26T09:36:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T10:36:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037101461071683697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2015660394967404544",
+          "start": 3,
+          "username": "Rien6cf"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AegyU2s5MO",
+          "end": 116,
+          "expanded_url": "https://x.com/Rien6cf/status/2037089526167019548/photo/1",
+          "media_key": "3_2037089512476860419",
+          "start": 93,
+          "url": "https://t.co/AegyU2s5MO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037101461071683697",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037089526167019548",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rien6cf: 50fo！！决定开一个抽奖喵\n我打算抽一点亲测好吃的神必小零食或者小香水，可以折现（20r左右！\n参加条件是评论➕转发➕关注，现关也来得及🥹\n谢谢大家我爱你们 https://t.co/AegyU2s5MO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2037089512476860419",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEUyHl7bYAM0c8F.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037089512476860419"
+          ],
+          "media_source_tweet_id": [
+            "2037089526167019548"
+          ]
+        },
+        "author_id": "1852135214795100164",
+        "conversation_id": "2037101461071683697",
+        "created_at": "2026-03-26T09:36:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T10:36:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037101461071683697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2015660394967404544",
+              "start": 3,
+              "username": "Rien6cf"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AegyU2s5MO",
+              "end": 116,
+              "expanded_url": "https://x.com/Rien6cf/status/2037089526167019548/photo/1",
+              "media_key": "3_2037089512476860419",
+              "start": 93,
+              "url": "https://t.co/AegyU2s5MO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037101461071683697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037089526167019548",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rien6cf: 50fo！！决定开一个抽奖喵\n我打算抽一点亲测好吃的神必小零食或者小香水，可以折现（20r左右！\n参加条件是评论➕转发➕关注，现关也来得及🥹\n谢谢大家我爱你们 https://t.co/AegyU2s5MO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037089512476860419"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2037089526167019548",
+        "created_at": "2026-03-26T08:49:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T09:49:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037089526167019548"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AegyU2s5MO",
+              "end": 103,
+              "expanded_url": "https://x.com/Rien6cf/status/2037089526167019548/photo/1",
+              "media_key": "3_2037089512476860419",
+              "start": 80,
+              "url": "https://t.co/AegyU2s5MO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037089526167019548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "50fo！！决定开一个抽奖喵\n我打算抽一点亲测好吃的神必小零食或者小香水，可以折现（20r左右！\n参加条件是评论➕转发➕关注，现关也来得及🥹\n谢谢大家我爱你们 https://t.co/AegyU2s5MO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某次",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2036043044986953736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 700,
+          "following_count": 496,
+          "like_count": 8370,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 3054
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "ラッコと愛と希望がほしいです",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2035372064241303646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 121,
+          "like_count": 1955,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 1287
+        },
+        "username": "Rien6cf",
+        "verified": false
+      }
+    ]
+  }
+}

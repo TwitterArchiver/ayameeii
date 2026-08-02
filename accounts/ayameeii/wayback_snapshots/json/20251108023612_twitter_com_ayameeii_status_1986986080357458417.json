@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1986985309540864288",
+    "created_at": "2025-11-08T02:36:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T03:36:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986986080357458417"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1926785911011811328",
+          "start": 0,
+          "username": "rAi9Nobi5m57545"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986986080357458417",
+    "in_reply_to_user_id": "1926785911011811328",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986985309540864288",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rAi9Nobi5m57545 推我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1986985309540864288",
+        "created_at": "2025-11-08T02:36:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T03:36:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986986080357458417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1926785911011811328",
+              "start": 0,
+              "username": "rAi9Nobi5m57545"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986986080357458417",
+        "in_reply_to_user_id": "1926785911011811328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986985309540864288",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rAi9Nobi5m57545 推我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926785911011811328",
+        "conversation_id": "1986985309540864288",
+        "created_at": "2025-11-08T02:33:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T03:33:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986985309540864288"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rAi9Nobi5m5754…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/rAi9Nobi5m57545/status/1985725522673090737",
+              "start": 6,
+              "url": "https://t.co/7zpQTfHGXM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986985309540864288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985725522673090737",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "收到了！😋 https://t.co/7zpQTfHGXM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 216,
+          "like_count": 2639,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 837
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-25T23:42:23.000Z",
+        "description": "无人在意",
+        "id": "1926785911011811328",
+        "location": "6.3km",
+        "name": "止痛劑",
+        "pinned_tweet_id": "1979463473794027616",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984404183781687297/GvWA1Xvp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 167,
+          "like_count": 1200,
+          "listed_count": 2,
+          "media_count": 77,
+          "tweet_count": 902
+        },
+        "username": "rAi9Nobi5m57545",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1976260702571569310",
+    "created_at": "2025-10-09T12:48:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T13:48:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976268522159567133"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1885065378126323714",
+          "start": 0,
+          "username": "zhinanyedie369"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976268522159567133",
+    "in_reply_to_user_id": "1852135214795100164",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976268399803318538",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhinanyedie369 啊不过你说的我很支持"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1976260702571569310",
+        "created_at": "2025-10-09T12:48:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T13:48:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976268522159567133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1885065378126323714",
+              "start": 0,
+              "username": "zhinanyedie369"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976268522159567133",
+        "in_reply_to_user_id": "1852135214795100164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976268399803318538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhinanyedie369 啊不过你说的我很支持"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1976260702571569310",
+        "created_at": "2025-10-09T12:47:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T13:47:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976268399803318538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1885065378126323714",
+              "start": 0,
+              "username": "zhinanyedie369"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976268399803318538",
+        "in_reply_to_user_id": "1885065378126323714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976260702571569310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhinanyedie369 “女主建模烧就是好游戏不烧就是政治正确的产物”点了\n但是消光2 首发按照港区定价花了几百大洋买的豪华版 我只能说一生黑不好玩 可能后面修修补补了很多吧（多的这个dlc做的也是够烂 听说现在还免费送了 终极版dlc改成困兽 只有豪华版用户没被当人 想到这个我就来气"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "狗狗kiss",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852135475403984896/GBdrMFBz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 127,
+          "like_count": 622,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 166
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-30T20:39:55.000Z",
+        "description": "mtx，当日记本用，偶尔见证，hrt2025.2.27，欢迎互fo",
+        "id": "1885065378126323714",
+        "name": "爱生活爱上网",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974432257374130176/k1g9IroZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 344,
+          "like_count": 535,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 632
+        },
+        "username": "zhinanyedie369",
+        "verified": false
+      }
+    ]
+  }
+}

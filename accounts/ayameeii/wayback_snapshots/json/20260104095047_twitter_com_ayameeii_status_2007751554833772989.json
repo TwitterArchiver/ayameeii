@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2007740106564862351",
+    "created_at": "2026-01-04T09:50:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T10:50:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007751554833772989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1463824064653377538",
+          "start": 0,
+          "username": "Azkawayi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007751554833772989",
+    "in_reply_to_user_id": "1463824064653377538",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007740106564862351",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Azkawayi 可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2007740102538358784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9zs_F0a8AAsDkl.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2007740103322734592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9zs_IvbkAAMnlQ.jpg",
+        "width": 2047
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2007740106564862351",
+        "created_at": "2026-01-04T09:50:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T10:50:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007751554833772989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1463824064653377538",
+              "start": 0,
+              "username": "Azkawayi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007751554833772989",
+        "in_reply_to_user_id": "1463824064653377538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007740106564862351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Azkawayi 可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007740102538358784",
+            "3_2007740103322734592"
+          ]
+        },
+        "author_id": "1463824064653377538",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2007740106564862351",
+        "created_at": "2026-01-04T09:05:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T10:05:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007740106564862351"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WqXS3pfIrr",
+              "end": 34,
+              "expanded_url": "https://x.com/Azkawayi/status/2007740106564862351/photo/1",
+              "media_key": "3_2007740102538358784",
+              "start": 11,
+              "url": "https://t.co/WqXS3pfIrr"
+            },
+            {
+              "display_url": "pic.x.com/WqXS3pfIrr",
+              "end": 34,
+              "expanded_url": "https://x.com/Azkawayi/status/2007740106564862351/photo/1",
+              "media_key": "3_2007740103322734592",
+              "start": 11,
+              "url": "https://t.co/WqXS3pfIrr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007740106564862351",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 222,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "手藝一般，可愛嗎👉👈 https://t.co/WqXS3pfIrr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "1992652290252316901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 322,
+          "like_count": 6054,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 1975
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-25T10:57:29.000Z",
+        "description": "別罵我我只是一只企鵝 18歲現役DK 順直勞保鬧鐘一個\n喔對了我喜歡你咕咕嘎嘎❤️🐧🌷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/space/7706705",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/space/7706705",
+                "start": 0,
+                "url": "https://t.co/6mP30UicXY"
+              }
+            ]
+          }
+        },
+        "id": "1463824064653377538",
+        "location": "vägen hem",
+        "name": "黑暗高松燈🐧🌷",
+        "pinned_tweet_id": "1991862051632013346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004785647119466505/suxy4WNz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1218,
+          "following_count": 562,
+          "like_count": 42119,
+          "listed_count": 4,
+          "media_count": 1026,
+          "tweet_count": 3546
+        },
+        "url": "https://t.co/6mP30UicXY",
+        "username": "Azkawayi",
+        "verified": false
+      }
+    ]
+  }
+}

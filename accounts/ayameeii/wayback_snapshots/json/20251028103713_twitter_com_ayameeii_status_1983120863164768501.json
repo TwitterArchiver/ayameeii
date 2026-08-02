@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1983118565499908223",
+    "created_at": "2025-10-28T10:37:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T11:37:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983120863164768501"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1978184650548994048",
+          "start": 0,
+          "username": "wuxiangze_"
+        },
+        {
+          "end": 24,
+          "id": "1552918719440924672",
+          "start": 12,
+          "username": "LumiCatRoll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983120863164768501",
+    "in_reply_to_user_id": "1978184650548994048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983118632927494588",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wuxiangze_ @LumiCatRoll 禁止自娱自乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1983118565499908223",
+        "created_at": "2025-10-28T10:37:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T11:37:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983120863164768501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1978184650548994048",
+              "start": 0,
+              "username": "wuxiangze_"
+            },
+            {
+              "end": 24,
+              "id": "1552918719440924672",
+              "start": 12,
+              "username": "LumiCatRoll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983120863164768501",
+        "in_reply_to_user_id": "1978184650548994048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983118632927494588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuxiangze_ @LumiCatRoll 禁止自娱自乐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978184650548994048",
+        "conversation_id": "1983118565499908223",
+        "created_at": "2025-10-28T10:28:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T11:28:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983118632927494588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "LumiCatRoll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983118632927494588",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983118565499908223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LumiCatRoll 我不是人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 191,
+          "like_count": 1927,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 531
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-14T19:43:07.000Z",
+        "description": "池鱼IT @Chiyuyu520 吴相泽吴老板 借钱讨饭 英雄好汉 欠钱不还 乌龟软蛋 ，老子借给她好大一笔钱 她给我卷钱跑咯 老子现在只好当她死咯 天天给她奔丧 你们说好不好哇？ 本账号多人运营 欢迎受害者和高雅人士投稿 https://t.co/5ryV44oT3y",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "Chiyuyu520"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/wuxiangze",
+                "end": 135,
+                "expanded_url": "https://t.me/wuxiangze",
+                "start": 112,
+                "url": "https://t.co/5ryV44oT3y"
+              }
+            ]
+          }
+        },
+        "id": "1978184650548994048",
+        "name": "吴相泽 bot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982877100991266816/h-KSkxNX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 42,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 67
+        },
+        "username": "wuxiangze_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "PhD @NTUsg, 休学度假中 | 拥有tu5jp4但一周修一次车的大冤种法系车主",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "NTUsg"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "name": "Lumi & 猫卷 Co. (日雌泰补诺",
+        "pinned_tweet_id": "1979225533306278000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981599824827838464/S98pBSrV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2095,
+          "following_count": 779,
+          "like_count": 612,
+          "listed_count": 2,
+          "media_count": 126,
+          "tweet_count": 1699
+        },
+        "username": "LumiCatRoll",
+        "verified": true
+      }
+    ]
+  }
+}

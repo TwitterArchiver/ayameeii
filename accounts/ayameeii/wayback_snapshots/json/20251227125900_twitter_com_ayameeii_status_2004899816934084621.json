@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2004874950822523367",
+    "created_at": "2025-12-27T12:59:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T13:59:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004899816934084621"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1948395176831131648",
+          "start": 0,
+          "username": "zy89644"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004899816934084621",
+    "in_reply_to_user_id": "1948395176831131648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004874950822523367",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zy89644 不冷就好 再给我炒个菜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2004874950822523367",
+        "created_at": "2025-12-27T12:59:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T13:59:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004899816934084621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1948395176831131648",
+              "start": 0,
+              "username": "zy89644"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004899816934084621",
+        "in_reply_to_user_id": "1948395176831131648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004874950822523367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zy89644 不冷就好 再给我炒个菜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948395176831131648",
+        "conversation_id": "2004874950822523367",
+        "created_at": "2025-12-27T11:20:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T12:20:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004874950822523367"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004874950822523367",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 134,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们就继续刷这个X吧\n皮卡丘在MC一点也不冷"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "1992652290252316901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 316,
+          "like_count": 5912,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 1908
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-24T14:50:02.000Z",
+        "description": "专注于前台主理人行业100年的이이이先生，用专业与微笑串联宾客的抵达与归程，致力让每次相遇都成为美好故事的开始。\n咱的realms链接：https://t.co/arsNPa6oYN\n\nfo我一定不会回fo的（其实会回fo的）",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "realms.gg/rpNy5ZkPR8tu94k",
+                "end": 91,
+                "expanded_url": "https://realms.gg/rpNy5ZkPR8tu94k",
+                "start": 68,
+                "url": "https://t.co/arsNPa6oYN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zy89644",
+                "end": 23,
+                "expanded_url": "http://ngl.link/zy89644",
+                "start": 0,
+                "url": "https://t.co/tLgc8L3myJ"
+              }
+            ]
+          }
+        },
+        "id": "1948395176831131648",
+        "location": "阿一丝可丽慕大酒店",
+        "name": "이이이",
+        "pinned_tweet_id": "1996872829674102939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993278355576438793/0plnXNep_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 173,
+          "like_count": 27901,
+          "listed_count": 1,
+          "media_count": 130,
+          "tweet_count": 3887
+        },
+        "url": "https://t.co/tLgc8L3myJ",
+        "username": "zy89644",
+        "verified": true
+      }
+    ]
+  }
+}

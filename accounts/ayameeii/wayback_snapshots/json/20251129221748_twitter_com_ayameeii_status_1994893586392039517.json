@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1994757526588723587",
+    "created_at": "2025-11-29T22:17:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T23:17:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994893586392039517"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1559088842333769728",
+          "start": 0,
+          "username": "hsnyuia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994893586392039517",
+    "in_reply_to_user_id": "1559088842333769728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994757526588723587",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hsnyuia ⏰魅力时刻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1994757526588723587",
+        "created_at": "2025-11-29T22:17:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T23:17:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994893586392039517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1559088842333769728",
+              "start": 0,
+              "username": "hsnyuia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994893586392039517",
+        "in_reply_to_user_id": "1559088842333769728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994757526588723587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsnyuia ⏰魅力时刻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1559088842333769728",
+        "conversation_id": "1994757526588723587",
+        "created_at": "2025-11-29T13:17:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T14:17:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994757526588723587"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1994757526588723587",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "日本演出全部取消的事我不好评价，呃呃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "喜欢我我也喜欢你 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "1992652290252316901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 274,
+          "like_count": 4458,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1413
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-15T08:05:37.000Z",
+        "description": "問題自体が解決できなければ質問者を解決する",
+        "id": "1559088842333769728",
+        "name": "ゆいあ",
+        "pinned_tweet_id": "1975265328822456504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967997570824990720/mxFlcf_v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1571,
+          "following_count": 1261,
+          "like_count": 11050,
+          "listed_count": 6,
+          "media_count": 651,
+          "tweet_count": 5012
+        },
+        "username": "hsnyuia",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1983535051498541283",
+    "created_at": "2025-10-29T14:23:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T15:23:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983540138111352932"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1373755792948531200",
+          "start": 0,
+          "username": "_ASimpleSmile_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983540138111352932",
+    "in_reply_to_user_id": "1373755792948531200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983535051498541283",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_ASimpleSmile_ 有点像米津玄师"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1983535048176648192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4bunfobQAAt38i.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1983535051498541283",
+        "created_at": "2025-10-29T14:23:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T15:23:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983540138111352932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1373755792948531200",
+              "start": 0,
+              "username": "_ASimpleSmile_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983540138111352932",
+        "in_reply_to_user_id": "1373755792948531200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983535051498541283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_ASimpleSmile_ 有点像米津玄师"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983535048176648192"
+          ]
+        },
+        "author_id": "1373755792948531200",
+        "conversation_id": "1983535051498541283",
+        "created_at": "2025-10-29T14:03:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T15:03:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983535051498541283"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3SS7bh32AA",
+              "end": 40,
+              "expanded_url": "https://x.com/_ASimpleSmile_/status/1983535051498541283/photo/1",
+              "media_key": "3_1983535048176648192",
+              "start": 17,
+              "url": "https://t.co/3SS7bh32AA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983535051498541283",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "笑死我了意外搞出来的奇异搞笑发型 https://t.co/3SS7bh32AA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 192,
+          "like_count": 2059,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 575
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-21T21:58:06.000Z",
+        "description": "请叫我阿咸！|| 19岁 是在中中国人 || 大概是mtx || 181㎝ ??㎏ || 日常推为主 偶尔会发女装照 || meme享受者 || 男娘爱好者 || 中文/EN || 想要有很多朋友 所以欢迎互fo❤️ || 分身@ASimpleSmile2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 128,
+                "start": 114,
+                "username": "ASimpleSmile2"
+              }
+            ]
+          }
+        },
+        "id": "1373755792948531200",
+        "location": "卧室",
+        "name": "咸咸的",
+        "pinned_tweet_id": "1833902162956701931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977625873001140224/iHhB895J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1646,
+          "following_count": 1047,
+          "like_count": 97160,
+          "listed_count": 4,
+          "media_count": 1352,
+          "tweet_count": 7695
+        },
+        "username": "_ASimpleSmile_",
+        "verified": false
+      }
+    ]
+  }
+}

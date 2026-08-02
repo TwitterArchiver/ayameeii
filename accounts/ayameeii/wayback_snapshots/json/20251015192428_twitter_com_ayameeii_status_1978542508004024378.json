@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1978508160206811465",
+    "created_at": "2025-10-15T19:24:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T20:24:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978542508004024378"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "863583848789024769",
+          "start": 0,
+          "username": "wakahana77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978542508004024378",
+    "in_reply_to_user_id": "863583848789024769",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978508160206811465",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wakahana77 贴贴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1978508160206811465",
+        "created_at": "2025-10-15T19:24:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T20:24:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978542508004024378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "863583848789024769",
+              "start": 0,
+              "username": "wakahana77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978542508004024378",
+        "in_reply_to_user_id": "863583848789024769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978508160206811465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wakahana77 贴贴"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "863583848789024769",
+        "conversation_id": "1978508160206811465",
+        "created_at": "2025-10-15T17:07:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T18:07:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978508160206811465"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1978508160206811465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "需要贴贴，真的很需要😿请问你什么时候来和我贴"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss\n我爱你@tooiaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 31,
+                "start": 23,
+                "username": "tooiaya"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 149,
+          "like_count": 973,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 234
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-14T02:36:48.000Z",
+        "description": "中文/English/日本語 | 🏳️‍🌈",
+        "id": "863583848789024769",
+        "name": "🌸",
+        "pinned_tweet_id": "1964894090958717029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922234132521680896/QSsgk6MY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 116,
+          "like_count": 18453,
+          "listed_count": 0,
+          "media_count": 394,
+          "tweet_count": 7123
+        },
+        "username": "wakahana77",
+        "verified": false
+      }
+    ]
+  }
+}

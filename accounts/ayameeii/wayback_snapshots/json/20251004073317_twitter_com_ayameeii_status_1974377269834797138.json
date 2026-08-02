@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1974377269834797138",
+    "created_at": "2025-10-04T07:33:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T08:33:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974377269834797138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1797143402347479040",
+          "start": 3,
+          "username": "s4tuRday_joe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974377269834797138",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974376040048070885",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @s4tuRday_joe: 杀了我吧杀了我吧杀了我吧杀了我吧杀了我吧杀了我吧杀了我吧杀了我吧杀了我吧杀了我吧杀了我吧杀了我吧杀了我吧杀了我吧杀了我吧杀了我吧杀了我吧杀了我吧杀了我吧杀了我吧杀了我吧杀了我吧杀了我吧杀了我吧杀了我吧杀了我吧杀了我吧杀了我吧杀了我吧杀了我吧杀…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1974377269834797138",
+        "created_at": "2025-10-04T07:33:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T08:33:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974377269834797138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1797143402347479040",
+              "start": 3,
+              "username": "s4tuRday_joe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974377269834797138",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974376040048070885",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @s4tuRday_joe: 杀了我吧杀了我吧杀了我吧杀了我吧杀了我吧杀了我吧杀了我吧杀了我吧杀了我吧杀了我吧杀了我吧杀了我吧杀了我吧杀了我吧杀了我吧杀了我吧杀了我吧杀了我吧杀了我吧杀了我吧杀了我吧杀了我吧杀了我吧杀了我吧杀了我吧杀了我吧杀了我吧杀了我吧杀了我吧杀了我吧杀…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797143402347479040",
+        "conversation_id": "1974376040048070885",
+        "created_at": "2025-10-04T07:28:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T08:28:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974376040048070885"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1974376040048070885",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "杀了我吧杀了我吧杀了我吧杀了我吧杀了我吧杀了我吧杀了我吧杀了我吧杀了我吧杀了我吧杀了我吧杀了我吧杀了我吧杀了我吧杀了我吧杀了我吧杀了我吧杀了我吧杀了我吧杀了我吧杀了我吧杀了我吧杀了我吧杀了我吧杀了我吧杀了我吧杀了我吧杀了我吧杀了我吧杀了我吧杀了我吧杀了我吧杀了我吧杀了我吧杀了我吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "狗狗kiss",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852135475403984896/GBdrMFBz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 101,
+          "like_count": 316,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 91
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-02T05:49:33.000Z",
+        "description": "一个保持好奇的人 | maimaiでらっくす退游了 | 高一休学中 | TYLOO的CS2分部粉丝 | 嘻哈音乐爱好者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/s4tuRday_joe",
+                "end": 23,
+                "expanded_url": "http://t.me/s4tuRday_joe",
+                "start": 0,
+                "url": "https://t.co/v3nJt0nbGJ"
+              }
+            ]
+          }
+        },
+        "id": "1797143402347479040",
+        "location": "建华东道26号",
+        "name": "周陸4ReaL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951968369546244096/ybNtrd9H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 630,
+          "following_count": 752,
+          "like_count": 8654,
+          "listed_count": 4,
+          "media_count": 403,
+          "tweet_count": 2550
+        },
+        "url": "https://t.co/v3nJt0nbGJ",
+        "username": "s4tuRday_joe",
+        "verified": false
+      }
+    ]
+  }
+}

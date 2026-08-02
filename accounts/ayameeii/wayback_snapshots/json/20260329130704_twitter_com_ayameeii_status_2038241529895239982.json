@@ -1,0 +1,367 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2038241529895239982",
+    "created_at": "2026-03-29T13:07:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T14:07:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038241529895239982"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 95,
+          "start": 92,
+          "tag": "门槛"
+        },
+        {
+          "end": 100,
+          "start": 96,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 104,
+          "start": 101,
+          "tag": "金主"
+        },
+        {
+          "end": 109,
+          "start": 105,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 114,
+          "start": 110,
+          "tag": "妈妈活"
+        },
+        {
+          "end": 119,
+          "start": 116,
+          "tag": "线下"
+        },
+        {
+          "end": 124,
+          "start": 120,
+          "tag": "门槛哥"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2036406313094356994",
+          "start": 3,
+          "username": "daodao666661"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/deepthivsn",
+          "end": 139,
+          "expanded_url": "https://x.com/deepthivsn",
+          "start": 125,
+          "status": 200,
+          "unwound_url": "https://twitter.com/deepthivsn",
+          "url": "https://t.co/D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038241529895239982",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038241137383895429",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @daodao666661: 这里是刀刀\n天津/09/163 98/地雷系\n家里不给生活费所以来收门槛🥺\n我很好相处会提供情绪价值求你们来过我门槛\n女孩子可以和我互fo互转呀～\n#门槛 #门槛妹 #金主 #爸爸活 #妈妈活 \n#线下 #门槛哥 https://t.co/D…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2038241129670541312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HElJgiSagAAU-Xm.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2038241129729290240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HElJgiga8AAltA8.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2038241529895239982",
+        "created_at": "2026-03-29T13:07:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T14:07:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038241529895239982"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 95,
+              "start": 92,
+              "tag": "门槛"
+            },
+            {
+              "end": 100,
+              "start": 96,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 104,
+              "start": 101,
+              "tag": "金主"
+            },
+            {
+              "end": 109,
+              "start": 105,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 114,
+              "start": 110,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 119,
+              "start": 116,
+              "tag": "线下"
+            },
+            {
+              "end": 124,
+              "start": 120,
+              "tag": "门槛哥"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2036406313094356994",
+              "start": 3,
+              "username": "daodao666661"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/deepthivsn",
+              "end": 139,
+              "expanded_url": "https://x.com/deepthivsn",
+              "start": 125,
+              "status": 200,
+              "unwound_url": "https://twitter.com/deepthivsn",
+              "url": "https://t.co/D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038241529895239982",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038241137383895429",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @daodao666661: 这里是刀刀\n天津/09/163 98/地雷系\n家里不给生活费所以来收门槛🥺\n我很好相处会提供情绪价值求你们来过我门槛\n女孩子可以和我互fo互转呀～\n#门槛 #门槛妹 #金主 #爸爸活 #妈妈活 \n#线下 #门槛哥 https://t.co/D…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038241129670541312",
+            "3_2038241129729290240"
+          ]
+        },
+        "author_id": "2036406313094356994",
+        "conversation_id": "2038241137383895429",
+        "created_at": "2026-03-29T13:05:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T14:05:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038241137383895429"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 77,
+              "start": 74,
+              "tag": "门槛"
+            },
+            {
+              "end": 82,
+              "start": 78,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 86,
+              "start": 83,
+              "tag": "金主"
+            },
+            {
+              "end": 91,
+              "start": 87,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 96,
+              "start": 92,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 101,
+              "start": 98,
+              "tag": "线下"
+            },
+            {
+              "end": 106,
+              "start": 102,
+              "tag": "门槛哥"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DQf0Mx7dU8",
+              "end": 130,
+              "expanded_url": "https://x.com/daodao666661/status/2038241137383895429/photo/1",
+              "media_key": "3_2038241129670541312",
+              "start": 107,
+              "url": "https://t.co/DQf0Mx7dU8"
+            },
+            {
+              "display_url": "pic.x.com/DQf0Mx7dU8",
+              "end": 130,
+              "expanded_url": "https://x.com/daodao666661/status/2038241137383895429/photo/1",
+              "media_key": "3_2038241129729290240",
+              "start": 107,
+              "url": "https://t.co/DQf0Mx7dU8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038241137383895429",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "这里是刀刀\n天津/09/163 98/地雷系\n家里不给生活费所以来收门槛🥺\n我很好相处会提供情绪价值求你们来过我门槛\n女孩子可以和我互fo互转呀～\n#门槛 #门槛妹 #金主 #爸爸活 #妈妈活 \n#线下 #门槛哥 https://t.co/DQf0Mx7dU8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2036043044986953736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 711,
+          "following_count": 506,
+          "like_count": 8603,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 3162
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-24T11:35:01.000Z",
+        "description": "验证20\n女孩子互转互fo/扩列大欢迎  ₍ᐢ⸝⸝› ̫ ‹⸝⸝ᐢ₎",
+        "id": "2036406313094356994",
+        "name": "sad",
+        "pinned_tweet_id": "2038241137383895429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037369423527608320/relr2HmL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 11,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 17
+        },
+        "username": "daodao666661",
+        "verified": false
+      }
+    ]
+  }
+}

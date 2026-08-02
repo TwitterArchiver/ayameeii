@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2009646761409966302",
+    "created_at": "2026-01-09T16:33:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T17:33:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009664921181839480"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1439530928494186499",
+          "start": 0,
+          "username": "noose_die"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009664921181839480",
+    "in_reply_to_user_id": "1439530928494186499",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009646761409966302",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@noose_die 摸摸..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2009646761409966302",
+        "created_at": "2026-01-09T16:33:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T17:33:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009664921181839480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1439530928494186499",
+              "start": 0,
+              "username": "noose_die"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009664921181839480",
+        "in_reply_to_user_id": "1439530928494186499",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009646761409966302",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@noose_die 摸摸..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1439530928494186499",
+        "conversation_id": "2009646761409966302",
+        "created_at": "2026-01-09T15:21:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T16:21:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009646761409966302"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2009646761409966302",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 124,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好噁心真的好噁心好噁心好噁心\n為什麼我在這裡抱怨生活不是漂亮女生來安慰而是被噁男私訊意淫臥槽你死全家吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2008864131290694085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 332,
+          "like_count": 6164,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 2020
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-19T10:05:14.000Z",
+        "description": "",
+        "id": "1439530928494186499",
+        "location": "🚪私訊詢問",
+        "name": "右邊",
+        "pinned_tweet_id": "1993225394523455529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958358638067937280/s_vblT5q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 784,
+          "following_count": 120,
+          "like_count": 1155,
+          "listed_count": 2,
+          "media_count": 22,
+          "tweet_count": 410
+        },
+        "username": "noose_die",
+        "verified": false
+      }
+    ]
+  }
+}

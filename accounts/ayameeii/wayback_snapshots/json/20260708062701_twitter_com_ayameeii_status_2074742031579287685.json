@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2074724758898594149",
+    "created_at": "2026-07-08T06:27:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T07:27:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074742031579287685"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1746818545630195713",
+          "start": 0,
+          "username": "Anxious_K1n"
+        },
+        {
+          "end": 25,
+          "id": "1530585008133459969",
+          "start": 13,
+          "username": "yukicat2778"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074742031579287685",
+    "in_reply_to_user_id": "1746818545630195713",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074734718852170188",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Anxious_K1n @yukicat2778 蛤我也要"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2074724758898594149",
+        "created_at": "2026-07-08T06:27:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T07:27:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074742031579287685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1746818545630195713",
+              "start": 0,
+              "username": "Anxious_K1n"
+            },
+            {
+              "end": 25,
+              "id": "1530585008133459969",
+              "start": 13,
+              "username": "yukicat2778"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074742031579287685",
+        "in_reply_to_user_id": "1746818545630195713",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074734718852170188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Anxious_K1n @yukicat2778 蛤我也要"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1746818545630195713",
+        "conversation_id": "2074724758898594149",
+        "created_at": "2026-07-08T05:57:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T06:57:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074734718852170188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1530585008133459969",
+              "start": 0,
+              "username": "yukicat2778"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074734718852170188",
+        "in_reply_to_user_id": "1530585008133459969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074728659613864186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yukicat2778 一个亲亲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存| 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 34,
+                "start": 24,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1065,
+          "following_count": 700,
+          "like_count": 10465,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 4097
+        },
+        "url": "",
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-15T08:56:41.000Z",
+        "description": "你能看到的也只有腐烂的过程\n⚠️智力有问题/精分/双相/ODER/自残/烟鬼/酗酒/Brat/A股知名韭菜/玻璃心/欢迎私信/熟悉之后可以加墙内联系方式/请称呼我文文or小卡\n如果能忍受我不定期发疯可以和我交朋友\n别骂我别骂我别骂我，我要是说错话请直接告诉我\n这里是我的垃圾桶，如果有冒犯到你我很抱歉",
+        "id": "1746818545630195713",
+        "location": "Mercury",
+        "name": "Kasumi",
+        "pinned_tweet_id": "2073491617949065437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062077789306793984/OF_vhTdc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 188,
+          "like_count": 1108,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 485
+        },
+        "url": "",
+        "username": "Anxious_K1n",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-28T16:21:29.000Z",
+        "description": "🇨🇳 / cos / key / 158 60kg\n不健政/欢迎找我聊天/可互fo/祝你天天开心\n匿名📪：https://t.co/EcjSabU0VR （我都会认真回的）",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yukilimao",
+                "end": 76,
+                "expanded_url": "https://ngl.link/yukilimao",
+                "start": 53,
+                "url": "https://t.co/EcjSabU0VR"
+              }
+            ]
+          }
+        },
+        "id": "1530585008133459969",
+        "location": "あの夏が飽和する ",
+        "name": "猫猫教信徒",
+        "pinned_tweet_id": "2074175624172757116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073150693284761600/qRxOF9KZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 36,
+          "like_count": 498,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 158
+        },
+        "url": "",
+        "username": "yukicat2778",
+        "verified": false
+      }
+    ]
+  }
+}

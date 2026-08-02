@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2010315795449237571",
+    "created_at": "2026-01-11T12:52:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T13:52:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010334026440273985"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1739935542681468928",
+          "start": 0,
+          "username": "1_048596rxc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010334026440273985",
+    "in_reply_to_user_id": "1739935542681468928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 6,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010329076603691298",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1_048596rxc 晚饭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2010315795449237571",
+        "created_at": "2026-01-11T12:52:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T13:52:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010334026440273985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1739935542681468928",
+              "start": 0,
+              "username": "1_048596rxc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010334026440273985",
+        "in_reply_to_user_id": "1739935542681468928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010329076603691298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1_048596rxc 晚饭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739935542681468928",
+        "conversation_id": "2010315795449237571",
+        "created_at": "2026-01-11T12:32:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T13:32:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010329076603691298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1852135214795100164",
+              "start": 0,
+              "username": "ayameeii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010329076603691298",
+        "in_reply_to_user_id": "1852135214795100164",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010315795449237571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayameeii 啥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2008864131290694085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 332,
+          "like_count": 6225,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 2041
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-27T09:05:48.000Z",
+        "description": "",
+        "id": "1739935542681468928",
+        "name": "伶人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1740009904075862016/YvTY2ZfD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 20,
+          "like_count": 142,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 137
+        },
+        "username": "1_048596rxc",
+        "verified": false
+      }
+    ]
+  }
+}

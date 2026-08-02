@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1980092620832751673",
+    "created_at": "2025-10-20T02:07:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T03:07:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980093596679504106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "863583848789024769",
+          "start": 0,
+          "username": "wakahana77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980093596679504106",
+    "in_reply_to_user_id": "863583848789024769",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980092620832751673",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wakahana77 我可以吗😿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1980092620832751673",
+        "created_at": "2025-10-20T02:07:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T03:07:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980093596679504106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "863583848789024769",
+              "start": 0,
+              "username": "wakahana77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980093596679504106",
+        "in_reply_to_user_id": "863583848789024769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980092620832751673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wakahana77 我可以吗😿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "863583848789024769",
+        "conversation_id": "1980092620832751673",
+        "created_at": "2025-10-20T02:04:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T03:04:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980092620832751673"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1980092620832751673",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😥想抱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 166,
+          "like_count": 1264,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 341
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-14T02:36:48.000Z",
+        "description": "中文/English/日本語 | 🏳️‍🌈",
+        "id": "863583848789024769",
+        "name": "🌸",
+        "pinned_tweet_id": "1978681061321126189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922234132521680896/QSsgk6MY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 118,
+          "like_count": 18800,
+          "listed_count": 0,
+          "media_count": 401,
+          "tweet_count": 7366
+        },
+        "username": "wakahana77",
+        "verified": false
+      }
+    ]
+  }
+}

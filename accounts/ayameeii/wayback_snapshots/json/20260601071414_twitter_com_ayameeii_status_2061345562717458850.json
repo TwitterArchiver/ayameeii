@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2061345562717458850",
+    "created_at": "2026-06-01T07:14:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T08:14:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061345562717458850"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2061345562717458850",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我擦去医院买药真没钱了 真真真真真真真真真真真真真真真真真真真真没钱了 对不起但是祈祷有没有好心人打赏🥺我哭了对不起但是真没钱了对不起对不起对不起真的一分钱没有实在没有办法了对不起对不起对不起"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2061345562717458850",
+        "created_at": "2026-06-01T07:14:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T08:14:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061345562717458850"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061345562717458850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我擦去医院买药真没钱了 真真真真真真真真真真真真真真真真真真真真没钱了 对不起但是祈祷有没有好心人打赏🥺我哭了对不起但是真没钱了对不起对不起对不起真的一分钱没有实在没有办法了对不起对不起对不起"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存| 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 34,
+                "start": 24,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1007,
+          "following_count": 665,
+          "like_count": 10291,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 3904
+        },
+        "username": "ayameeii",
+        "verified": false
+      }
+    ]
+  }
+}

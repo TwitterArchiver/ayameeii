@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2053103752249516500",
+    "created_at": "2026-05-10T05:27:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T06:27:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053346120580178325"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1868471300005797888",
+          "start": 0,
+          "username": "JONY1078425"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053346120580178325",
+    "in_reply_to_user_id": "1868471300005797888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053103752249516500",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JONY1078425 男妈妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053103748969598976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH4W-1xbEAAIACb.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2053103752249516500",
+        "created_at": "2026-05-10T05:27:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T06:27:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053346120580178325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1868471300005797888",
+              "start": 0,
+              "username": "JONY1078425"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053346120580178325",
+        "in_reply_to_user_id": "1868471300005797888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053103752249516500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JONY1078425 男妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053103748969598976"
+          ]
+        },
+        "author_id": "1868471300005797888",
+        "conversation_id": "2053103752249516500",
+        "created_at": "2026-05-09T13:24:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T14:24:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053103752249516500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/et8kvwCZvc",
+              "end": 32,
+              "expanded_url": "https://x.com/JONY1078425/status/2053103752249516500/photo/1",
+              "media_key": "3_2053103748969598976",
+              "start": 9,
+              "url": "https://t.co/et8kvwCZvc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053103752249516500",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 4143,
+          "like_count": 233,
+          "quote_count": 0,
+          "reply_count": 31,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "男的来了.jpg https://t.co/et8kvwCZvc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存|对象❤️@tngxngxng13171 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 10,
+                "username": "tngxngxng13171"
+              },
+              {
+                "end": 38,
+                "start": 28,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 53,
+                "start": 43,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 845,
+          "following_count": 626,
+          "like_count": 9704,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 3669
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-16T01:40:57.000Z",
+        "description": "QQ群：1061451722约炮的别来\n不是门槛妹，要是实在喜欢我的话可以给我赞赏一点 o(╥﹏╥)o",
+        "id": "1868471300005797888",
+        "location": "你的心里",
+        "name": "小圆ovo",
+        "pinned_tweet_id": "2038992150483153357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038990216107859968/w1jwZJQG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4832,
+          "following_count": 213,
+          "like_count": 1711,
+          "listed_count": 12,
+          "media_count": 168,
+          "tweet_count": 1535
+        },
+        "username": "JONY1078425",
+        "verified": false
+      }
+    ]
+  }
+}

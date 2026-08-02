@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2046591075637416175",
+    "created_at": "2026-04-21T17:02:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T18:02:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046635618143527141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1505767450385690625",
+          "start": 0,
+          "username": "Alistai33955292"
+        },
+        {
+          "end": 31,
+          "id": "1714008587012612097",
+          "start": 17,
+          "username": "angelkawaii2P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046635618143527141",
+    "in_reply_to_user_id": "1505767450385690625",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046591075637416175",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alistai33955292 @angelkawaii2P 蹲蹲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2046591075637416175",
+        "created_at": "2026-04-21T17:02:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T18:02:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046635618143527141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1505767450385690625",
+              "start": 0,
+              "username": "Alistai33955292"
+            },
+            {
+              "end": 31,
+              "id": "1714008587012612097",
+              "start": 17,
+              "username": "angelkawaii2P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046635618143527141",
+        "in_reply_to_user_id": "1505767450385690625",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046591075637416175",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alistai33955292 @angelkawaii2P 蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1505767450385690625",
+        "conversation_id": "2046591075637416175",
+        "created_at": "2026-04-21T14:05:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T15:05:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046591075637416175"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046591075637416175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 735,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "500fo预告抽奖\n一等奖:32.9r*1\n 二等奖:13.14*2\n三等奖8.88*3\n转+评+关参与\n500fo开奖或者最迟5.3开奖\n（另外抽几个我喜欢的宝宝6.66r）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存|对象❤️@AAAAAMTxT 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "AAAAAMTxT"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 48,
+                "start": 38,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 806,
+          "following_count": 598,
+          "like_count": 9524,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 3539
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-21T04:45:18.000Z",
+        "description": "06丨重焦重抑丨餐券(暂时戒割中)丨同性有浪漫倾向无性恋丨全性别友好丨社交极度恐惧……欢迎互fo！丨🚪52纯绿陪聊可加lxfs丨希望爱我的我爱的人永远幸福",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nnbn17594",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nnbn17594",
+                "start": 0,
+                "url": "https://t.co/Xu9CGM7srL"
+              }
+            ]
+          }
+        },
+        "id": "1505767450385690625",
+        "location": "天国",
+        "name": "🌰",
+        "pinned_tweet_id": "2040861103748731388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045141613958340608/DmfkJuqE_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 536,
+          "like_count": 1988,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 2238
+        },
+        "url": "https://t.co/Xu9CGM7srL",
+        "username": "Alistai33955292",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-16T20:01:18.000Z",
+        "description": "病み垢 鬱症 od リスカ｜🚪99",
+        "id": "1714008587012612097",
+        "location": "天国",
+        "name": "天国ナミダ",
+        "pinned_tweet_id": "2039170935308296533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045455223779717120/11zk5KWC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 291,
+          "like_count": 1589,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 2133
+        },
+        "username": "angelkawaii2P",
+        "verified": false
+      }
+    ]
+  }
+}

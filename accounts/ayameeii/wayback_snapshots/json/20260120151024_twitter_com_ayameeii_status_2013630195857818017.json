@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2013605591147847942",
+    "created_at": "2026-01-20T15:10:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T16:10:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013630195857818017"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1956295307886788608",
+          "start": 0,
+          "username": "Huimao_ow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013630195857818017",
+    "in_reply_to_user_id": "1956295307886788608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013605591147847942",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Huimao_ow 我喜欢你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 453,
+        "media_key": "3_2013605583270649856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_HDnASXIAAgXI5.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2013605591147847942",
+        "created_at": "2026-01-20T15:10:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T16:10:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013630195857818017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1956295307886788608",
+              "start": 0,
+              "username": "Huimao_ow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013630195857818017",
+        "in_reply_to_user_id": "1956295307886788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013605591147847942",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Huimao_ow 我喜欢你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013605583270649856"
+          ]
+        },
+        "author_id": "1956295307886788608",
+        "conversation_id": "2013605591147847942",
+        "created_at": "2026-01-20T13:32:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T14:32:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013605591147847942"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pxr4G0mklC",
+              "end": 34,
+              "expanded_url": "https://x.com/Huimao_ow/status/2013605591147847942/photo/1",
+              "media_key": "3_2013605583270649856",
+              "start": 11,
+              "url": "https://t.co/pxr4G0mklC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013605591147847942",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 126,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "会有推友理我吗（小声 https://t.co/pxr4G0mklC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2008864131290694085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 352,
+          "like_count": 6563,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 2194
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-15T10:02:13.000Z",
+        "description": "你好！我是小灰！是女生捏，香港人，是一位喜欢玩音游的m3㕑，祝大家天天开心捏，欢迎交朋友",
+        "id": "1956295307886788608",
+        "name": "灰色绒毛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013096129882128384/ilKt6azw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 763,
+          "like_count": 4576,
+          "listed_count": 0,
+          "media_count": 182,
+          "tweet_count": 1759
+        },
+        "username": "Huimao_ow",
+        "verified": false
+      }
+    ]
+  }
+}

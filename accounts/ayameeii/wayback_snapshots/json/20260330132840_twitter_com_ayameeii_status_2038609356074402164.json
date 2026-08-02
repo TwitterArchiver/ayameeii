@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2038609282682454016"
+      ]
+    },
+    "author_id": "1852135214795100164",
+    "conversation_id": "2038609356074402164",
+    "created_at": "2026-03-30T13:28:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T14:28:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038609356074402164"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VzAMAzewWn",
+          "end": 53,
+          "expanded_url": "https://x.com/ayameeii/status/2038609356074402164/video/1",
+          "media_key": "7_2038609282682454016",
+          "start": 30,
+          "url": "https://t.co/VzAMAzewWn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038609356074402164",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好爽啊早上的这个时候我以为转躁了但不可能我好爽肚子也是烫的 https://t.co/VzAMAzewWn"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22244,
+        "height": 1272,
+        "media_key": "7_2038609282682454016",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2038609282682454016/pu/img/i1-CR8CJR0x4p_yM.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2038609282682454016/pu/vid/avc1/320x706/gaOCk8rx_IJxaLu-.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2038609282682454016/pu/vid/avc1/480x1060/tDRGyCLDb5b9aAtG.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2038609282682454016/pu/vid/avc1/576x1272/kQUIMvaDdukgmKTx.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2038609282682454016/pu/pl/bnY76DUtthTYn57D.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2038609282682454016"
+          ]
+        },
+        "author_id": "1852135214795100164",
+        "conversation_id": "2038609356074402164",
+        "created_at": "2026-03-30T13:28:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T14:28:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038609356074402164"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VzAMAzewWn",
+              "end": 53,
+              "expanded_url": "https://x.com/ayameeii/status/2038609356074402164/video/1",
+              "media_key": "7_2038609282682454016",
+              "start": 30,
+              "url": "https://t.co/VzAMAzewWn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038609356074402164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好爽啊早上的这个时候我以为转躁了但不可能我好爽肚子也是烫的 https://t.co/VzAMAzewWn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2036043044986953736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 729,
+          "following_count": 512,
+          "like_count": 8682,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 3208
+        },
+        "username": "ayameeii",
+        "verified": false
+      }
+    ]
+  }
+}

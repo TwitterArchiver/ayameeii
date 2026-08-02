@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2004976128113725793",
+    "created_at": "2025-12-27T18:07:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T19:07:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004977559986209257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1847025525610762240",
+          "start": 0,
+          "username": "KS_Nitori"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004977559986209257",
+    "in_reply_to_user_id": "1847025525610762240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004976128113725793",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KS_Nitori 怎么了还好吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2004976117791465472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9MbKAQaIAANbCm.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2004976128113725793",
+        "created_at": "2025-12-27T18:07:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T19:07:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004977559986209257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1847025525610762240",
+              "start": 0,
+              "username": "KS_Nitori"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004977559986209257",
+        "in_reply_to_user_id": "1847025525610762240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004976128113725793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KS_Nitori 怎么了还好吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004976117791465472"
+          ]
+        },
+        "author_id": "1847025525610762240",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2004976128113725793",
+        "created_at": "2025-12-27T18:02:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T19:02:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004976128113725793"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/269VIbJH61",
+              "end": 91,
+              "expanded_url": "https://x.com/KS_Nitori/status/2004976128113725793/photo/1",
+              "media_key": "3_2004976117791465472",
+              "start": 68,
+              "url": "https://t.co/269VIbJH61"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004976128113725793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "于警车上前往上海市虹口区精卫就诊中，于虹口区救助站与派出所办理不明手续，棉花糖在陪同。其余两位在警局做笔录后赶到并前往虹口区精卫等待。 https://t.co/269VIbJH61"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "1992652290252316901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 316,
+          "like_count": 5926,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 1919
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-17T21:23:12.000Z",
+        "description": "可以以头像叫我荷取|\n备用账号： @KS_Nitori_1|\n双相？/ASD/不登校|\nmtf（HRT 20250611）|\nBI9CJE/尼康佬/机械/铁道/……（爱好广泛，但是都不精通QAQ）|\n东方/P社/少战/邦/……\n|2009～2026？\n内疚、矛盾、自责……发病时概率掉落奇怪的文本及血图。害怕被讨厌、抛弃",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "KS_Nitori_1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/k_nitori",
+                "end": 23,
+                "expanded_url": "http://t.me/k_nitori",
+                "start": 0,
+                "url": "https://t.co/8rmha2lEIU"
+              }
+            ]
+          }
+        },
+        "id": "1847025525610762240",
+        "location": "Xi'an, Shaanxi, China",
+        "name": "_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001514803052056579/_vZtqRI1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1238,
+          "following_count": 1716,
+          "like_count": 11469,
+          "listed_count": 3,
+          "media_count": 143,
+          "tweet_count": 2175
+        },
+        "url": "https://t.co/8rmha2lEIU",
+        "username": "KS_Nitori",
+        "verified": false
+      }
+    ]
+  }
+}

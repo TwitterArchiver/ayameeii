@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2022363775228350814",
+    "created_at": "2026-02-13T17:34:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T18:34:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022363775228350814"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Xiaoyukaaa/sta…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/Xiaoyukaaa/status/2022333381162455168",
+          "start": 15,
+          "url": "https://t.co/LYj6009fpn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022363775228350814",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022333381162455168",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我擦这个老师好可爱你们快来看 https://t.co/LYj6009fpn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2022333367388364800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBDFe5yaYAAWNK7.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2022363775228350814",
+        "created_at": "2026-02-13T17:34:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T18:34:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022363775228350814"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Xiaoyukaaa/sta…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/Xiaoyukaaa/status/2022333381162455168",
+              "start": 15,
+              "url": "https://t.co/LYj6009fpn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022363775228350814",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022333381162455168",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我擦这个老师好可爱你们快来看 https://t.co/LYj6009fpn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022333367388364800"
+          ]
+        },
+        "author_id": "1924705128332107776",
+        "conversation_id": "2022333381162455168",
+        "created_at": "2026-02-13T15:33:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T16:33:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022333381162455168"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 17,
+              "tag": "多娜多娜一起来干坏事吧"
+            },
+            {
+              "end": 37,
+              "start": 30,
+              "tag": "ドーナドーナ"
+            },
+            {
+              "end": 49,
+              "start": 38,
+              "tag": "DohnaDohna"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ee5uRrffKS",
+              "end": 73,
+              "expanded_url": "https://x.com/Xiaoyukaaa/status/2022333381162455168/photo/1",
+              "media_key": "3_2022333367388364800",
+              "start": 50,
+              "url": "https://t.co/Ee5uRrffKS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022333381162455168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 655,
+          "like_count": 26,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我去2026了怎么还出多娜多娜\n\n#多娜多娜一起来干坏事吧 #ドーナドーナ #DohnaDohna https://t.co/Ee5uRrffKS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2014053871983685932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 535,
+          "following_count": 393,
+          "like_count": 7049,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 2440
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-20T05:54:10.000Z",
+        "description": "白毛萝莉重度依赖 dy xhs同名",
+        "id": "1924705128332107776",
+        "name": "咲魚咔咔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970497548327833600/KsXwyjkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 146,
+          "like_count": 74,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 32
+        },
+        "username": "Xiaoyukaaa",
+        "verified": false
+      }
+    ]
+  }
+}

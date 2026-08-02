@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2012546302702391437",
+    "created_at": "2026-01-18T13:51:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T14:51:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012885587431190683"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1504630614578073600",
+          "start": 0,
+          "username": "yunxvan1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012885587431190683",
+    "in_reply_to_user_id": "1504630614578073600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012546302702391437",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yunxvan1 不要走😭每次都会看你的推文"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2012546302702391437",
+        "created_at": "2026-01-18T13:51:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T14:51:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012885587431190683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1504630614578073600",
+              "start": 0,
+              "username": "yunxvan1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012885587431190683",
+        "in_reply_to_user_id": "1504630614578073600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012546302702391437",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yunxvan1 不要走😭每次都会看你的推文"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504630614578073600",
+        "conversation_id": "2012546302702391437",
+        "created_at": "2026-01-17T15:23:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T16:23:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012546302702391437"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012546302702391437",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1519,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我刚刚想注销账号，但是我一想没有推特我就没收入了，😂😂😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2008864131290694085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 348,
+          "like_count": 6476,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 2143
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-18T01:27:56.000Z",
+        "description": "我是圣诞帽 查成分互fo 性格很烂 想交朋友 🚪100纯绿色我可以逗你开心 https://t.co/Q4VZBLlHsB   喜欢挂人",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yunxvan1",
+                "end": 61,
+                "expanded_url": "https://ngl.link/yunxvan1",
+                "start": 38,
+                "url": "https://t.co/Q4VZBLlHsB"
+              }
+            ]
+          }
+        },
+        "id": "1504630614578073600",
+        "location": "冰岛",
+        "name": "女孩🍥 🏳️‍⚧️",
+        "pinned_tweet_id": "2002250159384899692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003097612799598592/tpc5iV9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 671,
+          "like_count": 5610,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 636
+        },
+        "username": "yunxvan1",
+        "verified": false
+      }
+    ]
+  }
+}

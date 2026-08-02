@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1993953039603126508",
+    "created_at": "2025-11-27T08:00:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T09:00:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993953039603126508"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1993953039603126508",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "昨天刷牙的时候发现挤不出牙膏了，于是我决定两只手一起用力挤。就在双手刚刚发力这最不引人注意的时刻，剩余的牙膏像惊弓之鸟一样飞出了牙膏管\n我想说这个天气浴室外面真的很冷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1993953039603126508",
+        "created_at": "2025-11-27T08:00:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T09:00:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993953039603126508"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993953039603126508",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天刷牙的时候发现挤不出牙膏了，于是我决定两只手一起用力挤。就在双手刚刚发力这最不引人注意的时刻，剩余的牙膏像惊弓之鸟一样飞出了牙膏管\n我想说这个天气浴室外面真的很冷"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "1992652290252316901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 264,
+          "like_count": 4212,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 1322
+        },
+        "username": "ayameeii",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,380 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2024016216881291557",
+    "created_at": "2026-02-18T13:34:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T14:34:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024115393447518227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1810000313744756736",
+          "start": 0,
+          "username": "tianwen5258"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024115393447518227",
+    "in_reply_to_user_id": "1810000313744756736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024016216881291557",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tianwen5258 我擦好好看"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11450,
+        "height": 1280,
+        "media_key": "13_2024016044830998528",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2024016044830998528/img/8bpCK3E4KaS_C0c2.jpg",
+        "public_metrics": {
+          "view_count": 1484
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024016044830998528/vid/avc1/320x694/Cz5FrQbzTtGU8zWg.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024016044830998528/vid/avc1/480x1040/jVQtDNEOck1-i5LG.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024016044830998528/vid/avc1/590x1280/IgxTB-rm2aqTRUJ7.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2024016044830998528/pl/5ETkgq4x7Zj0JOPC.m3u8"
+          }
+        ],
+        "width": 590
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2024016044948619264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBa_3oLagAAntmW.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2024016216881291557",
+        "created_at": "2026-02-18T13:34:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T14:34:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024115393447518227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1810000313744756736",
+              "start": 0,
+              "username": "tianwen5258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024115393447518227",
+        "in_reply_to_user_id": "1810000313744756736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024016216881291557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tianwen5258 我擦好好看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2024016044830998528",
+            "3_2024016044948619264"
+          ]
+        },
+        "author_id": "1810000313744756736",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2024016216881291557",
+        "created_at": "2026-02-18T07:00:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T08:00:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024016216881291557"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 105,
+              "start": 102,
+              "tag": "伪娘"
+            },
+            {
+              "end": 118,
+              "start": 106,
+              "tag": "BlueArchive"
+            },
+            {
+              "end": 125,
+              "start": 119,
+              "tag": "杏山カズサ"
+            },
+            {
+              "end": 129,
+              "start": 126,
+              "tag": "自拍"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oeVcYfbkMn",
+              "end": 153,
+              "expanded_url": "https://x.com/tianwen5258/status/2024016216881291557/video/1",
+              "media_key": "13_2024016044830998528",
+              "start": 130,
+              "url": "https://t.co/oeVcYfbkMn"
+            },
+            {
+              "display_url": "pic.x.com/oeVcYfbkMn",
+              "end": 153,
+              "expanded_url": "https://x.com/tianwen5258/status/2024016216881291557/video/1",
+              "media_key": "3_2024016044948619264",
+              "start": 130,
+              "url": "https://t.co/oeVcYfbkMn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024016216881291557",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3529,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "“嘻嘻我真好看，我是个好女孩呢”\n（四个大叔进来）“卧槽，这里不是男厕吗，怎么有女的？”（连着看了好几次标识都不敢相信）\n“hello～这里是女厕所哦（夹子音）”\n“这里没有男厕所吗？”😨?😨?😨?😨？\n#伪娘 #BlueArchive #杏山カズサ #自拍 https://t.co/oeVcYfbkMn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2014053871983685932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540,
+          "following_count": 408,
+          "like_count": 7213,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 2524
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-07T17:18:09.000Z",
+        "description": "略帶顏色的cos｜廣州｜可互關｜歡迎QQ擴列喵｜Darling：@YENA_QWQ ❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "YENA_QWQ"
+              }
+            ]
+          }
+        },
+        "id": "1810000313744756736",
+        "location": "时间小猫窝",
+        "name": "織雨カズサ",
+        "pinned_tweet_id": "2014366167348224229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975053486195683328/xzDoI8GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1052,
+          "following_count": 275,
+          "like_count": 1529,
+          "listed_count": 4,
+          "media_count": 43,
+          "tweet_count": 119
+        },
+        "username": "tianwen5258",
+        "verified": false
+      }
+    ]
+  }
+}

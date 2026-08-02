@@ -1,0 +1,425 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1971892588354719744"
+      ],
+      "media_source_tweet_id": [
+        "1971892592792293569"
+      ]
+    },
+    "author_id": "1852135214795100164",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1337120073090179072",
+          "name": "SHISHAMO"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1337120073090179072",
+          "name": "SHISHAMO"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "J-POP",
+          "id": "810938095772123136",
+          "name": "J-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1337120073090179072",
+          "name": "SHISHAMO"
+        }
+      }
+    ],
+    "conversation_id": "1971959895948927414",
+    "created_at": "2025-09-27T15:27:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T16:27:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971959895948927414"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 26,
+          "normalized_text": "SHISHAMO",
+          "probability": 0.7961,
+          "start": 19,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "821360383",
+          "start": 3,
+          "username": "SHISHAMO_BAND"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UUKGJXRem4",
+          "end": 63,
+          "expanded_url": "https://x.com/SHISHAMO_BAND/status/1971892592792293569/photo/1",
+          "media_key": "3_1971892588354719744",
+          "start": 40,
+          "url": "https://t.co/UUKGJXRem4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971959895948927414",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 54563
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971892592792293569",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SHISHAMO_BAND: SHISHAMOから大切なお知らせです。 https://t.co/UUKGJXRem4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1971892588354719744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G12R3JAb0AACfKf.jpg",
+        "width": 1946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971892588354719744"
+          ],
+          "media_source_tweet_id": [
+            "1971892592792293569"
+          ]
+        },
+        "author_id": "1852135214795100164",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1337120073090179072",
+              "name": "SHISHAMO"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1337120073090179072",
+              "name": "SHISHAMO"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1337120073090179072",
+              "name": "SHISHAMO"
+            }
+          }
+        ],
+        "conversation_id": "1971959895948927414",
+        "created_at": "2025-09-27T15:27:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T16:27:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971959895948927414"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 26,
+              "normalized_text": "SHISHAMO",
+              "probability": 0.7961,
+              "start": 19,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "821360383",
+              "start": 3,
+              "username": "SHISHAMO_BAND"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UUKGJXRem4",
+              "end": 63,
+              "expanded_url": "https://x.com/SHISHAMO_BAND/status/1971892592792293569/photo/1",
+              "media_key": "3_1971892588354719744",
+              "start": 40,
+              "url": "https://t.co/UUKGJXRem4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971959895948927414",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 54559
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971892592792293569",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SHISHAMO_BAND: SHISHAMOから大切なお知らせです。 https://t.co/UUKGJXRem4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971892588354719744"
+          ]
+        },
+        "author_id": "821360383",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1337120073090179072",
+              "name": "SHISHAMO"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1337120073090179072",
+              "name": "SHISHAMO"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1337120073090179072",
+              "name": "SHISHAMO"
+            }
+          }
+        ],
+        "conversation_id": "1971892592792293569",
+        "created_at": "2025-09-27T11:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T12:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971892592792293569"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "SHISHAMO",
+              "probability": 0.8337,
+              "start": 0,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UUKGJXRem4",
+              "end": 44,
+              "expanded_url": "https://x.com/SHISHAMO_BAND/status/1971892592792293569/photo/1",
+              "media_key": "3_1971892588354719744",
+              "start": 21,
+              "url": "https://t.co/UUKGJXRem4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971892592792293569",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11273,
+          "impression_count": 18193705,
+          "like_count": 326513,
+          "quote_count": 29521,
+          "reply_count": 948,
+          "retweet_count": 54559
+        },
+        "reply_settings": "everyone",
+        "text": "SHISHAMOから大切なお知らせです。 https://t.co/UUKGJXRem4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852135475403984896/GBdrMFBz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 48,
+          "like_count": 190,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 55
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2012-09-13T11:39:51.000Z",
+        "description": "SHISHAMOという3ピースロックバンド。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "shishamo.biz",
+                "end": 23,
+                "expanded_url": "https://shishamo.biz/",
+                "start": 0,
+                "url": "https://t.co/71zARoDbWZ"
+              }
+            ]
+          }
+        },
+        "id": "821360383",
+        "name": "SHISHAMO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1730176196955324416/9W49jSv9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332019,
+          "following_count": 56,
+          "like_count": 453,
+          "listed_count": 2347,
+          "media_count": 4126,
+          "tweet_count": 11041
+        },
+        "url": "https://t.co/71zARoDbWZ",
+        "username": "SHISHAMO_BAND",
+        "verified": false
+      }
+    ]
+  }
+}

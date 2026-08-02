@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2028025855877030296",
+    "created_at": "2026-03-02T00:52:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T01:52:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028272293835878746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1551462996710686720",
+          "start": 0,
+          "username": "ms364551"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028272293835878746",
+    "in_reply_to_user_id": "1551462996710686720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028025855877030296",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ms364551 主播生日吗 生日快乐🎂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 931,
+        "media_key": "3_2028025807017500672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCT-uf6aYAAilVv.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2028025855877030296",
+        "created_at": "2026-03-02T00:52:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T01:52:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028272293835878746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1551462996710686720",
+              "start": 0,
+              "username": "ms364551"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028272293835878746",
+        "in_reply_to_user_id": "1551462996710686720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028025855877030296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ms364551 主播生日吗 生日快乐🎂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028025807017500672"
+          ]
+        },
+        "author_id": "1551462996710686720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2028025855877030296",
+        "created_at": "2026-03-01T08:33:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T09:33:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028025855877030296"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/29vFuApYcu",
+              "end": 33,
+              "expanded_url": "https://x.com/ms364551/status/2028025855877030296/photo/1",
+              "media_key": "3_2028025807017500672",
+              "start": 10,
+              "url": "https://t.co/29vFuApYcu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028025855877030296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 515,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "祥祥祝我生日快乐🥰 https://t.co/29vFuApYcu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2027766234981494956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 635,
+          "following_count": 433,
+          "like_count": 7566,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 2669
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-25T07:03:07.000Z",
+        "description": "是男孩子，无糖，168/53kg，只是拍点自己喜欢看的，欢迎同好扩列——互fo扩列都可以私我",
+        "id": "1551462996710686720",
+        "name": "丰川丰川祥（互fo欢迎）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908768221827919872/rAb0Jh3A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 587,
+          "following_count": 342,
+          "like_count": 519,
+          "listed_count": 3,
+          "media_count": 46,
+          "tweet_count": 270
+        },
+        "username": "ms364551",
+        "verified": false
+      }
+    ]
+  }
+}

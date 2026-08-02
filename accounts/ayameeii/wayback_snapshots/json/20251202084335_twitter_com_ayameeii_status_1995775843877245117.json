@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1995775191956541715",
+    "created_at": "2025-12-02T08:43:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T09:43:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995775843877245117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1891362165317410816",
+          "start": 0,
+          "username": "Kris_Dreammer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995775843877245117",
+    "in_reply_to_user_id": "1891362165317410816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995775191956541715",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kris_Dreammer 再见是为了更好的明天 加油哇"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1560,
+        "media_key": "3_1995775159937167360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7Jq7xOacAA30Be.jpg",
+        "width": 2080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1995775191956541715",
+        "created_at": "2025-12-02T08:43:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T09:43:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995775843877245117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1891362165317410816",
+              "start": 0,
+              "username": "Kris_Dreammer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995775843877245117",
+        "in_reply_to_user_id": "1891362165317410816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995775191956541715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kris_Dreammer 再见是为了更好的明天 加油哇"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995775159937167360"
+          ]
+        },
+        "author_id": "1891362165317410816",
+        "conversation_id": "1995775191956541715",
+        "created_at": "2025-12-02T08:41:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T09:41:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995775191956541715"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZRR4CvDuSv",
+              "end": 32,
+              "expanded_url": "https://x.com/Kris_Dreammer/status/1995775191956541715/photo/1",
+              "media_key": "3_1995775159937167360",
+              "start": 9,
+              "url": "https://t.co/ZRR4CvDuSv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995775191956541715",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我会和你们说再见 https://t.co/ZRR4CvDuSv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "1992652290252316901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 282,
+          "like_count": 4672,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1487
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-17T05:41:05.000Z",
+        "description": "大家都会有光明的未来                          \n                                              碎碎念频道https://t.co/5gFOicmYi0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+R1iTD41Kqw9jZ…",
+                "end": 111,
+                "expanded_url": "https://t.me/+R1iTD41Kqw9jZWQ9",
+                "start": 88,
+                "url": "https://t.co/5gFOicmYi0"
+              }
+            ]
+          }
+        },
+        "id": "1891362165317410816",
+        "location": "自由",
+        "name": "kris（愈美大王版）",
+        "pinned_tweet_id": "1993071529849241886",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894946127629426688/RKH6WAzr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 302,
+          "like_count": 2771,
+          "listed_count": 1,
+          "media_count": 129,
+          "tweet_count": 1203
+        },
+        "username": "Kris_Dreammer",
+        "verified": false
+      }
+    ]
+  }
+}

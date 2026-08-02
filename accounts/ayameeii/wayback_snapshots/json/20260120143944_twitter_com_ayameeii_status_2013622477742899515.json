@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2013622359010525302",
+    "created_at": "2026-01-20T14:39:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T15:39:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013622477742899515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1968225364163141632",
+          "start": 0,
+          "username": "Deborah90330371"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013622477742899515",
+    "in_reply_to_user_id": "1968225364163141632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013622359010525302",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Deborah90330371 我真要"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 984,
+        "media_key": "3_2013622345512919040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_HS2sgWIAAnUPk.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2013622359010525302",
+        "created_at": "2026-01-20T14:39:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T15:39:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013622477742899515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1968225364163141632",
+              "start": 0,
+              "username": "Deborah90330371"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013622477742899515",
+        "in_reply_to_user_id": "1968225364163141632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013622359010525302",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Deborah90330371 我真要"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013622345512919040"
+          ]
+        },
+        "author_id": "1968225364163141632",
+        "conversation_id": "2013622359010525302",
+        "created_at": "2026-01-20T14:39:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T15:39:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013622359010525302"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ez4S23gfNd",
+              "end": 37,
+              "expanded_url": "https://x.com/Deborah90330371/status/2013622359010525302/photo/1",
+              "media_key": "3_2013622345512919040",
+              "start": 14,
+              "url": "https://t.co/Ez4S23gfNd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013622359010525302",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妹子们谁要我微信，我真给。 https://t.co/Ez4S23gfNd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2008864131290694085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 352,
+          "like_count": 6559,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 2190
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-17T08:07:54.000Z",
+        "description": "我素绑带结or小若 双/不完全健全/女宝全认可/善良邪恶人格乱切/友好私信欢迎！（私信有些收不到/互fo看成分。聊天找小号！大号私信吞信息@dai7831",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 69,
+                "username": "dai7831"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A528546",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A528546",
+                "start": 0,
+                "url": "https://t.co/RuKjS3c4S8"
+              }
+            ]
+          }
+        },
+        "id": "1968225364163141632",
+        "location": "无🚪的意思是 想认识我门都没有。只和喜欢的人玩",
+        "name": "感觉自己很呆萌",
+        "pinned_tweet_id": "2006253707105828937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002613646657216514/c_8H58pg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 161,
+          "like_count": 3084,
+          "listed_count": 0,
+          "media_count": 247,
+          "tweet_count": 1820
+        },
+        "url": "https://t.co/RuKjS3c4S8",
+        "username": "Deborah90330371",
+        "verified": false
+      }
+    ]
+  }
+}

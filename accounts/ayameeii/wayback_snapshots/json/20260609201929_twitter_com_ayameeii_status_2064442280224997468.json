@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2064368858237129185",
+    "created_at": "2026-06-09T20:19:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T21:19:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064442280224997468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1709928872920469504",
+          "start": 0,
+          "username": "mahoshojopikapi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064442280224997468",
+    "in_reply_to_user_id": "1709928872920469504",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064368858237129185",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mahoshojopikapi 宝宝😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2064368858237129185",
+        "created_at": "2026-06-09T20:19:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T21:19:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064442280224997468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1709928872920469504",
+              "start": 0,
+              "username": "mahoshojopikapi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064442280224997468",
+        "in_reply_to_user_id": "1709928872920469504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064368858237129185",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mahoshojopikapi 宝宝😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1709928872920469504",
+        "conversation_id": "2064368858237129185",
+        "created_at": "2026-06-09T15:27:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T16:27:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064368858237129185"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064368858237129185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 98,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哪天沒有任何留戀了我就去死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存| 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 34,
+                "start": 24,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1048,
+          "following_count": 687,
+          "like_count": 10447,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 3992
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-05T13:49:57.000Z",
+        "description": "@yuejian76078401 依存症",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "yuejian76078401"
+              }
+            ]
+          }
+        },
+        "id": "1709928872920469504",
+        "location": "天國",
+        "name": "✞︎ 魔法少女淺淺 ✞︎",
+        "pinned_tweet_id": "2003959488685264896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048532024999419904/rsVHsKtA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 612,
+          "following_count": 286,
+          "like_count": 2537,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 1799
+        },
+        "username": "mahoshojopikapi",
+        "verified": false
+      }
+    ]
+  }
+}

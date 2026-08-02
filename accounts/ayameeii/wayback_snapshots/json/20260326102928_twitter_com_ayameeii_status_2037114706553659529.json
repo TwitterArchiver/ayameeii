@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2036772021879833060",
+    "created_at": "2026-03-26T10:29:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T11:29:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037114706553659529"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2013875219392585728",
+          "start": 0,
+          "username": "e57jcetmSs91516"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037114706553659529",
+    "in_reply_to_user_id": "2013875219392585728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036772021879833060",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@e57jcetmSs91516 确定有病吧 所以不要全部揽在身上"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2036772021879833060",
+        "created_at": "2026-03-26T10:29:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T11:29:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037114706553659529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2013875219392585728",
+              "start": 0,
+              "username": "e57jcetmSs91516"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037114706553659529",
+        "in_reply_to_user_id": "2013875219392585728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036772021879833060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@e57jcetmSs91516 确定有病吧 所以不要全部揽在身上"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013875219392585728",
+        "conversation_id": "2036772021879833060",
+        "created_at": "2026-03-25T11:47:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T12:47:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036772021879833060"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036772021879833060",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 159,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我五点多就来教室然后趴在这里一直哭一直一直抖，哭到了七点多才不哭，但是还是一直一直抖，然后突然想笑🌚我操我有病吧我自己都不行了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某次",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2036043044986953736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 701,
+          "following_count": 498,
+          "like_count": 8386,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 3063
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-21T07:24:26.000Z",
+        "description": "10｜女初｜身高163 体重43kg 减肥中…（接陪聊🚪52/188/520（不退门）",
+        "id": "2013875219392585728",
+        "name": "T^T（허월홍）",
+        "pinned_tweet_id": "2029577831198716224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030311851687649281/NIhSLEy4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 212,
+          "like_count": 9822,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 3411
+        },
+        "username": "e57jcetmSs91516",
+        "verified": false
+      }
+    ]
+  }
+}

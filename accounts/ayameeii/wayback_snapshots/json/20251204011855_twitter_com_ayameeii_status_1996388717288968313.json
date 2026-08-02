@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1996385873160806659",
+    "created_at": "2025-12-04T01:18:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T02:18:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996388717288968313"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1987915035830816768",
+          "start": 0,
+          "username": "ikimukuyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996388717288968313",
+    "in_reply_to_user_id": "1987915035830816768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996385873160806659",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ikimukuyo 他坏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1996385873160806659",
+        "created_at": "2025-12-04T01:18:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T02:18:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996388717288968313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1987915035830816768",
+              "start": 0,
+              "username": "ikimukuyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996388717288968313",
+        "in_reply_to_user_id": "1987915035830816768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996385873160806659",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ikimukuyo 他坏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987915035830816768",
+        "conversation_id": "1996385873160806659",
+        "created_at": "2025-12-04T01:07:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T02:07:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996385873160806659"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1996385873160806659",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你说你不会做让我不开心的事\n实际上你又做了并且在隐瞒\n你觉得不说不让我知道就没事\n我昨晚又是哭着睡着的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "1992652290252316901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 291,
+          "like_count": 4836,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1535
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-10T16:07:52.000Z",
+        "description": "不可以再说要去死之类的话了",
+        "id": "1987915035830816768",
+        "name": "超级美少女不会遇到胡萝卜前辈",
+        "pinned_tweet_id": "1992187905985720402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992240918691446784/5kzoCGvt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 23,
+          "like_count": 1808,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 423
+        },
+        "username": "ikimukuyo",
+        "verified": false
+      }
+    ]
+  }
+}

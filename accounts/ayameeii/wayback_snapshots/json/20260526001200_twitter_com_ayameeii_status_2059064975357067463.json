@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2059061311674425736",
+    "created_at": "2026-05-26T00:12:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T01:12:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059064975357067463"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1768509535441022976",
+          "start": 0,
+          "username": "aokitetsu111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059064975357067463",
+    "in_reply_to_user_id": "1768509535441022976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059061311674425736",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aokitetsu111 还有半衰期真的很长。。。好几天那种 不要随便加药 没效果先等等"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2059061311674425736",
+        "created_at": "2026-05-26T00:12:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T01:12:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059064975357067463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1768509535441022976",
+              "start": 0,
+              "username": "aokitetsu111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059064975357067463",
+        "in_reply_to_user_id": "1768509535441022976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059061311674425736",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aokitetsu111 还有半衰期真的很长。。。好几天那种 不要随便加药 没效果先等等"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768509535441022976",
+        "conversation_id": "2059061311674425736",
+        "created_at": "2026-05-25T23:57:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T00:57:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059061311674425736"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059061311674425736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我看最近好多人在尝试美金刚，还是提醒一句，和晚安一样会消耗多巴胺，不建议连续用药，至少停一几天给多巴胺产生的时间。\n然后就是多吃乳酪制品，或者直接去买一袋酪氨酸，喝奶的时候加一勺进去。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存| 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 34,
+                "start": 24,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 968,
+          "following_count": 660,
+          "like_count": 10193,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 3845
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-15T05:28:34.000Z",
+        "description": "原号爆了@AOKITETSUKO111 第二系统@SazukiYui 彻子2.0/欢迎互fo~不喜欢请屏蔽我但请不要举报谢谢\n暂时不接塔罗占卜了，望谅解",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "AOKITETSUKO111"
+              },
+              {
+                "end": 34,
+                "start": 24,
+                "username": "SazukiYui"
+              }
+            ]
+          }
+        },
+        "id": "1768509535441022976",
+        "location": "Hell",
+        "name": "てつこちゃん",
+        "pinned_tweet_id": "1866648143737352674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015058425349324801/fXkLebL3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 439,
+          "following_count": 345,
+          "like_count": 15584,
+          "listed_count": 1,
+          "media_count": 319,
+          "tweet_count": 2714
+        },
+        "username": "aokitetsu111",
+        "verified": false
+      }
+    ]
+  }
+}

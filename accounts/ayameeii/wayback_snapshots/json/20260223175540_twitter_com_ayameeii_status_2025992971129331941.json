@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2025991651823620380",
+    "created_at": "2026-02-23T17:55:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T18:55:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025992971129331941"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1668257047647776770",
+          "start": 0,
+          "username": "strip0w076377"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025992971129331941",
+    "in_reply_to_user_id": "1668257047647776770",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025991651823620380",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@strip0w076377 严肃欣赏主播大头.."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2025991639458832385",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB3EqXPa4AEiQYl.jpg",
+        "width": 752
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2025991651823620380",
+        "created_at": "2026-02-23T17:55:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T18:55:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025992971129331941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1668257047647776770",
+              "start": 0,
+              "username": "strip0w076377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025992971129331941",
+        "in_reply_to_user_id": "1668257047647776770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025991651823620380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@strip0w076377 严肃欣赏主播大头.."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025991639458832385"
+          ]
+        },
+        "author_id": "1668257047647776770",
+        "conversation_id": "2025991651823620380",
+        "created_at": "2026-02-23T17:50:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T18:50:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025991651823620380"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BkQYjITe7Q",
+              "end": 34,
+              "expanded_url": "https://x.com/strip0w076377/status/2025991651823620380/photo/1",
+              "media_key": "3_2025991639458832385",
+              "start": 11,
+              "url": "https://t.co/BkQYjITe7Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025991651823620380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "同学好可爱我想亲亲你 https://t.co/BkQYjITe7Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2014053871983685932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 624,
+          "following_count": 420,
+          "like_count": 7460,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 2618
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-12T14:01:46.000Z",
+        "description": "低能量低自尊低素质低道德痛苦女孩里垢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B2%B9%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B2%B9%E6%9D%A1%E7%8C%AB",
+                "start": 0,
+                "url": "https://t.co/SFph8bVnDe"
+              }
+            ]
+          }
+        },
+        "id": "1668257047647776770",
+        "location": "🚪88/188  提问箱⬇️",
+        "name": "丰川祥子爱分尸",
+        "pinned_tweet_id": "2024841962806010115",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954570231411863552/kdFzZzC9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 991,
+          "following_count": 216,
+          "like_count": 6535,
+          "listed_count": 1,
+          "media_count": 230,
+          "tweet_count": 3090
+        },
+        "url": "https://t.co/SFph8bVnDe",
+        "username": "strip0w076377",
+        "verified": false
+      }
+    ]
+  }
+}

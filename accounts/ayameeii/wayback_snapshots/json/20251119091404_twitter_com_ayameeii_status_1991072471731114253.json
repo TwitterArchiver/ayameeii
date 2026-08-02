@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1991072471731114253",
+    "created_at": "2025-11-19T09:14:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T10:14:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1991072471731114253"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ayameeii/statu…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/ayameeii/status/1990392975168323714",
+          "start": 28,
+          "url": "https://t.co/zvPF8zmspn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991072471731114253",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990392975168323714",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我感觉...真的不太适合这个世界\n不过我真的很喜欢你们 https://t.co/zvPF8zmspn"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1991072471731114253",
+        "created_at": "2025-11-19T09:14:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T10:14:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991072471731114253"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ayameeii/statu…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/ayameeii/status/1990392975168323714",
+              "start": 28,
+              "url": "https://t.co/zvPF8zmspn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991072471731114253",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990392975168323714",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我感觉...真的不太适合这个世界\n不过我真的很喜欢你们 https://t.co/zvPF8zmspn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1990392975168323714",
+        "created_at": "2025-11-17T12:13:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T13:13:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990392975168323714"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1990392975168323714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 278,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "另一个世界是存在的吗 我下辈子要去看看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 234,
+          "like_count": 3642,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 1113
+        },
+        "username": "ayameeii",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2010379627219517519",
+    "created_at": "2026-01-13T10:10:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T11:10:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011018073449628064"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1388202412977147904",
+          "start": 0,
+          "username": "Ai_Auroveil"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011018073449628064",
+    "in_reply_to_user_id": "1388202412977147904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010620004182757768",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ai_Auroveil 来 你的主机好漂亮~"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1384,
+        "media_key": "3_2010619997966487552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-coPEUW0AAMfF5.jpg",
+        "width": 895
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2010379627219517519",
+        "created_at": "2026-01-13T10:10:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T11:10:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011018073449628064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1388202412977147904",
+              "start": 0,
+              "username": "Ai_Auroveil"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011018073449628064",
+        "in_reply_to_user_id": "1388202412977147904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010620004182757768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ai_Auroveil 来 你的主机好漂亮~"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010619997966487552"
+          ]
+        },
+        "author_id": "1388202412977147904",
+        "conversation_id": "2010379627219517519",
+        "created_at": "2026-01-12T07:48:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T08:48:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010620004182757768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1852135214795100164",
+              "start": 0,
+              "username": "ayameeii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/euiyDNzu89",
+              "end": 60,
+              "expanded_url": "https://x.com/Ai_Auroveil/status/2010620004182757768/photo/1",
+              "media_key": "3_2010619997966487552",
+              "start": 37,
+              "url": "https://t.co/euiyDNzu89"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010620004182757768",
+        "in_reply_to_user_id": "1852135214795100164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010379627219517519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayameeii 要做朋友咩？\n我也是没朋友没什么人愿意和我聊天的说？ https://t.co/euiyDNzu89"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2008864131290694085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 336,
+          "like_count": 6222,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 2047
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-30T18:43:56.000Z",
+        "description": "Exploring all sorts of art before creating my own (CN/EN/DE)",
+        "id": "1388202412977147904",
+        "name": "Auroveil",
+        "pinned_tweet_id": "1989780067732336986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962190135371448320/3MVdTr0H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 404,
+          "like_count": 11075,
+          "listed_count": 1,
+          "media_count": 586,
+          "tweet_count": 1850
+        },
+        "username": "Ai_Auroveil",
+        "verified": true
+      }
+    ]
+  }
+}

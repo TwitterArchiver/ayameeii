@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2016519866111725734",
+    "created_at": "2026-01-28T14:36:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T15:36:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016520710752252157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1918286867138789377",
+          "start": 0,
+          "username": "KK3787981974204"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016520710752252157",
+    "in_reply_to_user_id": "1918286867138789377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016519866111725734",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KK3787981974204 这也太高剂量了😱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2016519866111725734",
+        "created_at": "2026-01-28T14:36:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T15:36:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016520710752252157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1918286867138789377",
+              "start": 0,
+              "username": "KK3787981974204"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016520710752252157",
+        "in_reply_to_user_id": "1918286867138789377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016519866111725734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KK3787981974204 这也太高剂量了😱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918286867138789377",
+        "conversation_id": "2016519866111725734",
+        "created_at": "2026-01-28T14:32:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T15:32:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016519866111725734"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2016519866111725734",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好奇大家第一次od都是多少劑量呀（？🤔想想我第一次od他媽在政治期中考試上，一次整了普瑞2400mg，飛起沒多久後就開始一直吐了。。。然後在廁所差點吐暈過去，一個小時我去廁所不下12次。後面去買了止吐的藥才停。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2014053871983685932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 503,
+          "following_count": 365,
+          "like_count": 6731,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 2272
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T12:50:13.000Z",
+        "description": "infp｜繁中｜od｜自傷｜負面｜選fo｜🚪25純綠",
+        "id": "1918286867138789377",
+        "location": "日本 東京",
+        "name": "一滴淚的距離有多遠",
+        "pinned_tweet_id": "1986491653612576947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016133947248316416/mSwipN5D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 34,
+          "like_count": 1099,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 176
+        },
+        "username": "KK3787981974204",
+        "verified": false
+      }
+    ]
+  }
+}

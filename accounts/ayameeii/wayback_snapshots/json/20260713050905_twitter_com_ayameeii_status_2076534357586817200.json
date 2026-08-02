@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2076492780986368441",
+    "created_at": "2026-07-13T05:09:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T06:09:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076534357586817200"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1951215991645675522",
+          "start": 0,
+          "username": "mania_theidol"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076534357586817200",
+    "in_reply_to_user_id": "1951215991645675522",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076492780986368441",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mania_theidol ww我也是"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076492770253107202",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNEvLD2acAIEw0F.jpg",
+        "width": 1535
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2076492780986368441",
+        "created_at": "2026-07-13T05:09:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T06:09:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076534357586817200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1951215991645675522",
+              "start": 0,
+              "username": "mania_theidol"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076534357586817200",
+        "in_reply_to_user_id": "1951215991645675522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076492780986368441",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mania_theidol ww我也是"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076492770253107202"
+          ]
+        },
+        "author_id": "1951215991645675522",
+        "conversation_id": "2076492780986368441",
+        "created_at": "2026-07-13T02:23:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T03:23:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076492780986368441"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 20,
+              "tag": "病み垢女子と繫がりたい"
+            },
+            {
+              "end": 48,
+              "start": 34,
+              "tag": "自撮り界隈さんと繋がりたい"
+            },
+            {
+              "end": 63,
+              "start": 51,
+              "tag": "地雷系さんと繋がりたい"
+            },
+            {
+              "end": 83,
+              "start": 64,
+              "tag": "雰囲気１ｍｍでもいいと思ったらいいね"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dq7N3H7MMx",
+              "end": 107,
+              "expanded_url": "https://x.com/mania_theidol/status/2076492780986368441/photo/1",
+              "media_key": "3_2076492770253107202",
+              "start": 84,
+              "url": "https://t.co/dq7N3H7MMx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076492780986368441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "严肃候诊中\n医院没有空调快热死了...\n#病み垢女子と繫がりたい\n #自撮り界隈さんと繋がりたい  \n#地雷系さんと繋がりたい\n#雰囲気１ｍｍでもいいと思ったらいいね https://t.co/dq7N3H7MMx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存| 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 34,
+                "start": 24,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1087,
+          "following_count": 726,
+          "like_count": 10637,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 4170
+        },
+        "url": "",
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-01T09:38:54.000Z",
+        "description": "@themaniachan大号在此\n狂酱的避风小号，欢迎推u关注🥹💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "themaniachan"
+              }
+            ]
+          }
+        },
+        "id": "1951215991645675522",
+        "name": "世界倒数第一的偶像狂爱",
+        "pinned_tweet_id": "2074760573288661306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074743900070449152/oP5vi_RY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 73,
+          "like_count": 115,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 71
+        },
+        "url": "",
+        "username": "mania_theidol",
+        "verified": false
+      }
+    ]
+  }
+}

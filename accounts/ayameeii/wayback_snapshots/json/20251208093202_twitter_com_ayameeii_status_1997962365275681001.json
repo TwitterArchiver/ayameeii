@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1997961609650831706",
+    "created_at": "2025-12-08T09:32:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T10:32:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997962365275681001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1746353897403498496",
+          "start": 0,
+          "username": "wuyan_sleeeepy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997962365275681001",
+    "in_reply_to_user_id": "1746353897403498496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997961609650831706",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wuyan_sleeeepy 吴三水ni hao"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1997961609650831706",
+        "created_at": "2025-12-08T09:32:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T10:32:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997962365275681001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1746353897403498496",
+              "start": 0,
+              "username": "wuyan_sleeeepy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997962365275681001",
+        "in_reply_to_user_id": "1746353897403498496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997961609650831706",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuyan_sleeeepy 吴三水ni hao"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1746353897403498496",
+        "conversation_id": "1997961609650831706",
+        "created_at": "2025-12-08T09:29:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T10:29:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997961609650831706"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1997961609650831706",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吴三水这个贱婊子又为了别人开心乱说话"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "1992652290252316901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 298,
+          "like_count": 5118,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1619
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-14T02:10:02.000Z",
+        "description": "我说的所有悲伤的事情都是莫须有的 不要相信我的话 裏垢@IcEluV_Meow 最忠诚的狗@czz2360366574",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 27,
+                "username": "IcEluV_Meow"
+              },
+              {
+                "end": 59,
+                "start": 45,
+                "username": "czz2360366574"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wusanshui1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wusanshui1",
+                "start": 0,
+                "url": "https://t.co/V5qr5fjp0m"
+              }
+            ]
+          }
+        },
+        "id": "1746353897403498496",
+        "location": "天堂喵",
+        "name": "三水水水",
+        "pinned_tweet_id": "1962571532879659324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997682389451939840/CdNpTmRJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 369,
+          "like_count": 36315,
+          "listed_count": 2,
+          "media_count": 555,
+          "tweet_count": 6019
+        },
+        "url": "https://t.co/V5qr5fjp0m",
+        "username": "wuyan_sleeeepy",
+        "verified": false
+      }
+    ]
+  }
+}

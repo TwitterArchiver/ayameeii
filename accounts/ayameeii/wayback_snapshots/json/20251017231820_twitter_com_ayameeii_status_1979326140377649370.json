@@ -1,0 +1,103 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1979326140377649370",
+    "created_at": "2025-10-17T23:18:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T00:18:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1979326140377649370"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1979326140377649370",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "梦见了蓝皮肤的人 会喷水 长的就是很典型的刻板印象外星人👽就和这个emoji一样 梦里他叫普罗米修斯 是第一个人类 不知道为什么他和别人打起来了好像（我也记不清了 就用喷水攻击别人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1979326140377649370",
+        "created_at": "2025-10-17T23:18:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T00:18:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979326140377649370"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1979326140377649370",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "梦见了蓝皮肤的人 会喷水 长的就是很典型的刻板印象外星人👽就和这个emoji一样 梦里他叫普罗米修斯 是第一个人类 不知道为什么他和别人打起来了好像（我也记不清了 就用喷水攻击别人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 158,
+          "like_count": 1094,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 275
+        },
+        "username": "ayameeii",
+        "verified": false
+      }
+    ]
+  }
+}

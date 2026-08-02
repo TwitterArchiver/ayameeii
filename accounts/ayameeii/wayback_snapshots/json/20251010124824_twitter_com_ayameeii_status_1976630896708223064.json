@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1976621399432446063",
+    "created_at": "2025-10-10T12:48:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T13:48:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976630896708223064"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1711301624726208512",
+          "start": 0,
+          "username": "sharkhopeuhappy"
+        },
+        {
+          "end": 28,
+          "id": "863583848789024769",
+          "start": 17,
+          "username": "wakahana77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976630896708223064",
+    "in_reply_to_user_id": "1711301624726208512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976630620106395761",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sharkhopeuhappy @wakahana77 视频效率太低了，我还要倒带听他到底说了什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1976621399432446063",
+        "created_at": "2025-10-10T12:48:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T13:48:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976630896708223064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1711301624726208512",
+              "start": 0,
+              "username": "sharkhopeuhappy"
+            },
+            {
+              "end": 28,
+              "id": "863583848789024769",
+              "start": 17,
+              "username": "wakahana77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976630896708223064",
+        "in_reply_to_user_id": "1711301624726208512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976630620106395761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sharkhopeuhappy @wakahana77 视频效率太低了，我还要倒带听他到底说了什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1711301624726208512",
+        "conversation_id": "1976621399432446063",
+        "created_at": "2025-10-10T12:47:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T13:47:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976630620106395761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "863583848789024769",
+              "start": 0,
+              "username": "wakahana77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976630620106395761",
+        "in_reply_to_user_id": "863583848789024769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976621399432446063",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wakahana77 是因为大家用文字的方式看不进去，所以才会有人做视频教程"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852135475403984896/GBdrMFBz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 129,
+          "like_count": 696,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 177
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-09T08:44:44.000Z",
+        "description": "♂ | welcome friend | 找个没人认识的地方发日常| 尽量不键政 | 会分享游戏&动画 | 守望先锋国服大师玩家 | 希望你每天开心 | 仇恨的链条只能带来更多仇恨｜备用身体未启用@sharkwithhappy | 欢迎加steam好友战网好友一起玩游戏 | 互fo请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 98,
+                "username": "sharkwithhappy"
+              }
+            ]
+          }
+        },
+        "id": "1711301624726208512",
+        "location": "斯卡里茨",
+        "name": "shark🦈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885552110156341250/gLV9MOp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 614,
+          "following_count": 619,
+          "like_count": 22348,
+          "listed_count": 1,
+          "media_count": 1256,
+          "tweet_count": 12489
+        },
+        "username": "sharkhopeuhappy",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-14T02:36:48.000Z",
+        "description": "中文/English/日本語 | 🏳️‍🌈",
+        "id": "863583848789024769",
+        "name": "🌸",
+        "pinned_tweet_id": "1964894090958717029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922234132521680896/QSsgk6MY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 116,
+          "like_count": 18170,
+          "listed_count": 0,
+          "media_count": 386,
+          "tweet_count": 6950
+        },
+        "username": "wakahana77",
+        "verified": false
+      }
+    ]
+  }
+}

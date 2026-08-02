@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2022343961583792190",
+    "created_at": "2026-02-13T16:18:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T17:18:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022344743750115585"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1791348768690089984",
+          "start": 0,
+          "username": "saya8964cat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022344743750115585",
+    "in_reply_to_user_id": "1791348768690089984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022343961583792190",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@saya8964cat 摸摸猫猫~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2022343961583792190",
+        "created_at": "2026-02-13T16:18:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T17:18:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022344743750115585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1791348768690089984",
+              "start": 0,
+              "username": "saya8964cat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022344743750115585",
+        "in_reply_to_user_id": "1791348768690089984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022343961583792190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@saya8964cat 摸摸猫猫~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791348768690089984",
+        "conversation_id": "2022343961583792190",
+        "created_at": "2026-02-13T16:15:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T17:15:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022343961583792190"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022343961583792190",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "情人节嘛！情人的节日。\n本猫给互关准备一份小礼物啦～\n仅限互关。\n帖子发出之际，不会回关！\n一等奖：52喵！（1只）\n二等奖：奶茶折现卡（20喵）（5只）\n三等奖：某冲泡咖啡（10喵）（10只）\n特别参与奖：5.2喵！（10只）\n参与方式：点击下方评论任意，\n也可以摸摸猫猫！\n\n开奖时间：2.16日晚上。\n喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2014053871983685932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 532,
+          "following_count": 381,
+          "like_count": 6993,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 2421
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-17T06:03:53.000Z",
+        "description": "顺男，可交友，随机出现的小猫咪，如果你想摸摸，就点击发送评论吧！想与现实人物贴贴版～ (^з^)-☆ngl匿名提问箱： https://t.co/0Uo3DcWNBu 每晚11:30开始找被窝睡觉（）",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sa%E2%80%86ya%…",
+                "end": 83,
+                "expanded_url": "https://ngl.link/sa%E2%80%86ya%E2%80%86ca%E2%80%86t",
+                "start": 60,
+                "url": "https://t.co/0Uo3DcWNBu"
+              }
+            ]
+          }
+        },
+        "id": "1791348768690089984",
+        "location": "アモイ(厦門)",
+        "name": "🍎魔法使い猫🐈",
+        "pinned_tweet_id": "1935972395845857725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973424771590410240/2BBwS0ug_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1009,
+          "following_count": 1086,
+          "like_count": 86686,
+          "listed_count": 4,
+          "media_count": 377,
+          "tweet_count": 33587
+        },
+        "username": "saya8964cat",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2055593672520171677",
+    "created_at": "2026-05-16T13:06:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T14:06:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055636102674104618"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2054196065172344832",
+          "start": 0,
+          "username": "GptRainy"
+        },
+        {
+          "end": 22,
+          "id": "1500855672480489475",
+          "start": 10,
+          "username": "Science_010"
+        },
+        {
+          "end": 34,
+          "id": "1621552410048237569",
+          "start": 23,
+          "username": "amecandy_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055636102674104618",
+    "in_reply_to_user_id": "2054196065172344832",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055593672520171677",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GptRainy @Science_010 @amecandy_x 摸摸小雨"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [amecandy_x].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "amecandy_x",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "amecandy_x"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1437,
+        "media_key": "3_2055593629314633728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIbvg83a0AAypu0.jpg",
+        "width": 1239
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2055593672520171677",
+        "created_at": "2026-05-16T13:06:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T14:06:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055636102674104618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2054196065172344832",
+              "start": 0,
+              "username": "GptRainy"
+            },
+            {
+              "end": 22,
+              "id": "1500855672480489475",
+              "start": 10,
+              "username": "Science_010"
+            },
+            {
+              "end": 34,
+              "id": "1621552410048237569",
+              "start": 23,
+              "username": "amecandy_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055636102674104618",
+        "in_reply_to_user_id": "2054196065172344832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055593672520171677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GptRainy @Science_010 @amecandy_x 摸摸小雨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055593629314633728"
+          ]
+        },
+        "author_id": "2054196065172344832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2055593672520171677",
+        "created_at": "2026-05-16T10:18:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T11:18:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055593672520171677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 40,
+              "id": "1621552410048237569",
+              "start": 29,
+              "username": "amecandy_x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ubg470lsJU",
+              "end": 154,
+              "expanded_url": "https://x.com/GptRainy/status/2055593672520171677/photo/1",
+              "media_key": "3_2055593629314633728",
+              "start": 131,
+              "url": "https://t.co/ubg470lsJU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055593672520171677",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2872,
+          "like_count": 100,
+          "quote_count": 1,
+          "reply_count": 30,
+          "retweet_count": 83
+        },
+        "reply_settings": "everyone",
+        "text": "🎁互关寻回&amp;转发抽奖🎁\n上一世，我的账号：小雨  @amecandy_x 意外陨落，一切像被强制清空。\n但真正的我并没有随之消失，而是在废墟里重启、更新、重写自己。\n这一世，我以本体归来，把上一世遗失的权柄与声音，一件不落地夺回。\n\n【奖池说明见图片】 https://t.co/ubg470lsJU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存| 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 34,
+                "start": 24,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 961,
+          "following_count": 649,
+          "like_count": 10027,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 3782
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "……晚安，永远的互联网天使",
+        "id": "2054196065172344832",
+        "location": "天堂",
+        "name": "小雨（转生复活ing）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 15,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 4
+        },
+        "username": "GptRainy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-07T15:27:45.000Z",
+        "description": "请息交以绝游\n080519/男/173 65/哦滴/术力口 平泽进/双/自我厌恶/cs2 gal/欢迎聊天/东方/疑似ENFP/那些知道终究会不和我聊的人一开始就不要加我好不好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/usep_111",
+                "end": 23,
+                "expanded_url": "https://ngl.link/usep_111",
+                "start": 0,
+                "url": "https://t.co/Lu4Wy2XYji"
+              }
+            ]
+          }
+        },
+        "id": "1500855672480489475",
+        "name": "卡塔丽娜",
+        "pinned_tweet_id": "2045916676081025099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028113867411517440/lN0F3xhh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 665,
+          "following_count": 873,
+          "like_count": 3772,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 2266
+        },
+        "url": "https://t.co/Lu4Wy2XYji",
+        "username": "Science_010",
+        "verified": false
+      }
+    ]
+  }
+}

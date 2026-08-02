@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2054870501592572383",
+    "created_at": "2026-05-15T16:42:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T17:42:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055327963034587229"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2041380427873566720",
+          "start": 0,
+          "username": "shigin218150"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055327963034587229",
+    "in_reply_to_user_id": "2041380427873566720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054878288225694091",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shigin218150 真的假的宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2054870501592572383",
+        "created_at": "2026-05-15T16:42:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T17:42:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055327963034587229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041380427873566720",
+              "start": 0,
+              "username": "shigin218150"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055327963034587229",
+        "in_reply_to_user_id": "2041380427873566720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054878288225694091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shigin218150 真的假的宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041380427873566720",
+        "conversation_id": "2054870501592572383",
+        "created_at": "2026-05-14T10:55:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T11:55:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054878288225694091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1852135214795100164",
+              "start": 0,
+              "username": "ayameeii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054878288225694091",
+        "in_reply_to_user_id": "1852135214795100164",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054870501592572383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayameeii 申请（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存| 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 34,
+                "start": 24,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 943,
+          "following_count": 645,
+          "like_count": 9991,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 3766
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-07T05:00:30.000Z",
+        "description": "我🔪💊 🚪13.14我是乖孩子求你们入门",
+        "id": "2041380427873566720",
+        "name": "murasaki（二代机）",
+        "pinned_tweet_id": "2041881289738088785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041426222723612672/s6DEL3HS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 132,
+          "like_count": 2426,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 274
+        },
+        "username": "shigin218150",
+        "verified": false
+      }
+    ]
+  }
+}

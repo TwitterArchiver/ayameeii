@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2028260817452368008",
+    "created_at": "2026-03-02T01:06:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T02:06:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028275784084021728"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1517113519522873344",
+          "start": 0,
+          "username": "xxNYAS_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028275784084021728",
+    "in_reply_to_user_id": "1517113519522873344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028260817452368008",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxNYAS_ 生日快乐🎂！！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1313,
+        "media_key": "3_2028260812264194048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCXUdmraQAADIrK.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2028260817452368008",
+        "created_at": "2026-03-02T01:06:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T02:06:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028275784084021728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1517113519522873344",
+              "start": 0,
+              "username": "xxNYAS_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028275784084021728",
+        "in_reply_to_user_id": "1517113519522873344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028260817452368008",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxNYAS_ 生日快乐🎂！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028260812264194048"
+          ]
+        },
+        "author_id": "1517113519522873344",
+        "conversation_id": "2028260817452368008",
+        "created_at": "2026-03-02T00:07:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T01:07:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028260817452368008"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l8OHYyuPNO",
+              "end": 27,
+              "expanded_url": "https://x.com/xxNYAS_/status/2028260817452368008/photo/1",
+              "media_key": "3_2028260812264194048",
+              "start": 4,
+              "url": "https://t.co/l8OHYyuPNO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028260817452368008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天是 https://t.co/l8OHYyuPNO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2027766234981494956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 635,
+          "following_count": 433,
+          "like_count": 7571,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 2674
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-21T12:10:42.000Z",
+        "description": "💉にゃんぱいあスキ/♀/AB型/うお座.雙魚/🧊🩹🩶⛓️🌧️❄️🥛🤍",
+        "id": "1517113519522873344",
+        "location": "ダンボール",
+        "name": "やすいなら.",
+        "pinned_tweet_id": "1864162686642344133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002762730193723392/3dQSwBek_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2100,
+          "following_count": 1189,
+          "like_count": 19384,
+          "listed_count": 8,
+          "media_count": 499,
+          "tweet_count": 4070
+        },
+        "username": "xxNYAS_",
+        "verified": false
+      }
+    ]
+  }
+}

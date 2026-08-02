@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1976239434376024239",
+    "created_at": "2025-10-09T11:54:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T12:54:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976254929670111534"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1663205241419100162",
+          "start": 0,
+          "username": "aster20070314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976254929670111534",
+    "in_reply_to_user_id": "1663205241419100162",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976249035569897638",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aster20070314 mzk可爱捏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1079,
+        "media_key": "3_1976249012446793728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G20MAZabkAA-xa_.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1976239434376024239",
+        "created_at": "2025-10-09T11:54:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T12:54:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976254929670111534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1663205241419100162",
+              "start": 0,
+              "username": "aster20070314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976254929670111534",
+        "in_reply_to_user_id": "1663205241419100162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976249035569897638",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aster20070314 mzk可爱捏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976249012446793728"
+          ]
+        },
+        "author_id": "1663205241419100162",
+        "conversation_id": "1976239434376024239",
+        "created_at": "2025-10-09T11:31:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T12:31:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976249035569897638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1852135214795100164",
+              "start": 0,
+              "username": "ayameeii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2vk7rVFguT",
+              "end": 35,
+              "expanded_url": "https://x.com/aster20070314/status/1976249035569897638/photo/1",
+              "media_key": "3_1976249012446793728",
+              "start": 12,
+              "url": "https://t.co/2vk7rVFguT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976249035569897638",
+        "in_reply_to_user_id": "1852135214795100164",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976240570541699389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayameeii ） https://t.co/2vk7rVFguT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "狗狗kiss",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852135475403984896/GBdrMFBz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 127,
+          "like_count": 610,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 157
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-29T15:27:27.000Z",
+        "description": "柳垂江上影，梅谢雪中枝",
+        "id": "1663205241419100162",
+        "location": "405,500km",
+        "name": "Yuri🌟（love machine.ver）",
+        "pinned_tweet_id": "1936159446604169693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868635503790317569/fmAwq45e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 826,
+          "following_count": 372,
+          "like_count": 22124,
+          "listed_count": 1,
+          "media_count": 230,
+          "tweet_count": 2672
+        },
+        "username": "aster20070314",
+        "verified": false
+      }
+    ]
+  }
+}

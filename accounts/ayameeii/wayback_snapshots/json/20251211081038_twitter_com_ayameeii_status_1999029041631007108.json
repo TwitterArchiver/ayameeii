@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1998990297037197381",
+    "created_at": "2025-12-11T08:10:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T09:10:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999029041631007108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1976153303080894465",
+          "start": 0,
+          "username": "shinimukuyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999029041631007108",
+    "in_reply_to_user_id": "1976153303080894465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998990297037197381",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shinimukuyo 妈妈别死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1998990297037197381",
+        "created_at": "2025-12-11T08:10:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T09:10:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999029041631007108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1976153303080894465",
+              "start": 0,
+              "username": "shinimukuyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999029041631007108",
+        "in_reply_to_user_id": "1976153303080894465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998990297037197381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shinimukuyo 妈妈别死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976153303080894465",
+        "conversation_id": "1998990297037197381",
+        "created_at": "2025-12-11T05:36:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T06:36:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998990297037197381"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1998990297037197381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 528,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "浓浓的去死欲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "1992652290252316901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 300,
+          "like_count": 5275,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1682
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-09T05:10:51.000Z",
+        "description": "又回避又依赖型人格",
+        "id": "1976153303080894465",
+        "name": "yoitai",
+        "pinned_tweet_id": "1989905516290871474",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990639814409105408/BObOz40p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 55,
+          "like_count": 6199,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 1113
+        },
+        "username": "shinimukuyo",
+        "verified": false
+      }
+    ]
+  }
+}

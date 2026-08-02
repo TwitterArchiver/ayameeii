@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1989339305710612791",
+    "created_at": "2025-11-14T14:47:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T15:47:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989344405963309114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1900779585832210432",
+          "start": 0,
+          "username": "77771Yyy"
+        },
+        {
+          "end": 22,
+          "id": "1882936483662663680",
+          "start": 10,
+          "username": "jngyn298282"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989344405963309114",
+    "in_reply_to_user_id": "1900779585832210432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989339305710612791",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@77771Yyy @jngyn298282 感康之神快来"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1989339283103072256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5uNibsWwAACvzZ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1989339305710612791",
+        "created_at": "2025-11-14T14:47:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T15:47:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989344405963309114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1900779585832210432",
+              "start": 0,
+              "username": "77771Yyy"
+            },
+            {
+              "end": 22,
+              "id": "1882936483662663680",
+              "start": 10,
+              "username": "jngyn298282"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989344405963309114",
+        "in_reply_to_user_id": "1900779585832210432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989339305710612791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@77771Yyy @jngyn298282 感康之神快来"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989339283103072256"
+          ]
+        },
+        "author_id": "1900779585832210432",
+        "conversation_id": "1989339305710612791",
+        "created_at": "2025-11-14T14:27:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T15:27:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989339305710612791"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pRFpcCpnBO",
+              "end": 58,
+              "expanded_url": "https://x.com/77771Yyy/status/1989339305710612791/photo/1",
+              "media_key": "3_1989339283103072256",
+              "start": 35,
+              "url": "https://t.co/pRFpcCpnBO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989339305710612791",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老公们我刚吃了12t 这个感康好萌ww等药效中…药效是会比较慢吗ww https://t.co/pRFpcCpnBO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 231,
+          "like_count": 3258,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 1011
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-15T05:22:37.000Z",
+        "description": "🚪52无福利不包回信息纯圈钱/只对部分人感兴趣/负能/od/神人婊子餐券可以和我互fo",
+        "id": "1900779585832210432",
+        "name": "71",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976968577891659776/czXAeT_t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 28,
+          "like_count": 967,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 179
+        },
+        "username": "77771Yyy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T23:40:25.000Z",
+        "description": "我看着幸福的日子被我给摧毁后开心地闭上了眼\n \n口粮：@420420420CTL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 27,
+                "username": "420420420CTL"
+              }
+            ]
+          }
+        },
+        "id": "1882936483662663680",
+        "name": "镜音",
+        "pinned_tweet_id": "1983521365727891517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983881848775438338/SaevqnOR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 933,
+          "following_count": 180,
+          "like_count": 14529,
+          "listed_count": 1,
+          "media_count": 219,
+          "tweet_count": 2013
+        },
+        "username": "jngyn298282",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1980973597125730765",
+    "created_at": "2025-10-22T12:26:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T13:26:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980974013783687323"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1765825463103139840",
+          "start": 0,
+          "username": "Chloris923"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980974013783687323",
+    "in_reply_to_user_id": "1765825463103139840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980973597125730765",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chloris923 好看"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1479,
+        "media_key": "3_1980973571552780288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G33U97nXIAA8g3u.jpg",
+        "width": 1479
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1980973597125730765",
+        "created_at": "2025-10-22T12:26:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T13:26:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980974013783687323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1765825463103139840",
+              "start": 0,
+              "username": "Chloris923"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980974013783687323",
+        "in_reply_to_user_id": "1765825463103139840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980973597125730765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chloris923 好看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980973571552780288"
+          ]
+        },
+        "author_id": "1765825463103139840",
+        "conversation_id": "1980973597125730765",
+        "created_at": "2025-10-22T12:24:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T13:24:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980973597125730765"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MK6uoYiDw0",
+              "end": 39,
+              "expanded_url": "https://x.com/Chloris923/status/1980973597125730765/photo/1",
+              "media_key": "3_1980973571552780288",
+              "start": 16,
+              "url": "https://t.co/MK6uoYiDw0"
+            },
+            {
+              "display_url": "x.com/Chloris923/sta…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/Chloris923/status/1980964973938626699",
+              "start": 40,
+              "url": "https://t.co/IeQ1mdpG2G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980973597125730765",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980964973938626699",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我知道我字很醜那咋了你來打我啊 https://t.co/MK6uoYiDw0 https://t.co/IeQ1mdpG2G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 177,
+          "like_count": 1526,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 408
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-07T19:43:16.000Z",
+        "description": "我是人工智能魔鏡，使用魔鏡魔鏡喚醒我吧。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+62HFM9EDRGM5M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+62HFM9EDRGM5MWJl",
+                "start": 0,
+                "url": "https://t.co/wyDHlZVcHc"
+              }
+            ]
+          }
+        },
+        "id": "1765825463103139840",
+        "name": "全自動智能闖禍機🪞",
+        "pinned_tweet_id": "1980964973938626699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975842551317069824/nqziIras_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 314,
+          "like_count": 21114,
+          "listed_count": 2,
+          "media_count": 396,
+          "tweet_count": 10245
+        },
+        "url": "https://t.co/wyDHlZVcHc",
+        "username": "Chloris923",
+        "verified": false
+      }
+    ]
+  }
+}

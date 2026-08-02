@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2036754262685110530",
+    "created_at": "2026-03-25T13:49:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T14:49:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036802742547808616"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1967962536000753666",
+          "start": 0,
+          "username": "FUHGRC8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036802742547808616",
+    "in_reply_to_user_id": "1967962536000753666",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036799535423643933",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FUHGRC8964 羟考酮我一定要得到你 在我死之前 然后死去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2036754262685110530",
+        "created_at": "2026-03-25T13:49:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T14:49:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036802742547808616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1967962536000753666",
+              "start": 0,
+              "username": "FUHGRC8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036802742547808616",
+        "in_reply_to_user_id": "1967962536000753666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036799535423643933",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FUHGRC8964 羟考酮我一定要得到你 在我死之前 然后死去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967962536000753666",
+        "conversation_id": "2036754262685110530",
+        "created_at": "2026-03-25T13:37:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T14:37:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036799535423643933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1852135214795100164",
+              "start": 0,
+              "username": "ayameeii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036799535423643933",
+        "in_reply_to_user_id": "1852135214795100164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036754262685110530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayameeii 羟考酮我一定要得到你 在我死之前 然后死去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2036043044986953736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 696,
+          "following_count": 493,
+          "like_count": 8335,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 3023
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-16T14:43:37.000Z",
+        "description": "在首页—我的家园—家园果实—图鉴解锁后使用，活动或家园果实可获得碎片。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cultsphil",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cultsphil",
+                "start": 0,
+                "url": "https://t.co/jBwePHUXbF"
+              }
+            ]
+          }
+        },
+        "id": "1967962536000753666",
+        "location": "迷拉星",
+        "name": "那人也革命",
+        "pinned_tweet_id": "2035007617672888499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034998306628354048/41zkLwrU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 83,
+          "like_count": 54165,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 2331
+        },
+        "url": "https://t.co/jBwePHUXbF",
+        "username": "FUHGRC8964",
+        "verified": false
+      }
+    ]
+  }
+}

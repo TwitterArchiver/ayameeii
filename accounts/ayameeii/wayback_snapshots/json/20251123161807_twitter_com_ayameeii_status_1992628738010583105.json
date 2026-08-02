@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1992552045451399347",
+    "created_at": "2025-11-23T16:18:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T17:18:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992628738010583105"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 16,
+          "normalized_text": "天哪好温馨",
+          "probability": 0.4476,
+          "start": 12,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1486755570694729729",
+          "start": 0,
+          "username": "inks_chain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992628738010583105",
+    "in_reply_to_user_id": "1486755570694729729",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992552045451399347",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@inks_chain 天哪好温馨"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1992552031664656384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6b3hAva0AA7jIy.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1992552032033734656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6b3hCHagAAzNnr.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1992552045451399347",
+        "created_at": "2025-11-23T16:18:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T17:18:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992628738010583105"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "天哪好温馨",
+              "probability": 0.4476,
+              "start": 12,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1486755570694729729",
+              "start": 0,
+              "username": "inks_chain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992628738010583105",
+        "in_reply_to_user_id": "1486755570694729729",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992552045451399347",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@inks_chain 天哪好温馨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992552031664656384",
+            "3_1992552032033734656"
+          ]
+        },
+        "author_id": "1486755570694729729",
+        "conversation_id": "1992552045451399347",
+        "created_at": "2025-11-23T11:13:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T12:13:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992552045451399347"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UAzflGwGgd",
+              "end": 36,
+              "expanded_url": "https://x.com/inks_chain/status/1992552045451399347/photo/1",
+              "media_key": "3_1992552031664656384",
+              "start": 13,
+              "url": "https://t.co/UAzflGwGgd"
+            },
+            {
+              "display_url": "pic.x.com/UAzflGwGgd",
+              "end": 36,
+              "expanded_url": "https://x.com/inks_chain/status/1992552045451399347/photo/1",
+              "media_key": "3_1992552032033734656",
+              "start": 13,
+              "url": "https://t.co/UAzflGwGgd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992552045451399347",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不知名疯泠和他的神人小窝 https://t.co/UAzflGwGgd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 250,
+          "like_count": 3985,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 1236
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-27T17:38:56.000Z",
+        "description": "05/od/自残/自杀倾向/CS：GO/三角洲行动/MC/音游/舟/其他也会玩只要有人陪/基本不见证/99%性冷淡/减肥中/ENFJ/有自己的小天使。/号主完全以天使中心性格恶劣大家不要被坏男人骗了（欢迎找我要天使赞赏码并期待给她的口令红包）小天使@angeldust_g",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 124,
+                "username": "angeldust_g"
+              }
+            ]
+          }
+        },
+        "id": "1486755570694729729",
+        "name": "ヰ世界优泠8964_",
+        "pinned_tweet_id": "1988552301796110614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984510180512710662/ILqJRZ-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 380,
+          "like_count": 5213,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 1977
+        },
+        "username": "inks_chain",
+        "verified": true
+      }
+    ]
+  }
+}

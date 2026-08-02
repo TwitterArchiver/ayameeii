@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1990444339647107205",
+    "created_at": "2025-11-17T15:39:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T16:39:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990444725325943040"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1600883022273732613",
+          "start": 0,
+          "username": "CelestialNeb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990444725325943040",
+    "in_reply_to_user_id": "1600883022273732613",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990444339647107205",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CelestialNeb 原来你是口吃吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_1990444336073625600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G596k-zbUAAt7Dx.jpg",
+        "width": 1400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1990444339647107205",
+        "created_at": "2025-11-17T15:39:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T16:39:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990444725325943040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1600883022273732613",
+              "start": 0,
+              "username": "CelestialNeb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990444725325943040",
+        "in_reply_to_user_id": "1600883022273732613",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990444339647107205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CelestialNeb 原来你是口吃吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990444336073625600"
+          ]
+        },
+        "author_id": "1600883022273732613",
+        "conversation_id": "1990444339647107205",
+        "created_at": "2025-11-17T15:38:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T16:38:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990444339647107205"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1EFTEruwNx",
+              "end": 96,
+              "expanded_url": "https://x.com/CelestialNeb/status/1990444339647107205/photo/1",
+              "media_key": "3_1990444336073625600",
+              "start": 73,
+              "url": "https://t.co/1EFTEruwNx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990444339647107205",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么没有人关心一下口吃的人，还会被嘲笑，口吃的人也应该发声。小时候家里人就让我慢慢说话，我有时候甚至说一半，无法说一个词就像大脑和嘴脱机了一样。 https://t.co/1EFTEruwNx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 236,
+          "like_count": 3550,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 1096
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-08T16:00:37.000Z",
+        "description": "外星咪一号@hatsuki_mumu 二号@JiZhenYouZi  三号@0_0_00_00_000_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 5,
+                "username": "hatsuki_mumu"
+              },
+              {
+                "end": 33,
+                "start": 21,
+                "username": "JiZhenYouZi"
+              },
+              {
+                "end": 53,
+                "start": 37,
+                "username": "0_0_00_00_000_0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "HSS-47.run",
+                "end": 23,
+                "expanded_url": "http://HSS-47.run",
+                "start": 0,
+                "url": "https://t.co/zTUU1z6Brw"
+              }
+            ]
+          }
+        },
+        "id": "1600883022273732613",
+        "location": "猫の星",
+        "name": "凑咪bot～📡✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983005890866450432/VhqkBkCC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 282,
+          "like_count": 4792,
+          "listed_count": 1,
+          "media_count": 222,
+          "tweet_count": 1104
+        },
+        "url": "https://t.co/zTUU1z6Brw",
+        "username": "CelestialNeb",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1993738201933258758",
+    "created_at": "2025-11-26T17:50:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T18:50:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993739032069853274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1663205241419100162",
+          "start": 0,
+          "username": "aster20070314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993739032069853274",
+    "in_reply_to_user_id": "1663205241419100162",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993738201933258758",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aster20070314 萌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1993738201933258758",
+        "created_at": "2025-11-26T17:50:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T18:50:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993739032069853274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1663205241419100162",
+              "start": 0,
+              "username": "aster20070314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993739032069853274",
+        "in_reply_to_user_id": "1663205241419100162",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993738201933258758",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aster20070314 萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1993738199706030084"
+          ]
+        },
+        "author_id": "1663205241419100162",
+        "conversation_id": "1993738201933258758",
+        "created_at": "2025-11-26T17:46:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T18:46:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993738201933258758"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993738201933258758",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "觉得我新头像怎么样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "1992652290252316901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 264,
+          "like_count": 4183,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 1312
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-29T15:27:27.000Z",
+        "description": "柳垂江上影，梅谢雪中枝\n三重伟大赫尔墨斯  德勒兹\n潮酷骚孩/后人类主义/超个体主义/浪漫倾向无性恋",
+        "id": "1663205241419100162",
+        "location": "405,500km",
+        "name": "Yuri🌟（Desiring machine.ver）",
+        "pinned_tweet_id": "1983477626032558312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993737870558023680/8v2oVf4p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2757,
+          "following_count": 426,
+          "like_count": 24768,
+          "listed_count": 6,
+          "media_count": 255,
+          "tweet_count": 3256
+        },
+        "username": "aster20070314",
+        "verified": false
+      }
+    ]
+  }
+}

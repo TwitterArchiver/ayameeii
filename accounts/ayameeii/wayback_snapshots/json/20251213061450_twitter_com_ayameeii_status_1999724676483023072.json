@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1999521647229800473",
+    "created_at": "2025-12-13T06:14:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T07:14:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999724676483023072"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1941411522691072006",
+          "start": 0,
+          "username": "justyanwu14"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999724676483023072",
+    "in_reply_to_user_id": "1941411522691072006",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999521647229800473",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@justyanwu14 你是"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 885,
+        "media_key": "3_1999521640401764354",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7-6VojagAIdEoi.jpg",
+        "width": 986
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1999521647229800473",
+        "created_at": "2025-12-13T06:14:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T07:14:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999724676483023072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1941411522691072006",
+              "start": 0,
+              "username": "justyanwu14"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999724676483023072",
+        "in_reply_to_user_id": "1941411522691072006",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999521647229800473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@justyanwu14 你是"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999521640401764354"
+          ]
+        },
+        "author_id": "1941411522691072006",
+        "conversation_id": "1999521647229800473",
+        "created_at": "2025-12-12T16:48:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T17:48:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999521647229800473"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XaIFKtAfXY",
+              "end": 23,
+              "expanded_url": "https://x.com/justyanwu14/status/1999521647229800473/photo/1",
+              "media_key": "3_1999521640401764354",
+              "start": 0,
+              "url": "https://t.co/XaIFKtAfXY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999521647229800473",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/XaIFKtAfXY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "1992652290252316901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 303,
+          "like_count": 5493,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1766
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-05T08:19:20.000Z",
+        "description": "「或许你能从只言片语中拼出完整的我。」OSDD/高功能BPD｜💧涘：@winterfruit_1💧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 34,
+                "username": "winterfruit_1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+u5wIoqdGSak4O…",
+                "end": 23,
+                "expanded_url": "https://t.me/+u5wIoqdGSak4ODBl",
+                "start": 0,
+                "url": "https://t.co/lO59c5Bl5P"
+              }
+            ]
+          }
+        },
+        "id": "1941411522691072006",
+        "name": "何名义？",
+        "pinned_tweet_id": "1991884240057925960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991487437667987464/ocx01ncC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 88,
+          "like_count": 1031,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 385
+        },
+        "url": "https://t.co/lO59c5Bl5P",
+        "username": "justyanwu14",
+        "verified": false
+      }
+    ]
+  }
+}

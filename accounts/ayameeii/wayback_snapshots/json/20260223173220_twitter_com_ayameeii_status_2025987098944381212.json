@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2025985167471558748",
+    "created_at": "2026-02-23T17:32:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T18:32:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025987098944381212"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1701555310006308864",
+          "start": 0,
+          "username": "Eternal1uv9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025987098944381212",
+    "in_reply_to_user_id": "1701555310006308864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025985167471558748",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Eternal1uv9 本人穷逼从来都是攒抽不抽潜能"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2025985149679337472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB2-wm7agAAwrnr.jpg",
+        "width": 870
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2025985167471558748",
+        "created_at": "2026-02-23T17:32:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T18:32:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025987098944381212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1701555310006308864",
+              "start": 0,
+              "username": "Eternal1uv9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025987098944381212",
+        "in_reply_to_user_id": "1701555310006308864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025985167471558748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Eternal1uv9 本人穷逼从来都是攒抽不抽潜能"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025985149679337472"
+          ]
+        },
+        "author_id": "1701555310006308864",
+        "conversation_id": "2025985167471558748",
+        "created_at": "2026-02-23T17:24:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T18:24:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025985167471558748"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9rrznw33pc",
+              "end": 41,
+              "expanded_url": "https://x.com/Eternal1uv9/status/2025985167471558748/photo/1",
+              "media_key": "3_2025985149679337472",
+              "start": 18,
+              "url": "https://t.co/9rrznw33pc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025985167471558748",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁支持我抽满潜，虽然我想留着等周年 https://t.co/9rrznw33pc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2014053871983685932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 624,
+          "following_count": 420,
+          "like_count": 7441,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 2611
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-12T11:16:56.000Z",
+        "description": "请给我一支永远不会熄灭的香烟",
+        "id": "1701555310006308864",
+        "location": "地霊殿",
+        "name": "シャナ",
+        "pinned_tweet_id": "2020486327016517886",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022020849394704384/TtO0suPB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 212,
+          "like_count": 857,
+          "listed_count": 1,
+          "media_count": 300,
+          "tweet_count": 1987
+        },
+        "username": "Eternal1uv9",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1981564119934521478",
+    "created_at": "2025-10-24T05:54:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T06:54:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981600288294510759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1423220645383475200",
+          "start": 0,
+          "username": "sysjf0"
+        },
+        {
+          "end": 19,
+          "id": "1799795163843436544",
+          "start": 8,
+          "username": "BeetiIsDog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981600288294510759",
+    "in_reply_to_user_id": "1423220645383475200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981595236548972630",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sysjf0 @BeetiIsDog 怎么还接着直播骗钱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 608,
+        "media_key": "3_1981595213425455104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4AKWQDWsAAwJLU.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1981564119934521478",
+        "created_at": "2025-10-24T05:54:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T06:54:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981600288294510759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1423220645383475200",
+              "start": 0,
+              "username": "sysjf0"
+            },
+            {
+              "end": 19,
+              "id": "1799795163843436544",
+              "start": 8,
+              "username": "BeetiIsDog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981600288294510759",
+        "in_reply_to_user_id": "1423220645383475200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981595236548972630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sysjf0 @BeetiIsDog 怎么还接着直播骗钱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981595213425455104"
+          ]
+        },
+        "author_id": "1423220645383475200",
+        "conversation_id": "1981564119934521478",
+        "created_at": "2025-10-24T05:34:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T06:34:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981595236548972630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1799795163843436544",
+              "start": 0,
+              "username": "BeetiIsDog"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oQP88hw1mX",
+              "end": 35,
+              "expanded_url": "https://x.com/sysjf0/status/1981595236548972630/photo/1",
+              "media_key": "3_1981595213425455104",
+              "start": 12,
+              "url": "https://t.co/oQP88hw1mX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981595236548972630",
+        "in_reply_to_user_id": "1799795163843436544",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981592896441811237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BeetiIsDog https://t.co/oQP88hw1mX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 183,
+          "like_count": 1613,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 441
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-05T09:53:54.000Z",
+        "description": "最喜欢的推 @BeetiIsDog @umichen0502324",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 6,
+                "username": "BeetiIsDog"
+              },
+              {
+                "end": 33,
+                "start": 18,
+                "username": "umichen0502324"
+              }
+            ]
+          }
+        },
+        "id": "1423220645383475200",
+        "location": "1",
+        "name": "十九方",
+        "pinned_tweet_id": "1862539669592031578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956994819726934016/GalXyNzP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1023,
+          "following_count": 914,
+          "like_count": 21204,
+          "listed_count": 5,
+          "media_count": 1609,
+          "tweet_count": 21492
+        },
+        "username": "sysjf0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-09T13:26:33.000Z",
+        "description": "病み垢/demigirl/这是一个只会发布转发碎碎念画作内容的无脑仓鼠人的账号，互fo请留言。不参与争论和吵架，多点关心多点爱||escape：@5_HTIsUsagi   我老大：@sysjf0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 72,
+                "username": "5_HTIsUsagi"
+              },
+              {
+                "end": 98,
+                "start": 91,
+                "username": "sysjf0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+vOQWVMQTr0Y2O…",
+                "end": 23,
+                "expanded_url": "https://t.me/+vOQWVMQTr0Y2OGI1",
+                "start": 0,
+                "url": "https://t.co/n7w34dGNLl"
+              }
+            ]
+          }
+        },
+        "id": "1799795163843436544",
+        "location": "≤ 1 km",
+        "name": "ビーチイ小犬 |๏ᆺ๏υ)",
+        "pinned_tweet_id": "1936770496970006587",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976545137112367104/FcDJPG_a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 606,
+          "like_count": 18305,
+          "listed_count": 3,
+          "media_count": 230,
+          "tweet_count": 3999
+        },
+        "url": "https://t.co/n7w34dGNLl",
+        "username": "BeetiIsDog",
+        "verified": false
+      }
+    ]
+  }
+}

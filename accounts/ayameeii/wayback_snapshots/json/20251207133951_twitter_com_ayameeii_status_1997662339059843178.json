@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1997662226539286717",
+    "created_at": "2025-12-07T13:39:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-07T14:39:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997662339059843178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "863583848789024769",
+          "start": 0,
+          "username": "Wakabana7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997662339059843178",
+    "in_reply_to_user_id": "863583848789024769",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997662226539286717",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wakabana7 错付了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1036,
+        "media_key": "3_1997662169325096960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7kfKK_b0AAPKrL.png",
+        "width": 528
+      },
+      {
+        "height": 702,
+        "media_key": "3_1997662199314280449",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7kfL6tacAEG3eX.jpg",
+        "width": 934
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1997662226539286717",
+        "created_at": "2025-12-07T13:39:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T14:39:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997662339059843178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "863583848789024769",
+              "start": 0,
+              "username": "Wakabana7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997662339059843178",
+        "in_reply_to_user_id": "863583848789024769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997662226539286717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wakabana7 错付了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997662169325096960",
+            "3_1997662199314280449"
+          ]
+        },
+        "author_id": "863583848789024769",
+        "conversation_id": "1997662226539286717",
+        "created_at": "2025-12-07T13:39:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T14:39:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997662226539286717"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RM2cdTulmn",
+              "end": 26,
+              "expanded_url": "https://x.com/Wakabana7/status/1997662226539286717/photo/1",
+              "media_key": "3_1997662169325096960",
+              "start": 3,
+              "url": "https://t.co/RM2cdTulmn"
+            },
+            {
+              "display_url": "pic.x.com/RM2cdTulmn",
+              "end": 26,
+              "expanded_url": "https://x.com/Wakabana7/status/1997662226539286717/photo/1",
+              "media_key": "3_1997662199314280449",
+              "start": 3,
+              "url": "https://t.co/RM2cdTulmn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997662226539286717",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我： https://t.co/RM2cdTulmn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "1992652290252316901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 298,
+          "like_count": 5072,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1603
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-14T02:36:48.000Z",
+        "description": "I have to keep focus.",
+        "id": "863583848789024769",
+        "name": "🍃",
+        "pinned_tweet_id": "1995515865899708813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922234132521680896/QSsgk6MY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 124,
+          "like_count": 22353,
+          "listed_count": 0,
+          "media_count": 491,
+          "tweet_count": 9019
+        },
+        "username": "Wakabana7",
+        "verified": false
+      }
+    ]
+  }
+}

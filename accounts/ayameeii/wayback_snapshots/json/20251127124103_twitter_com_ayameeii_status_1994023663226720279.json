@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1993932128233640185",
+    "created_at": "2025-11-27T12:41:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T13:41:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994023663226720279"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1723436323758047232",
+          "start": 0,
+          "username": "QiuTtang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994023663226720279",
+    "in_reply_to_user_id": "1723436323758047232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993932128233640185",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QiuTtang 如此😱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1993932128233640185",
+        "created_at": "2025-11-27T12:41:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T13:41:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994023663226720279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1723436323758047232",
+              "start": 0,
+              "username": "QiuTtang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994023663226720279",
+        "in_reply_to_user_id": "1723436323758047232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993932128233640185",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QiuTtang 如此😱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1723436323758047232",
+        "conversation_id": "1993932128233640185",
+        "created_at": "2025-11-27T06:37:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T07:37:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993932128233640185"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993932128233640185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 100,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "心理康复医院的医生好好...今天早上去开药了，我说要氯硝西泮/思诺思/拉莫三嗪，他说都要几盒，我说都来5盒，进出诊室一共不到2分钟，全部开好🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "喜欢我我也喜欢你 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "1992652290252316901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 265,
+          "like_count": 4260,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 1336
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-11T20:23:47.000Z",
+        "description": "~ 本体是只猫 | 20岁の秋秋 ~ 持证含糖MTF | 体弱多病药罐子 ~\n\n❗中度焦虑症 · 重度抑郁症 · 双相情感障碍 · 认知障碍❗\n\n无聊时可以找我聊天，现在因为我每天脑袋很乱，无力发推，但如果是找我聊天，那还是可以的，我每天都会看推的✨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/iTufke",
+                "end": 23,
+                "expanded_url": "https://t.me/iTufke",
+                "start": 0,
+                "url": "https://t.co/XsUKBeyCUt"
+              }
+            ]
+          }
+        },
+        "id": "1723436323758047232",
+        "name": "秋棠糖🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962372177073975296/Y1SOTg8Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2008,
+          "following_count": 1514,
+          "like_count": 1670,
+          "listed_count": 4,
+          "media_count": 89,
+          "tweet_count": 2087
+        },
+        "url": "https://t.co/XsUKBeyCUt",
+        "username": "QiuTtang",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1994366369736130584",
+    "created_at": "2025-11-29T00:57:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T01:57:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994571458002260123"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1081884310829813761",
+          "start": 0,
+          "username": "NomoreTsukum0"
+        },
+        {
+          "end": 27,
+          "id": "1225770815251046402",
+          "start": 15,
+          "username": "kagurayami1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994571458002260123",
+    "in_reply_to_user_id": "1081884310829813761",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994558953926381759",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NomoreTsukum0 @kagurayami1 咱媽死了😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1994366369736130584",
+        "created_at": "2025-11-29T00:57:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T01:57:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994571458002260123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1081884310829813761",
+              "start": 0,
+              "username": "NomoreTsukum0"
+            },
+            {
+              "end": 27,
+              "id": "1225770815251046402",
+              "start": 15,
+              "username": "kagurayami1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994571458002260123",
+        "in_reply_to_user_id": "1081884310829813761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994558953926381759",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NomoreTsukum0 @kagurayami1 咱媽死了😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1081884310829813761",
+        "conversation_id": "1994366369736130584",
+        "created_at": "2025-11-29T00:08:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T01:08:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994558953926381759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1225770815251046402",
+              "start": 0,
+              "username": "kagurayami1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994558953926381759",
+        "in_reply_to_user_id": "1225770815251046402",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994366369736130584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kagurayami1 咱媽死了😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "喜欢我我也喜欢你 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "1992652290252316901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 272,
+          "like_count": 4400,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1389
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-06T12:04:54.000Z",
+        "description": "水手服配百褶裙 最可愛妹妹@yukiaqwq123 老妹@TennoujiNyano 反跨baka @UkiStelo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 13,
+                "username": "yukiaqwq123"
+              },
+              {
+                "end": 42,
+                "start": 28,
+                "username": "TennoujiNyano"
+              },
+              {
+                "end": 59,
+                "start": 50,
+                "username": "UkiStelo"
+              }
+            ]
+          }
+        },
+        "id": "1081884310829813761",
+        "location": "距離你5m",
+        "name": "九九",
+        "pinned_tweet_id": "1654452448004812800",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762452022421528576/Rb5NeJGQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2973,
+          "following_count": 2007,
+          "like_count": 605125,
+          "listed_count": 24,
+          "media_count": 465,
+          "tweet_count": 61616
+        },
+        "username": "NomoreTsukum0",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-07T13:19:10.000Z",
+        "description": "❤shogi ❤🐸 ❤妖夢 ❤🦜\n神秘小链接\n你猜",
+        "id": "1225770815251046402",
+        "name": "ワクどん🐢🐙🦀",
+        "pinned_tweet_id": "1686948494903562240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1758111245205733376/v7ZuFIcM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 242,
+          "like_count": 57665,
+          "listed_count": 2,
+          "media_count": 697,
+          "tweet_count": 24068
+        },
+        "username": "kagurayami1",
+        "verified": false
+      }
+    ]
+  }
+}

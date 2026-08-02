@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1976627967259513120",
+    "created_at": "2025-10-10T12:40:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T13:40:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976628989021278633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1771129838532759552",
+          "start": 0,
+          "username": "Kuno_kunayo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976628989021278633",
+    "in_reply_to_user_id": "1771129838532759552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976627967259513120",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kuno_kunayo 我也好想玩...深水雏子好漂亮"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1976627967259513120",
+        "created_at": "2025-10-10T12:40:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T13:40:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976628989021278633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1771129838532759552",
+              "start": 0,
+              "username": "Kuno_kunayo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976628989021278633",
+        "in_reply_to_user_id": "1771129838532759552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976627967259513120",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kuno_kunayo 我也好想玩...深水雏子好漂亮"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771129838532759552",
+        "conversation_id": "1976627967259513120",
+        "created_at": "2025-10-10T12:36:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T13:36:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976627967259513120"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1976627967259513120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想玩寂静岭f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852135475403984896/GBdrMFBz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 129,
+          "like_count": 692,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 176
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-22T11:00:44.000Z",
+        "description": "我是kuno/🐯👻/碎碎念账号/我很可爱/不厌男不厌女但是厌傻逼/傻逼不分男女别给我扣帽子/照片在@kuno1014_ku/正常人大欢迎/萌萌的碎碎念账号互关大欢迎^ ^/个人垃圾桶/爱国逼小粉红滚",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 49,
+                "username": "kuno1014_ku"
+              }
+            ]
+          }
+        },
+        "id": "1771129838532759552",
+        "location": "China",
+        "name": "幽霊kuno☎︎♪～♬～♫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905911318043066368/XO0HPPUr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 849,
+          "like_count": 4095,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 1670
+        },
+        "username": "Kuno_kunayo",
+        "verified": false
+      }
+    ]
+  }
+}

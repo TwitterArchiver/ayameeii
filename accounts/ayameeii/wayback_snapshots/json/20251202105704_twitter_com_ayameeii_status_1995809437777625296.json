@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1995806714264945067",
+    "created_at": "2025-12-02T10:57:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T11:57:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995809437777625296"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1931634000453345280",
+          "start": 0,
+          "username": "ll97515"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995809437777625296",
+    "in_reply_to_user_id": "1931634000453345280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995806714264945067",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ll97515 这个眼睛😭😭😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1995806706396479488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7KHoA8awAAZxA8.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1995806714264945067",
+        "created_at": "2025-12-02T10:57:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T11:57:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995809437777625296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1931634000453345280",
+              "start": 0,
+              "username": "ll97515"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995809437777625296",
+        "in_reply_to_user_id": "1931634000453345280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995806714264945067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ll97515 这个眼睛😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995806706396479488"
+          ]
+        },
+        "author_id": "1931634000453345280",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1995806714264945067",
+        "created_at": "2025-12-02T10:46:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T11:46:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995806714264945067"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9f25gG7A7l",
+              "end": 23,
+              "expanded_url": "https://x.com/ll97515/status/1995806714264945067/photo/1",
+              "media_key": "3_1995806706396479488",
+              "start": 0,
+              "url": "https://t.co/9f25gG7A7l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995806714264945067",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 153,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/9f25gG7A7l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "1992652290252316901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 283,
+          "like_count": 4694,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1493
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-08T08:46:56.000Z",
+        "description": "自残 | 应该是地雷女来的。？| 恶臭男滚 不定时崩溃 喜欢互动 玩一些舞萌 可以来找我互fo聊天˃ʍ˂",
+        "id": "1931634000453345280",
+        "name": "(●─●)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987318821154324480/qCEPNWhB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1677,
+          "following_count": 439,
+          "like_count": 2915,
+          "listed_count": 3,
+          "media_count": 52,
+          "tweet_count": 870
+        },
+        "username": "ll97515",
+        "verified": false
+      }
+    ]
+  }
+}

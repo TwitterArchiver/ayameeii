@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2023153220181545254",
+    "created_at": "2026-02-17T16:53:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T17:53:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023803006903599363"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1997141885589377026",
+          "start": 0,
+          "username": "syokora755476"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023803006903599363",
+    "in_reply_to_user_id": "1997141885589377026",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023732834750329056",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@syokora755476 宝宝😭你玩什么我都愿意追随你呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2023153220181545254",
+        "created_at": "2026-02-17T16:53:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T17:53:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023803006903599363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1997141885589377026",
+              "start": 0,
+              "username": "syokora755476"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023803006903599363",
+        "in_reply_to_user_id": "1997141885589377026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023732834750329056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@syokora755476 宝宝😭你玩什么我都愿意追随你呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997141885589377026",
+        "conversation_id": "2023153220181545254",
+        "created_at": "2026-02-17T12:14:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T13:14:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023732834750329056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1852135214795100164",
+              "start": 0,
+              "username": "ayameeii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023732834750329056",
+        "in_reply_to_user_id": "1852135214795100164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023153220181545254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayameeii 玩什么！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2014053871983685932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 537,
+          "following_count": 403,
+          "like_count": 7137,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 2494
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-06T03:12:08.000Z",
+        "description": "高p次抛脸，线下查无此人( cn柯柯酱 )  | 做人缺爱，做爱缺人 | 欢迎宝宝互fo🥺，祝宝宝们天天开心 | infp | 我将视奸每一个人ᗜᴗᗜ",
+        "id": "1997141885589377026",
+        "name": "Agony.",
+        "pinned_tweet_id": "2022680471000568208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022604216062377984/tZuXQ4UV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 35,
+          "like_count": 170,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 150
+        },
+        "username": "syokora755476",
+        "verified": false
+      }
+    ]
+  }
+}

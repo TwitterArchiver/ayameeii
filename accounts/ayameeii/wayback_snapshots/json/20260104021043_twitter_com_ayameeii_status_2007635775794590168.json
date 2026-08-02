@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2007634329862844634",
+    "created_at": "2026-01-04T02:10:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T03:10:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007635775794590168"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2007148052424118273",
+          "start": 0,
+          "username": "jingyin8964_TVT"
+        },
+        {
+          "end": 32,
+          "id": "1849043039496617984",
+          "start": 17,
+          "username": "Rinko_zero8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007635775794590168",
+    "in_reply_to_user_id": "2007148052424118273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007634329862844634",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jingyin8964_TVT @Rinko_zero8964 我火星了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2007634329862844634",
+        "created_at": "2026-01-04T02:10:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T03:10:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007635775794590168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2007148052424118273",
+              "start": 0,
+              "username": "jingyin8964_TVT"
+            },
+            {
+              "end": 32,
+              "id": "1849043039496617984",
+              "start": 17,
+              "username": "Rinko_zero8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007635775794590168",
+        "in_reply_to_user_id": "2007148052424118273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007634329862844634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingyin8964_TVT @Rinko_zero8964 我火星了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007148052424118273",
+        "conversation_id": "2007634329862844634",
+        "created_at": "2026-01-04T02:04:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T03:04:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007634329862844634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1849043039496617984",
+              "start": 0,
+              "username": "Rinko_zero8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007634329862844634",
+        "in_reply_to_user_id": "1849043039496617984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@Rinko_zero8964 \n对于本人已经了解梨子恶行仍未悔改，\n本人深表歉意\n特在此公开道歉\n并表示未来本人将会明辨是非"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "1992652290252316901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 321,
+          "like_count": 6032,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 1963
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-02T17:52:55.000Z",
+        "description": "我看着幸福的日子被我亲手摧毁后开心的闭上了眼\n/老公❣️@Edward_8964\n/姐姐💖@shuijiaozzz233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 28,
+                "username": "Edward_8964"
+              },
+              {
+                "end": 60,
+                "start": 45,
+                "username": "shuijiaozzz233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeod.wiki",
+                "end": 23,
+                "expanded_url": "https://freeod.wiki/",
+                "start": 0,
+                "url": "https://t.co/jZAjkyeKAd"
+              }
+            ]
+          }
+        },
+        "id": "2007148052424118273",
+        "name": "镜音",
+        "pinned_tweet_id": "2007631407502565426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007148489642504192/bXza5oIL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 99,
+          "like_count": 54,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 29
+        },
+        "url": "https://t.co/jZAjkyeKAd",
+        "username": "jingyin8964_TVT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜小猫我喜欢你超喜欢我爱你@psych_angel_｜性别为无、",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1999352315241988490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 456,
+          "like_count": 9454,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 6073
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      }
+    ]
+  }
+}

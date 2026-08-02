@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1994297861912342747",
+    "created_at": "2025-11-28T06:52:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T07:52:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994298414696411398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1360772570769813505",
+          "start": 0,
+          "username": "BraveQuestEX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994298414696411398",
+    "in_reply_to_user_id": "1360772570769813505",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994297861912342747",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BraveQuestEX 把你的头扭过去👿"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1067,
+        "media_key": "3_1994297854576480260",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G60rVR5a0AQWcMR.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1994297861912342747",
+        "created_at": "2025-11-28T06:52:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T07:52:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994298414696411398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1360772570769813505",
+              "start": 0,
+              "username": "BraveQuestEX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994298414696411398",
+        "in_reply_to_user_id": "1360772570769813505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994297861912342747",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BraveQuestEX 把你的头扭过去👿"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994297854576480260"
+          ]
+        },
+        "author_id": "1360772570769813505",
+        "conversation_id": "1994297861912342747",
+        "created_at": "2025-11-28T06:50:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T07:50:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994297861912342747"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jjMXQZRjUl",
+              "end": 23,
+              "expanded_url": "https://x.com/BraveQuestEX/status/1994297861912342747/photo/1",
+              "media_key": "3_1994297854576480260",
+              "start": 0,
+              "url": "https://t.co/jjMXQZRjUl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994297861912342747",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/jjMXQZRjUl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "喜欢我我也喜欢你 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "1992652290252316901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 267,
+          "like_count": 4323,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1355
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-14T02:07:24.000Z",
+        "description": "笑ってくれてアリガトウ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bangumi.tv/user/seiuex",
+                "end": 23,
+                "expanded_url": "https://bangumi.tv/user/seiuex",
+                "start": 0,
+                "url": "https://t.co/sY3WqMyK49"
+              }
+            ]
+          }
+        },
+        "id": "1360772570769813505",
+        "location": "大阪",
+        "name": "1500個人",
+        "pinned_tweet_id": "1984643565541363990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993131055956783104/Ag_w_EEJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 727,
+          "following_count": 399,
+          "like_count": 24847,
+          "listed_count": 2,
+          "media_count": 972,
+          "tweet_count": 5126
+        },
+        "url": "https://t.co/sY3WqMyK49",
+        "username": "BraveQuestEX",
+        "verified": false
+      }
+    ]
+  }
+}

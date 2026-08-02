@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2053873826354839974",
+    "created_at": "2026-05-11T16:27:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T17:27:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053874699780927584"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1559716543188963328",
+          "start": 0,
+          "username": "lesle665704"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053874699780927584",
+    "in_reply_to_user_id": "1559716543188963328",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053873826354839974",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lesle665704 严肃期待"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3840,
+        "media_key": "3_2053873480576417792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIDTDHdaQAANob9.jpg",
+        "width": 2160
+      },
+      {
+        "height": 3264,
+        "media_key": "3_2053873762924367872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIDTTjSaEAAh05T.jpg",
+        "width": 1836
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2053873826354839974",
+        "created_at": "2026-05-11T16:27:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T17:27:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053874699780927584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1559716543188963328",
+              "start": 0,
+              "username": "lesle665704"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053874699780927584",
+        "in_reply_to_user_id": "1559716543188963328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053873826354839974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lesle665704 严肃期待"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053873480576417792",
+            "3_2053873762924367872"
+          ]
+        },
+        "author_id": "1559716543188963328",
+        "conversation_id": "2053873826354839974",
+        "created_at": "2026-05-11T16:24:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T17:24:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053873826354839974"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "男娘"
+            },
+            {
+              "end": 9,
+              "start": 4,
+              "tag": "丰川祥子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2QSQFWfyDR",
+              "end": 48,
+              "expanded_url": "https://x.com/lesle665704/status/2053873826354839974/photo/1",
+              "media_key": "3_2053873480576417792",
+              "start": 25,
+              "url": "https://t.co/2QSQFWfyDR"
+            },
+            {
+              "display_url": "pic.x.com/2QSQFWfyDR",
+              "end": 48,
+              "expanded_url": "https://x.com/lesle665704/status/2053873826354839974/photo/1",
+              "media_key": "3_2053873762924367872",
+              "start": 25,
+              "url": "https://t.co/2QSQFWfyDR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053873826354839974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#男娘 #丰川祥子\n罗德岛制服祥子试衣，下周末出 https://t.co/2QSQFWfyDR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存| 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 34,
+                "start": 24,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 851,
+          "following_count": 628,
+          "like_count": 9809,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 3694
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-17T01:39:43.000Z",
+        "description": "会死的\n生理心理男，无门槛不约不卖\nhttps://t.co/K9ZDMXef7o 提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lesil12",
+                "end": 41,
+                "expanded_url": "https://ngl.link/lesil12",
+                "start": 18,
+                "url": "https://t.co/K9ZDMXef7o"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+86jX57UQ6WQ3Y…",
+                "end": 23,
+                "expanded_url": "https://t.me/+86jX57UQ6WQ3YzE1",
+                "start": 0,
+                "url": "https://t.co/Be15X62SVA"
+              }
+            ]
+          }
+        },
+        "id": "1559716543188963328",
+        "name": "乐死了",
+        "pinned_tweet_id": "2033948417517621328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020016208805036032/D-WVW_CO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2325,
+          "following_count": 2056,
+          "like_count": 8473,
+          "listed_count": 7,
+          "media_count": 57,
+          "tweet_count": 204
+        },
+        "url": "https://t.co/Be15X62SVA",
+        "username": "lesle665704",
+        "verified": false
+      }
+    ]
+  }
+}

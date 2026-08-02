@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1981174038614745216",
+    "created_at": "2025-10-23T01:41:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T02:41:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981174038614745216"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 116,
+          "start": 111,
+          "tag": "人像模特"
+        },
+        {
+          "end": 120,
+          "start": 117,
+          "tag": "攝影"
+        },
+        {
+          "end": 124,
+          "start": 121,
+          "tag": "約拍"
+        },
+        {
+          "end": 130,
+          "start": 125,
+          "tag": "平面模特"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1973952157113282560",
+          "start": 3,
+          "username": "7n1ax_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981174038614745216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981135664277311930",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @7n1ax_: 有人要找我常服約拍嗎 外拍為主\n\n臺北新北ok  450/hr 最少2小時\n沒有互動項目 請自備攝影集詢問\n擅地雷系 暗黑調 辣妹 清純系 水色界隈 天使界隈\n您有衣服也ok 本人151/52/D\n#人像模特 #攝影 #約拍 #平面模特 https://…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2080,
+        "media_key": "3_1981135651027226624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G35oYMtXEAAzHup.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2080,
+        "media_key": "3_1981135651014590464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G35oYMqWQAAmCEO.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2080,
+        "media_key": "3_1981135651048181760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G35oYMyW0AAtJmY.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1981174038614745216",
+        "created_at": "2025-10-23T01:41:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T02:41:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981174038614745216"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 116,
+              "start": 111,
+              "tag": "人像模特"
+            },
+            {
+              "end": 120,
+              "start": 117,
+              "tag": "攝影"
+            },
+            {
+              "end": 124,
+              "start": 121,
+              "tag": "約拍"
+            },
+            {
+              "end": 130,
+              "start": 125,
+              "tag": "平面模特"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1973952157113282560",
+              "start": 3,
+              "username": "7n1ax_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981174038614745216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981135664277311930",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @7n1ax_: 有人要找我常服約拍嗎 外拍為主\n\n臺北新北ok  450/hr 最少2小時\n沒有互動項目 請自備攝影集詢問\n擅地雷系 暗黑調 辣妹 清純系 水色界隈 天使界隈\n您有衣服也ok 本人151/52/D\n#人像模特 #攝影 #約拍 #平面模特 https://…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981135651027226624",
+            "3_1981135651014590464",
+            "3_1981135651048181760"
+          ]
+        },
+        "author_id": "1973952157113282560",
+        "conversation_id": "1981135664277311930",
+        "created_at": "2025-10-22T23:08:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T00:08:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981135664277311930"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 104,
+              "start": 99,
+              "tag": "人像模特"
+            },
+            {
+              "end": 108,
+              "start": 105,
+              "tag": "攝影"
+            },
+            {
+              "end": 112,
+              "start": 109,
+              "tag": "約拍"
+            },
+            {
+              "end": 118,
+              "start": 113,
+              "tag": "平面模特"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ESSC8Nz9Pp",
+              "end": 142,
+              "expanded_url": "https://x.com/7n1ax_/status/1981135664277311930/photo/1",
+              "media_key": "3_1981135651027226624",
+              "start": 119,
+              "url": "https://t.co/ESSC8Nz9Pp"
+            },
+            {
+              "display_url": "pic.x.com/ESSC8Nz9Pp",
+              "end": 142,
+              "expanded_url": "https://x.com/7n1ax_/status/1981135664277311930/photo/1",
+              "media_key": "3_1981135651014590464",
+              "start": 119,
+              "url": "https://t.co/ESSC8Nz9Pp"
+            },
+            {
+              "display_url": "pic.x.com/ESSC8Nz9Pp",
+              "end": 142,
+              "expanded_url": "https://x.com/7n1ax_/status/1981135664277311930/photo/1",
+              "media_key": "3_1981135651048181760",
+              "start": 119,
+              "url": "https://t.co/ESSC8Nz9Pp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981135664277311930",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 298,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "有人要找我常服約拍嗎 外拍為主\n\n臺北新北ok  450/hr 最少2小時\n沒有互動項目 請自備攝影集詢問\n擅地雷系 暗黑調 辣妹 清純系 水色界隈 天使界隈\n您有衣服也ok 本人151/52/D\n#人像模特 #攝影 #約拍 #平面模特 https://t.co/ESSC8Nz9Pp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 178,
+          "like_count": 1540,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 412
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-03T03:24:10.000Z",
+        "description": "20↑",
+        "id": "1973952157113282560",
+        "location": "日常垢",
+        "name": "にあ",
+        "pinned_tweet_id": "1979874097401364482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974952652145639424/g8hYO1P7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 202,
+          "like_count": 704,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 277
+        },
+        "username": "7n1ax_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993702192776413184"
+      ]
+    },
+    "author_id": "1852135214795100164",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1993702211764072569",
+    "created_at": "2025-11-26T15:23:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T16:23:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993702211764072569"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1491368400924422149",
+          "start": 1,
+          "username": "Taffydaisuki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BbeTxMzxAO",
+          "end": 54,
+          "expanded_url": "https://x.com/ayameeii/status/1993702211764072569/photo/1",
+          "media_key": "3_1993702192776413184",
+          "start": 31,
+          "url": "https://t.co/BbeTxMzxAO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993702211764072569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "和@Taffydaisuki 看电影\n真人也太潮流😱我畏惧了 https://t.co/BbeTxMzxAO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1993702192776413184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6sNlMxbAAA5BX1.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993702192776413184"
+          ]
+        },
+        "author_id": "1852135214795100164",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1993702211764072569",
+        "created_at": "2025-11-26T15:23:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T16:23:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993702211764072569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1491368400924422149",
+              "start": 1,
+              "username": "Taffydaisuki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BbeTxMzxAO",
+              "end": 54,
+              "expanded_url": "https://x.com/ayameeii/status/1993702211764072569/photo/1",
+              "media_key": "3_1993702192776413184",
+              "start": 31,
+              "url": "https://t.co/BbeTxMzxAO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993702211764072569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和@Taffydaisuki 看电影\n真人也太潮流😱我畏惧了 https://t.co/BbeTxMzxAO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "1992652290252316901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 264,
+          "like_count": 4177,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 1308
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-09T11:08:43.000Z",
+        "description": "ㄆㄥˊㄧㄡˇ@bakajinping @ln_fbsq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "bakajinping"
+              },
+              {
+                "end": 27,
+                "start": 19,
+                "username": "ln_fbsq"
+              }
+            ]
+          }
+        },
+        "id": "1491368400924422149",
+        "location": "戻れない場所を探して",
+        "name": "🍫空酱🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992808060361003008/QbySHn21_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 621,
+          "following_count": 586,
+          "like_count": 21668,
+          "listed_count": 3,
+          "media_count": 830,
+          "tweet_count": 5079
+        },
+        "username": "Taffydaisuki",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1990452365980496343",
+    "created_at": "2025-11-17T22:50:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T23:50:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990553038592118971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1127115227630149632",
+          "start": 0,
+          "username": "hatsuki_mumu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990553038592118971",
+    "in_reply_to_user_id": "1127115227630149632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990452365980496343",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hatsuki_mumu 那我也问你最喜欢吃什么！我猜一个咖喱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 321,
+        "media_key": "3_1990452361215791104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5-B4Gya0AAXK7Z.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1990452365980496343",
+        "created_at": "2025-11-17T22:50:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T23:50:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990553038592118971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1127115227630149632",
+              "start": 0,
+              "username": "hatsuki_mumu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990553038592118971",
+        "in_reply_to_user_id": "1127115227630149632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990452365980496343",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hatsuki_mumu 那我也问你最喜欢吃什么！我猜一个咖喱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990452361215791104"
+          ]
+        },
+        "author_id": "1127115227630149632",
+        "conversation_id": "1990452365980496343",
+        "created_at": "2025-11-17T16:09:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T17:09:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990452365980496343"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A5cAC3Mcbb",
+              "end": 23,
+              "expanded_url": "https://x.com/hatsuki_mumu/status/1990452365980496343/photo/1",
+              "media_key": "3_1990452361215791104",
+              "start": 0,
+              "url": "https://t.co/A5cAC3Mcbb"
+            },
+            {
+              "display_url": "x.com/ayameeii/statu…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/ayameeii/status/1990341046489043094",
+              "start": 24,
+              "url": "https://t.co/gQVve8rTHe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990452365980496343",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990341046489043094",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/A5cAC3Mcbb https://t.co/gQVve8rTHe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 236,
+          "like_count": 3569,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 1104
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-11T07:36:25.000Z",
+        "description": "🐱@CelestialNeb 🐰@InnocetRabbit | 🥒QBR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "CelestialNeb"
+              },
+              {
+                "end": 30,
+                "start": 16,
+                "username": "InnocetRabbit"
+              }
+            ]
+          }
+        },
+        "id": "1127115227630149632",
+        "name": "叶yezi🍃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964725251323146240/CHh7_PAs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 47,
+          "like_count": 11619,
+          "listed_count": 2,
+          "media_count": 496,
+          "tweet_count": 1725
+        },
+        "username": "hatsuki_mumu",
+        "verified": false
+      }
+    ]
+  }
+}

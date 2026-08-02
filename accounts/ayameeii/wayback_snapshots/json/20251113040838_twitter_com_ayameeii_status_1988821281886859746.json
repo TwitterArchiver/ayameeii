@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1988818780303290574",
+    "created_at": "2025-11-13T04:08:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T05:08:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988821281886859746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1907031442103943168",
+          "start": 0,
+          "username": "hoshinemu123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988821281886859746",
+    "in_reply_to_user_id": "1907031442103943168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988818780303290574",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoshinemu123 前线记者为您报道"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1988818780303290574",
+        "created_at": "2025-11-13T04:08:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T05:08:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988821281886859746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1907031442103943168",
+              "start": 0,
+              "username": "hoshinemu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988821281886859746",
+        "in_reply_to_user_id": "1907031442103943168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988818780303290574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinemu123 前线记者为您报道"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907031442103943168",
+        "conversation_id": "1988818780303290574",
+        "created_at": "2025-11-13T03:58:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T04:58:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988818780303290574"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1988818780303290574",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "速报：邸晓兰准备休息两月"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 227,
+          "like_count": 3101,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 949
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-01T11:25:12.000Z",
+        "description": "🏳️‍⚧️🏳️‍🌈🍥含糖女同；仿若游鱼沉潜不喝醉，罔顾山和海绚烂描绘；是星眠的日常碎碎念号；半个软件工程师加半个音乐人；在努力成为艺术家和技术大佬的路上；有自己的一套审美标准；会转很多自己觉得漂亮的画；不定期推歌；文学少女；古风/汉服女；北京的小女孩来找我玩",
+        "id": "1907031442103943168",
+        "location": "在你附近",
+        "name": "星眠ほしねむ",
+        "pinned_tweet_id": "1975169707985486036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907031660929118208/sNlrsVC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2385,
+          "following_count": 3132,
+          "like_count": 3012,
+          "listed_count": 3,
+          "media_count": 587,
+          "tweet_count": 6991
+        },
+        "username": "hoshinemu123",
+        "verified": false
+      }
+    ]
+  }
+}

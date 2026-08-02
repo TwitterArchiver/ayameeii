@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2037120949301215235",
+    "created_at": "2026-03-26T11:02:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T12:02:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037122995756683775"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1748540117755817984",
+          "start": 0,
+          "username": "zuzhny574166"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037122995756683775",
+    "in_reply_to_user_id": "1748540117755817984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037122834900930723",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zuzhny574166 你可以把这些都说出来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2037120949301215235",
+        "created_at": "2026-03-26T11:02:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T12:02:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037122995756683775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1748540117755817984",
+              "start": 0,
+              "username": "zuzhny574166"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037122995756683775",
+        "in_reply_to_user_id": "1748540117755817984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037122834900930723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zuzhny574166 你可以把这些都说出来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748540117755817984",
+        "conversation_id": "2037120949301215235",
+        "created_at": "2026-03-26T11:01:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T12:01:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037122834900930723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1852135214795100164",
+              "start": 0,
+              "username": "ayameeii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037122834900930723",
+        "in_reply_to_user_id": "1852135214795100164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037122326043779187",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayameeii 我好讨厌住精神病院，这个医院把我困住不让我出去，不让我拿外卖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某次",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2036043044986953736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 702,
+          "following_count": 498,
+          "like_count": 8393,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 3066
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T02:57:30.000Z",
+        "description": "00后/神秘od男/抑郁焦虑症/喜欢空想的完美主义/27年日本留学加油/居住在下水道里/大家可以加我line\n2027年日本に留学が頑張って",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/ti/p/u3pEGhnsz8",
+                "end": 23,
+                "expanded_url": "https://line.me/ti/p/u3pEGhnsz8",
+                "start": 0,
+                "url": "https://t.co/yJkDhBpNR8"
+              }
+            ]
+          }
+        },
+        "id": "1748540117755817984",
+        "location": "東京",
+        "name": "宵崎奏のねこねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035048188378587137/HAcRsnVQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 14,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 82
+        },
+        "url": "https://t.co/yJkDhBpNR8",
+        "username": "zuzhny574166",
+        "verified": true
+      }
+    ]
+  }
+}

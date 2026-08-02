@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2023063008642261168",
+    "created_at": "2026-02-15T15:53:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T16:53:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023063008642261168"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ayameeii/statu…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/ayameeii/status/2022227447236939897",
+          "start": 13,
+          "url": "https://t.co/4QeB0yzu1j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023063008642261168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022227447236939897",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "明天过年谁来和我过—更新 https://t.co/4QeB0yzu1j"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2023063008642261168",
+        "created_at": "2026-02-15T15:53:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T16:53:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023063008642261168"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ayameeii/statu…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/ayameeii/status/2022227447236939897",
+              "start": 13,
+              "url": "https://t.co/4QeB0yzu1j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023063008642261168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022227447236939897",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "明天过年谁来和我过—更新 https://t.co/4QeB0yzu1j"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2022227447236939897",
+        "created_at": "2026-02-13T08:32:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T09:32:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022227447236939897"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022227447236939897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 894,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明天情人节谁来和我过"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2014053871983685932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 537,
+          "following_count": 397,
+          "like_count": 7077,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 2455
+        },
+        "username": "ayameeii",
+        "verified": false
+      }
+    ]
+  }
+}

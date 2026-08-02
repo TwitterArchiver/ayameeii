@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064442856996212736"
+      ]
+    },
+    "author_id": "1852135214795100164",
+    "conversation_id": "2064442859487686669",
+    "created_at": "2026-06-09T20:21:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T21:21:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064442859487686669"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3k3EWi3YKA",
+          "end": 30,
+          "expanded_url": "https://x.com/ayameeii/status/2064442859487686669/photo/1",
+          "media_key": "3_2064442856996212736",
+          "start": 7,
+          "url": "https://t.co/3k3EWi3YKA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064442859487686669",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谢谢你🥺🥺🥺 https://t.co/3k3EWi3YKA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1150,
+        "media_key": "3_2064442856996212736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKZf1y5aEAASQG7.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064442856996212736"
+          ]
+        },
+        "author_id": "1852135214795100164",
+        "conversation_id": "2064442859487686669",
+        "created_at": "2026-06-09T20:21:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T21:21:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064442859487686669"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3k3EWi3YKA",
+              "end": 30,
+              "expanded_url": "https://x.com/ayameeii/status/2064442859487686669/photo/1",
+              "media_key": "3_2064442856996212736",
+              "start": 7,
+              "url": "https://t.co/3k3EWi3YKA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064442859487686669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢你🥺🥺🥺 https://t.co/3k3EWi3YKA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存| 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 34,
+                "start": 24,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1048,
+          "following_count": 687,
+          "like_count": 10448,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 3994
+        },
+        "username": "ayameeii",
+        "verified": false
+      }
+    ]
+  }
+}

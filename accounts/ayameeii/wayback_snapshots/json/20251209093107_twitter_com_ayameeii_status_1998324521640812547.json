@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1998309954609189022",
+    "created_at": "2025-12-09T09:31:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T10:31:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998324521640812547"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1998324521640812547",
+    "in_reply_to_user_id": "1852135214795100164",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998309954609189022",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我只是想看看有没有流量互fo不要讨厌我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1713,
+        "media_key": "3_1998308881496522752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7trVxkbwAAwy8Z.jpg",
+        "width": 1100
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1998309954609189022",
+        "created_at": "2025-12-09T09:31:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T10:31:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998324521640812547"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1998324521640812547",
+        "in_reply_to_user_id": "1852135214795100164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998309954609189022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我只是想看看有没有流量互fo不要讨厌我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998308881496522752"
+          ]
+        },
+        "author_id": "1852135214795100164",
+        "conversation_id": "1998309954609189022",
+        "created_at": "2025-12-09T08:33:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T09:33:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998309954609189022"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xiJqClOyAy",
+              "end": 80,
+              "expanded_url": "https://x.com/ayameeii/status/1998309954609189022/photo/1",
+              "media_key": "3_1998308881496522752",
+              "start": 57,
+              "url": "https://t.co/xiJqClOyAy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998309954609189022",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "汉族幻想时刻 没有满族你就飞黄腾达了是吧🤣为什么总喜欢怪罪一些其他民族和外国人 什么时候自己人不搞自己人了再说吧 https://t.co/xiJqClOyAy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "1992652290252316901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 299,
+          "like_count": 5193,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1642
+        },
+        "username": "ayameeii",
+        "verified": false
+      }
+    ]
+  }
+}

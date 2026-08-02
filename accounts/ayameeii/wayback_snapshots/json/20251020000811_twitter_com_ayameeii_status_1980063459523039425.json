@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1980063207160213610",
+    "created_at": "2025-10-20T00:08:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T01:08:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980063459523039425"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1639664012907429890",
+          "start": 0,
+          "username": "Je1nFaur_l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980063459523039425",
+    "in_reply_to_user_id": "1639664012907429890",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980063207160213610",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Je1nFaur_l 无需在意"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1980063207160213610",
+        "created_at": "2025-10-20T00:08:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T01:08:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980063459523039425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1639664012907429890",
+              "start": 0,
+              "username": "Je1nFaur_l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980063459523039425",
+        "in_reply_to_user_id": "1639664012907429890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980063207160213610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Je1nFaur_l 无需在意"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639664012907429890",
+        "conversation_id": "1980063207160213610",
+        "created_at": "2025-10-20T00:07:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T01:07:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980063207160213610"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1980063207160213610",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "烦死了又被学生会记了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 166,
+          "like_count": 1254,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 336
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-25T16:22:49.000Z",
+        "description": "我是Mio大王 叫我澪澪 宅女一枚呀\n不键政不看黄不陪聊不谈恋爱不约炮什么都不做 世界第一纯良喵\nshitposting & venting randomly\n #フォロバ0　 #フォロバ絶対しない",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 81,
+                "tag": "フォロバ0"
+              },
+              {
+                "end": 99,
+                "start": 89,
+                "tag": "フォロバ絶対しない"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "roph.net/?p=193",
+                "end": 23,
+                "expanded_url": "https://roph.net/?p=193",
+                "start": 0,
+                "url": "https://t.co/VZQwwdrL4U"
+              }
+            ]
+          }
+        },
+        "id": "1639664012907429890",
+        "location": "La Temperanza",
+        "name": "澪澪大王",
+        "pinned_tweet_id": "1939326757410349487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1781719164769726464/I0Oci5da_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 931,
+          "following_count": 3567,
+          "like_count": 129893,
+          "listed_count": 3,
+          "media_count": 185,
+          "tweet_count": 9869
+        },
+        "url": "https://t.co/VZQwwdrL4U",
+        "username": "Je1nFaur_l",
+        "verified": false
+      }
+    ]
+  }
+}

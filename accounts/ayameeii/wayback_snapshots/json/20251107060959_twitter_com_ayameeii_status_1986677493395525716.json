@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1985695919913029955",
+    "created_at": "2025-11-07T06:09:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T07:09:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986677493395525716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "863583848789024769",
+          "start": 0,
+          "username": "Wakabana7"
+        },
+        {
+          "end": 27,
+          "id": "1757248578920333312",
+          "start": 11,
+          "username": "HCSvgHEiWg93758"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986677493395525716",
+    "in_reply_to_user_id": "863583848789024769",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986673928195219799",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wakabana7 @HCSvgHEiWg93758 游戏也老贵了 都到80美元了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1985695919913029955",
+        "created_at": "2025-11-07T06:09:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T07:09:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986677493395525716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "863583848789024769",
+              "start": 0,
+              "username": "Wakabana7"
+            },
+            {
+              "end": 27,
+              "id": "1757248578920333312",
+              "start": 11,
+              "username": "HCSvgHEiWg93758"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986677493395525716",
+        "in_reply_to_user_id": "863583848789024769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986673928195219799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wakabana7 @HCSvgHEiWg93758 游戏也老贵了 都到80美元了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "863583848789024769",
+        "conversation_id": "1985695919913029955",
+        "created_at": "2025-11-07T05:55:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T06:55:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986673928195219799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1757248578920333312",
+              "start": 0,
+              "username": "HCSvgHEiWg93758"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986673928195219799",
+        "in_reply_to_user_id": "1757248578920333312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985695919913029955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HCSvgHEiWg93758 打游戏，抽烟喝酒吃东西也不低成本吧……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 215,
+          "like_count": 2556,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 808
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-14T02:36:48.000Z",
+        "description": "要看到更多的可能性",
+        "id": "863583848789024769",
+        "name": "🍃",
+        "pinned_tweet_id": "1985024660589937076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922234132521680896/QSsgk6MY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 129,
+          "like_count": 19917,
+          "listed_count": 0,
+          "media_count": 434,
+          "tweet_count": 7968
+        },
+        "username": "Wakabana7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-13T03:41:36.000Z",
+        "description": "成分复杂,可互fo",
+        "id": "1757248578920333312",
+        "name": "士白8",
+        "pinned_tweet_id": "1978549274892775566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984199103585337344/JV8SHiQO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 82,
+          "like_count": 421,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 221
+        },
+        "username": "HCSvgHEiWg93758",
+        "verified": false
+      }
+    ]
+  }
+}

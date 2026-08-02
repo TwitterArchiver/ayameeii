@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2007317211376169136",
+    "created_at": "2026-01-03T05:04:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T06:04:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007317211376169136"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2007148052424118273",
+          "start": 3,
+          "username": "jingyin8964_TVT"
+        },
+        {
+          "end": 65,
+          "id": "1965531250447568896",
+          "start": 52,
+          "username": "jingyin_8964"
+        },
+        {
+          "end": 105,
+          "id": "1911828872334831616",
+          "start": 93,
+          "username": "Edward_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007317211376169136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007156211616289256",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jingyin8964_TVT: 现在是镜音三代目版本\n此次稍微不蛞蝓般回归了⚡\n上一世我的账号@jingyin_8964遭到冻结😡👊\n这一世我要夺回自己的所有互关😤🤝\n感谢老公@Edward_8964提供的邮箱❤️\n也请曾经的所有客户重新联系我 我镜音定不会圈钱跑路…"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [jingyin_8964].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "jingyin_8964",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "jingyin_8964"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2007317211376169136",
+        "created_at": "2026-01-03T05:04:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T06:04:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007317211376169136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2007148052424118273",
+              "start": 3,
+              "username": "jingyin8964_TVT"
+            },
+            {
+              "end": 65,
+              "id": "1965531250447568896",
+              "start": 52,
+              "username": "jingyin_8964"
+            },
+            {
+              "end": 105,
+              "id": "1911828872334831616",
+              "start": 93,
+              "username": "Edward_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007317211376169136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007156211616289256",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jingyin8964_TVT: 现在是镜音三代目版本\n此次稍微不蛞蝓般回归了⚡\n上一世我的账号@jingyin_8964遭到冻结😡👊\n这一世我要夺回自己的所有互关😤🤝\n感谢老公@Edward_8964提供的邮箱❤️\n也请曾经的所有客户重新联系我 我镜音定不会圈钱跑路…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007148052424118273",
+        "conversation_id": "2007156211616289256",
+        "created_at": "2026-01-02T18:25:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T19:25:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007156211616289256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 44,
+              "id": "1965531250447568896",
+              "start": 31,
+              "username": "jingyin_8964"
+            },
+            {
+              "end": 84,
+              "id": "1911828872334831616",
+              "start": 72,
+              "username": "Edward_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007156211616289256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2714,
+          "like_count": 27,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "现在是镜音三代目版本\n此次稍微不蛞蝓般回归了⚡\n上一世我的账号@jingyin_8964遭到冻结😡👊\n这一世我要夺回自己的所有互关😤🤝\n感谢老公@Edward_8964提供的邮箱❤️\n也请曾经的所有客户重新联系我 我镜音定不会圈钱跑路\n互关巡回中…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "1992652290252316901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 317,
+          "like_count": 6032,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 1951
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-02T17:52:55.000Z",
+        "description": "我看着幸福的日子被我亲手摧毁后开心的闭上了眼\n/老公❣️@Edward_8964\n/姐姐💖@shuijiaozzz233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 28,
+                "username": "Edward_8964"
+              },
+              {
+                "end": 60,
+                "start": 45,
+                "username": "shuijiaozzz233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeod.wiki",
+                "end": 23,
+                "expanded_url": "https://freeod.wiki/",
+                "start": 0,
+                "url": "https://t.co/jZAjkyeKAd"
+              }
+            ]
+          }
+        },
+        "id": "2007148052424118273",
+        "name": "镜音",
+        "pinned_tweet_id": "2007156211616289256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007148489642504192/bXza5oIL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 64,
+          "like_count": 17,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 8
+        },
+        "url": "https://t.co/jZAjkyeKAd",
+        "username": "jingyin8964_TVT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T17:08:26.000Z",
+        "description": "南湖之虎｜第4次轉生｜ MTX ｜退役OIer/Oder｜ADHD｜freeODwiki站點維護｜自由、夢想、進取｜個人崇拜宗教政治團體反對｜大東亞共榮支持者｜人黑 #shtwt #drugtwt ｜非營利計畫｜@jingyin8964_TVT",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 89,
+                "start": 83,
+                "tag": "shtwt"
+              },
+              {
+                "end": 98,
+                "start": 90,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 122,
+                "start": 106,
+                "username": "jingyin8964_TVT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeod.wiki",
+                "end": 23,
+                "expanded_url": "http://freeod.wiki",
+                "start": 0,
+                "url": "https://t.co/LISkhFoXg7"
+              }
+            ]
+          }
+        },
+        "id": "1911828872334831616",
+        "location": "NE",
+        "name": "💊Edward……",
+        "pinned_tweet_id": "2005901762218320212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983915986710667264/18Wn7FvD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 868,
+          "following_count": 718,
+          "like_count": 8117,
+          "listed_count": 2,
+          "media_count": 338,
+          "tweet_count": 4945
+        },
+        "url": "https://t.co/LISkhFoXg7",
+        "username": "Edward_8964",
+        "verified": true
+      }
+    ]
+  }
+}

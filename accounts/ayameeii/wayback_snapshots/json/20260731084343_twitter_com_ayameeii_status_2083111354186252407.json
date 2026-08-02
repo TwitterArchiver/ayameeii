@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2082902486965518360",
+    "created_at": "2026-07-31T08:43:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T09:43:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083111354186252407"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1668257047647776770",
+          "start": 0,
+          "username": "nekoTiao0w0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083111354186252407",
+    "in_reply_to_user_id": "1668257047647776770",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082902486965518360",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nekoTiao0w0 我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2082902486965518360",
+        "created_at": "2026-07-31T08:43:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T09:43:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083111354186252407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1668257047647776770",
+              "start": 0,
+              "username": "nekoTiao0w0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083111354186252407",
+        "in_reply_to_user_id": "1668257047647776770",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082902486965518360",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoTiao0w0 我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668257047647776770",
+        "conversation_id": "2082902486965518360",
+        "created_at": "2026-07-30T18:53:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T19:53:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082902486965518360"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082902486965518360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1508,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁喜欢我？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存|♥️@sakihanaShion 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 8,
+                "username": "sakihanaShion"
+              },
+              {
+                "end": 35,
+                "start": 25,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 50,
+                "start": 40,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1121,
+          "following_count": 722,
+          "like_count": 10667,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 4249
+        },
+        "url": "",
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-12T14:01:46.000Z",
+        "description": "低能量低自尊低素质低道德痛苦女孩 看你们也没多喜欢我 关注我干嘛？",
+        "id": "1668257047647776770",
+        "location": "🚪288",
+        "name": "丰川祥子爱分尸",
+        "pinned_tweet_id": "2073746703950528654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059143750694350848/9P2mQIqu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2414,
+          "following_count": 265,
+          "like_count": 9378,
+          "listed_count": 3,
+          "media_count": 345,
+          "tweet_count": 4144
+        },
+        "url": "",
+        "username": "nekoTiao0w0",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2054162092434059420",
+    "created_at": "2026-05-12T11:32:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T12:32:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054162816660307978"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1701474166392905729",
+          "start": 0,
+          "username": "NanaNana_os"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054162816660307978",
+    "in_reply_to_user_id": "1701474166392905729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054162092434059420",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NanaNana_os 我哪里说听不懂呢 有没有可能我从头到尾都没在指责你是你自己这么解读的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2054162092434059420",
+        "created_at": "2026-05-12T11:32:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T12:32:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054162816660307978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1701474166392905729",
+              "start": 0,
+              "username": "NanaNana_os"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054162816660307978",
+        "in_reply_to_user_id": "1701474166392905729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054162092434059420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NanaNana_os 我哪里说听不懂呢 有没有可能我从头到尾都没在指责你是你自己这么解读的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1701474166392905729",
+        "conversation_id": "2054162092434059420",
+        "created_at": "2026-05-12T11:29:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T12:29:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054162092434059420"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nananana_os/st…",
+              "end": 170,
+              "expanded_url": "https://twitter.com/nananana_os/status/2054158713200799930",
+              "start": 147,
+              "url": "https://t.co/ZffQTZ7o13"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054162092434059420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054158713200799930",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怎么会有听不懂人话的人类…找我说话我发了一大堆信息，然后就回复一句我听不懂\n我说的就是人话，朋友都能听懂，非要我把一切都简化收束成一句很明确的攻击性/指向性答案才”听懂”\n然后转头说我这不是能好好说话吗😅\ncnm你说我为什么不理你\n哦对了\n“我不理你的理由”你也听不懂\n你直接当作我看不起你吧 https://t.co/ZffQTZ7o13"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存| 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 34,
+                "start": 24,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 864,
+          "following_count": 641,
+          "like_count": 9918,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 3721
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-12T05:54:01.000Z",
+        "description": "深陷三角恋二周年版｜enby｜💝@_sharkee1024｜🎐@yuwilmeaning",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 16,
+                "username": "_sharkee1024"
+              },
+              {
+                "end": 44,
+                "start": 31,
+                "username": "yuwilmeaning"
+              }
+            ]
+          }
+        },
+        "id": "1701474166392905729",
+        "location": "Nowhere",
+        "name": "7Na7Na",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947780376044425216/KXTmmUpW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 981,
+          "following_count": 671,
+          "like_count": 28479,
+          "listed_count": 2,
+          "media_count": 440,
+          "tweet_count": 3515
+        },
+        "username": "NanaNana_os",
+        "verified": false
+      }
+    ]
+  }
+}

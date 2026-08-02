@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2036452567492993434",
+    "created_at": "2026-03-25T06:09:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T07:09:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036686822601035927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1595248723042267136",
+          "start": 0,
+          "username": "tsukue_sun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036686822601035927",
+    "in_reply_to_user_id": "1595248723042267136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036452567492993434",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tsukue_sun 你好谢谢小笼包！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2036452567492993434",
+        "created_at": "2026-03-25T06:09:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T07:09:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036686822601035927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1595248723042267136",
+              "start": 0,
+              "username": "tsukue_sun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036686822601035927",
+        "in_reply_to_user_id": "1595248723042267136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036452567492993434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tsukue_sun 你好谢谢小笼包！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1595248723042267136",
+        "conversation_id": "2036452567492993434",
+        "created_at": "2026-03-24T14:38:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T15:38:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036452567492993434"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036452567492993434",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1398,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是高中生.最近开始学习中文.\n自力でここまで"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2036043044986953736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 693,
+          "following_count": 493,
+          "like_count": 8306,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 3004
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-23T02:52:06.000Z",
+        "description": "",
+        "id": "1595248723042267136",
+        "location": "🌾",
+        "name": "つくえ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024046183627567105/OtMPfC_k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 916,
+          "following_count": 271,
+          "like_count": 50211,
+          "listed_count": 4,
+          "media_count": 112,
+          "tweet_count": 1761
+        },
+        "username": "tsukue_sun",
+        "verified": false
+      }
+    ]
+  }
+}

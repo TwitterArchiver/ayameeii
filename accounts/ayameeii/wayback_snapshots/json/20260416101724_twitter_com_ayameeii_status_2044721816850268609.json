@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2044721816850268609",
+    "created_at": "2026-04-16T10:17:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T11:17:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044721816850268609"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1933651983443111938",
+          "start": 3,
+          "username": "qichuanshangshu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044721816850268609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044622150363926539",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qichuanshangshu: 150fo抽奖现在才来好吧！\n一盒愈美（一份喵）\n一杯奶茶（可折现）\n52🚪喵\n8.88🧧（一份喵）\n关注转发评论抽喵\n最近变成穷鬼了别嫌弃喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2044721816850268609",
+        "created_at": "2026-04-16T10:17:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T11:17:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044721816850268609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1933651983443111938",
+              "start": 3,
+              "username": "qichuanshangshu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044721816850268609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044622150363926539",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qichuanshangshu: 150fo抽奖现在才来好吧！\n一盒愈美（一份喵）\n一杯奶茶（可折现）\n52🚪喵\n8.88🧧（一份喵）\n关注转发评论抽喵\n最近变成穷鬼了别嫌弃喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933651983443111938",
+        "conversation_id": "2044622150363926539",
+        "created_at": "2026-04-16T03:41:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T04:41:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044622150363926539"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044622150363926539",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 540,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "150fo抽奖现在才来好吧！\n一盒愈美（一份喵）\n一杯奶茶（可折现）\n52🚪喵\n8.88🧧（一份喵）\n关注转发评论抽喵\n最近变成穷鬼了别嫌弃喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存|对象❤️@AAAAAMTxT 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "AAAAAMTxT"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 48,
+                "start": 38,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 803,
+          "following_count": 597,
+          "like_count": 9440,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 3493
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-13T22:25:42.000Z",
+        "description": "我是被弃养的雨が降る｜主人@Sep_Hyxw｜友跨顺女｜同类互fo大欢迎｜过门请私信｜舞萌/负能/餐券｜请来找我玩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 13,
+                "username": "Sep_Hyxw"
+              }
+            ]
+          }
+        },
+        "id": "1933651983443111938",
+        "location": "你心里♡",
+        "name": "雨が降る",
+        "pinned_tweet_id": "2021621168936264092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021118445761462273/VKiW9Yoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 97,
+          "like_count": 459,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 278
+        },
+        "username": "qichuanshangshu",
+        "verified": false
+      }
+    ]
+  }
+}

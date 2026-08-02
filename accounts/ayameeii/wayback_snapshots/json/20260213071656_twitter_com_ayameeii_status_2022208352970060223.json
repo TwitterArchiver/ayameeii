@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2022019755692228935",
+    "created_at": "2026-02-13T07:16:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T08:16:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022208352970060223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1552918719440924672",
+          "start": 0,
+          "username": "SPRlumi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022208352970060223",
+    "in_reply_to_user_id": "1552918719440924672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022019755692228935",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SPRlumi 竟然这么平均"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2022019755692228935",
+        "created_at": "2026-02-13T07:16:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T08:16:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022208352970060223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "SPRlumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022208352970060223",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022019755692228935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SPRlumi 竟然这么平均"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2022019754572312576"
+          ]
+        },
+        "author_id": "1552918719440924672",
+        "conversation_id": "2022019755692228935",
+        "created_at": "2026-02-12T18:47:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T19:47:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022019755692228935"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022019755692228935",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1197,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们觉得猫卷多大"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2014053871983685932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 528,
+          "following_count": 379,
+          "like_count": 6981,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 2415
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "17岁 高中 XY顺男 @hobartr6 笨中猪中杂鱼中 @dontbesadforit @_furryfur_ 你们五个人轮流上我号是吧（羡慕被轮流上）这又是谁写的?（羡慕号qwq）还是要我自己动手@WanN916_ @hoshi_Asuka0089好姐姐喵 姐姐你别天天拿你那抚摸棉花小人到处拍照了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 12,
+                "username": "hobartr6"
+              },
+              {
+                "end": 45,
+                "start": 30,
+                "username": "dontbesadforit"
+              },
+              {
+                "end": 57,
+                "start": 46,
+                "username": "_furryfur_"
+              },
+              {
+                "end": 110,
+                "start": 101,
+                "username": "WanN916_"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "hoshi_Asuka0089"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "name": "猫卷🍥🍫🏳️‍🌈🏳️‍⚧️",
+        "pinned_tweet_id": "2020482158163378261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019893963415851008/GaYGREEZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3295,
+          "following_count": 865,
+          "like_count": 2161,
+          "listed_count": 7,
+          "media_count": 17,
+          "tweet_count": 174
+        },
+        "username": "SPRlumi",
+        "verified": false
+      }
+    ]
+  }
+}

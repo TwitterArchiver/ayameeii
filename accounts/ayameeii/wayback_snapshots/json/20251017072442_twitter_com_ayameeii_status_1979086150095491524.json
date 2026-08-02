@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1979085806552682805",
+    "created_at": "2025-10-17T07:24:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T08:24:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979086150095491524"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1491368400924422149",
+          "start": 0,
+          "username": "Taffydaisuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979086150095491524",
+    "in_reply_to_user_id": "1491368400924422149",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979085806552682805",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Taffydaisuki 我要睡了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1979085806552682805].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1979085806552682805",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1979085806552682805"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1979085806552682805",
+        "created_at": "2025-10-17T07:24:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T08:24:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979086150095491524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1491368400924422149",
+              "start": 0,
+              "username": "Taffydaisuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979086150095491524",
+        "in_reply_to_user_id": "1491368400924422149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979085806552682805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Taffydaisuki 我要睡了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 154,
+          "like_count": 1079,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 269
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-09T11:08:43.000Z",
+        "description": "mtx，queer，pansexual🏳️‍🌈｜纯良雏草姬+纯良棺材铺喵😿｜入宅7年二次元🇯🇵｜火影手游主修，二游和steam不常玩，钟爱恐怖游戏👻｜日本語N1 英語CET6📘｜偶尔cos，负天赋男娘，化妆进化中💄😭｜梦想是一天能吃一顿KFC躺平🍔｜互FO忘记了可私信",
+        "id": "1491368400924422149",
+        "location": "戻れない場所を探して",
+        "name": "🍫空酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977381993630564352/2oiy7W83_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 621,
+          "following_count": 565,
+          "like_count": 20086,
+          "listed_count": 3,
+          "media_count": 762,
+          "tweet_count": 4651
+        },
+        "username": "Taffydaisuki",
+        "verified": false
+      }
+    ]
+  }
+}

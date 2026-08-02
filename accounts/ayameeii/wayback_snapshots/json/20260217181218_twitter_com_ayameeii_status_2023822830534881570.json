@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2023794828774174845",
+    "created_at": "2026-02-17T18:12:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T19:12:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023822830534881570"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1167502107429105670",
+          "start": 0,
+          "username": "kotomiouo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023822830534881570",
+    "in_reply_to_user_id": "1167502107429105670",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023821135281062397",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kotomiouo 没见识过这个梗（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2023794828774174845",
+        "created_at": "2026-02-17T18:12:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T19:12:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023822830534881570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1167502107429105670",
+              "start": 0,
+              "username": "kotomiouo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023822830534881570",
+        "in_reply_to_user_id": "1167502107429105670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023821135281062397",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kotomiouo 没见识过这个梗（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1167502107429105670",
+        "conversation_id": "2023794828774174845",
+        "created_at": "2026-02-17T18:05:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T19:05:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023821135281062397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1852135214795100164",
+              "start": 0,
+              "username": "ayameeii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023821135281062397",
+        "in_reply_to_user_id": "1852135214795100164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023817573125812510",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayameeii 哈哈哈哈哈哈是的 有這麽像真的嗎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2014053871983685932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 537,
+          "following_count": 409,
+          "like_count": 7196,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 2506
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-30T18:19:39.000Z",
+        "description": "台湾.病み\nJpop🦌🦔🍏.\n音ゲー.東方プロ.",
+        "id": "1167502107429105670",
+        "location": "幻想鄉",
+        "name": "ことみ",
+        "pinned_tweet_id": "1992211371841519826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011279784601665541/qRllQlCv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1228,
+          "following_count": 824,
+          "like_count": 16186,
+          "listed_count": 4,
+          "media_count": 422,
+          "tweet_count": 7261
+        },
+        "username": "kotomiouo",
+        "verified": false
+      }
+    ]
+  }
+}

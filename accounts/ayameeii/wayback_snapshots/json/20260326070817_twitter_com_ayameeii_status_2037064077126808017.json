@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2037052716112109765",
+    "created_at": "2026-03-26T07:08:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T08:08:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037064077126808017"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1947704286944858112",
+          "start": 0,
+          "username": "NanaIOO7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037064077126808017",
+    "in_reply_to_user_id": "1947704286944858112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037052716112109765",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NanaIOO7 这个剂量还是比较小的 有没有其他物质或者本身过敏 如果只是你说的这些没有更严重的情况可以不去的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2037052716112109765",
+        "created_at": "2026-03-26T07:08:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T08:08:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037064077126808017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1947704286944858112",
+              "start": 0,
+              "username": "NanaIOO7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037064077126808017",
+        "in_reply_to_user_id": "1947704286944858112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037052716112109765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NanaIOO7 这个剂量还是比较小的 有没有其他物质或者本身过敏 如果只是你说的这些没有更严重的情况可以不去的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1947704286944858112",
+        "conversation_id": "2037052716112109765",
+        "created_at": "2026-03-26T06:23:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T07:23:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037052716112109765"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037052716112109765",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃了40t白兔bron，一整天都在發抖跟莫名奇妙的抽動，甚至有點坐不住，哪個藥圈的人可以告訴我該怎麼辦，我不敢去醫院"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某次",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2036043044986953736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 700,
+          "following_count": 496,
+          "like_count": 8367,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 3051
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-22T17:04:31.000Z",
+        "description": "09｜地雷系｜躁鬱｜od｜自傷",
+        "id": "1947704286944858112",
+        "name": "ミヤ奈",
+        "pinned_tweet_id": "2006016558221463625",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008156536787628032/tGsnoMsE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1579,
+          "following_count": 310,
+          "like_count": 8790,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 245
+        },
+        "username": "NanaIOO7",
+        "verified": false
+      }
+    ]
+  }
+}

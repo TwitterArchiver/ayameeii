@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1992919441135608308",
+    "created_at": "2025-11-24T12:08:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T13:08:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992928313002893818"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1989547619576905728",
+          "start": 0,
+          "username": "ynbb_ssr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992928313002893818",
+    "in_reply_to_user_id": "1989547619576905728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992919441135608308",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ynbb_ssr 支持你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1240,
+        "media_key": "3_1992919434621845504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6hFqrabgAAagA1.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1992919441135608308",
+        "created_at": "2025-11-24T12:08:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T13:08:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992928313002893818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1989547619576905728",
+              "start": 0,
+              "username": "ynbb_ssr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992928313002893818",
+        "in_reply_to_user_id": "1989547619576905728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992919441135608308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ynbb_ssr 支持你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992919434621845504"
+          ]
+        },
+        "author_id": "1989547619576905728",
+        "conversation_id": "1992919441135608308",
+        "created_at": "2025-11-24T11:33:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T12:33:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992919441135608308"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UYXRsCkhde",
+              "end": 56,
+              "expanded_url": "https://x.com/ynbb_ssr/status/1992919441135608308/photo/1",
+              "media_key": "3_1992919434621845504",
+              "start": 33,
+              "url": "https://t.co/UYXRsCkhde"
+            },
+            {
+              "display_url": "x.com/ayameeii/statu…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/ayameeii/status/1992815126265921635",
+              "start": 57,
+              "url": "https://t.co/uto8qpJRFA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992919441135608308",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992815126265921635",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也想要好多好多小蓝点₍˄·͈༝·͈˄*₎◞ ̑̑(乞讨.jpg https://t.co/UYXRsCkhde https://t.co/uto8qpJRFA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "1992652290252316901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 251,
+          "like_count": 4021,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 1250
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-15T04:14:58.000Z",
+        "description": "02，摩羯♑，ISFJ\n172(±2)-61(±2)-0M(存疑)/side\n理想型:无能的丈夫(可能是因为自己不耐？)\n主线任务:活着就好\n这里是自己的碎碎念～",
+        "id": "1989547619576905728",
+        "name": "是芋泥波波口呀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989548029393973248/eCJM3yDS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 66,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 71
+        },
+        "username": "ynbb_ssr",
+        "verified": false
+      }
+    ]
+  }
+}

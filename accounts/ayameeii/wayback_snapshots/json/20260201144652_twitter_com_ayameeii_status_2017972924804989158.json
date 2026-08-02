@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2017949168892084279",
+    "created_at": "2026-02-01T14:46:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T15:46:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017972924804989158"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1893026488662007810",
+          "start": 0,
+          "username": "youmu0187"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017972924804989158",
+    "in_reply_to_user_id": "1893026488662007810",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017949168892084279",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@youmu0187 摄影大佬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2017949168892084279",
+        "created_at": "2026-02-01T14:46:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T15:46:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017972924804989158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1893026488662007810",
+              "start": 0,
+              "username": "youmu0187"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017972924804989158",
+        "in_reply_to_user_id": "1893026488662007810",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017949168892084279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youmu0187 摄影大佬"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893026488662007810",
+        "conversation_id": "2017949168892084279",
+        "created_at": "2026-02-01T13:12:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T14:12:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017949168892084279"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017949168892084279",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本来只是想对比下清晰度筛选一下成品，但是把coser照片放大看到各种毛孔的时候还是很难绷得住）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2014053871983685932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 535,
+          "following_count": 372,
+          "like_count": 6835,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 2339
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-21T19:54:32.000Z",
+        "description": "不定期存放点随笔，偶尔去发现些有趣事情，需回fo可私信或留言。小号：@AnonChishaya 目前主要用于存放些个人记录，仅对熟人开放。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 34,
+                "username": "AnonChishaya"
+              }
+            ]
+          }
+        },
+        "id": "1893026488662007810",
+        "name": "幽沐",
+        "pinned_tweet_id": "1960750862470668747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965804929576214528/qK5YFJA-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 652,
+          "following_count": 300,
+          "like_count": 7745,
+          "listed_count": 5,
+          "media_count": 318,
+          "tweet_count": 4966
+        },
+        "username": "youmu0187",
+        "verified": false
+      }
+    ]
+  }
+}

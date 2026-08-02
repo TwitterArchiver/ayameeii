@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1978567035903791106",
+    "created_at": "2025-10-15T21:01:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T22:01:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1978567035903791106"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ayameeii/statu…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/ayameeii/status/1978566231612334228",
+          "start": 22,
+          "url": "https://t.co/UOs1pTlTfO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978567035903791106",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978566231612334228",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "以及这个申诉有任何作用吗我请问 理都不理我 https://t.co/UOs1pTlTfO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1978567035903791106",
+        "created_at": "2025-10-15T21:01:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T22:01:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978567035903791106"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ayameeii/statu…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/ayameeii/status/1978566231612334228",
+              "start": 22,
+              "url": "https://t.co/UOs1pTlTfO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978567035903791106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978566231612334228",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "以及这个申诉有任何作用吗我请问 理都不理我 https://t.co/UOs1pTlTfO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1978566231612334228",
+        "created_at": "2025-10-15T20:58:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T21:58:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978566231612334228"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1978566231612334228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "马斯克又把我小号封了... 谁知道怎么规避"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss\n我爱你@tooiaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 31,
+                "start": 23,
+                "username": "tooiaya"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 150,
+          "like_count": 988,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 244
+        },
+        "username": "ayameeii",
+        "verified": false
+      }
+    ]
+  }
+}

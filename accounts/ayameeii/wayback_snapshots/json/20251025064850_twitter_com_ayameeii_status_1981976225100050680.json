@@ -1,0 +1,412 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1981973451234779559",
+    "created_at": "2025-10-25T06:48:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T07:48:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981976225100050680"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1676500088221478912",
+          "start": 0,
+          "username": "DOGYeah3376"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/LumiCatRoll/st…",
+          "end": 36,
+          "expanded_url": "https://x.com/LumiCatRoll/status/1981778828474429785?t=VUKWGwhuI0ctsf0HVnRORg&s=19",
+          "start": 13,
+          "url": "https://t.co/MG7VZPLzOx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981976225100050680",
+    "in_reply_to_user_id": "1676500088221478912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981778828474429785",
+        "type": "quoted"
+      },
+      {
+        "id": "1981973451234779559",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DOGYeah3376 https://t.co/MG7VZPLzOx 存疑"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1148,
+        "media_key": "3_1981777371783892992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4CwBQ0WEAAyUYU.jpg",
+        "width": 880
+      },
+      {
+        "height": 851,
+        "media_key": "3_1981777495096512512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4CwIcMXUAAUuxC.png",
+        "width": 872
+      },
+      {
+        "height": 538,
+        "media_key": "3_1981777586800775168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4CwNx0XUAANqIC.png",
+        "width": 899
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1981973451234779559",
+        "created_at": "2025-10-25T06:48:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T07:48:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981976225100050680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676500088221478912",
+              "start": 0,
+              "username": "DOGYeah3376"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/LumiCatRoll/st…",
+              "end": 36,
+              "expanded_url": "https://x.com/LumiCatRoll/status/1981778828474429785?t=VUKWGwhuI0ctsf0HVnRORg&s=19",
+              "start": 13,
+              "url": "https://t.co/MG7VZPLzOx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981976225100050680",
+        "in_reply_to_user_id": "1676500088221478912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981778828474429785",
+            "type": "quoted"
+          },
+          {
+            "id": "1981973451234779559",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DOGYeah3376 https://t.co/MG7VZPLzOx 存疑"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981777371783892992",
+            "3_1981777495096512512",
+            "3_1981777586800775168"
+          ]
+        },
+        "author_id": "1552918719440924672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1981763252016361613",
+        "created_at": "2025-10-24T17:44:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T18:44:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981778828474429785"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GqFRd3AotY",
+              "end": 178,
+              "expanded_url": "https://x.com/LumiCatRoll/status/1981778828474429785/photo/1",
+              "media_key": "3_1981777371783892992",
+              "start": 155,
+              "url": "https://t.co/GqFRd3AotY"
+            },
+            {
+              "display_url": "pic.x.com/GqFRd3AotY",
+              "end": 178,
+              "expanded_url": "https://x.com/LumiCatRoll/status/1981778828474429785/photo/1",
+              "media_key": "3_1981777495096512512",
+              "start": 155,
+              "url": "https://t.co/GqFRd3AotY"
+            },
+            {
+              "display_url": "pic.x.com/GqFRd3AotY",
+              "end": 178,
+              "expanded_url": "https://x.com/LumiCatRoll/status/1981778828474429785/photo/1",
+              "media_key": "3_1981777586800775168",
+              "start": 155,
+              "url": "https://t.co/GqFRd3AotY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981778828474429785",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "抛开普瑞巴林，看看“朋友送的”美味的LSD吧。哦，还有，教唆未成年人吸毒的话怎么判来着？当然如果对这个熟悉的孩子们，LSD的市场价格一个blotter多少钱大家都知道。而且，据我所知LSD的CD至少两周最好一个月，然后我不知道cyy是如何以“加大剂量”的方式在一周内多次服用LSD的（可惜聊天记录找不到了），这个是博同情还是服用了某个别的物质还是什么情况我暂且蒙古。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2920,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981775887323607043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "抛开普瑞巴林，看看“朋友送的”美味的LSD吧。哦，还有，教唆未成年人吸毒的话怎么判来着？当然如果对这个熟悉的孩子们，LSD的市场价格一个blotter多少钱大家都知道。而且，据我所知LSD的CD至少两周最好一个月，然后我不知道cyy是如何以“加大剂量”的方式在一周内多次服用LSD的（可惜聊天记录找不到了）， https://t.co/GqFRd3AotY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1981973451234779559",
+        "created_at": "2025-10-25T06:37:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T07:37:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981973451234779559"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lumicatroll/st…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/lumicatroll/status/1981769184884527302",
+              "start": 11,
+              "url": "https://t.co/sdf81IcDX8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981973451234779559",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981769184884527302",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "玩得起lsd还这样吗 https://t.co/sdf81IcDX8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 190,
+          "like_count": 1688,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 451
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭@Yyyyy_pog｜主人❤️ @1qva0TT｜路边一条🚬@yu_huacs｜小猫🐱@qbpdsslvy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 64,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 88,
+                "start": 80,
+                "username": "1qva0TT"
+              },
+              {
+                "end": 103,
+                "start": 94,
+                "username": "yu_huacs"
+              },
+              {
+                "end": 117,
+                "start": 107,
+                "username": "qbpdsslvy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn3G8v"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "小皮🪼",
+        "pinned_tweet_id": "1980287770011857252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979171735669719041/xwbTRqej_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 803,
+          "following_count": 1025,
+          "like_count": 55302,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 3617
+        },
+        "url": "https://t.co/FCn9Sn3G8v",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "传送门 @Chiyuyu520 如果能在百忙之中抽空看一眼你的老朋友发给你的推文，我想必会受宠若惊",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 4,
+                "username": "Chiyuyu520"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "name": "Lumi & 猫卷 Co. (日雌泰补诺",
+        "pinned_tweet_id": "1981763252016361613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981599824827838464/S98pBSrV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1618,
+          "following_count": 747,
+          "like_count": 562,
+          "listed_count": 2,
+          "media_count": 94,
+          "tweet_count": 1410
+        },
+        "username": "LumiCatRoll",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982446086963781632",
+        "3_1982446086984740864"
+      ],
+      "media_source_tweet_id": [
+        "1982446094400581691",
+        "1982446094400581691"
+      ]
+    },
+    "author_id": "1852135214795100164",
+    "conversation_id": "1982447536347746419",
+    "created_at": "2025-10-26T14:01:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T15:01:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982447536347746419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1850072961468043264",
+          "start": 3,
+          "username": "Guling_Nijika"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dXxuWBklsN",
+          "end": 90,
+          "expanded_url": "https://x.com/Guling_Nijika/status/1982446094400581691/photo/1",
+          "media_key": "3_1982446086963781632",
+          "start": 67,
+          "url": "https://t.co/dXxuWBklsN"
+        },
+        {
+          "display_url": "pic.x.com/dXxuWBklsN",
+          "end": 90,
+          "expanded_url": "https://x.com/Guling_Nijika/status/1982446094400581691/photo/1",
+          "media_key": "3_1982446086984740864",
+          "start": 67,
+          "url": "https://t.co/dXxuWBklsN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982447536347746419",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982446094400581691",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Guling_Nijika: 我是Winit420，我重生了，上一世突然暴死，这一世我一定要拿回我的一切。\n大家帮忙转发一下 https://t.co/dXxuWBklsN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1100,
+        "media_key": "3_1982446086963781632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4MQNm_W4AAGGkj.jpg",
+        "width": 1100
+      },
+      {
+        "height": 519,
+        "media_key": "3_1982446086984740864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4MQNnEWsAAezow.jpg",
+        "width": 387
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982446086963781632",
+            "3_1982446086984740864"
+          ],
+          "media_source_tweet_id": [
+            "1982446094400581691",
+            "1982446094400581691"
+          ]
+        },
+        "author_id": "1852135214795100164",
+        "conversation_id": "1982447536347746419",
+        "created_at": "2025-10-26T14:01:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T15:01:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982447536347746419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1850072961468043264",
+              "start": 3,
+              "username": "Guling_Nijika"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dXxuWBklsN",
+              "end": 90,
+              "expanded_url": "https://x.com/Guling_Nijika/status/1982446094400581691/photo/1",
+              "media_key": "3_1982446086963781632",
+              "start": 67,
+              "url": "https://t.co/dXxuWBklsN"
+            },
+            {
+              "display_url": "pic.x.com/dXxuWBklsN",
+              "end": 90,
+              "expanded_url": "https://x.com/Guling_Nijika/status/1982446094400581691/photo/1",
+              "media_key": "3_1982446086984740864",
+              "start": 67,
+              "url": "https://t.co/dXxuWBklsN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982447536347746419",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982446094400581691",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Guling_Nijika: 我是Winit420，我重生了，上一世突然暴死，这一世我一定要拿回我的一切。\n大家帮忙转发一下 https://t.co/dXxuWBklsN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982446086963781632",
+            "3_1982446086984740864"
+          ]
+        },
+        "author_id": "1850072961468043264",
+        "conversation_id": "1982446094400581691",
+        "created_at": "2025-10-26T13:55:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T14:55:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982446094400581691"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dXxuWBklsN",
+              "end": 71,
+              "expanded_url": "https://x.com/Guling_Nijika/status/1982446094400581691/photo/1",
+              "media_key": "3_1982446086963781632",
+              "start": 48,
+              "url": "https://t.co/dXxuWBklsN"
+            },
+            {
+              "display_url": "pic.x.com/dXxuWBklsN",
+              "end": 71,
+              "expanded_url": "https://x.com/Guling_Nijika/status/1982446094400581691/photo/1",
+              "media_key": "3_1982446086984740864",
+              "start": 48,
+              "url": "https://t.co/dXxuWBklsN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982446094400581691",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我是Winit420，我重生了，上一世突然暴死，这一世我一定要拿回我的一切。\n大家帮忙转发一下 https://t.co/dXxuWBklsN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 189,
+          "like_count": 1854,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 500
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-26T07:12:32.000Z",
+        "description": "今天我思考了吗",
+        "id": "1850072961468043264",
+        "location": "Winit420",
+        "name": "牯岭街普通虹夏",
+        "pinned_tweet_id": "1977198260264878216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982437648179355648/Gyd20Lbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 73,
+          "like_count": 345,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 308
+        },
+        "username": "Guling_Nijika",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,482 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2045021881007571290",
+    "created_at": "2026-04-17T06:09:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T07:09:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045021881007571290"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2043952988557803520",
+          "start": 3,
+          "username": "tngxngxng13171"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045021881007571290",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044847486486102276",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tngxngxng13171: 这是一条文字自介\n这里星星，是互联网的堕天使哦~\n04.07，双相患者，会出一些cosplay，喜欢玩随舞目前考虑爬台，是化妆美甲纹绣师可以找我约妆约美甲约纹身\n喜欢被绳缚、窒息、穿刺（一般穿刺为个人玩），双属性偏m，如若想约需过🚪38r…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2044847482967035904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGDB86IaEAAECfB.jpg",
+        "width": 1080
+      },
+      {
+        "height": 992,
+        "media_key": "3_2044847482027626496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGDB82ob0AAtKI6.jpg",
+        "width": 744
+      },
+      {
+        "height": 744,
+        "media_key": "3_2044847482769965056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGDB85ZbAAAFAnn.jpg",
+        "width": 1051
+      },
+      {
+        "height": 895,
+        "media_key": "3_2044847482279251968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGDB83kbUAAMtIm.jpg",
+        "width": 895
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2045021881007571290",
+        "created_at": "2026-04-17T06:09:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T07:09:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045021881007571290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2043952988557803520",
+              "start": 3,
+              "username": "tngxngxng13171"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045021881007571290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044847486486102276",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tngxngxng13171: 这是一条文字自介\n这里星星，是互联网的堕天使哦~\n04.07，双相患者，会出一些cosplay，喜欢玩随舞目前考虑爬台，是化妆美甲纹绣师可以找我约妆约美甲约纹身\n喜欢被绳缚、窒息、穿刺（一般穿刺为个人玩），双属性偏m，如若想约需过🚪38r…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044847482967035904",
+            "3_2044847482027626496",
+            "3_2044847482769965056",
+            "3_2044847482279251968"
+          ]
+        },
+        "author_id": "2043952988557803520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series.\n\nThe Video Game domain query only tracks conversation about the game series whereas the Multimedia Franchise query contains all Persona conversation.",
+              "id": "854954654546907136",
+              "name": "Persona"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series.\n\nThe Video Game domain query only tracks conversation about the game series whereas the Multimedia Franchise query contains all Persona conversation.",
+              "id": "854954654546907136",
+              "name": "Persona"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898900390707204",
+              "name": "JRPGs"
+            }
+          }
+        ],
+        "conversation_id": "2044847486486102276",
+        "created_at": "2026-04-16T18:36:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T19:36:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044847486486102276"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wykuN5YJxT",
+              "end": 187,
+              "expanded_url": "https://x.com/tngxngxng13171/status/2044847486486102276/photo/1",
+              "media_key": "3_2044847482967035904",
+              "start": 164,
+              "url": "https://t.co/wykuN5YJxT"
+            },
+            {
+              "display_url": "pic.x.com/wykuN5YJxT",
+              "end": 187,
+              "expanded_url": "https://x.com/tngxngxng13171/status/2044847486486102276/photo/1",
+              "media_key": "3_2044847482027626496",
+              "start": 164,
+              "url": "https://t.co/wykuN5YJxT"
+            },
+            {
+              "display_url": "pic.x.com/wykuN5YJxT",
+              "end": 187,
+              "expanded_url": "https://x.com/tngxngxng13171/status/2044847486486102276/photo/1",
+              "media_key": "3_2044847482769965056",
+              "start": 164,
+              "url": "https://t.co/wykuN5YJxT"
+            },
+            {
+              "display_url": "pic.x.com/wykuN5YJxT",
+              "end": 187,
+              "expanded_url": "https://x.com/tngxngxng13171/status/2044847486486102276/photo/1",
+              "media_key": "3_2044847482279251968",
+              "start": 164,
+              "url": "https://t.co/wykuN5YJxT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044847486486102276",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 334,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "这是一条文字自介\n这里星星，是互联网的堕天使哦~\n04.07，双相患者，会出一些cosplay，喜欢玩随舞目前考虑爬台，是化妆美甲纹绣师可以找我约妆约美甲约纹身\n喜欢被绳缚、窒息、穿刺（一般穿刺为个人玩），双属性偏m，如若想约需过🚪38r\nod、烟鬼，od偏好pr&amp;ym\nIP需互发，单纯解锁需🚪20r\np4是圈米码😋 https://t.co/wykuN5YJxT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存|对象❤️@AAAAAMTxT 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "AAAAAMTxT"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 48,
+                "start": 38,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 803,
+          "following_count": 599,
+          "like_count": 9469,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 3503
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-14T07:22:50.000Z",
+        "description": "转生成功的星星天使/互联网的堕天使/白骑士综合征？/地雷/餐券/病弱/抖M/恋痛/生理双性/无性别主义者/永远怀念@AAAAAMTxT /❤️@ayameeii/互fo寻回中... \n\n主坑prsk/主推宵崎奏、晓山瑞希、望月穗波、日野森志步/团推Leoneed&25时/会出一些相关的cos\n\n副坑神椿/喜欢可不的歌声",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 57,
+                "username": "AAAAAMTxT"
+              },
+              {
+                "end": 80,
+                "start": 71,
+                "username": "ayameeii"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaaaamtxt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaaaamtxt",
+                "start": 0,
+                "url": "https://t.co/pN6Lr104tH"
+              }
+            ]
+          }
+        },
+        "id": "2043952988557803520",
+        "location": "Hong Kong",
+        "name": "星星天使糖",
+        "pinned_tweet_id": "2044847486486102276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044128703157014528/1Je2ys0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 117,
+          "like_count": 524,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 170
+        },
+        "url": "https://t.co/pN6Lr104tH",
+        "username": "tngxngxng13171",
+        "verified": false
+      }
+    ]
+  }
+}

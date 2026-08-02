@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047009030930087936"
+      ]
+    },
+    "author_id": "1852135214795100164",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2047009033081807228",
+    "created_at": "2026-04-22T17:45:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T18:45:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047009033081807228"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GpTWBX5rFP",
+          "end": 51,
+          "expanded_url": "https://x.com/ayameeii/status/2047009033081807228/photo/1",
+          "media_key": "3_2047009030930087936",
+          "start": 28,
+          "url": "https://t.co/GpTWBX5rFP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047009033081807228",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "图为奥沙西冸 抠药抠太猛了现在才发现当时拿下来的是半片 https://t.co/GpTWBX5rFP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2047009030930087936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGhv3jyawAAPDao.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047009030930087936"
+          ]
+        },
+        "author_id": "1852135214795100164",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2047009033081807228",
+        "created_at": "2026-04-22T17:45:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T18:45:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047009033081807228"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GpTWBX5rFP",
+              "end": 51,
+              "expanded_url": "https://x.com/ayameeii/status/2047009033081807228/photo/1",
+              "media_key": "3_2047009030930087936",
+              "start": 28,
+              "url": "https://t.co/GpTWBX5rFP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047009033081807228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "图为奥沙西冸 抠药抠太猛了现在才发现当时拿下来的是半片 https://t.co/GpTWBX5rFP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存|对象❤️@AAAAAMTxT 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "AAAAAMTxT"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 48,
+                "start": 38,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 807,
+          "following_count": 601,
+          "like_count": 9586,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 3563
+        },
+        "username": "ayameeii",
+        "verified": false
+      }
+    ]
+  }
+}

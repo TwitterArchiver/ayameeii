@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2042323597407240499",
+    "created_at": "2026-04-09T19:37:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T20:37:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042326050756313588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2031995714000302080",
+          "start": 0,
+          "username": "Thalyabdlp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042326050756313588",
+    "in_reply_to_user_id": "2031995714000302080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042324756691894657",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Thalyabdlp 宝宝你这么好陪我嗑药😭😭😭主要是我醒的很晚🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2042323597407240499",
+        "created_at": "2026-04-09T19:37:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T20:37:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042326050756313588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2031995714000302080",
+              "start": 0,
+              "username": "Thalyabdlp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042326050756313588",
+        "in_reply_to_user_id": "2031995714000302080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042324756691894657",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Thalyabdlp 宝宝你这么好陪我嗑药😭😭😭主要是我醒的很晚🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031995714000302080",
+        "conversation_id": "2042323597407240499",
+        "created_at": "2026-04-09T19:32:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T20:32:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042324756691894657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1852135214795100164",
+              "start": 0,
+              "username": "ayameeii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042324756691894657",
+        "in_reply_to_user_id": "1852135214795100164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042323597407240499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayameeii 我今天也想吃拖到现在了没睡也没吃…🥲要不然我们明天一起o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2036043044986953736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 780,
+          "following_count": 567,
+          "like_count": 9179,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 3408
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T07:30:30.000Z",
+        "description": "只想交点朋友再发点碎碎念｜直fo是喜欢你｜精神病很严重不用在意我的发言",
+        "id": "2031995714000302080",
+        "name": "Landiaros",
+        "pinned_tweet_id": "2042317479603814700",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042320561968410624/SflSnRzk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 49,
+          "like_count": 240,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 96
+        },
+        "username": "Thalyabdlp",
+        "verified": false
+      }
+    ]
+  }
+}

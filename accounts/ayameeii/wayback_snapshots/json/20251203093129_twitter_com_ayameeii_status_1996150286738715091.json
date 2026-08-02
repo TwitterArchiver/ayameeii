@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1996083257860112862",
+    "created_at": "2025-12-03T09:31:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T10:31:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996150286738715091"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1392430842102697984",
+          "start": 0,
+          "username": "yeyijun6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996150286738715091",
+    "in_reply_to_user_id": "1392430842102697984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996083257860112862",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yeyijun6 萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1996083248406167557",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7ODI4NbgAUoZJR.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1996083248339058688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7ODI39bgAArAjV.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1996083248376737792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7ODI4GacAAHhrv.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1996083248339050496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7ODI39bYAANSfB.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1996083257860112862",
+        "created_at": "2025-12-03T09:31:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T10:31:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996150286738715091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1392430842102697984",
+              "start": 0,
+              "username": "yeyijun6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996150286738715091",
+        "in_reply_to_user_id": "1392430842102697984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996083257860112862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yeyijun6 萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996083248406167557",
+            "3_1996083248339058688",
+            "3_1996083248376737792",
+            "3_1996083248339050496"
+          ]
+        },
+        "author_id": "1392430842102697984",
+        "conversation_id": "1996083257860112862",
+        "created_at": "2025-12-03T05:05:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T06:05:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996083257860112862"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eKufthaRAr",
+              "end": 29,
+              "expanded_url": "https://x.com/yeyijun6/status/1996083257860112862/photo/1",
+              "media_key": "3_1996083248406167557",
+              "start": 6,
+              "url": "https://t.co/eKufthaRAr"
+            },
+            {
+              "display_url": "pic.x.com/eKufthaRAr",
+              "end": 29,
+              "expanded_url": "https://x.com/yeyijun6/status/1996083257860112862/photo/1",
+              "media_key": "3_1996083248339058688",
+              "start": 6,
+              "url": "https://t.co/eKufthaRAr"
+            },
+            {
+              "display_url": "pic.x.com/eKufthaRAr",
+              "end": 29,
+              "expanded_url": "https://x.com/yeyijun6/status/1996083257860112862/photo/1",
+              "media_key": "3_1996083248376737792",
+              "start": 6,
+              "url": "https://t.co/eKufthaRAr"
+            },
+            {
+              "display_url": "pic.x.com/eKufthaRAr",
+              "end": 29,
+              "expanded_url": "https://x.com/yeyijun6/status/1996083257860112862/photo/1",
+              "media_key": "3_1996083248339050496",
+              "start": 6,
+              "url": "https://t.co/eKufthaRAr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996083257860112862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 1964,
+          "like_count": 65,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "甩点大头照 https://t.co/eKufthaRAr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "1992652290252316901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 289,
+          "like_count": 4774,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1511
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-12T10:46:06.000Z",
+        "description": "随缘更新 菲柱一只 目前还在减肥 没有🚪 欢迎找我聊天 q2772346463 想改掉好多毛病 比如面瘫 眼部肌无力",
+        "id": "1392430842102697984",
+        "location": "上海",
+        "name": "帕不甜",
+        "pinned_tweet_id": "1993838217142177852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986371968183246851/ATv2Qi-7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 114,
+          "like_count": 51,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 77
+        },
+        "username": "yeyijun6",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1993977881287098767",
+    "created_at": "2025-11-27T09:44:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T10:44:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993979230930018630"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1765825463103139840",
+          "start": 0,
+          "username": "Chloris923"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993979230930018630",
+    "in_reply_to_user_id": "1765825463103139840",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993977881287098767",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chloris923 ✅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1993977881287098767",
+        "created_at": "2025-11-27T09:44:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T10:44:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993979230930018630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1765825463103139840",
+              "start": 0,
+              "username": "Chloris923"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993979230930018630",
+        "in_reply_to_user_id": "1765825463103139840",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993977881287098767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chloris923 ✅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1765825463103139840",
+        "conversation_id": "1993977881287098767",
+        "created_at": "2025-11-27T09:39:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T10:39:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993977881287098767"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Chloris923/sta…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/Chloris923/status/1993973675876573664",
+              "start": 40,
+              "url": "https://t.co/YKnU2v2oGw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993977881287098767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993973675876573664",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "昨天在電腦看是要us$1然後今天想要是還能便宜我就買一個月，於是變成了au$1 https://t.co/YKnU2v2oGw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "1992652290252316901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 264,
+          "like_count": 4229,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 1326
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-07T19:43:16.000Z",
+        "description": "小镜子@pamnc2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 3,
+                "username": "pamnc2024"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+wUFTz7W19p0xZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+wUFTz7W19p0xZTk1",
+                "start": 0,
+                "url": "https://t.co/9K3rlt5Yea"
+              }
+            ]
+          }
+        },
+        "id": "1765825463103139840",
+        "name": "🪞",
+        "pinned_tweet_id": "1991112867471577288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992515558689193984/dbBJeHML_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 295,
+          "like_count": 20387,
+          "listed_count": 3,
+          "media_count": 422,
+          "tweet_count": 10728
+        },
+        "url": "https://t.co/9K3rlt5Yea",
+        "username": "Chloris923",
+        "verified": true
+      }
+    ]
+  }
+}

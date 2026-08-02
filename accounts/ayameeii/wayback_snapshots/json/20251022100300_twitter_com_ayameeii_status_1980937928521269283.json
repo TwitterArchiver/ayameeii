@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1980933804182458596",
+    "created_at": "2025-10-22T10:03:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T11:03:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980937928521269283"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1916128320103890944",
+          "start": 0,
+          "username": "Angeldust_g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980937928521269283",
+    "in_reply_to_user_id": "1916128320103890944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980933804182458596",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Angeldust_g 人工搜索引擎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1980933804182458596",
+        "created_at": "2025-10-22T10:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T11:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980937928521269283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1916128320103890944",
+              "start": 0,
+              "username": "Angeldust_g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980937928521269283",
+        "in_reply_to_user_id": "1916128320103890944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980933804182458596",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angeldust_g 人工搜索引擎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916128320103890944",
+        "conversation_id": "1980933804182458596",
+        "created_at": "2025-10-22T09:46:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T10:46:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980933804182458596"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1980933804182458596",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想写个置顶但显得屁话很多但是为什么有人找我药物咨询 此人药理学知识接近0神农精神也不如鸡哥 来找我问问题我也是一边查一边回复的🙀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 176,
+          "like_count": 1505,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 403
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-26T13:52:53.000Z",
+        "description": "存在于世界夹缝之中的幽灵｜#odtwt｜#shtwt丨提问箱https://t.co/0uipWc5v1I",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 19,
+                "start": 13,
+                "tag": "odtwt"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/angeldust_g",
+                "end": 53,
+                "expanded_url": "https://ngl.link/angeldust_g",
+                "start": 30,
+                "url": "https://t.co/0uipWc5v1I"
+              }
+            ]
+          }
+        },
+        "id": "1916128320103890944",
+        "name": "天使尘",
+        "pinned_tweet_id": "1977761491144020251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934546666427916288/WzGE0zLt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 285,
+          "like_count": 1560,
+          "listed_count": 2,
+          "media_count": 27,
+          "tweet_count": 1252
+        },
+        "username": "Angeldust_g",
+        "verified": false
+      }
+    ]
+  }
+}

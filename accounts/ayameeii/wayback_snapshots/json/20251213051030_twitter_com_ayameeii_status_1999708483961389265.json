@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1999708304692642275",
+    "created_at": "2025-12-13T05:10:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T06:10:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999708483961389265"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1733255083440357376",
+          "start": 0,
+          "username": "8964_xy11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999708483961389265",
+    "in_reply_to_user_id": "1733255083440357376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999708304692642275",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964_xy11 来我这里玩我的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1999708304692642275",
+        "created_at": "2025-12-13T05:10:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T06:10:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999708483961389265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1733255083440357376",
+              "start": 0,
+              "username": "8964_xy11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999708483961389265",
+        "in_reply_to_user_id": "1733255083440357376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999708304692642275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_xy11 来我这里玩我的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733255083440357376",
+        "conversation_id": "1999708304692642275",
+        "created_at": "2025-12-13T05:09:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T06:09:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999708304692642275"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999708304692642275",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "许愿一个能玩游戏的电脑我好孤独😳"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "1992652290252316901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 303,
+          "like_count": 5480,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1760
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-08T22:40:22.000Z",
+        "description": "低精度伪人生物｜感谢各路私人恩怨 （提问箱：https://t.co/j6vldLUAkw）",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiye19652",
+                "end": 45,
+                "expanded_url": "https://ngl.link/xiye19652",
+                "start": 22,
+                "url": "https://t.co/j6vldLUAkw"
+              }
+            ]
+          }
+        },
+        "id": "1733255083440357376",
+        "location": "你找不到的地方",
+        "name": "曦夜今天吃什么",
+        "pinned_tweet_id": "1997086307357687831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997214047159402496/9rTa3x7z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1056,
+          "following_count": 782,
+          "like_count": 41998,
+          "listed_count": 7,
+          "media_count": 27,
+          "tweet_count": 201
+        },
+        "username": "8964_xy11",
+        "verified": false
+      }
+    ]
+  }
+}

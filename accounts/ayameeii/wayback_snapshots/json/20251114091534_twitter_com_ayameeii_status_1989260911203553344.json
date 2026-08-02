@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1989257140746477711",
+    "created_at": "2025-11-14T09:15:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T10:15:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989260911203553344"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1863087380615569408",
+          "start": 0,
+          "username": "kiri_nokara"
+        },
+        {
+          "end": 24,
+          "id": "1910605041087766529",
+          "start": 13,
+          "username": "Apibaizhou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989260911203553344",
+    "in_reply_to_user_id": "1863087380615569408",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989258089108021336",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kiri_nokara @Apibaizhou 同"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1989257140746477711",
+        "created_at": "2025-11-14T09:15:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T10:15:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989260911203553344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1863087380615569408",
+              "start": 0,
+              "username": "kiri_nokara"
+            },
+            {
+              "end": 24,
+              "id": "1910605041087766529",
+              "start": 13,
+              "username": "Apibaizhou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989260911203553344",
+        "in_reply_to_user_id": "1863087380615569408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989258089108021336",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiri_nokara @Apibaizhou 同"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863087380615569408",
+        "conversation_id": "1989257140746477711",
+        "created_at": "2025-11-14T09:04:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T10:04:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989258089108021336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1910605041087766529",
+              "start": 0,
+              "username": "Apibaizhou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989258089108021336",
+        "in_reply_to_user_id": "1910605041087766529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989257140746477711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Apibaizhou 我连回复都没"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 229,
+          "like_count": 3221,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 990
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-01T05:08:07.000Z",
+        "description": "本人女｜性别男｜射手座 ISFP-T｜14岁｜反社会/边缘性/多重人格障碍｜重度抑郁/焦虑｜自残｜ASD|｜ADHD | 先天性心脏病｜玻璃心｜肥猪 ｜人妖 ｜OD｜",
+        "id": "1863087380615569408",
+        "location": "小马利亚",
+        "name": "户外探险小琳🐲",
+        "pinned_tweet_id": "1988985458278494394",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984384495655796739/iiR8199y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 343,
+          "like_count": 7383,
+          "listed_count": 1,
+          "media_count": 151,
+          "tweet_count": 877
+        },
+        "username": "kiri_nokara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-11T08:05:59.000Z",
+        "description": "ドラマチックに人が死ぬストーリーって売れるじゃないですか",
+        "id": "1910605041087766529",
+        "name": "🍥玉梅好甜喵🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989239114647105536/OzEI5bjA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 499,
+          "like_count": 2073,
+          "listed_count": 2,
+          "media_count": 46,
+          "tweet_count": 215
+        },
+        "username": "Apibaizhou",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2055321672849543400",
+    "created_at": "2026-05-15T20:32:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T21:32:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055385879028613176"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1487381381114073089",
+          "start": 0,
+          "username": "gou49590465"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055385879028613176",
+    "in_reply_to_user_id": "1487381381114073089",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055321672849543400",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gou49590465 很棒欸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2055321672849543400",
+        "created_at": "2026-05-15T20:32:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T21:32:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055385879028613176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1487381381114073089",
+              "start": 0,
+              "username": "gou49590465"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055385879028613176",
+        "in_reply_to_user_id": "1487381381114073089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055321672849543400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gou49590465 很棒欸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1487381381114073089",
+        "conversation_id": "2055321672849543400",
+        "created_at": "2026-05-15T16:17:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T17:17:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055321672849543400"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055321672849543400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 232,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我很久沒割了你們説我是不是很棒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存| 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 34,
+                "start": 24,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 951,
+          "following_count": 648,
+          "like_count": 10013,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 3773
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-29T11:05:49.000Z",
+        "description": "09/ 女高/日系/地雷系/cos \n線上線下、圖包私訊我  投喂抖內有福利\n好想認識可愛妹紙、、、",
+        "id": "1487381381114073089",
+        "name": "狗狗",
+        "pinned_tweet_id": "2055329820578607325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044451587322781696/_xPAg5H0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 44,
+          "like_count": 1281,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 46
+        },
+        "username": "gou49590465",
+        "verified": false
+      }
+    ]
+  }
+}

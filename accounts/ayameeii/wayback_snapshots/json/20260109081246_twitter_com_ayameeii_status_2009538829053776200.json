@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2009527394059866292",
+    "created_at": "2026-01-09T08:12:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T09:12:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009538829053776200"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1438140768091140096",
+          "start": 0,
+          "username": "kumatamasan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009538829053776200",
+    "in_reply_to_user_id": "1438140768091140096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009537038161432780",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kumatamasan 他很理直气壮😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2009527394059866292",
+        "created_at": "2026-01-09T08:12:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T09:12:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009538829053776200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1438140768091140096",
+              "start": 0,
+              "username": "kumatamasan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009538829053776200",
+        "in_reply_to_user_id": "1438140768091140096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009537038161432780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kumatamasan 他很理直气壮😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438140768091140096",
+        "conversation_id": "2009527394059866292",
+        "created_at": "2026-01-09T08:05:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T09:05:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009537038161432780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1852135214795100164",
+              "start": 0,
+              "username": "ayameeii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009537038161432780",
+        "in_reply_to_user_id": "1852135214795100164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009535889073119305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayameeii 想让他多陪陪你的话，会不会直接跟他说比较好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2008864131290694085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 333,
+          "like_count": 6145,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 2017
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-15T14:03:14.000Z",
+        "description": "Cn/En/Jp🌐 #日本語間違えてたら教えて | A spoonful of sugar helps the medicine go down 🍭 | 书推评论号 @Cordifhyura",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 23,
+                "start": 10,
+                "tag": "日本語間違えてたら教えて"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 95,
+                "start": 83,
+                "username": "Cordifhyura"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pomalfunction.wordpress.com/contact/",
+                "end": 23,
+                "expanded_url": "https://pomalfunction.wordpress.com/contact/",
+                "start": 0,
+                "url": "https://t.co/qjoYdGFKeD"
+              }
+            ]
+          }
+        },
+        "id": "1438140768091140096",
+        "location": "妖都",
+        "name": "たまき❄️",
+        "pinned_tweet_id": "2009218043671699668",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995375020676354048/mGA83MwT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 624,
+          "following_count": 1535,
+          "like_count": 29632,
+          "listed_count": 9,
+          "media_count": 2911,
+          "tweet_count": 14037
+        },
+        "url": "https://t.co/qjoYdGFKeD",
+        "username": "kumatamasan",
+        "verified": false
+      }
+    ]
+  }
+}

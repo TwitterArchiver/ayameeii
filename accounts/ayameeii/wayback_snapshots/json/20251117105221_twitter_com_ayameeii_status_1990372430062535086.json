@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1990371578035703813",
+    "created_at": "2025-11-17T10:52:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T11:52:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990372430062535086"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1983516341400420352",
+          "start": 0,
+          "username": "rrRelo_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990372430062535086",
+    "in_reply_to_user_id": "1983516341400420352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990371578035703813",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rrRelo_ 哟这不是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1990371578035703813",
+        "created_at": "2025-11-17T10:52:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T11:52:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990372430062535086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1983516341400420352",
+              "start": 0,
+              "username": "rrRelo_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990372430062535086",
+        "in_reply_to_user_id": "1983516341400420352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990371578035703813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rrRelo_ 哟这不是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983516341400420352",
+        "conversation_id": "1990371578035703813",
+        "created_at": "2025-11-17T10:48:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T11:48:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990371578035703813"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/overspeed_wiki…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/overspeed_wiki2/status/1990370003645055261",
+              "start": 3,
+              "url": "https://t.co/IOeqlRHT4B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990371578035703813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990370003645055261",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "喜报 https://t.co/IOeqlRHT4B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 236,
+          "like_count": 3506,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 1080
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-29T12:49:03.000Z",
+        "description": "户账本名命重将即 关无马人站原与论言户账本，散解已站原，割切站原与已",
+        "id": "1983516341400420352",
+        "name": "风晨户卓安 蛆药卓安 ➗跨卓安",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990368103788871682/QRmdAFC7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 152,
+          "like_count": 65,
+          "listed_count": 2,
+          "media_count": 6,
+          "tweet_count": 277
+        },
+        "username": "rrRelo_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2044036133869498822",
+    "created_at": "2026-04-14T16:32:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T17:32:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044091335486124242"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1929416262989557760",
+          "start": 0,
+          "username": "maoxian1527"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044091335486124242",
+    "in_reply_to_user_id": "1929416262989557760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044036133869498822",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maoxian1527 所以你选了哪个.."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2044036124130324482",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF3gBm7asAISD1b.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2044036133869498822",
+        "created_at": "2026-04-14T16:32:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T17:32:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044091335486124242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929416262989557760",
+              "start": 0,
+              "username": "maoxian1527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044091335486124242",
+        "in_reply_to_user_id": "1929416262989557760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044036133869498822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maoxian1527 所以你选了哪个.."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044036124130324482"
+          ]
+        },
+        "author_id": "1929416262989557760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2044036133869498822",
+        "created_at": "2026-04-14T12:52:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T13:52:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044036133869498822"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PjgmsLQC9Q",
+              "end": 27,
+              "expanded_url": "https://x.com/maoxian1527/status/2044036133869498822/photo/1",
+              "media_key": "3_2044036124130324482",
+              "start": 4,
+              "url": "https://t.co/PjgmsLQC9Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044036133869498822",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 333,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "选哪个 https://t.co/PjgmsLQC9Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存|对象❤️@AAAAAMTxT 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "AAAAAMTxT"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 48,
+                "start": 38,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 796,
+          "following_count": 592,
+          "like_count": 9420,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 3478
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-02T05:54:41.000Z",
+        "description": "🤍2010.11.17🤍 | kitty live system | 碎碎念 | 🏳️‍⚧️友好 | 看心情互fo | 防走丢@maoxiansql | 对象@meph4786 | 诡秘@zqtlovekris99 | https://t.co/YH60jMfgxm",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 63,
+                "username": "maoxiansql"
+              },
+              {
+                "end": 88,
+                "start": 79,
+                "username": "meph4786"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "zqtlovekris99"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 133,
+                "expanded_url": "https://www.tz86.vip/#/register?code=x4VsZAeR",
+                "start": 110,
+                "url": "https://t.co/YH60jMfgxm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianact.top",
+                "end": 23,
+                "expanded_url": "http://maoxianact.top/",
+                "start": 0,
+                "url": "https://t.co/BsriOOm0E4"
+              }
+            ]
+          }
+        },
+        "id": "1929416262989557760",
+        "location": "29CNY千年vpn喵↑",
+        "name": "猫弦nekogen🍥",
+        "pinned_tweet_id": "2041434241335230626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041391782861434882/pkljq0Fd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1633,
+          "following_count": 266,
+          "like_count": 3772,
+          "listed_count": 1,
+          "media_count": 259,
+          "tweet_count": 1952
+        },
+        "url": "https://t.co/BsriOOm0E4",
+        "username": "maoxian1527",
+        "verified": true
+      }
+    ]
+  }
+}

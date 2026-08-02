@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1983865214652313719",
+    "created_at": "2025-10-30T13:29:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T14:29:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983889020330635759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1804296555354013696",
+          "start": 0,
+          "username": "LoveForever_52"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983889020330635759",
+    "in_reply_to_user_id": "1804296555354013696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983865214652313719",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LoveForever_52 好强的手艺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1983865214652313719",
+        "created_at": "2025-10-30T13:29:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T14:29:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983889020330635759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1804296555354013696",
+              "start": 0,
+              "username": "LoveForever_52"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983889020330635759",
+        "in_reply_to_user_id": "1804296555354013696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983865214652313719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LoveForever_52 好强的手艺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804296555354013696",
+        "conversation_id": "1983865214652313719",
+        "created_at": "2025-10-30T11:55:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T12:55:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983865214652313719"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LoveForever_52…",
+              "end": 112,
+              "expanded_url": "https://twitter.com/LoveForever_52/status/1982785245234577844",
+              "start": 89,
+              "url": "https://t.co/gJfzBWOPRq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983865214652313719",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 730,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982785245234577844",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "已经切了从开刀到第一个下来只用了4分钟，只滴了几滴血（先结扎血管，1:20000肾上腺素止血，不能直接切会死人的）我只用到了一把手术刀和手术剪。不推荐自己切的，有失血休克风险。 https://t.co/gJfzBWOPRq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 193,
+          "like_count": 2098,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 593
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-21T23:33:30.000Z",
+        "description": "生产日08.5.14/🏳️‍⚧️hrt24.11.20/👻163cm54kg努力减肥中/纯净高中生/无证含糖/家长已知不管党/同类可+我/不约/不OD不割手",
+        "id": "1804296555354013696",
+        "location": "🚪50",
+        "name": "Live🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1982569048400634092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804296619132694528/uCLGCjH7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 65,
+          "like_count": 58,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 155
+        },
+        "username": "LoveForever_52",
+        "verified": false
+      }
+    ]
+  }
+}

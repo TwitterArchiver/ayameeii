@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1987844358176190589",
+    "created_at": "2025-11-11T06:35:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T07:35:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988133349945397375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1894716105958342657",
+          "start": 0,
+          "username": "0_0_00_00_000_0"
+        },
+        {
+          "end": 33,
+          "id": "1892152061653028866",
+          "start": 17,
+          "username": "SuperShrimp9000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988133349945397375",
+    "in_reply_to_user_id": "1894716105958342657",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988120018660585566",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0_0_00_00_000_0 @SuperShrimp9000 又在黑屁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1987844358176190589",
+        "created_at": "2025-11-11T06:35:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T07:35:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988133349945397375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1894716105958342657",
+              "start": 0,
+              "username": "0_0_00_00_000_0"
+            },
+            {
+              "end": 33,
+              "id": "1892152061653028866",
+              "start": 17,
+              "username": "SuperShrimp9000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988133349945397375",
+        "in_reply_to_user_id": "1894716105958342657",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988120018660585566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0_0_00_00_000_0 @SuperShrimp9000 又在黑屁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894716105958342657",
+        "conversation_id": "1987844358176190589",
+        "created_at": "2025-11-11T05:42:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T06:42:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988120018660585566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1892152061653028866",
+              "start": 0,
+              "username": "SuperShrimp9000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988120018660585566",
+        "in_reply_to_user_id": "1892152061653028866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987918352388628595",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SuperShrimp9000 也可能是某个☄️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 224,
+          "like_count": 2936,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 911
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-26T11:48:37.000Z",
+        "description": "你好，朋友 对不起让你点进来 是我的问题  很抱歉 对不起 mb sry 间歇式愤怒 有事私信 单纯爱挖坟 只会夸夸夸 \nfav： @Clem_sc2 @naoymt @nakiriayame\n@rurudo_\n手刃降服重创最强 活到150",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 66,
+                "username": "Clem_sc2"
+              },
+              {
+                "end": 83,
+                "start": 76,
+                "username": "naoymt"
+              },
+              {
+                "end": 96,
+                "start": 84,
+                "username": "nakiriayame"
+              },
+              {
+                "end": 105,
+                "start": 97,
+                "username": "rurudo_"
+              }
+            ]
+          }
+        },
+        "id": "1894716105958342657",
+        "name": "回响",
+        "pinned_tweet_id": "1967528777472438286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985297210440097792/FtxQtEvQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 434,
+          "like_count": 20036,
+          "listed_count": 1,
+          "media_count": 290,
+          "tweet_count": 2958
+        },
+        "username": "0_0_00_00_000_0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-19T10:00:03.000Z",
+        "description": "進化した最強エビ、君の老北京美食、グラ姫のお菓子\nMega Ebi bigger then big, Your traditional Yuyan meal, Gura's snack\n前菜/Appetiser: @BigFreshShrimp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 107,
+                "username": "BigFreshShrimp"
+              }
+            ]
+          }
+        },
+        "id": "1892152061653028866",
+        "name": "SuperShrimp9000+",
+        "pinned_tweet_id": "1892161554013093935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912398191841988608/UcPyhO0F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 755,
+          "like_count": 64061,
+          "listed_count": 3,
+          "media_count": 3585,
+          "tweet_count": 10076
+        },
+        "username": "SuperShrimp9000",
+        "verified": false
+      }
+    ]
+  }
+}

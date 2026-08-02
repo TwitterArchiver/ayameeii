@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2074394968891035951",
+    "created_at": "2026-07-07T08:02:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T09:02:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074403601959850003"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1976313339224653828",
+          "start": 0,
+          "username": "Naiv46528_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074403601959850003",
+    "in_reply_to_user_id": "1976313339224653828",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074394968891035951",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Naiv46528_ suki"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2074394947181219840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMm7Nr6aEAAEBFz.jpg",
+        "width": 1623
+      },
+      {
+        "height": 1343,
+        "media_key": "3_2074394947181326337",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMm7Nr6bsAES7Ch.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2074394968891035951",
+        "created_at": "2026-07-07T08:02:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T09:02:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074403601959850003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976313339224653828",
+              "start": 0,
+              "username": "Naiv46528_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074403601959850003",
+        "in_reply_to_user_id": "1976313339224653828",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074394968891035951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Naiv46528_ suki"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074394947181219840",
+            "3_2074394947181326337"
+          ]
+        },
+        "author_id": "1976313339224653828",
+        "conversation_id": "2074394968891035951",
+        "created_at": "2026-07-07T07:27:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T08:27:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074394968891035951"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DKnSCJlkYx",
+              "end": 34,
+              "expanded_url": "https://x.com/Naiv46528_/status/2074394968891035951/photo/1",
+              "media_key": "3_2074394947181219840",
+              "start": 11,
+              "url": "https://t.co/DKnSCJlkYx"
+            },
+            {
+              "display_url": "pic.x.com/DKnSCJlkYx",
+              "end": 34,
+              "expanded_url": "https://x.com/Naiv46528_/status/2074394968891035951/photo/1",
+              "media_key": "3_2074394947181326337",
+              "start": 11,
+              "url": "https://t.co/DKnSCJlkYx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074394968891035951",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "神秘，你们喜欢蓝酱吗 https://t.co/DKnSCJlkYx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存| 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 34,
+                "start": 24,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1058,
+          "following_count": 697,
+          "like_count": 10415,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 4067
+        },
+        "url": "",
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-09T15:46:43.000Z",
+        "description": "✧･ﾟ˚ 🐬 💧 ˚｡ ❄️ ｡･\n我是蓝，除中文外皆为机翻，\n请多关照.\n✧･ﾟ˚ 🐬 💧 ˚｡ ❄️ ｡･",
+        "id": "1976313339224653828",
+        "name": "𓏸𓈒 🫧⁺ ₊ ๑ ⁺ 嗳寺藍⋆ ☁️🩵☁️ ⋆",
+        "pinned_tweet_id": "2071971546604748906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071965593180295168/1S4gwjyI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 201,
+          "like_count": 2313,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 349
+        },
+        "url": "",
+        "username": "Naiv46528_",
+        "verified": false
+      }
+    ]
+  }
+}

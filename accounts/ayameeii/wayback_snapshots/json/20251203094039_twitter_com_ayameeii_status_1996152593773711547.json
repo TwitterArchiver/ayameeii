@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1996150751350157358",
+    "created_at": "2025-12-03T09:40:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T10:40:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996152593773711547"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1404274936835842051",
+          "start": 0,
+          "username": "shaskyspooky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996152593773711547",
+    "in_reply_to_user_id": "1404274936835842051",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996150751350157358",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shaskyspooky 吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1996150742420463616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7PAhjAaoAALt8q.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1996150751350157358",
+        "created_at": "2025-12-03T09:40:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T10:40:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996152593773711547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1404274936835842051",
+              "start": 0,
+              "username": "shaskyspooky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996152593773711547",
+        "in_reply_to_user_id": "1404274936835842051",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996150751350157358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shaskyspooky 吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996150742420463616"
+          ]
+        },
+        "author_id": "1404274936835842051",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1996150751350157358",
+        "created_at": "2025-12-03T09:33:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T10:33:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996150751350157358"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8v58opUFvb",
+              "end": 25,
+              "expanded_url": "https://x.com/shaskyspooky/status/1996150751350157358/photo/1",
+              "media_key": "3_1996150742420463616",
+              "start": 2,
+              "url": "https://t.co/8v58opUFvb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996150751350157358",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "餓 https://t.co/8v58opUFvb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "1992652290252316901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 289,
+          "like_count": 4782,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1514
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-14T03:10:15.000Z",
+        "description": "我說話我是狗",
+        "id": "1404274936835842051",
+        "location": "kaohsiung",
+        "name": "Leverage❤️‍🩹🗿👧🐙♦️🔪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982583268160450560/J35xXuWO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 560,
+          "like_count": 44876,
+          "listed_count": 3,
+          "media_count": 802,
+          "tweet_count": 7270
+        },
+        "username": "shaskyspooky",
+        "verified": false
+      }
+    ]
+  }
+}

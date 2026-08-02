@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1991872855907438649",
+    "created_at": "2025-11-21T14:58:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T15:58:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991884048168616141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1844730266767806464",
+          "start": 0,
+          "username": "Kyoba_0828QAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991884048168616141",
+    "in_reply_to_user_id": "1844730266767806464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991875809406304455",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kyoba_0828QAQ 有好处我自己会出去的 蹲~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1991872855907438649",
+        "created_at": "2025-11-21T14:58:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T15:58:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991884048168616141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1844730266767806464",
+              "start": 0,
+              "username": "Kyoba_0828QAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991884048168616141",
+        "in_reply_to_user_id": "1844730266767806464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991875809406304455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kyoba_0828QAQ 有好处我自己会出去的 蹲~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844730266767806464",
+        "conversation_id": "1991872855907438649",
+        "created_at": "2025-11-21T14:26:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T15:26:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991875809406304455"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1991875809406304455",
+        "in_reply_to_user_id": "1844730266767806464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991872855907438649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "但是出門又有什麼好處呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 242,
+          "like_count": 3812,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 1179
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-11T13:22:57.000Z",
+        "description": "生理女心理女/156/87/什么都沾点/自殘/欧弟/抽烟/無任何政治立場\n🚪48好友位 50私密圖",
+        "id": "1844730266767806464",
+        "location": "杜王町",
+        "name": "京葉（互fo請）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985325098979794944/Z8gTy_8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 411,
+          "like_count": 4709,
+          "listed_count": 0,
+          "media_count": 266,
+          "tweet_count": 1787
+        },
+        "username": "Kyoba_0828QAQ",
+        "verified": false
+      }
+    ]
+  }
+}

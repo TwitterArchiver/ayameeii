@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2037502416233578499",
+    "created_at": "2026-03-27T12:18:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T13:18:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037504422872522932"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1194283796314509312",
+          "start": 0,
+          "username": "gana0w0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037504422872522932",
+    "in_reply_to_user_id": "1194283796314509312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037502416233578499",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gana0w0 这么久之前的还看见了吗 别鞭笞自己了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 419,
+        "media_key": "3_2037502409560510464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEappXbbUAAziDW.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2037502416233578499",
+        "created_at": "2026-03-27T12:18:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T13:18:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037504422872522932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1194283796314509312",
+              "start": 0,
+              "username": "gana0w0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037504422872522932",
+        "in_reply_to_user_id": "1194283796314509312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037502416233578499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gana0w0 这么久之前的还看见了吗 别鞭笞自己了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037502409560510464"
+          ]
+        },
+        "author_id": "1194283796314509312",
+        "conversation_id": "2037502416233578499",
+        "created_at": "2026-03-27T12:10:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T13:10:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037502416233578499"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nQH3ekykCh",
+              "end": 27,
+              "expanded_url": "https://x.com/gana0w0/status/2037502416233578499/photo/1",
+              "media_key": "3_2037502409560510464",
+              "start": 4,
+              "url": "https://t.co/nQH3ekykCh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037502416233578499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 88,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "然后呢 https://t.co/nQH3ekykCh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2036043044986953736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 707,
+          "following_count": 503,
+          "like_count": 8472,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 3107
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-12T16:00:27.000Z",
+        "description": "啥也没有",
+        "id": "1194283796314509312",
+        "name": "gana",
+        "pinned_tweet_id": "1729047749205893284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037029793020207106/4YO4Idrj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66655,
+          "following_count": 47,
+          "like_count": 9694,
+          "listed_count": 200,
+          "media_count": 1562,
+          "tweet_count": 6816
+        },
+        "username": "gana0w0",
+        "verified": false
+      }
+    ]
+  }
+}

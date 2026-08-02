@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1974872871458783670",
+    "created_at": "2025-10-05T16:24:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T17:24:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974873448779542888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1778616836214439936",
+          "start": 0,
+          "username": "H20_chemistry_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974873448779542888",
+    "in_reply_to_user_id": "1778616836214439936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974872871458783670",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@H20_chemistry_x 我青春期的时候疯狂的长痘😖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1974872871458783670",
+        "created_at": "2025-10-05T16:24:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T17:24:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974873448779542888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1778616836214439936",
+              "start": 0,
+              "username": "H20_chemistry_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974873448779542888",
+        "in_reply_to_user_id": "1778616836214439936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974872871458783670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@H20_chemistry_x 我青春期的时候疯狂的长痘😖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778616836214439936",
+        "conversation_id": "1974872871458783670",
+        "created_at": "2025-10-05T16:22:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T17:22:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974872871458783670"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/H20_chemistry_…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/H20_chemistry_x/status/1974871400268943398",
+              "start": 56,
+              "url": "https://t.co/danNkqIlO1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974872871458783670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974871400268943398",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说一个很变态的事\n上一对一的时候有的时候会和学生交流什么的，\n然后忽然发现他们都不长痘，皮肤很细腻，没有痘坑。 https://t.co/danNkqIlO1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "狗狗kiss",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852135475403984896/GBdrMFBz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 105,
+          "like_count": 372,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 105
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-12T02:51:20.000Z",
+        "description": "No one like me,doesn't mean you won't like me./🏳‍⚧️友跨/infp/欢迎互fo交朋友喵/防失联@h20_chemistry2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 72,
+                "username": "h20_chemistry2"
+              }
+            ]
+          }
+        },
+        "id": "1778616836214439936",
+        "name": "一氧化二氢",
+        "pinned_tweet_id": "1874417607568494921",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950645070555664384/LBmUJrTZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1074,
+          "following_count": 1620,
+          "like_count": 38796,
+          "listed_count": 3,
+          "media_count": 868,
+          "tweet_count": 11454
+        },
+        "username": "H20_chemistry_x",
+        "verified": false
+      }
+    ]
+  }
+}

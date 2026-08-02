@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1982373133496791180",
+    "created_at": "2025-10-26T09:15:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T10:15:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982375537797644498"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1830006669222502400",
+          "start": 0,
+          "username": "Sayaka_990208"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982375537797644498",
+    "in_reply_to_user_id": "1830006669222502400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982373133496791180",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@Sayaka_990208 你要销号吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1295,
+        "media_key": "3_1982373125640646656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4LN2s4XcAAMCCZ.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1982373133496791180",
+        "created_at": "2025-10-26T09:15:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T10:15:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982375537797644498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1830006669222502400",
+              "start": 0,
+              "username": "Sayaka_990208"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982375537797644498",
+        "in_reply_to_user_id": "1830006669222502400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982373133496791180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@Sayaka_990208 你要销号吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982373125640646656"
+          ]
+        },
+        "author_id": "1830006669222502400",
+        "conversation_id": "1982373133496791180",
+        "created_at": "2025-10-26T09:06:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T10:06:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982373133496791180"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BRxeDFFUuv",
+              "end": 31,
+              "expanded_url": "https://x.com/Sayaka_990208/status/1982373133496791180/photo/1",
+              "media_key": "3_1982373125640646656",
+              "start": 8,
+              "url": "https://t.co/BRxeDFFUuv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982373133496791180",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "又销号\n厌倦了 https://t.co/BRxeDFFUuv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 188,
+          "like_count": 1837,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 492
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-31T22:16:15.000Z",
+        "description": "元東京都民 mathematics/philosophy/linguistics/アークナイツ/アズールレーン/LOL/valorant Под лежачий камень вода не течёт",
+        "id": "1830006669222502400",
+        "location": "ГОРОД СОЛНЦА",
+        "name": "さやか",
+        "pinned_tweet_id": "1971519002775289939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978533409090945024/VVYyj-PH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 988,
+          "following_count": 1050,
+          "like_count": 27056,
+          "listed_count": 4,
+          "media_count": 1097,
+          "tweet_count": 1674
+        },
+        "username": "Sayaka_990208",
+        "verified": false
+      }
+    ]
+  }
+}

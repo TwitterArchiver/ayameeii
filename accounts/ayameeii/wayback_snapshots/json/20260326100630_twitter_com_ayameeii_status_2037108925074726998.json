@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2037107943729181066",
+    "created_at": "2026-03-26T10:06:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T11:06:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037108925074726998"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1956567270739828736",
+          "start": 0,
+          "username": "Truffaut897456"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037108925074726998",
+    "in_reply_to_user_id": "1956567270739828736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037107943729181066",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Truffaut897456 这集很不一样 神了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2037107933570625537",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEVC312bcAE1JpY.jpg",
+        "width": 1538
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2037107933578973184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEVC314a0AAnUhC.jpg",
+        "width": 1538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2037107943729181066",
+        "created_at": "2026-03-26T10:06:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T11:06:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037108925074726998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1956567270739828736",
+              "start": 0,
+              "username": "Truffaut897456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037108925074726998",
+        "in_reply_to_user_id": "1956567270739828736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037107943729181066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Truffaut897456 这集很不一样 神了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037107933570625537",
+            "3_2037107933578973184"
+          ]
+        },
+        "author_id": "1956567270739828736",
+        "conversation_id": "2037107943729181066",
+        "created_at": "2026-03-26T10:02:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T11:02:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037107943729181066"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EgCWH2lv7P",
+              "end": 23,
+              "expanded_url": "https://x.com/Truffaut897456/status/2037107943729181066/photo/1",
+              "media_key": "3_2037107933570625537",
+              "start": 0,
+              "url": "https://t.co/EgCWH2lv7P"
+            },
+            {
+              "display_url": "pic.x.com/EgCWH2lv7P",
+              "end": 23,
+              "expanded_url": "https://x.com/Truffaut897456/status/2037107943729181066/photo/1",
+              "media_key": "3_2037107933578973184",
+              "start": 0,
+              "url": "https://t.co/EgCWH2lv7P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037107943729181066",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/EgCWH2lv7P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某次",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2036043044986953736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 701,
+          "following_count": 497,
+          "like_count": 8380,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 3057
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-16T04:02:53.000Z",
+        "description": "喜欢电影🎦 不限类型不限国家，喜欢记导演，标豆瓣（玩豆瓣的可以私信来互关），喜欢恐怖片（意大利铅黄 好莱坞和各种欧美b恐 香港恐怖 日恐），对烂片有瘾，我品味烂爆，更广泛些的各类电影也都会看一点点，以及二次元少女乐队特摄古早动画稍微涉猎，喜欢拍cos和各种拍衣服，照片纯高p，线下丑蛆查无此人！！！",
+        "id": "1956567270739828736",
+        "location": "我想吃薯条",
+        "name": "Truffaut",
+        "pinned_tweet_id": "2001567503110279683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036327207875059712/2Y8IZf_n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16446,
+          "following_count": 1401,
+          "like_count": 10141,
+          "listed_count": 55,
+          "media_count": 236,
+          "tweet_count": 4570
+        },
+        "username": "Truffaut897456",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1993032647824884124",
+    "created_at": "2025-11-24T19:03:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T20:03:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993032774492864597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1934423287729455105",
+          "start": 0,
+          "username": "auroralia7777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993032774492864597",
+    "in_reply_to_user_id": "1934423287729455105",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993032647824884124",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@auroralia7777 卡拉比丘喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1993032647824884124",
+        "created_at": "2025-11-24T19:03:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T20:03:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993032774492864597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1934423287729455105",
+              "start": 0,
+              "username": "auroralia7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993032774492864597",
+        "in_reply_to_user_id": "1934423287729455105",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993032647824884124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@auroralia7777 卡拉比丘喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934423287729455105",
+        "conversation_id": "1993032647824884124",
+        "created_at": "2025-11-24T19:03:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T20:03:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993032647824884124"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993032647824884124",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卡拉彼丘🩷🩷🩷🩷🩷"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "1992652290252316901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 252,
+          "like_count": 4038,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 1259
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-16T01:30:35.000Z",
+        "description": "「𝐴𝑢𝑟𝑜𝑟𝑎𝑙𝑖𝑎」𝘢𝘯𝘥 𝘩𝘦𝘳 𝘩𝘦𝘢𝘳𝘵 𝘰𝘧 𝘧𝘢𝘭𝘭𝘪𝘯𝘨 𝘴𝘵𝘢𝘳𝘴☆\n\n𝐼 𝑙𝑜𝑣𝑒 𝑦𝑜𝑢, @yeziyu7777 .\n\n大笨猪🐷@zyh842159145",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 56,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 88,
+                "start": 75,
+                "username": "zyh842159145"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/auroralia7777",
+                "end": 23,
+                "expanded_url": "http://x.com/auroralia7777",
+                "start": 0,
+                "url": "https://t.co/v5PIIqI1K0"
+              }
+            ]
+          }
+        },
+        "id": "1934423287729455105",
+        "location": "up and beyond the Aurora.",
+        "name": "𝐴𝑢𝑟𝑜𝑟𝑎𝑙𝑖𝑎",
+        "pinned_tweet_id": "1963017759572529210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964180368439070722/GsHJLg3S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 210,
+          "like_count": 6536,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 2231
+        },
+        "url": "https://t.co/v5PIIqI1K0",
+        "username": "auroralia7777",
+        "verified": false
+      }
+    ]
+  }
+}

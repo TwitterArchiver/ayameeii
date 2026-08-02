@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2072883739118669960",
+    "created_at": "2026-07-03T03:22:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T04:22:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072883739118669960"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ayameeii/statu…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/ayameeii/status/2072543684231623018",
+          "start": 4,
+          "url": "https://t.co/Ps2yQiH64d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072883739118669960",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072543684231623018",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "考完了 https://t.co/Ps2yQiH64d"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2072883739118669960",
+        "created_at": "2026-07-03T03:22:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T04:22:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072883739118669960"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ayameeii/statu…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/ayameeii/status/2072543684231623018",
+              "start": 4,
+              "url": "https://t.co/Ps2yQiH64d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072883739118669960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072543684231623018",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "考完了 https://t.co/Ps2yQiH64d"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2072543684231623018",
+        "created_at": "2026-07-02T04:51:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T05:51:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072543684231623018"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072543684231623018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 361,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好痛苦 回学校考试了\n下楼的时候腿一直在抖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存| 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 34,
+                "start": 24,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1048,
+          "following_count": 684,
+          "like_count": 10302,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 4029
+        },
+        "url": "",
+        "username": "ayameeii",
+        "verified": false
+      }
+    ]
+  }
+}

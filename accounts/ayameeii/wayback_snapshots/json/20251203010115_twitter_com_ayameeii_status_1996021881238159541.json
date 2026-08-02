@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1996018729000571246",
+    "created_at": "2025-12-03T01:01:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T02:01:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996021881238159541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1500818219493322754",
+          "start": 0,
+          "username": "eee_bree"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996021881238159541",
+    "in_reply_to_user_id": "1500818219493322754",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996018729000571246",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eee_bree 可以可以 政府和米哈游两边一起死好吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1996018729000571246",
+        "created_at": "2025-12-03T01:01:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T02:01:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996021881238159541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1500818219493322754",
+              "start": 0,
+              "username": "eee_bree"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996021881238159541",
+        "in_reply_to_user_id": "1500818219493322754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996018729000571246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eee_bree 可以可以 政府和米哈游两边一起死好吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1500818219493322754",
+        "conversation_id": "1996018729000571246",
+        "created_at": "2025-12-03T00:48:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T01:48:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996018729000571246"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1995659181827788987",
+              "start": 4,
+              "url": "https://t.co/YafEQn5lvN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996018729000571246",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995659181827788987",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "祝速死 https://t.co/YafEQn5lvN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "1992652290252316901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 283,
+          "like_count": 4742,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1505
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-07T13:07:20.000Z",
+        "description": "蛤蜊/Gris/蛤蜊絲/格里斯 我喜歡卡優叫我小格里斯！男友@Qianlifrost /歡迎和我交朋友/ BPD、DID⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 30,
+                "username": "Qianlifrost"
+              }
+            ]
+          }
+        },
+        "id": "1500818219493322754",
+        "name": "格里斯",
+        "pinned_tweet_id": "1957088596604903786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957089070527700992/TnODHNOC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 812,
+          "following_count": 706,
+          "like_count": 28621,
+          "listed_count": 6,
+          "media_count": 502,
+          "tweet_count": 5879
+        },
+        "username": "eee_bree",
+        "verified": false
+      }
+    ]
+  }
+}

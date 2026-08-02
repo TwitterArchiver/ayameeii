@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1994290620756820124",
+    "created_at": "2025-11-28T06:25:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T07:25:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994291636793446814"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1966368367494967301",
+          "start": 0,
+          "username": "grainyrain_awa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994291636793446814",
+    "in_reply_to_user_id": "1966368367494967301",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994290620756820124",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@grainyrain_awa 我前世的bio就是一堆唉🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1994290620756820124",
+        "created_at": "2025-11-28T06:25:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T07:25:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994291636793446814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1966368367494967301",
+              "start": 0,
+              "username": "grainyrain_awa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994291636793446814",
+        "in_reply_to_user_id": "1966368367494967301",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994290620756820124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grainyrain_awa 我前世的bio就是一堆唉🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1966368367494967301",
+        "conversation_id": "1994290620756820124",
+        "created_at": "2025-11-28T06:21:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T07:21:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994290620756820124"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1994290620756820124",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉唉唉唉唉\n唉唉唉唉唉唉唉\n唉唉唉唉唉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "喜欢我我也喜欢你 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "1992652290252316901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 266,
+          "like_count": 4318,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1353
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-12T05:09:12.000Z",
+        "description": "自卑阴暗社恐自闭有害废物\n偶尔（经常？）发些碎碎念",
+        "id": "1966368367494967301",
+        "location": "半截入土",
+        "name": "与和☘️",
+        "pinned_tweet_id": "1967754207555096828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966368813232041984/dRxPYic3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 240,
+          "like_count": 16471,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 1489
+        },
+        "username": "grainyrain_awa",
+        "verified": false
+      }
+    ]
+  }
+}

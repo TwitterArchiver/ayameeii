@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1996195061974139231",
+    "created_at": "2025-12-03T13:16:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T14:16:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996206869145325924"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 16,
+          "normalized_text": "恭喜",
+          "probability": 0.4548,
+          "start": 15,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1741871837464694784",
+          "start": 0,
+          "username": "Raintnear_asl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996206869145325924",
+    "in_reply_to_user_id": "1741871837464694784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996195061974139231",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Raintnear_asl 恭喜！！！幸福宝宝"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_1996195054545928192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7Po02iaAAAlVL5.jpg",
+        "width": 828
+      },
+      {
+        "height": 581,
+        "media_key": "3_1996195054571126784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7Po02oagAAp0hU.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1996195061974139231",
+        "created_at": "2025-12-03T13:16:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T14:16:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996206869145325924"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "恭喜",
+              "probability": 0.4548,
+              "start": 15,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1741871837464694784",
+              "start": 0,
+              "username": "Raintnear_asl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996206869145325924",
+        "in_reply_to_user_id": "1741871837464694784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996195061974139231",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Raintnear_asl 恭喜！！！幸福宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996195054545928192",
+            "3_1996195054571126784"
+          ]
+        },
+        "author_id": "1741871837464694784",
+        "conversation_id": "1996195061974139231",
+        "created_at": "2025-12-03T12:29:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T13:29:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996195061974139231"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/opjwLntlGX",
+              "end": 31,
+              "expanded_url": "https://x.com/Raintnear_asl/status/1996195061974139231/photo/1",
+              "media_key": "3_1996195054545928192",
+              "start": 8,
+              "url": "https://t.co/opjwLntlGX"
+            },
+            {
+              "display_url": "pic.x.com/opjwLntlGX",
+              "end": 31,
+              "expanded_url": "https://x.com/Raintnear_asl/status/1996195061974139231/photo/1",
+              "media_key": "3_1996195054571126784",
+              "start": 8,
+              "url": "https://t.co/opjwLntlGX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996195061974139231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是我妈咪！🤪 https://t.co/opjwLntlGX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "1992652290252316901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 291,
+          "like_count": 4823,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1535
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "description": "",
+        "id": "1741871837464694784",
+        "name": "阿什莉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996192811927085056/sENQGjhT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 179,
+          "like_count": 4951,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 376
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2039007248207503827",
+    "created_at": "2026-03-31T21:11:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T22:11:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039088303799173254"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1966368367494967301",
+          "start": 0,
+          "username": "grainyrain_awa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039088303799173254",
+    "in_reply_to_user_id": "1966368367494967301",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039007248207503827",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@grainyrain_awa 我可以被你喜欢吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2039007248207503827",
+        "created_at": "2026-03-31T21:11:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T22:11:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039088303799173254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1966368367494967301",
+              "start": 0,
+              "username": "grainyrain_awa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039088303799173254",
+        "in_reply_to_user_id": "1966368367494967301",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039007248207503827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grainyrain_awa 我可以被你喜欢吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1966368367494967301",
+        "conversation_id": "2039007248207503827",
+        "created_at": "2026-03-31T15:49:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T16:49:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039007248207503827"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/grainyrain_awa…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/grainyrain_awa/status/2039006588141486367",
+              "start": 24,
+              "url": "https://t.co/rpDTk9Z8cs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039007248207503827",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039006588141486367",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "以后看到不顺眼的就该第一时间b掉\n不折磨自己了 https://t.co/rpDTk9Z8cs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2036043044986953736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 745,
+          "following_count": 517,
+          "like_count": 8738,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 3244
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-12T05:09:12.000Z",
+        "description": "自卑阴暗社恐自闭有害废物\n偶尔（经常？）发些碎碎念",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/rainygrain_awa",
+                "end": 23,
+                "expanded_url": "https://x.com/rainygrain_awa",
+                "start": 0,
+                "url": "https://t.co/e8Bh2tmDI4"
+              }
+            ]
+          }
+        },
+        "id": "1966368367494967301",
+        "location": "半截入土",
+        "name": "与和☘️",
+        "pinned_tweet_id": "2004700645811781787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966368813232041984/dRxPYic3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 292,
+          "like_count": 30087,
+          "listed_count": 0,
+          "media_count": 226,
+          "tweet_count": 4816
+        },
+        "url": "https://t.co/e8Bh2tmDI4",
+        "username": "grainyrain_awa",
+        "verified": false
+      }
+    ]
+  }
+}

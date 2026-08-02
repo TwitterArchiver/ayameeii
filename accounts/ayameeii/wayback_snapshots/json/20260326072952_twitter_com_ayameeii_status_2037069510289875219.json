@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2037052716112109765",
+    "created_at": "2026-03-26T07:29:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T08:29:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037069510289875219"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1947704286944858112",
+          "start": 0,
+          "username": "NanaIOO7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037069510289875219",
+    "in_reply_to_user_id": "1947704286944858112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037065877917679811",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NanaIOO7 抽动和瘙痒都是白兔的效果 应该是吧 主要看有没有进一步的伤势 可以自己硬撑 毕竟不想去医院"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2037052716112109765",
+        "created_at": "2026-03-26T07:29:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T08:29:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037069510289875219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1947704286944858112",
+              "start": 0,
+              "username": "NanaIOO7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037069510289875219",
+        "in_reply_to_user_id": "1947704286944858112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037065877917679811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NanaIOO7 抽动和瘙痒都是白兔的效果 应该是吧 主要看有没有进一步的伤势 可以自己硬撑 毕竟不想去医院"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1947704286944858112",
+        "conversation_id": "2037052716112109765",
+        "created_at": "2026-03-26T07:15:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T08:15:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037065877917679811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1852135214795100164",
+              "start": 0,
+              "username": "ayameeii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037065877917679811",
+        "in_reply_to_user_id": "1852135214795100164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037064077126808017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayameeii 我前一天還吃了30t，可能這幾天吃太多了吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某次",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2036043044986953736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 700,
+          "following_count": 496,
+          "like_count": 8369,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 3053
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-22T17:04:31.000Z",
+        "description": "09｜地雷系｜躁鬱｜od｜自傷",
+        "id": "1947704286944858112",
+        "name": "ミヤ奈",
+        "pinned_tweet_id": "2006016558221463625",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008156536787628032/tGsnoMsE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1579,
+          "following_count": 310,
+          "like_count": 8790,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 246
+        },
+        "username": "NanaIOO7",
+        "verified": false
+      }
+    ]
+  }
+}

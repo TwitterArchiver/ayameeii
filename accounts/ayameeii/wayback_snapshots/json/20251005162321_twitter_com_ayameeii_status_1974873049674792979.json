@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1974871400268943398",
+    "created_at": "2025-10-05T16:23:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T17:23:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974873049674792979"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1778616836214439936",
+          "start": 0,
+          "username": "H20_chemistry_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974873049674792979",
+    "in_reply_to_user_id": "1778616836214439936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974871400268943398",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@H20_chemistry_x 能意识到就很好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1974871400268943398",
+        "created_at": "2025-10-05T16:23:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T17:23:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974873049674792979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1778616836214439936",
+              "start": 0,
+              "username": "H20_chemistry_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974873049674792979",
+        "in_reply_to_user_id": "1778616836214439936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974871400268943398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@H20_chemistry_x 能意识到就很好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778616836214439936",
+        "conversation_id": "1974871400268943398",
+        "created_at": "2025-10-05T16:16:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T17:16:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974871400268943398"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1974871400268943398",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "结合今天晚上的经历，推油的经历，自己的不甘心，对自己的厌恶，对浪费时间的惋惜，以及忘记开热水器的愤怒。\n想去死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "狗狗kiss",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852135475403984896/GBdrMFBz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 105,
+          "like_count": 370,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 104
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-12T02:51:20.000Z",
+        "description": "No one like me,doesn't mean you won't like me./🏳‍⚧️友跨/infp/欢迎互fo交朋友喵/防失联@h20_chemistry2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 72,
+                "username": "h20_chemistry2"
+              }
+            ]
+          }
+        },
+        "id": "1778616836214439936",
+        "name": "一氧化二氢",
+        "pinned_tweet_id": "1874417607568494921",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950645070555664384/LBmUJrTZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1074,
+          "following_count": 1620,
+          "like_count": 38796,
+          "listed_count": 3,
+          "media_count": 868,
+          "tweet_count": 11453
+        },
+        "username": "H20_chemistry_x",
+        "verified": false
+      }
+    ]
+  }
+}

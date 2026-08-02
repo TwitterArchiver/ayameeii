@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2074736613347996032",
+    "created_at": "2026-07-08T06:05:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T07:05:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074736613347996032"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Paramjitt/stat…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/Paramjitt/status/2074731083401458005",
+          "start": 2,
+          "url": "https://t.co/72QdmuNVNG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074736613347996032",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074731083401458005",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🥺 https://t.co/72QdmuNVNG"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2074736613347996032",
+        "created_at": "2026-07-08T06:05:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T07:05:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074736613347996032"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Paramjitt/stat…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/Paramjitt/status/2074731083401458005",
+              "start": 2,
+              "url": "https://t.co/72QdmuNVNG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074736613347996032",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074731083401458005",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🥺 https://t.co/72QdmuNVNG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "162974851",
+        "conversation_id": "2074731083401458005",
+        "created_at": "2026-07-08T05:43:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T06:43:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074731083401458005"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074731083401458005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有点呆傻，，一般不会主动找人聊天🥺不是讨厌大家喵orzz🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存| 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 34,
+                "start": 24,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1065,
+          "following_count": 698,
+          "like_count": 10450,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 4090
+        },
+        "url": "",
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2010-07-05T06:05:17.000Z",
+        "description": "16.0互关寻回\n🚪52（加了啥也没有）\n你推六个月封11个号的人，传奇耐封王\n你应该刷到过我 所以不自介了\n性别末影人-爱我请给我钱吧*（orz）\n很健全无不良嗜好🤤请和我玩吧！！\nhttps://t.co/TYxFLX9MRG\n大号@Shivam3228\n牛马💊 @AminoXx_killer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 129,
+                "start": 118,
+                "username": "Shivam3228"
+              },
+              {
+                "end": 149,
+                "start": 134,
+                "username": "AminoXx_killer"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ii_rin",
+                "end": 115,
+                "expanded_url": "https://ngl.link/ii_rin",
+                "start": 92,
+                "url": "https://t.co/TYxFLX9MRG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/l2gjMdmFaC"
+              }
+            ]
+          }
+        },
+        "id": "162974851",
+        "location": "你身后",
+        "name": "霖🍥🏳️‍⚧️（16.0寻回爱妻）",
+        "pinned_tweet_id": "2074173391989531076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074674134857232384/-bptbrhF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 686,
+          "following_count": 449,
+          "like_count": 1636,
+          "listed_count": 2,
+          "media_count": 75,
+          "tweet_count": 1088
+        },
+        "url": "https://t.co/l2gjMdmFaC",
+        "username": "Paramjitt",
+        "verified": true
+      }
+    ]
+  }
+}

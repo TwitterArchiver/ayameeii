@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1995779939287925187",
+    "created_at": "2025-12-02T09:04:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T10:04:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995781006863778122"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1976153303080894465",
+          "start": 0,
+          "username": "shinimukuyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995781006863778122",
+    "in_reply_to_user_id": "1976153303080894465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995779939287925187",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shinimukuyo 狐狸 聪明且可爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1995779939287925187",
+        "created_at": "2025-12-02T09:04:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T10:04:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995781006863778122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1976153303080894465",
+              "start": 0,
+              "username": "shinimukuyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995781006863778122",
+        "in_reply_to_user_id": "1976153303080894465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995779939287925187",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shinimukuyo 狐狸 聪明且可爱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976153303080894465",
+        "conversation_id": "1995779939287925187",
+        "created_at": "2025-12-02T08:59:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T09:59:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995779939287925187"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Fouryn_Astar/s…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/Fouryn_Astar/status/1995678394777010453",
+              "start": 5,
+              "url": "https://t.co/VCUc61bLPi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995779939287925187",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995678394777010453",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也想玩 https://t.co/VCUc61bLPi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "1992652290252316901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 282,
+          "like_count": 4682,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1488
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-09T05:10:51.000Z",
+        "description": "又回避又依赖型人格",
+        "id": "1976153303080894465",
+        "name": "yoitai",
+        "pinned_tweet_id": "1989905516290871474",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990639814409105408/BObOz40p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 52,
+          "like_count": 4669,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 887
+        },
+        "username": "shinimukuyo",
+        "verified": false
+      }
+    ]
+  }
+}

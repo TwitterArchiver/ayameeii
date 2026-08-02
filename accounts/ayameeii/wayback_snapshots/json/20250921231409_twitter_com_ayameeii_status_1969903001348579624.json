@@ -1,0 +1,103 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1969903001348579624",
+    "created_at": "2025-09-21T23:14:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T00:14:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1969903001348579624"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1969903001348579624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有时我会想 如果今天没有去X 明天又该怎么办呢 每天似乎都在变的更糟糕 我知道明天并不一定更差 然而时间在流逝 存在这个世界上的又一天提醒着我要做些什么 但是我没有 所以如果我及时终止这一切 我是不是没有那么差 赶在变的更糟糕的那天之前"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1969903001348579624",
+        "created_at": "2025-09-21T23:14:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T00:14:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969903001348579624"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1969903001348579624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有时我会想 如果今天没有去X 明天又该怎么办呢 每天似乎都在变的更糟糕 我知道明天并不一定更差 然而时间在流逝 存在这个世界上的又一天提醒着我要做些什么 但是我没有 所以如果我及时终止这一切 我是不是没有那么差 赶在变的更糟糕的那天之前"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "已切割 没消息就是真死了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852135475403984896/GBdrMFBz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 31,
+          "like_count": 118,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 30
+        },
+        "username": "ayameeii",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2059819487336239574",
+    "created_at": "2026-05-28T02:15:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T03:15:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059820875751489768"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2013724577529049088",
+          "start": 0,
+          "username": "_roopuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059820875751489768",
+    "in_reply_to_user_id": "2013724577529049088",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059819487336239574",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_roopuu mac耶"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1188,
+        "media_key": "3_2059819479245426688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJXy5ynakAAsvVS.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2059819487336239574",
+        "created_at": "2026-05-28T02:15:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T03:15:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059820875751489768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2013724577529049088",
+              "start": 0,
+              "username": "_roopuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059820875751489768",
+        "in_reply_to_user_id": "2013724577529049088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059819487336239574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_roopuu mac耶"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059819479245426688"
+          ]
+        },
+        "author_id": "2013724577529049088",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2059819487336239574",
+        "created_at": "2026-05-28T02:10:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T03:10:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059819487336239574"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XaFdm3Lhrl",
+              "end": 34,
+              "expanded_url": "https://x.com/_roopuu/status/2059819487336239574/photo/1",
+              "media_key": "3_2059819479245426688",
+              "start": 11,
+              "url": "https://t.co/XaFdm3Lhrl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059819487336239574",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天就送到了诶！！！ https://t.co/XaFdm3Lhrl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存| 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 34,
+                "start": 24,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 984,
+          "following_count": 664,
+          "like_count": 10231,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 3869
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-20T21:25:38.000Z",
+        "description": "本垢 @_ropu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 3,
+                "username": "_ropu"
+              }
+            ]
+          }
+        },
+        "id": "2013724577529049088",
+        "name": "プロ",
+        "pinned_tweet_id": "2059631799094161801",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058139565706354688/a9VoHTY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 86,
+          "like_count": 512,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 272
+        },
+        "username": "_roopuu",
+        "verified": false
+      }
+    ]
+  }
+}

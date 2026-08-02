@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2063510503083868214",
+    "created_at": "2026-06-07T06:36:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T07:36:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063510503083868214"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2010357366466990080",
+          "start": 3,
+          "username": "shennaichuan_"
+        },
+        {
+          "end": 37,
+          "id": "1868205822511288320",
+          "start": 21,
+          "username": "vicoOci_Olvidar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063510503083868214",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063445481481810041",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shennaichuan_: 讣告@vicoOci_Olvidar 她被父母控制了被老妈子老爸子拴住了，手机电脑被卖了，可能有危险⚠️，警告警告 ，望周知"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2063510503083868214",
+        "created_at": "2026-06-07T06:36:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T07:36:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063510503083868214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2010357366466990080",
+              "start": 3,
+              "username": "shennaichuan_"
+            },
+            {
+              "end": 37,
+              "id": "1868205822511288320",
+              "start": 21,
+              "username": "vicoOci_Olvidar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063510503083868214",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063445481481810041",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shennaichuan_: 讣告@vicoOci_Olvidar 她被父母控制了被老妈子老爸子拴住了，手机电脑被卖了，可能有危险⚠️，警告警告 ，望周知"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2063445481481810041",
+        "created_at": "2026-06-07T02:18:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T03:18:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063445481481810041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1868205822511288320",
+              "start": 2,
+              "username": "vicoOci_Olvidar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063445481481810041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1726,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "讣告@vicoOci_Olvidar 她被父母控制了被老妈子老爸子拴住了，手机电脑被卖了，可能有危险⚠️，警告警告 ，望周知"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存| 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 34,
+                "start": 24,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1043,
+          "following_count": 675,
+          "like_count": 10386,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 3949
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "这个精神病 表面上看起来 软软萌萌的 还用些萌不拉叽叽的头像 实际上是个暴力份子 谁敢相信？\n🚪28",
+        "id": "2010357366466990080",
+        "name": "精神病",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1578,
+          "following_count": 435,
+          "like_count": 736,
+          "listed_count": 3,
+          "media_count": 337,
+          "tweet_count": 2207
+        },
+        "username": "shennaichuan_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T08:06:14.000Z",
+        "description": "祝你幸福｜最高指示请看❤️@D_D_ovo_｜一击脱离你妈死了｜上勾拳免疫之人｜穷蛆文学 前男友文学｜全体出动操你妈｜转世灵童傀儡@anothervicooci｜妈妈们@misaki348632 @rinko_zero8964｜支持互b",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 13,
+                "username": "D_D_ovo_"
+              },
+              {
+                "end": 80,
+                "start": 65,
+                "username": "anothervicooci"
+              },
+              {
+                "end": 97,
+                "start": 84,
+                "username": "misaki348632"
+              },
+              {
+                "end": 113,
+                "start": 98,
+                "username": "rinko_zero8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "http://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/C8DJQnD8y9"
+              }
+            ]
+          }
+        },
+        "id": "1868205822511288320",
+        "location": "天台 药房 你的怀里",
+        "name": "胃宝路",
+        "pinned_tweet_id": "2058637986905153762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052293655466323968/tRrr7IFd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4555,
+          "following_count": 394,
+          "like_count": 24641,
+          "listed_count": 19,
+          "media_count": 1335,
+          "tweet_count": 16876
+        },
+        "url": "https://t.co/C8DJQnD8y9",
+        "username": "vicoOci_Olvidar",
+        "verified": false
+      }
+    ]
+  }
+}

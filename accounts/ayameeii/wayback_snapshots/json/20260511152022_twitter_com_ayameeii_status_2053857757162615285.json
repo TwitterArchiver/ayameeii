@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2053857251258179814",
+    "created_at": "2026-05-11T15:20:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T16:20:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053857757162615285"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "897749985361444866",
+          "start": 0,
+          "username": "woaishuji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053857757162615285",
+    "in_reply_to_user_id": "897749985361444866",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053857251258179814",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@woaishuji 辛苦了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1680,
+        "media_key": "3_2053857247512702976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIDESOlbMAAgRMh.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2053857251258179814",
+        "created_at": "2026-05-11T15:20:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T16:20:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053857757162615285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "897749985361444866",
+              "start": 0,
+              "username": "woaishuji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053857757162615285",
+        "in_reply_to_user_id": "897749985361444866",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053857251258179814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woaishuji 辛苦了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053857247512702976"
+          ]
+        },
+        "author_id": "897749985361444866",
+        "conversation_id": "2053857251258179814",
+        "created_at": "2026-05-11T15:18:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T16:18:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053857251258179814"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "今天吃药了嘛"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UyKRroW4YW",
+              "end": 71,
+              "expanded_url": "https://x.com/woaishuji/status/2053857251258179814/photo/1",
+              "media_key": "3_2053857247512702976",
+              "start": 48,
+              "url": "https://t.co/UyKRroW4YW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053857251258179814",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "＃今天吃药了嘛\n吃完了\n老师锐评我的学术写作能力就像是\n房子还未建成,内部的装修却已经布置好了 https://t.co/UyKRroW4YW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存| 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 34,
+                "start": 24,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 849,
+          "following_count": 625,
+          "like_count": 9783,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 3687
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-16T09:20:50.000Z",
+        "description": "",
+        "id": "897749985361444866",
+        "name": "文学少女安德烈",
+        "pinned_tweet_id": "1862810120075583938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004417757199130624/fcknZsxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1643,
+          "following_count": 1881,
+          "like_count": 475521,
+          "listed_count": 10,
+          "media_count": 2923,
+          "tweet_count": 16926
+        },
+        "username": "woaishuji",
+        "verified": false
+      }
+    ]
+  }
+}

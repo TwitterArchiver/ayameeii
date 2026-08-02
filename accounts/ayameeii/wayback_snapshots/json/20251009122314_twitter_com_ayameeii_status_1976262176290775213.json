@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1976258261096833375",
+    "created_at": "2025-10-09T12:23:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T13:23:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976262176290775213"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1894716105958342657",
+          "start": 0,
+          "username": "0_0_00_00_000_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976262176290775213",
+    "in_reply_to_user_id": "1894716105958342657",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976258261096833375",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0_0_00_00_000_0 你换的头像 刚开始有点吓到我了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 434,
+        "media_key": "3_1976258254264205312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G20UaV3aAAA1fe6.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1976258261096833375",
+        "created_at": "2025-10-09T12:23:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T13:23:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976262176290775213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1894716105958342657",
+              "start": 0,
+              "username": "0_0_00_00_000_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976262176290775213",
+        "in_reply_to_user_id": "1894716105958342657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976258261096833375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0_0_00_00_000_0 你换的头像 刚开始有点吓到我了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976258254264205312"
+          ]
+        },
+        "author_id": "1894716105958342657",
+        "conversation_id": "1976258261096833375",
+        "created_at": "2025-10-09T12:07:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T13:07:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976258261096833375"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S9trDX4IB3",
+              "end": 30,
+              "expanded_url": "https://x.com/0_0_00_00_000_0/status/1976258261096833375/photo/1",
+              "media_key": "3_1976258254264205312",
+              "start": 7,
+              "url": "https://t.co/S9trDX4IB3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976258261096833375",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这张ww好飒 https://t.co/S9trDX4IB3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "狗狗kiss",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852135475403984896/GBdrMFBz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 127,
+          "like_count": 613,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 163
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-26T11:48:37.000Z",
+        "description": "你好，朋友 对不起让你点进来 是我的问题  很抱歉 对不起 mb sry 间歇式愤怒 有事私信 单纯爱挖坟 只会夸夸夸 \nfav： @Clem_sc2 @naoymt @nakiriayame\n@rurudo_\n手刃降服重创最强 活到150",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 66,
+                "username": "Clem_sc2"
+              },
+              {
+                "end": 83,
+                "start": 76,
+                "username": "naoymt"
+              },
+              {
+                "end": 96,
+                "start": 84,
+                "username": "nakiriayame"
+              },
+              {
+                "end": 105,
+                "start": 97,
+                "username": "rurudo_"
+              }
+            ]
+          }
+        },
+        "id": "1894716105958342657",
+        "name": "睡大觉",
+        "pinned_tweet_id": "1967528777472438286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976248630832136194/FrIeuvaq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 431,
+          "like_count": 19167,
+          "listed_count": 1,
+          "media_count": 281,
+          "tweet_count": 2816
+        },
+        "username": "0_0_00_00_000_0",
+        "verified": false
+      }
+    ]
+  }
+}

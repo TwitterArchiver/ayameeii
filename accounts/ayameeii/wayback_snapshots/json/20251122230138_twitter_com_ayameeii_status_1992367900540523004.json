@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1992148723636543570",
+    "created_at": "2025-11-22T23:01:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T00:01:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992367900540523004"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1904517913538932736",
+          "start": 0,
+          "username": "cnmnms666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992367900540523004",
+    "in_reply_to_user_id": "1904517913538932736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992148723636543570",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cnmnms666 用舌头 硬的冰棍害怕吃得太快所以会舔 软的雪糕会冻牙"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1992148723636543570",
+        "created_at": "2025-11-22T23:01:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T00:01:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992367900540523004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1904517913538932736",
+              "start": 0,
+              "username": "cnmnms666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992367900540523004",
+        "in_reply_to_user_id": "1904517913538932736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992148723636543570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cnmnms666 用舌头 硬的冰棍害怕吃得太快所以会舔 软的雪糕会冻牙"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904517913538932736",
+        "conversation_id": "1992148723636543570",
+        "created_at": "2025-11-22T08:30:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T09:30:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992148723636543570"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1992148723636543570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 760,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推油们吃冰激凌喜欢咬还是舔呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 246,
+          "like_count": 3908,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 1220
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-25T12:57:18.000Z",
+        "description": "姐妹@8964_Y ｜叫我夜夜就好｜不礼貌的健全离我远点｜🚪100➕v",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 2,
+                "username": "8964_Y"
+              }
+            ]
+          }
+        },
+        "id": "1904517913538932736",
+        "name": "草拟吗",
+        "pinned_tweet_id": "1974183172528332802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989645861786390528/MYgtXnNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 578,
+          "following_count": 217,
+          "like_count": 328,
+          "listed_count": 3,
+          "media_count": 35,
+          "tweet_count": 325
+        },
+        "username": "cnmnms666",
+        "verified": false
+      }
+    ]
+  }
+}

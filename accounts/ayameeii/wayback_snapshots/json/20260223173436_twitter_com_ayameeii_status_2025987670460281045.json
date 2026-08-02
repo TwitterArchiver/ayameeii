@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2025977876722704502",
+    "created_at": "2026-02-23T17:34:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T18:34:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025987670460281045"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1792011763875184640",
+          "start": 0,
+          "username": "lnmng5262080968"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025987670460281045",
+    "in_reply_to_user_id": "1792011763875184640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025977876722704502",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lnmng5262080968 我可以当沙包.."
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2025977876722704502].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2025977876722704502",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2025977876722704502"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2025977876722704502",
+        "created_at": "2026-02-23T17:34:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T18:34:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025987670460281045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025987670460281045",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025977876722704502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 我可以当沙包.."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2014053871983685932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 624,
+          "following_count": 420,
+          "like_count": 7446,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 2613
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "可以叫我凛 ｜世界的独行者",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1413,
+          "following_count": 307,
+          "like_count": 16224,
+          "listed_count": 4,
+          "media_count": 201,
+          "tweet_count": 5491
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      }
+    ]
+  }
+}

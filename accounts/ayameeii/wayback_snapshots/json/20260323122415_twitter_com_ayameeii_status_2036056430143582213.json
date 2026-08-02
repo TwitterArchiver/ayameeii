@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2036055455307632685",
+    "created_at": "2026-03-23T12:24:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T13:24:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036056430143582213"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1599377355503726592",
+          "start": 0,
+          "username": "bloodmeiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036056430143582213",
+    "in_reply_to_user_id": "1599377355503726592",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036055455307632685",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bloodmeiii 兑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2036055455307632685",
+        "created_at": "2026-03-23T12:24:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T13:24:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036056430143582213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1599377355503726592",
+              "start": 0,
+              "username": "bloodmeiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036056430143582213",
+        "in_reply_to_user_id": "1599377355503726592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036055455307632685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bloodmeiii 兑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599377355503726592",
+        "conversation_id": "2036055455307632685",
+        "created_at": "2026-03-23T12:20:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T13:20:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036055455307632685"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036055455307632685",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "pr不空腹吃是没药效吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2036043044986953736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 666,
+          "following_count": 477,
+          "like_count": 8173,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 2945
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-04T12:17:45.000Z",
+        "description": "🍓莓🍓 \n07｜重抑中焦神经性贪食\n休学中｜我o我割我吐\n只回fo同类 🚪50\n我的存在本身就无意义",
+        "id": "1599377355503726592",
+        "name": "meiii",
+        "pinned_tweet_id": "2035325464471044216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035094006502453248/ZPlPHOva_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 242,
+          "like_count": 466,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 592
+        },
+        "username": "bloodmeiii",
+        "verified": false
+      }
+    ]
+  }
+}

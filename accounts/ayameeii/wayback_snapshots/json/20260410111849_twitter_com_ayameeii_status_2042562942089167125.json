@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2042562085209673832",
+    "created_at": "2026-04-10T11:18:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T12:18:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042562942089167125"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2042562942089167125",
+    "in_reply_to_user_id": "1852135214795100164",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042562085209673832",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "无意义只是更新一下（\n                                                   —2026/4/10"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1171,
+        "media_key": "3_2042562082835697666",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFijZHMakAInMuJ.jpg",
+        "width": 1171
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2042562085209673832",
+        "created_at": "2026-04-10T11:18:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T12:18:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042562942089167125"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042562942089167125",
+        "in_reply_to_user_id": "1852135214795100164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042562085209673832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "无意义只是更新一下（\n                                                   —2026/4/10"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042562082835697666"
+          ]
+        },
+        "author_id": "1852135214795100164",
+        "conversation_id": "2042562085209673832",
+        "created_at": "2026-04-10T11:15:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T12:15:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042562085209673832"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/khSMsk4voV",
+              "end": 176,
+              "expanded_url": "https://x.com/ayameeii/status/2042562085209673832/photo/1",
+              "media_key": "3_2042562082835697666",
+              "start": 153,
+              "url": "https://t.co/khSMsk4voV"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "28b9063fdce43645"
+        },
+        "id": "2042562085209673832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这里绫绫/Aya，167/45kg，以前叫狗狗kiss 怎么叫我都可以~\n重度抑郁缺爱请和我玩\n不要有负担请直接和我说！以前没有任何人可以说话，是在互联网认识了你们才感觉到人生的价值...不想被讨厌，会认真对待所有人\n很穷拍不起照，想看什么可以赞助我会拍的（\n药也吃不起了🥺您给的每分钱我都会用来努力生活 https://t.co/khSMsk4voV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 787,
+          "following_count": 579,
+          "like_count": 9284,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 3428
+        },
+        "username": "ayameeii",
+        "verified": false
+      }
+    ]
+  }
+}

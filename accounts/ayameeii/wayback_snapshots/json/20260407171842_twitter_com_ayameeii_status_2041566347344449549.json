@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2041565230304784399",
+    "created_at": "2026-04-07T17:18:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T18:18:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041566347344449549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1235547121274605568",
+          "start": 0,
+          "username": "Nomy_Chann"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041566347344449549",
+    "in_reply_to_user_id": "1235547121274605568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041565850755592308",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nomy_Chann 妈妈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2041565230304784399",
+        "created_at": "2026-04-07T17:18:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T18:18:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041566347344449549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1235547121274605568",
+              "start": 0,
+              "username": "Nomy_Chann"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041566347344449549",
+        "in_reply_to_user_id": "1235547121274605568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041565850755592308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nomy_Chann 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1235547121274605568",
+        "conversation_id": "2041565230304784399",
+        "created_at": "2026-04-07T17:16:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T18:16:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041565850755592308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1852135214795100164",
+              "start": 0,
+              "username": "ayameeii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041565850755592308",
+        "in_reply_to_user_id": "1852135214795100164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041565230304784399",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayameeii 要多少，两毛二够吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2036043044986953736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 777,
+          "following_count": 561,
+          "like_count": 9120,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 3367
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-05T12:46:14.000Z",
+        "description": "东京新宿区早稲田(以前)\n美術生(二战中) 有只秋田犬\n温柔贤淑 可摸不咬人 真发黑长直\n现居北京 胆小好色(所以有人会看我主页吗)",
+        "id": "1235547121274605568",
+        "location": "東京 新宿区",
+        "name": "诺米",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025995536743235584/AO2og0BJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 149,
+          "like_count": 773,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 610
+        },
+        "username": "Nomy_Chann",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-05T12:46:14.000Z",
+        "description": "东京新宿区早稲田(以前)\n美術生(二战中) 有只秋田犬\n温柔贤淑 可摸不咬人 真发黑长直\n现居北京 胆小好色(所以有人会看我主页吗)",
+        "id": "1235547121274605568",
+        "location": "東京 新宿区",
+        "name": "诺米",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025995536743235584/AO2og0BJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 149,
+          "like_count": 773,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 610
+        },
+        "username": "Nomy_Chann",
+        "verified": false
+      }
+    ]
+  }
+}

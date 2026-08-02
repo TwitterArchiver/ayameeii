@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1997285271478665256",
+    "created_at": "2025-12-06T12:42:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T13:42:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997285549024137457"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1239352911596941312",
+          "start": 0,
+          "username": "asahisuki0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997285549024137457",
+    "in_reply_to_user_id": "1239352911596941312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997285271478665256",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@asahisuki0 我也喜欢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1997285271478665256",
+        "created_at": "2025-12-06T12:42:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T13:42:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997285549024137457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1239352911596941312",
+              "start": 0,
+              "username": "asahisuki0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997285549024137457",
+        "in_reply_to_user_id": "1239352911596941312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997285271478665256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@asahisuki0 我也喜欢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1239352911596941312",
+        "conversation_id": "1997285271478665256",
+        "created_at": "2025-12-06T12:41:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T13:41:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997285271478665256"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1997285271478665256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我喜欢你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "1992652290252316901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 292,
+          "like_count": 4979,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1573
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-16T00:49:05.000Z",
+        "description": "石之心，羡慕怪，苟延残喘\n好亲友 @Flowers8964\n猫猫 @nekodoby_\n世界上另一个我 @milktea_ch51900",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "Flowers8964"
+              },
+              {
+                "end": 43,
+                "start": 33,
+                "username": "nekodoby_"
+              },
+              {
+                "end": 68,
+                "start": 52,
+                "username": "milktea_ch51900"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/asahisuki",
+                "end": 23,
+                "expanded_url": "https://t.me/asahisuki",
+                "start": 0,
+                "url": "https://t.co/FUoUI9O1aO"
+              }
+            ]
+          }
+        },
+        "id": "1239352911596941312",
+        "location": "mo•殿堂",
+        "name": "mona",
+        "pinned_tweet_id": "1959652935304175699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989228643613306882/KhnTm8Iz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1618,
+          "following_count": 1317,
+          "like_count": 254352,
+          "listed_count": 6,
+          "media_count": 357,
+          "tweet_count": 19004
+        },
+        "url": "https://t.co/FUoUI9O1aO",
+        "username": "asahisuki0",
+        "verified": false
+      }
+    ]
+  }
+}

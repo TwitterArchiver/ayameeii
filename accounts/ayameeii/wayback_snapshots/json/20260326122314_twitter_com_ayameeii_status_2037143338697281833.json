@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2036772021879833060",
+    "created_at": "2026-03-26T12:23:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T13:23:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037143338697281833"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2013875219392585728",
+          "start": 0,
+          "username": "e57jcetmSs91516"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037143338697281833",
+    "in_reply_to_user_id": "2013875219392585728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037143052297597279",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@e57jcetmSs91516 啊 意思是别太自责"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2036772021879833060",
+        "created_at": "2026-03-26T12:23:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T13:23:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037143338697281833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2013875219392585728",
+              "start": 0,
+              "username": "e57jcetmSs91516"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037143338697281833",
+        "in_reply_to_user_id": "2013875219392585728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037143052297597279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@e57jcetmSs91516 啊 意思是别太自责"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013875219392585728",
+        "conversation_id": "2036772021879833060",
+        "created_at": "2026-03-26T12:22:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T13:22:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037143052297597279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1852135214795100164",
+              "start": 0,
+              "username": "ayameeii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037143052297597279",
+        "in_reply_to_user_id": "1852135214795100164",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037114706553659529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayameeii 啥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某次",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2036043044986953736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 703,
+          "following_count": 500,
+          "like_count": 8404,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 3069
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-21T07:24:26.000Z",
+        "description": "10｜女初｜身高163 体重43kg 减肥中…（接陪聊🚪52/188/520（不退门）",
+        "id": "2013875219392585728",
+        "name": "T^T（허월홍）",
+        "pinned_tweet_id": "2029577831198716224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030311851687649281/NIhSLEy4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 212,
+          "like_count": 9820,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 3416
+        },
+        "username": "e57jcetmSs91516",
+        "verified": false
+      }
+    ]
+  }
+}

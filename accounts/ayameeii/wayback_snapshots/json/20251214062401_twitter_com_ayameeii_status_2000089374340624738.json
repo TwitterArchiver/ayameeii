@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1999810907267043473",
+    "created_at": "2025-12-14T06:24:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T07:24:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000089374340624738"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1422800225777897472",
+          "start": 0,
+          "username": "PhileasFogg2007"
+        },
+        {
+          "end": 30,
+          "id": "1597605170502062080",
+          "start": 17,
+          "username": "Ayanami_rin0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000089374340624738",
+    "in_reply_to_user_id": "1422800225777897472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000087714604228814",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PhileasFogg2007 @Ayanami_rin0 小绫你怎么回事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1999810907267043473",
+        "created_at": "2025-12-14T06:24:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T07:24:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000089374340624738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1422800225777897472",
+              "start": 0,
+              "username": "PhileasFogg2007"
+            },
+            {
+              "end": 30,
+              "id": "1597605170502062080",
+              "start": 17,
+              "username": "Ayanami_rin0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000089374340624738",
+        "in_reply_to_user_id": "1422800225777897472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000087714604228814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PhileasFogg2007 @Ayanami_rin0 小绫你怎么回事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1422800225777897472",
+        "conversation_id": "1999810907267043473",
+        "created_at": "2025-12-14T06:17:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T07:17:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000087714604228814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1852135214795100164",
+              "start": 0,
+              "username": "ayameeii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000087714604228814",
+        "in_reply_to_user_id": "1852135214795100164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999811364010021060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayameeii 我在南京也没吃到🌚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "1992652290252316901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 307,
+          "like_count": 5566,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1788
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-04T06:03:14.000Z",
+        "description": "ᵕ̈ 福格Fogg 缘于相逢处 XwX🌳 出厂日期2007 ,现在上大一🌲🌴喜欢森林,草原,山脉,湖泊和海洋🚲🏊ENFJ🏗️扩列&互fo可以私信🧦一般会先说抱歉💃",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/phileasfogg2007",
+                "end": 23,
+                "expanded_url": "https://ngl.link/phileasfogg2007",
+                "start": 0,
+                "url": "https://t.co/U7xC0JFptw"
+              }
+            ]
+          }
+        },
+        "id": "1422800225777897472",
+        "location": "南京🌸🌊",
+        "name": "福·格ʕ •ᴥ•ʔ🌲",
+        "pinned_tweet_id": "1991913479742394793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997996951758094336/GCmiD89L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1211,
+          "following_count": 339,
+          "like_count": 59530,
+          "listed_count": 5,
+          "media_count": 1176,
+          "tweet_count": 8872
+        },
+        "url": "https://t.co/U7xC0JFptw",
+        "username": "PhileasFogg2007",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-29T14:55:41.000Z",
+        "description": "只管开心,无需正常。水中寒月如雪，指尖轻点融解， 断桥是否下过雪🫖糊满腻子的垃圾场于美丽的新世界🍨喜欢吃杨梅冰粉雪绵豆沙和马桶盖子 世界上最幸福的人。长文糊涂话https://t.co/XI1iXwHXJ5\n#啊呀纳米相册  #小绫的诗歌日记本 #小绫饭店  #aynm吃什么 #aynm旅行日记",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 111,
+                "start": 104,
+                "tag": "啊呀纳米相册"
+              },
+              {
+                "end": 122,
+                "start": 113,
+                "tag": "小绫的诗歌日记本"
+              },
+              {
+                "end": 128,
+                "start": 123,
+                "tag": "小绫饭店"
+              },
+              {
+                "end": 138,
+                "start": 130,
+                "tag": "aynm吃什么"
+              },
+              {
+                "end": 148,
+                "start": 139,
+                "tag": "aynm旅行日记"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ayanamirin0.substack.com",
+                "end": 103,
+                "expanded_url": "http://ayanamirin0.substack.com",
+                "start": 80,
+                "url": "https://t.co/XI1iXwHXJ5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ayanami_rin",
+                "end": 23,
+                "expanded_url": "https://t.me/ayanami_rin",
+                "start": 0,
+                "url": "https://t.co/scHs3L2HGT"
+              }
+            ]
+          }
+        },
+        "id": "1597605170502062080",
+        "location": "美丽而纯洁无瑕的少女总有一些小秘密，不是吗？",
+        "name": "涟漪aynm💨♿️🍼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978177217856487424/_yDj4ynS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4480,
+          "following_count": 728,
+          "like_count": 14228,
+          "listed_count": 14,
+          "media_count": 1298,
+          "tweet_count": 8595
+        },
+        "url": "https://t.co/scHs3L2HGT",
+        "username": "Ayanami_rin0",
+        "verified": false
+      }
+    ]
+  }
+}

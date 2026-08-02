@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2058132605061754913",
+    "created_at": "2026-05-23T23:14:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T00:14:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058325669084561466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2052101329250873344",
+          "start": 0,
+          "username": "8964_R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058325669084561466",
+    "in_reply_to_user_id": "2052101329250873344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058132605061754913",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964_R 送我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3200,
+        "media_key": "3_2058132598472519680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI_0saCbMAApLQs.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2058132605061754913",
+        "created_at": "2026-05-23T23:14:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T00:14:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058325669084561466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2052101329250873344",
+              "start": 0,
+              "username": "8964_R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058325669084561466",
+        "in_reply_to_user_id": "2052101329250873344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058132605061754913",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_R 送我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058132598472519680"
+          ]
+        },
+        "author_id": "2052101329250873344",
+        "conversation_id": "2058132605061754913",
+        "created_at": "2026-05-23T10:27:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T11:27:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058132605061754913"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0CxjRLcOgb",
+              "end": 41,
+              "expanded_url": "https://x.com/8964_R/status/2058132605061754913/photo/1",
+              "media_key": "3_2058132598472519680",
+              "start": 18,
+              "url": "https://t.co/0CxjRLcOgb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058132605061754913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1147,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨晚脑子一热就买了，我在想要不要退 https://t.co/0CxjRLcOgb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存| 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 34,
+                "start": 24,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 960,
+          "following_count": 652,
+          "like_count": 10153,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 3823
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-06T19:01:07.000Z",
+        "description": "※只是旅行者罢了，把我说过的一切都当做梦呓吧※\n※无性别者※\n※对象@sunset__3000※\n※美工很好有需要可以找她※\n※#odtwt※\n※#shtwt※\n※TG:HsHnFR※\n※我始终如一※\n永远纪念@Inks_chain @Chain_Inks",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 70,
+                "start": 64,
+                "tag": "odtwt"
+              },
+              {
+                "end": 79,
+                "start": 73,
+                "tag": "shtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 47,
+                "start": 34,
+                "username": "sunset__3000"
+              },
+              {
+                "end": 116,
+                "start": 105,
+                "username": "Inks_chain"
+              },
+              {
+                "end": 128,
+                "start": 117,
+                "username": "Chain_Inks"
+              }
+            ]
+          }
+        },
+        "id": "2052101329250873344",
+        "name": "ヰ世界优泠#参宿七",
+        "pinned_tweet_id": "2052735154242851176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052101413816483840/wqSySJnp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 47,
+          "like_count": 479,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 303
+        },
+        "username": "8964_R",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027997383205044224"
+      ]
+    },
+    "author_id": "1852135214795100164",
+    "conversation_id": "2027997385193128114",
+    "created_at": "2026-03-01T06:40:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T07:40:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027997385193128114"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/G89K6utnii",
+          "end": 39,
+          "expanded_url": "https://x.com/ayameeii/status/2027997385193128114/photo/1",
+          "media_key": "3_2027997383205044224",
+          "start": 16,
+          "url": "https://t.co/G89K6utnii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027997385193128114",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感谢老板~我会用来好好吃饭的🥺 https://t.co/G89K6utnii"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1086,
+        "media_key": "3_2027997383205044224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCTk4A9bwAA8_57.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027997383205044224"
+          ]
+        },
+        "author_id": "1852135214795100164",
+        "conversation_id": "2027997385193128114",
+        "created_at": "2026-03-01T06:40:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T07:40:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027997385193128114"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G89K6utnii",
+              "end": 39,
+              "expanded_url": "https://x.com/ayameeii/status/2027997385193128114/photo/1",
+              "media_key": "3_2027997383205044224",
+              "start": 16,
+              "url": "https://t.co/G89K6utnii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027997385193128114",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感谢老板~我会用来好好吃饭的🥺 https://t.co/G89K6utnii"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2027766234981494956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 634,
+          "following_count": 432,
+          "like_count": 7532,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 2660
+        },
+        "username": "ayameeii",
+        "verified": false
+      }
+    ]
+  }
+}

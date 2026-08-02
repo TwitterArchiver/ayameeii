@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2037536669403140130",
+    "created_at": "2026-03-27T15:15:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T16:15:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037548959590408251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2032033299980566528",
+          "start": 0,
+          "username": "rinii165892"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037548959590408251",
+    "in_reply_to_user_id": "2032033299980566528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037547760602505674",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rinii165892 诶？\n就是这个样子（至少到最后别人讨厌你的时候和梗没关系了 不过翻了下评论是为了融入集体吗xxx我以为是担心脱轨 前者是要进一步处好关系后者是后者只是不犯错\n不过这样子的话就和我这个从来游离于集体之外的人关系啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2037536669403140130",
+        "created_at": "2026-03-27T15:15:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T16:15:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037548959590408251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2032033299980566528",
+              "start": 0,
+              "username": "rinii165892"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037548959590408251",
+        "in_reply_to_user_id": "2032033299980566528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037547760602505674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rinii165892 诶？\n就是这个样子（至少到最后别人讨厌你的时候和梗没关系了 不过翻了下评论是为了融入集体吗xxx我以为是担心脱轨 前者是要进一步处好关系后者是后者只是不犯错\n不过这样子的话就和我这个从来游离于集体之外的人关系啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032033299980566528",
+        "conversation_id": "2037536669403140130",
+        "created_at": "2026-03-27T15:10:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T16:10:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037547760602505674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1852135214795100164",
+              "start": 0,
+              "username": "ayameeii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037547760602505674",
+        "in_reply_to_user_id": "1852135214795100164",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037547654545371314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayameeii 诶？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2036043044986953736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 708,
+          "following_count": 503,
+          "like_count": 8508,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 3129
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T09:58:00.000Z",
+        "description": "霖的第二黑化人格/寻回推u【查成分回fo】\n性别是帅气的末影人/不登校/💊2024.11/无证含糖/家暴党/炸柜2025.3/二次炸柜2026.3.26/出厂日期 2012.09.17/od/sh 全否定/\n✟❀信徒:@Fislonely_ ❀灵宠:@dbdbsjbsja❀永远纪念:@wu_si787878❀✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 109,
+                "username": "Fislonely_"
+              },
+              {
+                "end": 136,
+                "start": 125,
+                "username": "dbdbsjbsja"
+              },
+              {
+                "end": 154,
+                "start": 142,
+                "username": "wu_si787878"
+              }
+            ]
+          }
+        },
+        "id": "2032033299980566528",
+        "location": "msk坟头",
+        "name": "3.雨木木（已黑化）",
+        "pinned_tweet_id": "2037038843824922810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032130669959397377/7kOyBARR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 234,
+          "like_count": 1264,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 821
+        },
+        "username": "rinii165892",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2017089514565750785"
+      ]
+    },
+    "author_id": "1852135214795100164",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2017089596375613445",
+    "created_at": "2026-01-30T04:16:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T05:16:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2017089596375613445"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cKd9JSlwo9",
+          "end": 45,
+          "expanded_url": "https://x.com/ayameeii/status/2017089596375613445/photo/1",
+          "media_key": "3_2017089514565750785",
+          "start": 22,
+          "url": "https://t.co/cKd9JSlwo9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017089596375613445",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哇塞只要一抽就能拿到 终末地福利也太好了吧 https://t.co/cKd9JSlwo9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2160,
+        "media_key": "3_2017089514565750785",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_4kOfvbUAEXMrK.jpg",
+        "width": 3840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017089514565750785"
+          ]
+        },
+        "author_id": "1852135214795100164",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2017089596375613445",
+        "created_at": "2026-01-30T04:16:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T05:16:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017089596375613445"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cKd9JSlwo9",
+              "end": 45,
+              "expanded_url": "https://x.com/ayameeii/status/2017089596375613445/photo/1",
+              "media_key": "3_2017089514565750785",
+              "start": 22,
+              "url": "https://t.co/cKd9JSlwo9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017089596375613445",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哇塞只要一抽就能拿到 终末地福利也太好了吧 https://t.co/cKd9JSlwo9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2014053871983685932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 514,
+          "following_count": 371,
+          "like_count": 6804,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2312
+        },
+        "username": "ayameeii",
+        "verified": false
+      }
+    ]
+  }
+}

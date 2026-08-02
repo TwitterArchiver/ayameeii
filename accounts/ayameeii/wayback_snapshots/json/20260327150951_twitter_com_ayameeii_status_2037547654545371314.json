@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2037536669403140130",
+    "created_at": "2026-03-27T15:09:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T16:09:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037547654545371314"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2032033299980566528",
+          "start": 0,
+          "username": "rinii165892"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037547654545371314",
+    "in_reply_to_user_id": "2032033299980566528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037536669403140130",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rinii165892 可以一直复制。。。不保证不被删"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2037536669403140130",
+        "created_at": "2026-03-27T15:09:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T16:09:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037547654545371314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2032033299980566528",
+              "start": 0,
+              "username": "rinii165892"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037547654545371314",
+        "in_reply_to_user_id": "2032033299980566528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037536669403140130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rinii165892 可以一直复制。。。不保证不被删"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032033299980566528",
+        "conversation_id": "2037536669403140130",
+        "created_at": "2026-03-27T14:26:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T15:26:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037536669403140130"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037536669403140130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 104,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在墙内的梗是什么。我脱轨了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2036043044986953736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 708,
+          "following_count": 503,
+          "like_count": 8506,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 3127
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T09:58:00.000Z",
+        "description": "霖的第二黑化人格/寻回推u【查成分回fo】\n性别是帅气的末影人/不登校/💊2024.11/无证含糖/家暴党/炸柜2025.3/二次炸柜2026.3.26/出厂日期 2012.09.17/od/sh 全否定/\n✟❀信徒:@Fislonely_ ❀灵宠:@dbdbsjbsja❀永远纪念:@wu_si787878❀✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 109,
+                "username": "Fislonely_"
+              },
+              {
+                "end": 136,
+                "start": 125,
+                "username": "dbdbsjbsja"
+              },
+              {
+                "end": 154,
+                "start": 142,
+                "username": "wu_si787878"
+              }
+            ]
+          }
+        },
+        "id": "2032033299980566528",
+        "location": "msk坟头",
+        "name": "3.雨木木（已黑化）",
+        "pinned_tweet_id": "2037038843824922810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032130669959397377/7kOyBARR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 234,
+          "like_count": 1261,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 816
+        },
+        "username": "rinii165892",
+        "verified": false
+      }
+    ]
+  }
+}

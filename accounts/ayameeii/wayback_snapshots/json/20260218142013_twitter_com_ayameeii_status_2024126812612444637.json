@@ -1,0 +1,579 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024126517446619136"
+      ],
+      "media_source_tweet_id": [
+        "2024126528619987225"
+      ]
+    },
+    "author_id": "1852135214795100164",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "2024126812612444637",
+    "created_at": "2026-02-18T14:20:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T15:20:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024126812612444637"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 19,
+          "tag": "バンドリ"
+        },
+        {
+          "end": 36,
+          "start": 26,
+          "tag": "AveMujica"
+        },
+        {
+          "end": 43,
+          "start": 38,
+          "tag": "豊川祥子"
+        },
+        {
+          "end": 53,
+          "start": 45,
+          "tag": "オブリビオニス"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1595657541803204608",
+          "start": 3,
+          "username": "watashi_shiko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gThp1DA2yx",
+          "end": 77,
+          "expanded_url": "https://x.com/watashi_shiko/status/2024126528619987225/photo/1",
+          "media_key": "3_2024126517446619136",
+          "start": 54,
+          "url": "https://t.co/gThp1DA2yx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024126812612444637",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024126528619987225",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @watashi_shiko: #バンドリ \n#AveMujica \n#豊川祥子 \n#オブリビオニス https://t.co/gThp1DA2yx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2024126517446619136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBckV-TasAAIEhQ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024126517446619136"
+          ],
+          "media_source_tweet_id": [
+            "2024126528619987225"
+          ]
+        },
+        "author_id": "1852135214795100164",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2024126812612444637",
+        "created_at": "2026-02-18T14:20:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T15:20:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024126812612444637"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 19,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 36,
+              "start": 26,
+              "tag": "AveMujica"
+            },
+            {
+              "end": 43,
+              "start": 38,
+              "tag": "豊川祥子"
+            },
+            {
+              "end": 53,
+              "start": 45,
+              "tag": "オブリビオニス"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1595657541803204608",
+              "start": 3,
+              "username": "watashi_shiko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gThp1DA2yx",
+              "end": 77,
+              "expanded_url": "https://x.com/watashi_shiko/status/2024126528619987225/photo/1",
+              "media_key": "3_2024126517446619136",
+              "start": 54,
+              "url": "https://t.co/gThp1DA2yx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024126812612444637",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024126528619987225",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @watashi_shiko: #バンドリ \n#AveMujica \n#豊川祥子 \n#オブリビオニス https://t.co/gThp1DA2yx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024126517446619136"
+          ]
+        },
+        "author_id": "1595657541803204608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2024126528619987225",
+        "created_at": "2026-02-18T14:19:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T15:19:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024126528619987225"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 17,
+              "start": 7,
+              "tag": "AveMujica"
+            },
+            {
+              "end": 24,
+              "start": 19,
+              "tag": "豊川祥子"
+            },
+            {
+              "end": 34,
+              "start": 26,
+              "tag": "オブリビオニス"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gThp1DA2yx",
+              "end": 58,
+              "expanded_url": "https://x.com/watashi_shiko/status/2024126528619987225/photo/1",
+              "media_key": "3_2024126517446619136",
+              "start": 35,
+              "url": "https://t.co/gThp1DA2yx"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "0140c4a163941a02"
+        },
+        "id": "2024126528619987225",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#バンドリ \n#AveMujica \n#豊川祥子 \n#オブリビオニス https://t.co/gThp1DA2yx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2014053871983685932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540,
+          "following_count": 408,
+          "like_count": 7219,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 2526
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-24T05:56:27.000Z",
+        "description": "😈 男の娘 × 反格式化靈魂 × 夜羽信徒第11年 🚌 靈界結界《Numazu》🗾｜✝️ 你，準備好踏入神與幽之間的真實了嗎✡️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/watashishiko",
+                "end": 23,
+                "expanded_url": "https://lit.link/watashishiko",
+                "start": 0,
+                "url": "https://t.co/0GOef122te"
+              }
+            ]
+          }
+        },
+        "id": "1595657541803204608",
+        "location": "✝️つしまの神殿@沼津😈",
+        "name": "🇭🇰香港男娘椎子Shiko😈",
+        "pinned_tweet_id": "2022699947964141921",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000554382560198657/gl82lFW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5863,
+          "following_count": 1599,
+          "like_count": 16117,
+          "listed_count": 34,
+          "media_count": 1413,
+          "tweet_count": 3762
+        },
+        "url": "https://t.co/0GOef122te",
+        "username": "watashi_shiko",
+        "verified": true
+      }
+    ]
+  }
+}

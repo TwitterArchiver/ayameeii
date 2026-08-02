@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1980465721223311804",
+    "created_at": "2025-10-21T02:46:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T03:46:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980465756086366522"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1980465756086366522",
+    "in_reply_to_user_id": "1852135214795100164",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980465721223311804",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我讨厌这种说法，不去在意他们承受的痛苦与折磨，却还要划分想死的人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1980465721223311804",
+        "created_at": "2025-10-21T02:46:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T03:46:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980465756086366522"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1980465756086366522",
+        "in_reply_to_user_id": "1852135214795100164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980465721223311804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我讨厌这种说法，不去在意他们承受的痛苦与折磨，却还要划分想死的人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1980465721223311804",
+        "created_at": "2025-10-21T02:46:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T03:46:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980465721223311804"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1980465721223311804",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不认同\"真正想死的人不怕疼\"\n难道想死就不会感受到痛了吗。明明是面临绝境让他们无视了自杀的折磨吧,明明是即使面对着自杀可能的痛苦他们还是义无反顾吧\n听起来就像在区分真/假\"想死的人\"——怕疼就不想死 想死就不会怕疼？\n漠视死的苦痛，漠视挣扎死亡的心,可能死人真没有人同情吧\n明明他们受尽了折磨吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 172,
+          "like_count": 1421,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 379
+        },
+        "username": "ayameeii",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1991985323975581860",
+    "created_at": "2025-11-23T17:48:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T18:48:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992651603246207186"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1551813602553757697",
+          "start": 0,
+          "username": "mimi_VnV"
+        },
+        {
+          "end": 23,
+          "id": "1768165061103640576",
+          "start": 10,
+          "username": "SEISEI_YUYU_"
+        },
+        {
+          "end": 36,
+          "id": "1903417613671415808",
+          "start": 24,
+          "username": "whalesbone_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992651603246207186",
+    "in_reply_to_user_id": "1551813602553757697",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992648967189061638",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mimi_VnV @SEISEI_YUYU_ @whalesbone_ 我吐了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1991985323975581860",
+        "created_at": "2025-11-23T17:48:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T18:48:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992651603246207186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1551813602553757697",
+              "start": 0,
+              "username": "mimi_VnV"
+            },
+            {
+              "end": 23,
+              "id": "1768165061103640576",
+              "start": 10,
+              "username": "SEISEI_YUYU_"
+            },
+            {
+              "end": 36,
+              "id": "1903417613671415808",
+              "start": 24,
+              "username": "whalesbone_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992651603246207186",
+        "in_reply_to_user_id": "1551813602553757697",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992648967189061638",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mimi_VnV @SEISEI_YUYU_ @whalesbone_ 我吐了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1551813602553757697",
+        "conversation_id": "1991985323975581860",
+        "created_at": "2025-11-23T17:38:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T18:38:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992648967189061638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1768165061103640576",
+              "start": 0,
+              "username": "SEISEI_YUYU_"
+            },
+            {
+              "end": 26,
+              "id": "1903417613671415808",
+              "start": 14,
+              "username": "whalesbone_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992648967189061638",
+        "in_reply_to_user_id": "1768165061103640576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992635013599535315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SEISEI_YUYU_ @whalesbone_ 我吐了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 252,
+          "like_count": 3998,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 1242
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-26T06:16:28.000Z",
+        "description": "天才",
+        "id": "1551813602553757697",
+        "name": "离离原上咪",
+        "pinned_tweet_id": "1985930148403949751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984951363344928768/V4iJQG7l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 665,
+          "like_count": 9749,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1025
+        },
+        "username": "mimi_VnV",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-14T06:39:47.000Z",
+        "description": "04ㅣINFPㅣ特撮丨寶可夢ㅣ🇨🇳🇭🇰🇲🇴🇹🇼🇯🇵🇰🇷🇰🇵🇻🇳漢字文化圏ㅣ古典日本語&中世朝鮮語ㅣ我很孤獨，友達欲しいㅣOD&リスカㅣ叫我青悠即可ㅣ坐標鄭州，歡迎來找我玩捏",
+        "id": "1768165061103640576",
+        "location": "無間地獄  ",
+        "name": "青々悠々",
+        "pinned_tweet_id": "1988855157132611824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985156389103443968/NUQryyY1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 720,
+          "like_count": 8222,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 832
+        },
+        "username": "SEISEI_YUYU_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-22T12:05:10.000Z",
+        "description": "（欢迎来看社会底层渣滓的无病呻吟）家里蹲 | 美国作息 | 可能已存活千年 | 顺女/或许是双/泛/已有BF | 天天od已减少割手频率 | LGBTQ+全友好🏳️‍🌈 | 精神不安定已放弃治疗 | Satanist",
+        "id": "1903417613671415808",
+        "name": "VampireHamsterFromOuttaSpace",
+        "pinned_tweet_id": "1990857953604444539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990190723254398977/iH6ZmWs9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 37,
+          "like_count": 3308,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 765
+        },
+        "username": "whalesbone_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1994417715290009631",
+    "created_at": "2025-11-29T00:34:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T01:34:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994565543568052443"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1765825463103139840",
+          "start": 0,
+          "username": "Chloris923"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994565543568052443",
+    "in_reply_to_user_id": "1765825463103139840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994417715290009631",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chloris923 妈妈原来你这么年轻 上了五年还能上完很坚强"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1994417715290009631",
+        "created_at": "2025-11-29T00:34:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T01:34:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994565543568052443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1765825463103139840",
+              "start": 0,
+              "username": "Chloris923"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994565543568052443",
+        "in_reply_to_user_id": "1765825463103139840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994417715290009631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chloris923 妈妈原来你这么年轻 上了五年还能上完很坚强"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1765825463103139840",
+        "conversation_id": "1994417715290009631",
+        "created_at": "2025-11-28T14:46:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T15:32:49.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994414179873333327",
+          "1994417715290009631"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Chloris923/sta…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/Chloris923/status/1994275741639561666",
+              "start": 8,
+              "url": "https://t.co/9TZEOajxpG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994417715290009631",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994275741639561666",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "上了五年，誰懂 https://t.co/9TZEOajxpG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "喜欢我我也喜欢你 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "1992652290252316901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 272,
+          "like_count": 4399,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1387
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-07T19:43:16.000Z",
+        "description": "低成本批發人形生物｜Made In China｜原帳創立於2022.11現已註銷",
+        "id": "1765825463103139840",
+        "name": "🪞",
+        "pinned_tweet_id": "1994417386792087572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992515558689193984/dbBJeHML_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 299,
+          "like_count": 20505,
+          "listed_count": 3,
+          "media_count": 427,
+          "tweet_count": 10792
+        },
+        "username": "Chloris923",
+        "verified": true
+      }
+    ]
+  }
+}

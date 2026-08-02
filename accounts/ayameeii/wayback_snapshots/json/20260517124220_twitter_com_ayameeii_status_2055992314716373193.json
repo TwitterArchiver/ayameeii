@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2055992314716373193",
+    "created_at": "2026-05-17T12:42:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T13:42:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055992314716373193"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2055992314716373193",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "又在墙内看见围攻少数群体的了，，，我也是贱在墙内看这个 大概内容就是水色系衣服相关吐槽水色被“男娘”（原话,我本人对这个称谓中立）害了的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2055992314716373193",
+        "created_at": "2026-05-17T12:42:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T13:42:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055992314716373193"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055992314716373193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又在墙内看见围攻少数群体的了，，，我也是贱在墙内看这个 大概内容就是水色系衣服相关吐槽水色被“男娘”（原话,我本人对这个称谓中立）害了的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存| 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 34,
+                "start": 24,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 960,
+          "following_count": 649,
+          "like_count": 10077,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 3797
+        },
+        "username": "ayameeii",
+        "verified": false
+      }
+    ]
+  }
+}

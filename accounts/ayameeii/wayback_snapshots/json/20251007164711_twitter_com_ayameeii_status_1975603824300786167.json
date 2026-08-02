@@ -1,0 +1,103 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1975603824300786167",
+    "created_at": "2025-10-07T16:47:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T17:47:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1975603824300786167"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1975603824300786167",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "初中班里组织同学唱歌表演 我比较孤僻 所以非自愿的被安排进了某个小组 至今记得小组的同学问我唱歌怎么样 让我先唱歌试试 于是在我展示歌喉之后\n我永远忘记不了\n那种失望的神情\n他倒没说什么 不过我很清楚的知道自己五音不全了\n我只希望这辈子都不会在别人的脸上看见这种对我失望的表情 最害怕的事情"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1975603824300786167",
+        "created_at": "2025-10-07T16:47:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T17:47:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975603824300786167"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1975603824300786167",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "初中班里组织同学唱歌表演 我比较孤僻 所以非自愿的被安排进了某个小组 至今记得小组的同学问我唱歌怎么样 让我先唱歌试试 于是在我展示歌喉之后\n我永远忘记不了\n那种失望的神情\n他倒没说什么 不过我很清楚的知道自己五音不全了\n我只希望这辈子都不会在别人的脸上看见这种对我失望的表情 最害怕的事情"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "狗狗kiss",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852135475403984896/GBdrMFBz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 119,
+          "like_count": 499,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 130
+        },
+        "username": "ayameeii",
+        "verified": false
+      }
+    ]
+  }
+}

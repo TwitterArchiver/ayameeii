@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1980614895227007191",
+    "created_at": "2025-10-21T12:42:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T13:42:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980615583306854703"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1822447334749614080",
+          "start": 0,
+          "username": "chenwai29719"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980615583306854703",
+    "in_reply_to_user_id": "1822447334749614080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980614895227007191",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chenwai29719 说不定过会就解了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1213,
+        "media_key": "3_1980614868483883008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3yOuqjWwAAVpt-.jpg",
+        "width": 1072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1980614895227007191",
+        "created_at": "2025-10-21T12:42:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T13:42:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980615583306854703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1822447334749614080",
+              "start": 0,
+              "username": "chenwai29719"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980615583306854703",
+        "in_reply_to_user_id": "1822447334749614080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980614895227007191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chenwai29719 说不定过会就解了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980614868483883008"
+          ]
+        },
+        "author_id": "1822447334749614080",
+        "conversation_id": "1980614895227007191",
+        "created_at": "2025-10-21T12:39:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T13:39:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980614895227007191"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8VWLeb5EI9",
+              "end": 32,
+              "expanded_url": "https://x.com/chenwai29719/status/1980614895227007191/photo/1",
+              "media_key": "3_1980614868483883008",
+              "start": 9,
+              "url": "https://t.co/8VWLeb5EI9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980614895227007191",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "鸡哥你是不是有病 https://t.co/8VWLeb5EI9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 176,
+          "like_count": 1450,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 388
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-11T01:38:11.000Z",
+        "description": "07/infp/ftx/非二元/泛/adhd+asd/抑郁症焦虑症/化学极乐\n一般都会回fo，听点摇滚/金属",
+        "id": "1822447334749614080",
+        "name": "尘外",
+        "pinned_tweet_id": "1980068482650959937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945350840199634944/hOFuYJd1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 65,
+          "like_count": 88,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 234
+        },
+        "username": "chenwai29719",
+        "verified": false
+      }
+    ]
+  }
+}

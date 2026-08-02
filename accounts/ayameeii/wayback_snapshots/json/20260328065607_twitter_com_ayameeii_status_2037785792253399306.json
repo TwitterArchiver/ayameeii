@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2037672824987587051",
+    "created_at": "2026-03-28T06:56:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T07:56:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037785792253399306"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1779366307055730688",
+          "start": 0,
+          "username": "IcarusXin48776"
+        },
+        {
+          "end": 24,
+          "id": "1532663208393117696",
+          "start": 16,
+          "username": "Ziverk2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037785792253399306",
+    "in_reply_to_user_id": "1779366307055730688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037672824987587051",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IcarusXin48776 @Ziverk2 没见过在医院里因为止血没钱就不管的 就算说没钱也是先救啊 还好吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2037672814979985408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEdEoRFaMAAj7X7.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2037672824987587051",
+        "created_at": "2026-03-28T06:56:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T07:56:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037785792253399306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1779366307055730688",
+              "start": 0,
+              "username": "IcarusXin48776"
+            },
+            {
+              "end": 24,
+              "id": "1532663208393117696",
+              "start": 16,
+              "username": "Ziverk2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037785792253399306",
+        "in_reply_to_user_id": "1779366307055730688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037672824987587051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IcarusXin48776 @Ziverk2 没见过在医院里因为止血没钱就不管的 就算说没钱也是先救啊 还好吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037672814979985408"
+          ]
+        },
+        "author_id": "1779366307055730688",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2037672824987587051",
+        "created_at": "2026-03-27T23:27:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T00:27:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037672824987587051"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SmJcspJn1q",
+              "end": 49,
+              "expanded_url": "https://x.com/IcarusXin48776/status/2037672824987587051/photo/1",
+              "media_key": "3_2037672814979985408",
+              "start": 26,
+              "url": "https://t.co/SmJcspJn1q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037672824987587051",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 1553,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "再见了，医院止血要2w，我付不起这个钱，感谢所有人 https://t.co/SmJcspJn1q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2036043044986953736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 709,
+          "following_count": 503,
+          "like_count": 8532,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 3142
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-14T04:29:46.000Z",
+        "description": "双相情感障碍/OD/精神分裂/持证MTF💊/改花刀🔪/严重洁癖",
+        "id": "1779366307055730688",
+        "location": "阿尔卑斯山晶云宫",
+        "name": "傲娇冰竺郡主🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827639633980833793/6snjxYrN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 208,
+          "like_count": 490,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 246
+        },
+        "username": "IcarusXin48776",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-03T09:59:29.000Z",
+        "description": "喵喵喵喵喵\n| 2008-\n| MTF(X)🍥 🏳️‍⚧️ SINCE 2024.11\n|国内全平台原创音乐人\n|极度社恐\n|小群 1020709329\n|Office @mtitstudio\n|Debian\n|内有涩涩内容🫣\n|负面逃生仓⚠血图 @TakeNitrite\n|♥️ @lm9325435076267",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 85,
+                "username": "mtitstudio"
+              },
+              {
+                "end": 136,
+                "start": 124,
+                "username": "TakeNitrite"
+              },
+              {
+                "end": 157,
+                "start": 141,
+                "username": "lm9325435076267"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "eina-2nd.github.io",
+                "end": 23,
+                "expanded_url": "https://eina-2nd.github.io/",
+                "start": 0,
+                "url": "https://t.co/CY9WeMigBd"
+              }
+            ]
+          }
+        },
+        "id": "1532663208393117696",
+        "name": "Einaちゃん🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909919331443695616/ZASQNok0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2990,
+          "following_count": 5488,
+          "like_count": 167659,
+          "listed_count": 12,
+          "media_count": 252,
+          "tweet_count": 15145
+        },
+        "url": "https://t.co/CY9WeMigBd",
+        "username": "Ziverk2",
+        "verified": false
+      }
+    ]
+  }
+}

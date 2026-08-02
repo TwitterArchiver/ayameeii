@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2044029833794187518",
+    "created_at": "2026-04-14T17:27:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T18:27:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044105362694123559"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1992651014470811648",
+          "start": 0,
+          "username": "lier399566"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044105362694123559",
+    "in_reply_to_user_id": "1992651014470811648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044029833794187518",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lier399566 你怎么死了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2044029820313726976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF3aSrYa8AAi-6_.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2044029833794187518",
+        "created_at": "2026-04-14T17:27:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T18:27:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044105362694123559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1992651014470811648",
+              "start": 0,
+              "username": "lier399566"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044105362694123559",
+        "in_reply_to_user_id": "1992651014470811648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044029833794187518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lier399566 你怎么死了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044029820313726976"
+          ]
+        },
+        "author_id": "1992651014470811648",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2044029833794187518",
+        "created_at": "2026-04-14T12:27:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T13:27:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044029833794187518"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CYbf9UcIZf",
+              "end": 26,
+              "expanded_url": "https://x.com/lier399566/status/2044029833794187518/photo/1",
+              "media_key": "3_2044029820313726976",
+              "start": 3,
+              "url": "https://t.co/CYbf9UcIZf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044029833794187518",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 200,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "食物 https://t.co/CYbf9UcIZf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存|对象❤️@AAAAAMTxT 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "AAAAAMTxT"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 48,
+                "start": 38,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 798,
+          "following_count": 596,
+          "like_count": 9443,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 3488
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-23T17:46:57.000Z",
+        "description": "本体이×3的食物复制人\n01×3已死🥰",
+        "id": "1992651014470811648",
+        "location": "阿一丝可丽慕大酒店",
+        "name": "没有脚后跟的阿喀琉斯",
+        "pinned_tweet_id": "2031392926048334234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993713814525902848/Q7fVmUZx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 53,
+          "like_count": 639,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 190
+        },
+        "username": "lier399566",
+        "verified": false
+      }
+    ]
+  }
+}

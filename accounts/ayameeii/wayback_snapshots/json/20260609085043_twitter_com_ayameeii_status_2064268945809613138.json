@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2064185925060776189",
+    "created_at": "2026-06-09T08:50:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T09:50:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064268945809613138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1868205822511288320",
+          "start": 0,
+          "username": "vicoOci_Olvidar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064268945809613138",
+    "in_reply_to_user_id": "1868205822511288320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064185925060776189",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vicoOci_Olvidar 宝宝爱你🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2064185925060776189",
+        "created_at": "2026-06-09T08:50:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T09:50:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064268945809613138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1868205822511288320",
+              "start": 0,
+              "username": "vicoOci_Olvidar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064268945809613138",
+        "in_reply_to_user_id": "1868205822511288320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064185925060776189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vicoOci_Olvidar 宝宝爱你🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868205822511288320",
+        "conversation_id": "2064185925060776189",
+        "created_at": "2026-06-09T03:20:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T04:20:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064185925060776189"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064185925060776189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1514,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "大家好 感谢关心 本人已经拿到备用手机（一部很旧的se3）虽然没有sim卡但暂时可以上推 关于本人已经死亡的消息均为造谣 请大家理性哭坟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存| 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 34,
+                "start": 24,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1045,
+          "following_count": 677,
+          "like_count": 10416,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 3972
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T08:06:14.000Z",
+        "description": "祝你幸福｜最高指示请看❤️@D_D_ovo_｜一击脱离你妈死了｜上勾拳免疫之人｜穷蛆文学 前男友文学｜全体出动操你妈｜转世灵童傀儡@anothervicooci｜妈妈们@misaki348632 @rinko_zero8964｜支持互b",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 13,
+                "username": "D_D_ovo_"
+              },
+              {
+                "end": 80,
+                "start": 65,
+                "username": "anothervicooci"
+              },
+              {
+                "end": 97,
+                "start": 84,
+                "username": "misaki348632"
+              },
+              {
+                "end": 113,
+                "start": 98,
+                "username": "rinko_zero8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "http://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/C8DJQnD8y9"
+              }
+            ]
+          }
+        },
+        "id": "1868205822511288320",
+        "location": "天台 药房 你的怀里",
+        "name": "胃宝路",
+        "pinned_tweet_id": "2058637986905153762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052293655466323968/tRrr7IFd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4559,
+          "following_count": 393,
+          "like_count": 24640,
+          "listed_count": 19,
+          "media_count": 1336,
+          "tweet_count": 16904
+        },
+        "url": "https://t.co/C8DJQnD8y9",
+        "username": "vicoOci_Olvidar",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028741740673589248",
+        "3_2028741740249911296",
+        "3_2028741740023406592",
+        "3_2028741740367417344"
+      ],
+      "media_source_tweet_id": [
+        "2028741743735411018",
+        "2028741743735411018",
+        "2028741743735411018",
+        "2028741743735411018"
+      ]
+    },
+    "author_id": "1852135214795100164",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2028787988478754817",
+    "created_at": "2026-03-03T11:02:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T12:02:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028787988478754817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1615975837542809601",
+          "start": 3,
+          "username": "gg84886384"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vhANhxrm0D",
+          "end": 66,
+          "expanded_url": "https://x.com/gg84886384/status/2028741743735411018/photo/1",
+          "media_key": "3_2028741740673589248",
+          "start": 43,
+          "url": "https://t.co/vhANhxrm0D"
+        },
+        {
+          "display_url": "pic.x.com/vhANhxrm0D",
+          "end": 66,
+          "expanded_url": "https://x.com/gg84886384/status/2028741743735411018/photo/1",
+          "media_key": "3_2028741740249911296",
+          "start": 43,
+          "url": "https://t.co/vhANhxrm0D"
+        },
+        {
+          "display_url": "pic.x.com/vhANhxrm0D",
+          "end": 66,
+          "expanded_url": "https://x.com/gg84886384/status/2028741743735411018/photo/1",
+          "media_key": "3_2028741740023406592",
+          "start": 43,
+          "url": "https://t.co/vhANhxrm0D"
+        },
+        {
+          "display_url": "pic.x.com/vhANhxrm0D",
+          "end": 66,
+          "expanded_url": "https://x.com/gg84886384/status/2028741743735411018/photo/1",
+          "media_key": "3_2028741740367417344",
+          "start": 43,
+          "url": "https://t.co/vhANhxrm0D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028787988478754817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028741743735411018",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gg84886384: 挂一个死妈pc不给钱的骗子 转发 抽一个人发🧧100 https://t.co/vhANhxrm0D"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2028787988478754817].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2028787988478754817",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2028787988478754817"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2028741740673589248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCeJ3UnbYAAdqZV.jpg",
+        "width": 864
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2028741740249911296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCeJ3TCakAA_kQd.jpg",
+        "width": 864
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2028741740023406592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCeJ3SMaYAA9moX.jpg",
+        "width": 864
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2028741740367417344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCeJ3TebkAANGND.jpg",
+        "width": 864
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028741740673589248",
+            "3_2028741740249911296",
+            "3_2028741740023406592",
+            "3_2028741740367417344"
+          ]
+        },
+        "author_id": "1615975837542809601",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2028741743735411018",
+        "created_at": "2026-03-03T07:58:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T08:58:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028741743735411018"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vhANhxrm0D",
+              "end": 50,
+              "expanded_url": "https://x.com/gg84886384/status/2028741743735411018/photo/1",
+              "media_key": "3_2028741740673589248",
+              "start": 27,
+              "url": "https://t.co/vhANhxrm0D"
+            },
+            {
+              "display_url": "pic.x.com/vhANhxrm0D",
+              "end": 50,
+              "expanded_url": "https://x.com/gg84886384/status/2028741743735411018/photo/1",
+              "media_key": "3_2028741740249911296",
+              "start": 27,
+              "url": "https://t.co/vhANhxrm0D"
+            },
+            {
+              "display_url": "pic.x.com/vhANhxrm0D",
+              "end": 50,
+              "expanded_url": "https://x.com/gg84886384/status/2028741743735411018/photo/1",
+              "media_key": "3_2028741740023406592",
+              "start": 27,
+              "url": "https://t.co/vhANhxrm0D"
+            },
+            {
+              "display_url": "pic.x.com/vhANhxrm0D",
+              "end": 50,
+              "expanded_url": "https://x.com/gg84886384/status/2028741743735411018/photo/1",
+              "media_key": "3_2028741740367417344",
+              "start": 27,
+              "url": "https://t.co/vhANhxrm0D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028741743735411018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 599,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "挂一个死妈pc不给钱的骗子 转发 抽一个人发🧧100 https://t.co/vhANhxrm0D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2027766234981494956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 647,
+          "following_count": 435,
+          "like_count": 7603,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 2693
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-19T07:34:06.000Z",
+        "description": "男的，谢谢关注( *ˊᵕˋ）\n之前5w粉的号被封了\n低质量cos\n聊天🚪50",
+        "id": "1615975837542809601",
+        "location": "上海",
+        "name": "咕咕",
+        "pinned_tweet_id": "2024386541704139213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028779609677066240/yyBJeV8D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1989,
+          "following_count": 164,
+          "like_count": 664,
+          "listed_count": 5,
+          "media_count": 37,
+          "tweet_count": 290
+        },
+        "username": "gg84886384",
+        "verified": false
+      }
+    ]
+  }
+}

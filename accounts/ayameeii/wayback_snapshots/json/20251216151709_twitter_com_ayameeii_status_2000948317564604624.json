@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1996128177903825082",
+    "created_at": "2025-12-16T15:17:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T16:17:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000948317564604624"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1751084995312275456",
+          "start": 0,
+          "username": "MikuMiku3648"
+        },
+        {
+          "end": 30,
+          "id": "1142269209138720769",
+          "start": 14,
+          "username": "2SJ7ntKBdEtTKrM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000948317564604624",
+    "in_reply_to_user_id": "1751084995312275456",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996128177903825082",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MikuMiku3648 @2SJ7ntKBdEtTKrM 黑幕我👁️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1996128177903825082",
+        "created_at": "2025-12-16T15:17:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T16:17:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000948317564604624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751084995312275456",
+              "start": 0,
+              "username": "MikuMiku3648"
+            },
+            {
+              "end": 30,
+              "id": "1142269209138720769",
+              "start": 14,
+              "username": "2SJ7ntKBdEtTKrM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000948317564604624",
+        "in_reply_to_user_id": "1751084995312275456",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996128177903825082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MikuMiku3648 @2SJ7ntKBdEtTKrM 黑幕我👁️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751084995312275456",
+        "conversation_id": "1996128177903825082",
+        "created_at": "2025-12-03T08:03:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T09:03:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996128177903825082"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "抽奖"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/MikuMiku3648/s…",
+              "end": 135,
+              "expanded_url": "https://twitter.com/MikuMiku3648/status/1993559585513410856",
+              "start": 112,
+              "url": "https://t.co/wTdNt1w7dm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996128177903825082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3884,
+          "like_count": 67,
+          "quote_count": 0,
+          "reply_count": 41,
+          "retweet_count": 39
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993559585513410856",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#抽奖\n一等奖：折算价格总和250¥以内的游戏，或200¥现金\nx1\n二等奖：综合价格70¥以内游戏或折算50¥现金\nx1\n三等奖：20¥游戏或现金\nx5\n参与奖：我喜欢你\n本帖是正式抽奖帖\n关注+点赞+转发+评论\n谢谢喵 https://t.co/wTdNt1w7dm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "1992652290252316901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 314,
+          "like_count": 5774,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1857
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-27T03:30:20.000Z",
+        "description": "「私たちが経験した平凡な日常は、連続して起こる奇跡かもしれません」                                                                  友達！：@meguruKirara   Remi  @miku_suki393939 对象：@Mikuloverr_新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 103,
+                "username": "meguruKirara"
+              },
+              {
+                "end": 141,
+                "start": 125,
+                "username": "miku_suki393939"
+              },
+              {
+                "end": 157,
+                "start": 145,
+                "username": "Mikuloverr_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/LittIeStar/MyG…",
+                "end": 23,
+                "expanded_url": "https://github.com/LittIeStar/MyGameCode",
+                "start": 0,
+                "url": "https://t.co/TLtumacIN5"
+              }
+            ]
+          }
+        },
+        "id": "1751084995312275456",
+        "location": "「さよなら」じゃなく 「また明日ね」って言って",
+        "name": "Miku🥝✞",
+        "pinned_tweet_id": "1809865925849674203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996915949782581248/zpb98e3R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3910,
+          "following_count": 1339,
+          "like_count": 38388,
+          "listed_count": 17,
+          "media_count": 2504,
+          "tweet_count": 14595
+        },
+        "url": "https://t.co/TLtumacIN5",
+        "username": "MikuMiku3648",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-22T03:12:56.000Z",
+        "description": "中度抑郁（？）+轻度焦虑（？）中....                                       魔法喵：@owl8964cat",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 63,
+                "username": "owl8964cat"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/2sj7ntkbdettkrm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/2sj7ntkbdettkrm",
+                "start": 0,
+                "url": "https://t.co/5Fim7CNIiI"
+              }
+            ]
+          }
+        },
+        "id": "1142269209138720769",
+        "name": "不爱吃麦当劳の魔法使",
+        "pinned_tweet_id": "1984854737418928503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919772351656558595/dFSkHTIL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 595,
+          "like_count": 20536,
+          "listed_count": 4,
+          "media_count": 141,
+          "tweet_count": 3854
+        },
+        "url": "https://t.co/5Fim7CNIiI",
+        "username": "2SJ7ntKBdEtTKrM",
+        "verified": false
+      }
+    ]
+  }
+}

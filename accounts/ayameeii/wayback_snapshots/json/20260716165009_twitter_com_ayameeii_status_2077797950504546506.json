@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077797947614638080",
+        "3_2077797948189208576"
+      ]
+    },
+    "author_id": "1852135214795100164",
+    "conversation_id": "2077797950504546506",
+    "created_at": "2026-07-16T16:50:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T17:50:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077797950504546506"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dm71Ac9Hkr",
+          "end": 36,
+          "expanded_url": "https://x.com/ayameeii/status/2077797950504546506/photo/1",
+          "media_key": "3_2077797947614638080",
+          "start": 13,
+          "url": "https://t.co/dm71Ac9Hkr"
+        },
+        {
+          "display_url": "pic.x.com/dm71Ac9Hkr",
+          "end": 36,
+          "expanded_url": "https://x.com/ayameeii/status/2077797950504546506/photo/1",
+          "media_key": "3_2077797948189208576",
+          "start": 13,
+          "url": "https://t.co/dm71Ac9Hkr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077797950504546506",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谢谢！这两位是哪个宝宝呀 https://t.co/dm71Ac9Hkr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 740,
+        "media_key": "3_2077797947614638080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNXSOYabMAA1DK3.jpg",
+        "width": 1220
+      },
+      {
+        "height": 640,
+        "media_key": "3_2077797948189208576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNXSOajacAAHuyM.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077797947614638080",
+            "3_2077797948189208576"
+          ]
+        },
+        "author_id": "1852135214795100164",
+        "conversation_id": "2077797950504546506",
+        "created_at": "2026-07-16T16:50:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T17:50:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077797950504546506"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dm71Ac9Hkr",
+              "end": 36,
+              "expanded_url": "https://x.com/ayameeii/status/2077797950504546506/photo/1",
+              "media_key": "3_2077797947614638080",
+              "start": 13,
+              "url": "https://t.co/dm71Ac9Hkr"
+            },
+            {
+              "display_url": "pic.x.com/dm71Ac9Hkr",
+              "end": 36,
+              "expanded_url": "https://x.com/ayameeii/status/2077797950504546506/photo/1",
+              "media_key": "3_2077797948189208576",
+              "start": 13,
+              "url": "https://t.co/dm71Ac9Hkr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077797950504546506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢！这两位是哪个宝宝呀 https://t.co/dm71Ac9Hkr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存|♥️@sakihanaShion 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 8,
+                "username": "sakihanaShion"
+              },
+              {
+                "end": 35,
+                "start": 25,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 50,
+                "start": 40,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1107,
+          "following_count": 724,
+          "like_count": 10645,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 4196
+        },
+        "url": "",
+        "username": "ayameeii",
+        "verified": false
+      }
+    ]
+  }
+}

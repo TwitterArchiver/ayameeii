@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1996513817912864830",
+    "created_at": "2025-12-04T09:38:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T10:38:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996514550334767552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1844088801054031873",
+          "start": 0,
+          "username": "kazankin10096"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996514550334767552",
+    "in_reply_to_user_id": "1844088801054031873",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996513817912864830",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kazankin10096 我很敬佩能干打一小时字的人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1996513817912864830",
+        "created_at": "2025-12-04T09:38:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T10:38:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996514550334767552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1844088801054031873",
+              "start": 0,
+              "username": "kazankin10096"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996514550334767552",
+        "in_reply_to_user_id": "1844088801054031873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996513817912864830",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kazankin10096 我很敬佩能干打一小时字的人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844088801054031873",
+        "conversation_id": "1996513817912864830",
+        "created_at": "2025-12-04T09:36:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T10:36:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996513817912864830"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1996513817912864830",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就這麽對著推特什麼也不刷，什麼也不幹的打了一個小時字，小妹妹，你真牛逼啊！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "1992652290252316901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 289,
+          "like_count": 4895,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1546
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-09T18:53:35.000Z",
+        "description": "你想太多啦",
+        "id": "1844088801054031873",
+        "name": "神秘萝莉控",
+        "pinned_tweet_id": "1847835546468434280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996402806526197760/xtpdm-Z3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 176,
+          "like_count": 1730,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 908
+        },
+        "username": "kazankin10096",
+        "verified": false
+      }
+    ]
+  }
+}

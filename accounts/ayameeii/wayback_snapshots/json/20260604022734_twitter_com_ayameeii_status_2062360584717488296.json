@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2062341128679227598",
+    "created_at": "2026-06-04T02:27:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T03:27:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062360584717488296"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1865081933027512324",
+          "start": 0,
+          "username": "HsyhO0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062360584717488296",
+    "in_reply_to_user_id": "1865081933027512324",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062341128679227598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HsyhO0 宝宝。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062341125567033345",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ7oU7MaMAE0_eH.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2062341128679227598",
+        "created_at": "2026-06-04T02:27:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T03:27:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062360584717488296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1865081933027512324",
+              "start": 0,
+              "username": "HsyhO0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062360584717488296",
+        "in_reply_to_user_id": "1865081933027512324",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062341128679227598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HsyhO0 宝宝。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062341125567033345"
+          ]
+        },
+        "author_id": "1865081933027512324",
+        "conversation_id": "2062341128679227598",
+        "created_at": "2026-06-04T01:10:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T02:10:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062341128679227598"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0g1PhQ5oKn",
+              "end": 23,
+              "expanded_url": "https://x.com/HsyhO0/status/2062341128679227598/photo/1",
+              "media_key": "3_2062341125567033345",
+              "start": 0,
+              "url": "https://t.co/0g1PhQ5oKn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062341128679227598",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/0g1PhQ5oKn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存| 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 34,
+                "start": 24,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1010,
+          "following_count": 664,
+          "like_count": 10331,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 3920
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-06T17:12:49.000Z",
+        "description": "07/病み垢/双相/精分/分离转换障碍/infj/碎碎念/       \n  ♡彼氏 @lin2680972846绝赞恋爱中♡🚪50",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 43,
+                "username": "lin2680972846"
+              }
+            ]
+          }
+        },
+        "id": "1865081933027512324",
+        "location": "暗い小さな部屋",
+        "name": "氷室 リリカ",
+        "pinned_tweet_id": "2060739585500668045",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945519740467937281/9ZIUYBkI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 214,
+          "like_count": 13806,
+          "listed_count": 1,
+          "media_count": 458,
+          "tweet_count": 1914
+        },
+        "username": "HsyhO0",
+        "verified": false
+      }
+    ]
+  }
+}

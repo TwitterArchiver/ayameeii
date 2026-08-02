@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1990609679475687610",
+    "created_at": "2025-11-18T10:10:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T11:10:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990724393295663465"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1625030759395524608",
+          "start": 0,
+          "username": "pandyingg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990724393295663465",
+    "in_reply_to_user_id": "1625030759395524608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990609679475687610",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pandyingg 生日快乐🎂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1990609666297245696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6AQ8d4bMAAH7ob.jpg",
+        "width": 920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1990609679475687610",
+        "created_at": "2025-11-18T10:10:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T11:10:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990724393295663465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1625030759395524608",
+              "start": 0,
+              "username": "pandyingg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990724393295663465",
+        "in_reply_to_user_id": "1625030759395524608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990609679475687610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pandyingg 生日快乐🎂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990609666297245696"
+          ]
+        },
+        "author_id": "1625030759395524608",
+        "conversation_id": "1990609679475687610",
+        "created_at": "2025-11-18T02:35:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T03:35:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990609679475687610"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6qASDfvgbx",
+              "end": 42,
+              "expanded_url": "https://x.com/pandyingg/status/1990609679475687610/photo/1",
+              "media_key": "3_1990609666297245696",
+              "start": 19,
+              "url": "https://t.co/6qASDfvgbx"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "0140c4a163941a02"
+        },
+        "id": "1990609679475687610",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 758,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来戳气球呀(｡&gt;∀&lt;｡) https://t.co/6qASDfvgbx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 236,
+          "like_count": 3582,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 1105
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-13T07:15:16.000Z",
+        "description": "⭐/05(˵¯͒〰¯͒˵)🌈//本科CS在读///睡觉中毒 //rock//兴趣点广泛//只聊风月不谈政治//清水推一枚/Shanghai🎈\n/💧🐟。o 〇@Romanorum_\n Wish You Were Here",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 78,
+                "username": "Romanorum_"
+              }
+            ]
+          }
+        },
+        "id": "1625030759395524608",
+        "name": "神樂坂🌸心海",
+        "pinned_tweet_id": "1977597737513488883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811843884693037056/v8vgdG6N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 910,
+          "following_count": 723,
+          "like_count": 6910,
+          "listed_count": 3,
+          "media_count": 512,
+          "tweet_count": 2742
+        },
+        "username": "pandyingg",
+        "verified": false
+      }
+    ]
+  }
+}

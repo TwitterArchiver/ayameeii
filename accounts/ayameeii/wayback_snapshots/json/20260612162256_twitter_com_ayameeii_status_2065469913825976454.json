@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2065446626848899556",
+    "created_at": "2026-06-12T16:22:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T17:22:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065469913825976454"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1988187586339467264",
+          "start": 0,
+          "username": "Air_Yukiha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065469913825976454",
+    "in_reply_to_user_id": "1988187586339467264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065446626848899556",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Air_Yukiha 想听！哪一首都可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2065446626848899556",
+        "created_at": "2026-06-12T16:22:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T17:22:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065469913825976454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1988187586339467264",
+              "start": 0,
+              "username": "Air_Yukiha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065469913825976454",
+        "in_reply_to_user_id": "1988187586339467264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065446626848899556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Air_Yukiha 想听！哪一首都可以"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988187586339467264",
+        "conversation_id": "2065446626848899556",
+        "created_at": "2026-06-12T14:50:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T15:50:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065446626848899556"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065446626848899556",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1217,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "话说有没有小宝宝想听我唱歌！OvO\n回复想听的歌我可以私信给你们唱www\n中文日语英语都可以！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存| 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 34,
+                "start": 24,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1048,
+          "following_count": 687,
+          "like_count": 10326,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 4004
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-11T10:10:43.000Z",
+        "description": "全く可愛くない！\n一個普普通通的溫良小女孩=lvl=\n唯一教主@Numiouoo\n小惠老婆@huihui_mikumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "Numiouoo"
+              },
+              {
+                "end": 59,
+                "start": 45,
+                "username": "huihui_mikumi"
+              }
+            ]
+          }
+        },
+        "id": "1988187586339467264",
+        "location": "Japan",
+        "name": "翼",
+        "pinned_tweet_id": "2062030452031119866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988835836738375680/Y-Dta9uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 542,
+          "following_count": 351,
+          "like_count": 1417,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 545
+        },
+        "username": "Air_Yukiha",
+        "verified": false
+      }
+    ]
+  }
+}

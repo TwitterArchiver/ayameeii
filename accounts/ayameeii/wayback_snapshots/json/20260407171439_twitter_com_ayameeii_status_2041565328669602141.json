@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2041563544135807333",
+    "created_at": "2026-04-07T17:14:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T18:14:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041565328669602141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1820986559694520320",
+          "start": 0,
+          "username": "n_ne373"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041565328669602141",
+    "in_reply_to_user_id": "1820986559694520320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041563544135807333",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@n_ne373 好可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041563532530216960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFUXN1ba8AAUSw5.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2041563544135807333",
+        "created_at": "2026-04-07T17:14:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T18:14:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041565328669602141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1820986559694520320",
+              "start": 0,
+              "username": "n_ne373"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041565328669602141",
+        "in_reply_to_user_id": "1820986559694520320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041563544135807333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@n_ne373 好可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041563532530216960"
+          ]
+        },
+        "author_id": "1820986559694520320",
+        "conversation_id": "2041563544135807333",
+        "created_at": "2026-04-07T17:07:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T18:07:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041563544135807333"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UzdiHlzQaA",
+              "end": 30,
+              "expanded_url": "https://x.com/n_ne373/status/2041563544135807333/photo/1",
+              "media_key": "3_2041563532530216960",
+              "start": 7,
+              "url": "https://t.co/UzdiHlzQaA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041563544135807333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "就这样看着你 https://t.co/UzdiHlzQaA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2036043044986953736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 777,
+          "following_count": 561,
+          "like_count": 9119,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 3363
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-07T00:53:34.000Z",
+        "description": "我叫373｜快速了解我：intp 双相 sub｜这里好像只有碎碎念｜直fo就是喜欢你｜查成分互fo\n不会混圈不懂各种规则先道个歉TT\n匿名问答：https://t.co/VRxGbV6kFb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/37381507",
+                "end": 95,
+                "expanded_url": "https://ngl.link/37381507",
+                "start": 72,
+                "url": "https://t.co/VRxGbV6kFb"
+              }
+            ]
+          }
+        },
+        "id": "1820986559694520320",
+        "location": "🚪52/88/128/520",
+        "name": "みず",
+        "pinned_tweet_id": "2037275873448247317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030056220367917056/2nll6Kpr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 151,
+          "like_count": 3296,
+          "listed_count": 2,
+          "media_count": 49,
+          "tweet_count": 961
+        },
+        "username": "n_ne373",
+        "verified": false
+      }
+    ]
+  }
+}

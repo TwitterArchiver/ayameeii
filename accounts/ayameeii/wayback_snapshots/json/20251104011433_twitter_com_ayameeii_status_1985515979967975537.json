@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1985515979967975537",
+    "created_at": "2025-11-04T01:14:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T02:14:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985515979967975537"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ayameeii/statu…",
+          "end": 66,
+          "expanded_url": "https://twitter.com/ayameeii/status/1985512917585051831",
+          "start": 43,
+          "url": "https://t.co/7mGAdlaxmt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985515979967975537",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985512917585051831",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "如果我说了很不妥的话 那是因为我想引起你的关注 对不起\n如果不是因为这个 我也对不起 https://t.co/7mGAdlaxmt"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1985515979967975537",
+        "created_at": "2025-11-04T01:14:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T02:14:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985515979967975537"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ayameeii/statu…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/ayameeii/status/1985512917585051831",
+              "start": 43,
+              "url": "https://t.co/7mGAdlaxmt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985515979967975537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985512917585051831",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果我说了很不妥的话 那是因为我想引起你的关注 对不起\n如果不是因为这个 我也对不起 https://t.co/7mGAdlaxmt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1985512917585051831",
+        "created_at": "2025-11-04T01:02:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T02:02:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985512917585051831"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1985512917585051831",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我再也不玩网了 在网上渴求爱的我像个小丑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 202,
+          "like_count": 2432,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 714
+        },
+        "username": "ayameeii",
+        "verified": false
+      }
+    ]
+  }
+}

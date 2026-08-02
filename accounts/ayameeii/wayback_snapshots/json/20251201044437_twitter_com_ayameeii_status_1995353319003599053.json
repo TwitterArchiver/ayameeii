@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995351722299187200"
+      ],
+      "media_source_tweet_id": [
+        "1995351729366614407"
+      ]
+    },
+    "author_id": "1852135214795100164",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1995353319003599053",
+    "created_at": "2025-12-01T04:44:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T05:44:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995353319003599053"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 42,
+          "start": 30,
+          "tag": "自撮り界隈と繋がりたい"
+        },
+        {
+          "end": 48,
+          "start": 44,
+          "tag": "自撮り"
+        },
+        {
+          "end": 55,
+          "start": 49,
+          "tag": "自撮り女子"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1439530928494186499",
+          "start": 3,
+          "username": "noose_die"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wLMRUz6zDk",
+          "end": 79,
+          "expanded_url": "https://x.com/noose_die/status/1995351729366614407/photo/1",
+          "media_key": "3_1995351722299187200",
+          "start": 56,
+          "url": "https://t.co/wLMRUz6zDk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995353319003599053",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995351729366614407",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @noose_die: 我會回fo可愛的女孩子！\n-\n#自撮り界隈と繋がりたい  #自撮り #自撮り女子 https://t.co/wLMRUz6zDk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1995351722299187200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7Dp0dGbYAAb91d.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995351722299187200"
+          ],
+          "media_source_tweet_id": [
+            "1995351729366614407"
+          ]
+        },
+        "author_id": "1852135214795100164",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1995353319003599053",
+        "created_at": "2025-12-01T04:44:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T05:44:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995353319003599053"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 42,
+              "start": 30,
+              "tag": "自撮り界隈と繋がりたい"
+            },
+            {
+              "end": 48,
+              "start": 44,
+              "tag": "自撮り"
+            },
+            {
+              "end": 55,
+              "start": 49,
+              "tag": "自撮り女子"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1439530928494186499",
+              "start": 3,
+              "username": "noose_die"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wLMRUz6zDk",
+              "end": 79,
+              "expanded_url": "https://x.com/noose_die/status/1995351729366614407/photo/1",
+              "media_key": "3_1995351722299187200",
+              "start": 56,
+              "url": "https://t.co/wLMRUz6zDk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995353319003599053",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995351729366614407",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @noose_die: 我會回fo可愛的女孩子！\n-\n#自撮り界隈と繋がりたい  #自撮り #自撮り女子 https://t.co/wLMRUz6zDk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995351722299187200"
+          ]
+        },
+        "author_id": "1439530928494186499",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1995351729366614407",
+        "created_at": "2025-12-01T04:38:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T05:38:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995351729366614407"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 15,
+              "tag": "自撮り界隈と繋がりたい"
+            },
+            {
+              "end": 33,
+              "start": 29,
+              "tag": "自撮り"
+            },
+            {
+              "end": 40,
+              "start": 34,
+              "tag": "自撮り女子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wLMRUz6zDk",
+              "end": 64,
+              "expanded_url": "https://x.com/noose_die/status/1995351729366614407/photo/1",
+              "media_key": "3_1995351722299187200",
+              "start": 41,
+              "url": "https://t.co/wLMRUz6zDk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995351729366614407",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我會回fo可愛的女孩子！\n-\n#自撮り界隈と繋がりたい  #自撮り #自撮り女子 https://t.co/wLMRUz6zDk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "喜欢我我也喜欢你 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "1992652290252316901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 280,
+          "like_count": 4575,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1453
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-19T10:05:14.000Z",
+        "description": "我是西嘍",
+        "id": "1439530928494186499",
+        "name": "シロ",
+        "pinned_tweet_id": "1993225394523455529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958358638067937280/s_vblT5q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 119,
+          "like_count": 1067,
+          "listed_count": 2,
+          "media_count": 15,
+          "tweet_count": 305
+        },
+        "username": "noose_die",
+        "verified": false
+      }
+    ]
+  }
+}

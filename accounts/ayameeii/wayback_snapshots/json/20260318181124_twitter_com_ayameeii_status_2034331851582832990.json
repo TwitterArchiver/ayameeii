@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2034194357361029340",
+    "created_at": "2026-03-18T18:11:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T19:11:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034331851582832990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1500855672480489475",
+          "start": 0,
+          "username": "Usep_111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034331851582832990",
+    "in_reply_to_user_id": "1500855672480489475",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034194357361029340",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Usep_111 爽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2034194357361029340",
+        "created_at": "2026-03-18T18:11:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T19:11:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034331851582832990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1500855672480489475",
+              "start": 0,
+              "username": "Usep_111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034331851582832990",
+        "in_reply_to_user_id": "1500855672480489475",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034194357361029340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Usep_111 爽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1500855672480489475",
+        "conversation_id": "2034194357361029340",
+        "created_at": "2026-03-18T09:05:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T10:05:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034194357361029340"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034194357361029340",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 602,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我将要从3月18号玩到9月上旬"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2027766234981494956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 455,
+          "like_count": 7902,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 2833
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-07T15:27:45.000Z",
+        "description": "请息交以绝游\nod/术力口 平泽进/双/自我厌恶/cs2 gal/欢迎聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/usep_111",
+                "end": 23,
+                "expanded_url": "https://ngl.link/usep_111",
+                "start": 0,
+                "url": "https://t.co/Lu4Wy2XYji"
+              }
+            ]
+          }
+        },
+        "id": "1500855672480489475",
+        "name": "卡塔丽娜",
+        "pinned_tweet_id": "1997003294007591248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028113867411517440/lN0F3xhh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 451,
+          "following_count": 642,
+          "like_count": 2368,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 1075
+        },
+        "url": "https://t.co/Lu4Wy2XYji",
+        "username": "Usep_111",
+        "verified": false
+      }
+    ]
+  }
+}

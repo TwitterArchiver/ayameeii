@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1986990762396164320",
+    "created_at": "2025-11-08T02:54:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T03:54:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1986990762396164320"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/auroralia7777/…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/auroralia7777/status/1986876379112391046",
+          "start": 9,
+          "url": "https://t.co/qlP6x5KZRg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986990762396164320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986876379112391046",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "头好疼可以割头吗 https://t.co/qlP6x5KZRg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1986990762396164320",
+        "created_at": "2025-11-08T02:54:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T03:54:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986990762396164320"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/auroralia7777/…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/auroralia7777/status/1986876379112391046",
+              "start": 9,
+              "url": "https://t.co/qlP6x5KZRg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986990762396164320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986876379112391046",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "头好疼可以割头吗 https://t.co/qlP6x5KZRg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934423287729455105",
+        "conversation_id": "1986876379112391046",
+        "created_at": "2025-11-07T19:20:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T20:20:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986876379112391046"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1986876379112391046",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "手指好疼——\n把手指割下来就好了吧❤️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 217,
+          "like_count": 2654,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 842
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-16T01:30:35.000Z",
+        "description": "「𝐴𝑢𝑟𝑜𝑟𝑎𝑙𝑖𝑎」𝘢𝘯𝘥 𝘩𝘦𝘳 𝘩𝘦𝘢𝘳𝘵 𝘧𝘶𝘭𝘭 𝘰𝘧 𝘧𝘢𝘭𝘭𝘪𝘯𝘨 𝘴𝘵𝘢𝘳𝘴☆\n\n𝐼 𝑙𝑜𝑣𝑒 𝑦𝑜𝑢, @yeziyu7777 .\n\n大笨猪🐷@zyh842159145",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 61,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 93,
+                "start": 80,
+                "username": "zyh842159145"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/auroralia7777",
+                "end": 23,
+                "expanded_url": "http://x.com/auroralia7777",
+                "start": 0,
+                "url": "https://t.co/v5PIIqHtUs"
+              }
+            ]
+          }
+        },
+        "id": "1934423287729455105",
+        "location": "up and beyond the Aurora.",
+        "name": "𝐴𝑢𝑟𝑜𝑟𝑎𝑙𝑖𝑎",
+        "pinned_tweet_id": "1963017759572529210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964180368439070722/GsHJLg3S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 193,
+          "like_count": 6179,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 2063
+        },
+        "url": "https://t.co/v5PIIqHtUs",
+        "username": "auroralia7777",
+        "verified": false
+      }
+    ]
+  }
+}

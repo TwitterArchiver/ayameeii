@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1998309954609189022",
+    "created_at": "2025-12-10T08:21:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T09:21:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998669291261145456"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1922602046907449344",
+          "start": 0,
+          "username": "tokiutsu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998669291261145456",
+    "in_reply_to_user_id": "1922602046907449344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998664200508580143",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tokiutsu 键政（"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1998664200508580143].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1998664200508580143",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1998664200508580143"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1998309954609189022",
+        "created_at": "2025-12-10T08:21:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T09:21:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998669291261145456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1922602046907449344",
+              "start": 0,
+              "username": "tokiutsu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998669291261145456",
+        "in_reply_to_user_id": "1922602046907449344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998664200508580143",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tokiutsu 键政（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "1992652290252316901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 302,
+          "like_count": 5268,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1674
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-14T10:37:10.000Z",
+        "description": "F.U.C.K.Y.O.U",
+        "id": "1922602046907449344",
+        "location": "我不想回歸",
+        "name": "Сильная зависимость от кофеина",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977332361823162368/VtKXpLUC_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 96,
+          "like_count": 1149,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 1321
+        },
+        "username": "tokiutsu",
+        "verified": false
+      }
+    ]
+  }
+}

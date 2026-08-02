@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1988108126919487854",
+    "created_at": "2025-11-11T05:35:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T06:35:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988118284374528024"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1360772570769813505",
+          "start": 0,
+          "username": "BraveQuestEX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988118284374528024",
+    "in_reply_to_user_id": "1360772570769813505",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988108126919487854",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BraveQuestEX 你是不是变深沉了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1988108126919487854",
+        "created_at": "2025-11-11T05:35:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T06:35:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988118284374528024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1360772570769813505",
+              "start": 0,
+              "username": "BraveQuestEX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988118284374528024",
+        "in_reply_to_user_id": "1360772570769813505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988108126919487854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BraveQuestEX 你是不是变深沉了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360772570769813505",
+        "conversation_id": "1988108126919487854",
+        "created_at": "2025-11-11T04:54:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T05:54:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988108126919487854"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Quinnnankoku/s…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/Quinnnankoku/status/1988087583126028459",
+              "start": 144,
+              "url": "https://t.co/J0Cyr7Lp9p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988108126919487854",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988087583126028459",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "人不为己天诛地灭\n大家社交需求都是为了满足自己\n张口闭口为了别人好，不是骗子就是疯子\n但贪图对面条件好才出手谋利，那不叫缺爱逼叫心机婊\n后半段我觉得明显是在骂心机婊了\n我觉得单纯的缺爱逼是会很卑微的，在预测到自己的渴求会伤害到对方之前，就该收起自己的乞丐碗了\n但可惜缺爱逼确实很多心机婊 https://t.co/J0Cyr7Lp9p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 224,
+          "like_count": 2928,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 910
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-14T02:07:24.000Z",
+        "description": "笑ってくれてアリガトウ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bangumi.tv/user/seiuex",
+                "end": 23,
+                "expanded_url": "https://bangumi.tv/user/seiuex",
+                "start": 0,
+                "url": "https://t.co/sY3WqMyK49"
+              }
+            ]
+          }
+        },
+        "id": "1360772570769813505",
+        "location": "关西",
+        "name": "暁",
+        "pinned_tweet_id": "1984643565541363990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987062185680642052/9B-4a9P3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 696,
+          "following_count": 397,
+          "like_count": 22406,
+          "listed_count": 2,
+          "media_count": 920,
+          "tweet_count": 4657
+        },
+        "url": "https://t.co/sY3WqMyK49",
+        "username": "BraveQuestEX",
+        "verified": false
+      }
+    ]
+  }
+}

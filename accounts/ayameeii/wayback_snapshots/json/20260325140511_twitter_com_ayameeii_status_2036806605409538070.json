@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2036806605409538070",
+    "created_at": "2026-03-25T14:05:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T15:05:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036806605409538070"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2029891270861299712",
+          "start": 3,
+          "username": "JoelQinmetme"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036806605409538070",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036803471463379332",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JoelQinmetme: 500fo到啦\nkoala给大家抽奖啦！ \n一等奖，1位，补佳乐（国补）一盒（折现30）\n二等奖，3位，45cm小鲨鲨一只（折现10）\n三等奖，5位，蓝粉白口罩10只（折现3r）\n参与条件：关注点赞评论转帖 \n4月1日用grok开奖 \n多多参…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2036806605409538070",
+        "created_at": "2026-03-25T14:05:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T15:05:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036806605409538070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2029891270861299712",
+              "start": 3,
+              "username": "JoelQinmetme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036806605409538070",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036803471463379332",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JoelQinmetme: 500fo到啦\nkoala给大家抽奖啦！ \n一等奖，1位，补佳乐（国补）一盒（折现30）\n二等奖，3位，45cm小鲨鲨一只（折现10）\n三等奖，5位，蓝粉白口罩10只（折现3r）\n参与条件：关注点赞评论转帖 \n4月1日用grok开奖 \n多多参…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029891270861299712",
+        "conversation_id": "2036803471463379332",
+        "created_at": "2026-03-25T13:52:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T14:48:11.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036802326825242944",
+          "2036803471463379332"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 148,
+              "start": 144,
+              "tag": "mtf"
+            },
+            {
+              "end": 153,
+              "start": 149,
+              "tag": "xyn"
+            },
+            {
+              "end": 157,
+              "start": 154,
+              "tag": "抽奖"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036803471463379332",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 51,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "500fo到啦\nkoala给大家抽奖啦！ \n一等奖，1位，补佳乐（国补）一盒（折现30）\n二等奖，3位，45cm小鲨鲨一只（折现10）\n三等奖，5位，蓝粉白口罩10只（折现3r）\n参与条件：关注点赞评论转帖 \n4月1日用grok开奖 \n多多参与喵～\n若与沃的其他产品一起购买可以免运费喵\n#mtf #xyn #抽奖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2036043044986953736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 696,
+          "following_count": 494,
+          "like_count": 8336,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 3024
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-06T12:06:37.000Z",
+        "description": "09高中生｜mtf｜含糖中｜第一次含糖 2026.02.18｜正式含糖2026.02.28｜互fo｜坐标上海｜生竞中｜175/46｜生产日期2009.05.26｜不建政不od｜小号@espakoala｜姐姐@ElysiumFengxuan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 90,
+                "username": "espakoala"
+              },
+              {
+                "end": 119,
+                "start": 103,
+                "username": "ElysiumFengxuan"
+              }
+            ]
+          }
+        },
+        "id": "2029891270861299712",
+        "name": "EspaKoala🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2034823393179316679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029891487677468672/_RfnoaLe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 502,
+          "following_count": 673,
+          "like_count": 619,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 127
+        },
+        "username": "JoelQinmetme",
+        "verified": true
+      }
+    ]
+  }
+}

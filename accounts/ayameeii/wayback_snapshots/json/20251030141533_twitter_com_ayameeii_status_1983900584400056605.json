@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1983900017892213092",
+    "created_at": "2025-10-30T14:15:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T15:15:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983900584400056605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1330075972557803522",
+          "start": 0,
+          "username": "GreyGreyWater"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983900584400056605",
+    "in_reply_to_user_id": "1330075972557803522",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983900017892213092",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GreyGreyWater 像什么"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1983900005674184705",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4g6i0Qa8AEMyyI.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1983900017892213092",
+        "created_at": "2025-10-30T14:15:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T15:15:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983900584400056605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1330075972557803522",
+              "start": 0,
+              "username": "GreyGreyWater"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983900584400056605",
+        "in_reply_to_user_id": "1330075972557803522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983900017892213092",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GreyGreyWater 像什么"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983900005674184705"
+          ]
+        },
+        "author_id": "1330075972557803522",
+        "conversation_id": "1983900017892213092",
+        "created_at": "2025-10-30T14:13:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T15:13:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983900017892213092"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hfz9wUeSoE",
+              "end": 34,
+              "expanded_url": "https://x.com/GreyGreyWater/status/1983900017892213092/photo/1",
+              "media_key": "3_1983900005674184705",
+              "start": 11,
+              "url": "https://t.co/Hfz9wUeSoE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983900017892213092",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "也没有很像啊感觉.. https://t.co/Hfz9wUeSoE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 193,
+          "like_count": 2106,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 596
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-21T09:10:06.000Z",
+        "description": "下头看黄蝻",
+        "id": "1330075972557803522",
+        "name": "灰灰水",
+        "pinned_tweet_id": "1763801395017474340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1709625234922627072/TnTWx8ZW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 492,
+          "like_count": 1922,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 3372
+        },
+        "username": "GreyGreyWater",
+        "verified": false
+      }
+    ]
+  }
+}

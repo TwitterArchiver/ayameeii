@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2024804806511255728",
+    "created_at": "2026-02-20T11:33:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T12:33:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024809595307438428"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1786055418684264448",
+          "start": 0,
+          "username": "SIRliquid_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024809595307438428",
+    "in_reply_to_user_id": "1786055418684264448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024804806511255728",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SIRliquid_ 什么 你已经有调情的对象了吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2024804806511255728",
+        "created_at": "2026-02-20T11:33:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T12:33:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024809595307438428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1786055418684264448",
+              "start": 0,
+              "username": "SIRliquid_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024809595307438428",
+        "in_reply_to_user_id": "1786055418684264448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024804806511255728",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SIRliquid_ 什么 你已经有调情的对象了吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786055418684264448",
+        "conversation_id": "2024804806511255728",
+        "created_at": "2026-02-20T11:14:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T12:14:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024804806511255728"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024804806511255728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "调情是门技术活\n正在严肃使用人工智能辅助学习调情技巧……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2014053871983685932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 548,
+          "following_count": 416,
+          "like_count": 7330,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 2572
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-02T15:29:38.000Z",
+        "description": "17岁 || 喜欢音乐🎶 || 🏳️‍⚧️&🏳️‍🌈友好 || (Fan Account) || 各种其他平台的链接详见LinkTree👇 || 不喜欢聊政治🚫",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/SIRliquid_",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/SIRliquid_",
+                "start": 0,
+                "url": "https://t.co/i4G7K7cR0d"
+              }
+            ]
+          }
+        },
+        "id": "1786055418684264448",
+        "location": "Somewhere of the Outside ",
+        "name": "Ring.✦リング",
+        "pinned_tweet_id": "2014974275372122506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956298910894313474/LjnX_i56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 309,
+          "like_count": 8958,
+          "listed_count": 1,
+          "media_count": 541,
+          "tweet_count": 2929
+        },
+        "url": "https://t.co/i4G7K7cR0d",
+        "username": "SIRliquid_",
+        "verified": false
+      }
+    ]
+  }
+}

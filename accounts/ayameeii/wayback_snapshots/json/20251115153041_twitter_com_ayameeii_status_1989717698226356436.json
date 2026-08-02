@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1989711756764352590",
+    "created_at": "2025-11-15T15:30:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T16:30:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989717698226356436"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1735017872353808385",
+          "start": 0,
+          "username": "whitecloud_ybw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989717698226356436",
+    "in_reply_to_user_id": "1735017872353808385",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989711756764352590",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whitecloud_ybw 雯雯😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1989711746144374785",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5zgSopbkAEPcUv.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1989711756764352590",
+        "created_at": "2025-11-15T15:30:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T16:30:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989717698226356436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1735017872353808385",
+              "start": 0,
+              "username": "whitecloud_ybw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989717698226356436",
+        "in_reply_to_user_id": "1735017872353808385",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989711756764352590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whitecloud_ybw 雯雯😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989711746144374785"
+          ]
+        },
+        "author_id": "1735017872353808385",
+        "conversation_id": "1989711756764352590",
+        "created_at": "2025-11-15T15:07:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T16:07:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989711756764352590"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x9i5n20o6P",
+              "end": 54,
+              "expanded_url": "https://x.com/whitecloud_ybw/status/1989711756764352590/photo/1",
+              "media_key": "3_1989711746144374785",
+              "start": 31,
+              "url": "https://t.co/x9i5n20o6P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989711756764352590",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不是雯雯不勇敢哦\n是美术刀太钝了而已\n钝到我感觉不需要标记… https://t.co/x9i5n20o6P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 235,
+          "like_count": 3366,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 1041
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-13T19:24:40.000Z",
+        "description": "尹白雯//☁️ A cloud in the sky shaped like my love for you.//南极洲外逃企鹅//地科只学了一晚居然能省一?!//情绪障碍//INF…P或J随缘//即将成年//2025.7.23平常的一天//私信扩列找我玩🥺//有个对象@amecandy_x🥰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 146,
+                "start": 135,
+                "username": "amecandy_x"
+              }
+            ]
+          }
+        },
+        "id": "1735017872353808385",
+        "location": "南极洲企鹅之国驻华办事处",
+        "name": "是白雯雯呀",
+        "pinned_tweet_id": "1986436953705971880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975016159910199296/uWHoG_7L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 312,
+          "like_count": 3615,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 618
+        },
+        "username": "whitecloud_ybw",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2046996355634303084",
+    "created_at": "2026-04-22T16:55:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T17:55:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046996355634303084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1896604741821726720",
+          "start": 3,
+          "username": "_yonayonaka_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046996355634303084",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046984227649212859",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_yonayonaka_: 所有人 祝我生日快乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2046996355634303084",
+        "created_at": "2026-04-22T16:55:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T17:55:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046996355634303084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1896604741821726720",
+              "start": 3,
+              "username": "_yonayonaka_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046996355634303084",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046984227649212859",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_yonayonaka_: 所有人 祝我生日快乐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896604741821726720",
+        "conversation_id": "2046984227649212859",
+        "created_at": "2026-04-22T16:07:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T17:07:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046984227649212859"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046984227649212859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 221,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "所有人 祝我生日快乐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存|对象❤️@AAAAAMTxT 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "AAAAAMTxT"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 48,
+                "start": 38,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 807,
+          "following_count": 602,
+          "like_count": 9576,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 3560
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-03T16:53:18.000Z",
+        "description": "痛苦和幸福本来就是同一条感受通道里的两端。",
+        "id": "1896604741821726720",
+        "location": "🚪288/520 88好友位可抵线下門",
+        "name": "✞薬箱✞",
+        "pinned_tweet_id": "2043727050297733457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934199642042097664/ny-1qwXS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 769,
+          "following_count": 271,
+          "like_count": 1173,
+          "listed_count": 2,
+          "media_count": 234,
+          "tweet_count": 1136
+        },
+        "username": "_yonayonaka_",
+        "verified": true
+      }
+    ]
+  }
+}

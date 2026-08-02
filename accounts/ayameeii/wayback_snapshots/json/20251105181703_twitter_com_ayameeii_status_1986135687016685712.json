@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1986102419483472083",
+    "created_at": "2025-11-05T18:17:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T19:17:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986135687016685712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1571814120692785152",
+          "start": 0,
+          "username": "404_ynne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986135687016685712",
+    "in_reply_to_user_id": "1571814120692785152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986102419483472083",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@404_ynne 窒息的感觉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1986102419483472083",
+        "created_at": "2025-11-05T18:17:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T19:17:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986135687016685712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1571814120692785152",
+              "start": 0,
+              "username": "404_ynne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986135687016685712",
+        "in_reply_to_user_id": "1571814120692785152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986102419483472083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@404_ynne 窒息的感觉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571814120692785152",
+        "conversation_id": "1986102419483472083",
+        "created_at": "2025-11-05T16:04:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T17:04:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986102419483472083"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/404_ynne/statu…",
+              "end": 133,
+              "expanded_url": "https://twitter.com/404_ynne/status/1986100777111470570",
+              "start": 110,
+              "url": "https://t.co/XIjc7ePCTx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986102419483472083",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986100777111470570",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我很害怕。对着暴力有着无穷的排斥感。事实上女孩并没有写错，我看见了开头。但这改变不了什么……\n我不敢妄自猜想，这会对女孩会产生什么什么影响。\n但这种暴力与无力带来的恐怖，把我闷进了厚障壁中……\n我再也没去过那家熟食店。 https://t.co/XIjc7ePCTx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 203,
+          "like_count": 2479,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 739
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-19T10:51:14.000Z",
+        "description": "",
+        "id": "1571814120692785152",
+        "name": "kumori☁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985289858689163264/MUBWZ9Mx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 670,
+          "following_count": 826,
+          "like_count": 79640,
+          "listed_count": 3,
+          "media_count": 931,
+          "tweet_count": 17112
+        },
+        "username": "404_ynne",
+        "verified": false
+      }
+    ]
+  }
+}

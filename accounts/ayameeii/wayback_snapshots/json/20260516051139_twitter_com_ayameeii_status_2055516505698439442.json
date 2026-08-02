@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2055513900565868806",
+    "created_at": "2026-05-16T05:11:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T06:11:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055516505698439442"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2052101329250873344",
+          "start": 0,
+          "username": "8964_R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055516505698439442",
+    "in_reply_to_user_id": "2052101329250873344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055513900565868806",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964_R 什么游戏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2055513900565868806",
+        "created_at": "2026-05-16T05:11:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T06:11:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055516505698439442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2052101329250873344",
+              "start": 0,
+              "username": "8964_R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055516505698439442",
+        "in_reply_to_user_id": "2052101329250873344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055513900565868806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_R 什么游戏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2052101329250873344",
+        "conversation_id": "2055513900565868806",
+        "created_at": "2026-05-16T05:01:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T06:01:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055513900565868806"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055513900565868806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有人来玩游戏吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存| 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 34,
+                "start": 24,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 958,
+          "following_count": 648,
+          "like_count": 10020,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 3777
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-06T19:01:07.000Z",
+        "description": "※只是旅行者罢了，把我说过的一切都当做梦呓吧※\n※无性别者※\n※对象@sunset__3000※\n※美工很好有需要可以找她※\n※#odtwt※\n※#shtwt※\n※TG:HsHnFR※\n※我始终如一※\n永远纪念@Inks_chain @Chain_Inks",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 70,
+                "start": 64,
+                "tag": "odtwt"
+              },
+              {
+                "end": 79,
+                "start": 73,
+                "tag": "shtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 47,
+                "start": 34,
+                "username": "sunset__3000"
+              },
+              {
+                "end": 116,
+                "start": 105,
+                "username": "Inks_chain"
+              },
+              {
+                "end": 128,
+                "start": 117,
+                "username": "Chain_Inks"
+              }
+            ]
+          }
+        },
+        "id": "2052101329250873344",
+        "name": "ヰ世界优泠#参宿七",
+        "pinned_tweet_id": "2052735154242851176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052101413816483840/wqSySJnp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 38,
+          "like_count": 362,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 193
+        },
+        "username": "8964_R",
+        "verified": false
+      }
+    ]
+  }
+}

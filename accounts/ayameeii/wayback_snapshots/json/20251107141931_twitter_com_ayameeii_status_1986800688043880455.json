@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1986795910924562897",
+    "created_at": "2025-11-07T14:19:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T15:19:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986800688043880455"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "897749985361444866",
+          "start": 0,
+          "username": "woaishuji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986800688043880455",
+    "in_reply_to_user_id": "897749985361444866",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986795910924562897",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@woaishuji 怎么不是？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 300,
+        "media_key": "3_1986795908626042880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5KEWjba0AAyj-t.jpg",
+        "width": 300
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1986795910924562897",
+        "created_at": "2025-11-07T14:19:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T15:19:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986800688043880455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "897749985361444866",
+              "start": 0,
+              "username": "woaishuji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986800688043880455",
+        "in_reply_to_user_id": "897749985361444866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986795910924562897",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woaishuji 怎么不是？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986795908626042880"
+          ]
+        },
+        "author_id": "897749985361444866",
+        "conversation_id": "1986795910924562897",
+        "created_at": "2025-11-07T14:00:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T15:00:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986795910924562897"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QZkVrbeUdG",
+              "end": 113,
+              "expanded_url": "https://x.com/woaishuji/status/1986795910924562897/photo/1",
+              "media_key": "3_1986795908626042880",
+              "start": 90,
+              "url": "https://t.co/QZkVrbeUdG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986795910924562897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当我听到有人背后说我是个好人时\n我的反应：\n🤔¿我是个好人吗?🤔\n🤔¿我怎么都不知道我是?🤔\n🤔¿这是被我什么巧言令色文字骗到的?🤔\n🤔¿我是不是应该直接跟人家说我不是好人啊?🤔 https://t.co/QZkVrbeUdG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 214,
+          "like_count": 2624,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 832
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-16T09:20:50.000Z",
+        "description": "",
+        "id": "897749985361444866",
+        "name": "文学少女安德烈",
+        "pinned_tweet_id": "1862810120075583938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872624201796059137/lL6g5Rby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1490,
+          "following_count": 1716,
+          "like_count": 396642,
+          "listed_count": 10,
+          "media_count": 2400,
+          "tweet_count": 14887
+        },
+        "username": "woaishuji",
+        "verified": false
+      }
+    ]
+  }
+}

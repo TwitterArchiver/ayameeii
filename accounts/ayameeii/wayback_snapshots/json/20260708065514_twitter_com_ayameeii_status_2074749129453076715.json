@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2074531494899626021",
+    "created_at": "2026-07-08T06:55:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T07:55:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074749129453076715"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1734992918312800257",
+          "start": 0,
+          "username": "xs_sanso"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074749129453076715",
+    "in_reply_to_user_id": "1734992918312800257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074531494899626021",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xs_sanso 啊我的也要过期了。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2074531494899626021",
+        "created_at": "2026-07-08T06:55:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T07:55:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074749129453076715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1734992918312800257",
+              "start": 0,
+              "username": "xs_sanso"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074749129453076715",
+        "in_reply_to_user_id": "1734992918312800257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074531494899626021",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xs_sanso 啊我的也要过期了。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1734992918312800257",
+        "conversation_id": "2074531494899626021",
+        "created_at": "2026-07-07T16:30:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T17:30:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074531494899626021"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074531494899626021",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "身份证过期了 不能点外卖了……饿饿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存| 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 34,
+                "start": 24,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1066,
+          "following_count": 708,
+          "like_count": 10483,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 4098
+        },
+        "url": "",
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-13T17:45:28.000Z",
+        "description": "别把我当正常人 我是一个傻逼 是一个精神病。\n不入门的不闲聊。匿名提问箱:https://t.co/IQtQodTr01",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xs_sanso",
+                "end": 60,
+                "expanded_url": "https://ngl.link/xs_sanso",
+                "start": 37,
+                "url": "https://t.co/IQtQodTr01"
+              }
+            ]
+          }
+        },
+        "id": "1734992918312800257",
+        "location": "离你1.14km",
+        "name": "かがみ_鏡",
+        "pinned_tweet_id": "2056801038179647753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056726412321550336/tPgXdH9h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 53,
+          "like_count": 1485,
+          "listed_count": 2,
+          "media_count": 84,
+          "tweet_count": 1814
+        },
+        "url": "",
+        "username": "xs_sanso",
+        "verified": false
+      }
+    ]
+  }
+}

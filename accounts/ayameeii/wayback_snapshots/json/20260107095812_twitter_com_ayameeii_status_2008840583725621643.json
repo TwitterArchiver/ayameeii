@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2008806800838324278",
+    "created_at": "2026-01-07T09:58:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T10:58:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008840583725621643"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1239719575073067008",
+          "start": 0,
+          "username": "_NekoMoonLight"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008840583725621643",
+    "in_reply_to_user_id": "1239719575073067008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008806800838324278",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_NekoMoonLight 我要看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2008806800838324278",
+        "created_at": "2026-01-07T09:58:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T10:58:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008840583725621643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1239719575073067008",
+              "start": 0,
+              "username": "_NekoMoonLight"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008840583725621643",
+        "in_reply_to_user_id": "1239719575073067008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008806800838324278",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_NekoMoonLight 我要看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1239719575073067008",
+        "conversation_id": "2008806800838324278",
+        "created_at": "2026-01-07T07:43:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T08:43:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008806800838324278"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008806800838324278",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "何意味我表情包怎么传到别的群了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2008838870012698894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 328,
+          "like_count": 6080,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 1999
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-17T01:06:08.000Z",
+        "description": "日常推  会在推文发一堆烂东西  欢迎视奸  maybe会发照片 管人痴  并非积极互动健康向上\n\n因为死别，所以别死\n不想失忆，那就拾忆\n\n最爱的宝宝@Cialloi\n小号@Nag1saNek0dA\n\n努力后再死努力后再死",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 76,
+                "username": "Cialloi"
+              },
+              {
+                "end": 100,
+                "start": 87,
+                "username": "Nag1saNek0dA"
+              }
+            ]
+          }
+        },
+        "id": "1239719575073067008",
+        "location": "你的床下",
+        "name": "なぎさ酱🍥⚓️🎀🐾 📘💧💀⛓（本物）",
+        "pinned_tweet_id": "1829774583026610207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831016230029074432/kVUfgyXJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 1019,
+          "like_count": 24308,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 1351
+        },
+        "username": "_NekoMoonLight",
+        "verified": false
+      }
+    ]
+  }
+}

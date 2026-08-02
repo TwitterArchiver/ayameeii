@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2025214049370398787",
+    "created_at": "2026-02-21T15:38:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T16:38:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025233627920171214"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1701555310006308864",
+          "start": 0,
+          "username": "Eternal1uv9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025233627920171214",
+    "in_reply_to_user_id": "1701555310006308864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025214049370398787",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Eternal1uv9 这就是幸福的感觉吗 看见主播就好幸福"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2025214028394758145",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBsBbcSbgAE8FFr.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2025214049370398787",
+        "created_at": "2026-02-21T15:38:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T16:38:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025233627920171214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1701555310006308864",
+              "start": 0,
+              "username": "Eternal1uv9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025233627920171214",
+        "in_reply_to_user_id": "1701555310006308864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025214049370398787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Eternal1uv9 这就是幸福的感觉吗 看见主播就好幸福"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025214028394758145"
+          ]
+        },
+        "author_id": "1701555310006308864",
+        "conversation_id": "2025214049370398787",
+        "created_at": "2026-02-21T14:20:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T15:20:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025214049370398787"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oycNyWqOkk",
+              "end": 31,
+              "expanded_url": "https://x.com/Eternal1uv9/status/2025214049370398787/photo/1",
+              "media_key": "3_2025214028394758145",
+              "start": 8,
+              "url": "https://t.co/oycNyWqOkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025214049370398787",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 218,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "無加工^_^; https://t.co/oycNyWqOkk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2014053871983685932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 556,
+          "following_count": 417,
+          "like_count": 7373,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 2584
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-12T11:16:56.000Z",
+        "description": "请给我一支永远不会熄灭的香烟",
+        "id": "1701555310006308864",
+        "location": "地霊殿",
+        "name": "シャナ",
+        "pinned_tweet_id": "2020486327016517886",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022020849394704384/TtO0suPB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 207,
+          "like_count": 845,
+          "listed_count": 1,
+          "media_count": 298,
+          "tweet_count": 1940
+        },
+        "username": "Eternal1uv9",
+        "verified": false
+      }
+    ]
+  }
+}

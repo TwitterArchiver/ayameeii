@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2025247988487192832",
+    "created_at": "2026-02-21T16:37:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T17:37:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025248445918068969"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1417099624922370056",
+          "start": 0,
+          "username": "XinGZiSaMa_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025248445918068969",
+    "in_reply_to_user_id": "1417099624922370056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025247988487192832",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XinGZiSaMa_8964 怎么样感觉很火  之前想抽纸烟就看得这个虽然现在还是没抽"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2025247927556603904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBsgQogbgAAnn2n.jpg",
+        "width": 1538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2025247988487192832",
+        "created_at": "2026-02-21T16:37:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T17:37:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025248445918068969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1417099624922370056",
+              "start": 0,
+              "username": "XinGZiSaMa_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025248445918068969",
+        "in_reply_to_user_id": "1417099624922370056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025247988487192832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XinGZiSaMa_8964 怎么样感觉很火  之前想抽纸烟就看得这个虽然现在还是没抽"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025247927556603904"
+          ]
+        },
+        "author_id": "1417099624922370056",
+        "conversation_id": "2025247988487192832",
+        "created_at": "2026-02-21T16:35:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T17:35:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025247988487192832"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OlgRIPgBNX",
+              "end": 31,
+              "expanded_url": "https://x.com/XinGZiSaMa_8964/status/2025247988487192832/photo/1",
+              "media_key": "3_2025247927556603904",
+              "start": 8,
+              "url": "https://t.co/OlgRIPgBNX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025247988487192832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是啥？抽一下 https://t.co/OlgRIPgBNX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2014053871983685932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 556,
+          "following_count": 418,
+          "like_count": 7399,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 2593
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-19T12:31:06.000Z",
+        "description": "😈😈｜是个高中生｜友跨顺男｜koishi激推｜bangdream｜电吉他学习ing｜Guns N' Roses｜od｜自残过一段时间但已戒｜双相｜日语学习中｜喜欢猫｜https://t.co/0yYZjwBLkU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingzisama",
+                "end": 106,
+                "expanded_url": "https://ngl.link/xingzisama",
+                "start": 83,
+                "url": "https://t.co/0yYZjwBLkU"
+              }
+            ]
+          }
+        },
+        "id": "1417099624922370056",
+        "location": "天堂",
+        "name": "性子sama🐾🎸",
+        "pinned_tweet_id": "2020530734738682150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010818938666733568/mI3QBzcv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 625,
+          "following_count": 389,
+          "like_count": 49051,
+          "listed_count": 3,
+          "media_count": 1494,
+          "tweet_count": 8939
+        },
+        "username": "XinGZiSaMa_8964",
+        "verified": false
+      }
+    ]
+  }
+}

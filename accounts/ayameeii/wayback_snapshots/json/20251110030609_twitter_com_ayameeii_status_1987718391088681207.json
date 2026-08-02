@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "1987575988830834973",
+    "created_at": "2025-11-10T03:06:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T04:06:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987718391088681207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1360772570769813505",
+          "start": 0,
+          "username": "BraveQuestEX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987718391088681207",
+    "in_reply_to_user_id": "1360772570769813505",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987575988830834973",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BraveQuestEX 不要让我问 很累 每个问题都回答一遍"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1242,
+        "media_key": "3_1987575986456875008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5VJ1Dzb0AACJgg.jpg",
+        "width": 622
+      },
+      {
+        "height": 1200,
+        "media_key": "3_1987575986574274560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5VJ1EPbMAAmtor.jpg",
+        "width": 601
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "1987575988830834973",
+        "created_at": "2025-11-10T03:06:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T04:06:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987718391088681207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1360772570769813505",
+              "start": 0,
+              "username": "BraveQuestEX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987718391088681207",
+        "in_reply_to_user_id": "1360772570769813505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987575988830834973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BraveQuestEX 不要让我问 很累 每个问题都回答一遍"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987575986456875008",
+            "3_1987575986574274560"
+          ]
+        },
+        "author_id": "1360772570769813505",
+        "conversation_id": "1987575988830834973",
+        "created_at": "2025-11-09T17:40:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T18:40:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987575988830834973"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZXgxncjVRG",
+              "end": 42,
+              "expanded_url": "https://x.com/BraveQuestEX/status/1987575988830834973/photo/1",
+              "media_key": "3_1987575986456875008",
+              "start": 19,
+              "url": "https://t.co/ZXgxncjVRG"
+            },
+            {
+              "display_url": "pic.x.com/ZXgxncjVRG",
+              "end": 42,
+              "expanded_url": "https://x.com/BraveQuestEX/status/1987575988830834973/photo/1",
+              "media_key": "3_1987575986574274560",
+              "start": 19,
+              "url": "https://t.co/ZXgxncjVRG"
+            },
+            {
+              "display_url": "x.com/BraveQuestEX/s…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/BraveQuestEX/status/1987546969951322452",
+              "start": 43,
+              "url": "https://t.co/bkG3fg75OB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987575988830834973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 222,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987546969951322452",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "懒得挨个回复所以我P了个全集.jpg https://t.co/ZXgxncjVRG https://t.co/bkG3fg75OB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 222,
+          "like_count": 2794,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 888
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-14T02:07:24.000Z",
+        "description": "笑ってくれてアリガトウ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bangumi.tv/user/seiuex",
+                "end": 23,
+                "expanded_url": "https://bangumi.tv/user/seiuex",
+                "start": 0,
+                "url": "https://t.co/sY3WqMyK49"
+              }
+            ]
+          }
+        },
+        "id": "1360772570769813505",
+        "location": "关西",
+        "name": "暁",
+        "pinned_tweet_id": "1984643565541363990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987062185680642052/9B-4a9P3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 695,
+          "following_count": 397,
+          "like_count": 22270,
+          "listed_count": 2,
+          "media_count": 915,
+          "tweet_count": 4617
+        },
+        "url": "https://t.co/sY3WqMyK49",
+        "username": "BraveQuestEX",
+        "verified": false
+      }
+    ]
+  }
+}

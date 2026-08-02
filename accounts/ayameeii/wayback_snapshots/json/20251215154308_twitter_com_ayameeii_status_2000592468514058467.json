@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2000493266471706866",
+    "created_at": "2025-12-15T15:43:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T16:43:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000592468514058467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1167502107429105670",
+          "start": 0,
+          "username": "kotomiouo"
+        },
+        {
+          "end": 20,
+          "id": "1922602046907449344",
+          "start": 11,
+          "username": "tokiutsu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000592468514058467",
+    "in_reply_to_user_id": "1167502107429105670",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000589770574180400",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kotomiouo @tokiutsu 我才反应过来原来拧巴男是拿不拿www"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2000493266471706866",
+        "created_at": "2025-12-15T15:43:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T16:43:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000592468514058467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1167502107429105670",
+              "start": 0,
+              "username": "kotomiouo"
+            },
+            {
+              "end": 20,
+              "id": "1922602046907449344",
+              "start": 11,
+              "username": "tokiutsu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000592468514058467",
+        "in_reply_to_user_id": "1167502107429105670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000589770574180400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kotomiouo @tokiutsu 我才反应过来原来拧巴男是拿不拿www"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1167502107429105670",
+        "conversation_id": "2000493266471706866",
+        "created_at": "2025-12-15T15:32:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T16:32:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000589770574180400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1922602046907449344",
+              "start": 0,
+              "username": "tokiutsu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000589770574180400",
+        "in_reply_to_user_id": "1922602046907449344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000509005547102287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tokiutsu 我想起來了 我一直都是... 擰巴男的粉絲啊！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "1992652290252316901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 313,
+          "like_count": 5721,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1839
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-30T18:19:39.000Z",
+        "description": "台湾.病み\nJpop🦌🦔🍏.\n音ゲー.東方プロ.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/dQw4w9WgXcQ",
+                "end": 23,
+                "expanded_url": "https://youtu.be/dQw4w9WgXcQ",
+                "start": 0,
+                "url": "https://t.co/hiYO7dS2ln"
+              }
+            ]
+          }
+        },
+        "id": "1167502107429105670",
+        "location": "幻想鄉",
+        "name": "ことみ",
+        "pinned_tweet_id": "1992211371841519826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999755383594983424/W7VqDPW3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1173,
+          "following_count": 798,
+          "like_count": 14800,
+          "listed_count": 4,
+          "media_count": 400,
+          "tweet_count": 6645
+        },
+        "url": "https://t.co/hiYO7dS2ln",
+        "username": "kotomiouo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-14T10:37:10.000Z",
+        "description": "F.U.C.K.Y.O.U",
+        "id": "1922602046907449344",
+        "location": "我不想回歸",
+        "name": "Сильная зависимость от кофеина",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977332361823162368/VtKXpLUC_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 116,
+          "like_count": 1177,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 1378
+        },
+        "username": "tokiutsu",
+        "verified": false
+      }
+    ]
+  }
+}

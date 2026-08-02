@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1980604776434814976"
+      ],
+      "media_source_tweet_id": [
+        "1980604779681444239"
+      ]
+    },
+    "author_id": "1852135214795100164",
+    "conversation_id": "1980606293619667251",
+    "created_at": "2025-10-21T12:05:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T13:05:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980606293619667251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1269664264093986816",
+          "start": 3,
+          "username": "YumStery"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rFv6xJIRQ4",
+          "end": 69,
+          "expanded_url": "https://x.com/YumStery/status/1980604779681444239/photo/1",
+          "media_key": "3_1980604776434814976",
+          "start": 46,
+          "url": "https://t.co/rFv6xJIRQ4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980606293619667251",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980604779681444239",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YumStery: 怎么搭配衣服，想穿可爱衣服伪街了（算伪街吗我只是想穿可爱衣服） https://t.co/rFv6xJIRQ4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 792,
+        "media_key": "3_1980604776434814976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3yFjOvW0AAtpUr.jpg",
+        "width": 840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980604776434814976"
+          ],
+          "media_source_tweet_id": [
+            "1980604779681444239"
+          ]
+        },
+        "author_id": "1852135214795100164",
+        "conversation_id": "1980606293619667251",
+        "created_at": "2025-10-21T12:05:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T13:05:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980606293619667251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1269664264093986816",
+              "start": 3,
+              "username": "YumStery"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rFv6xJIRQ4",
+              "end": 69,
+              "expanded_url": "https://x.com/YumStery/status/1980604779681444239/photo/1",
+              "media_key": "3_1980604776434814976",
+              "start": 46,
+              "url": "https://t.co/rFv6xJIRQ4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980606293619667251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980604779681444239",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YumStery: 怎么搭配衣服，想穿可爱衣服伪街了（算伪街吗我只是想穿可爱衣服） https://t.co/rFv6xJIRQ4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980604776434814976"
+          ]
+        },
+        "author_id": "1269664264093986816",
+        "conversation_id": "1980604779681444239",
+        "created_at": "2025-10-21T11:59:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T12:59:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980604779681444239"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rFv6xJIRQ4",
+              "end": 55,
+              "expanded_url": "https://x.com/YumStery/status/1980604779681444239/photo/1",
+              "media_key": "3_1980604776434814976",
+              "start": 32,
+              "url": "https://t.co/rFv6xJIRQ4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980604779681444239",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "怎么搭配衣服，想穿可爱衣服伪街了（算伪街吗我只是想穿可爱衣服） https://t.co/rFv6xJIRQ4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "还是不叹气了 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 176,
+          "like_count": 1449,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 387
+        },
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-07T16:15:36.000Z",
+        "description": "天下玉友是一家/gal&kig/绘师存档@yumizi02desu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 20,
+                "username": "yumizi02desu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bangumi.tv/user/yummystery",
+                "end": 23,
+                "expanded_url": "https://bangumi.tv/user/yummystery",
+                "start": 0,
+                "url": "https://t.co/euO7ocph6m"
+              }
+            ]
+          }
+        },
+        "id": "1269664264093986816",
+        "location": "北京",
+        "name": "予米子",
+        "pinned_tweet_id": "1974787760579113409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980606010491322368/MEmgvRC1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1247,
+          "following_count": 3854,
+          "like_count": 204567,
+          "listed_count": 4,
+          "media_count": 32,
+          "tweet_count": 72225
+        },
+        "url": "https://t.co/euO7ocph6m",
+        "username": "YumStery",
+        "verified": false
+      }
+    ]
+  }
+}
