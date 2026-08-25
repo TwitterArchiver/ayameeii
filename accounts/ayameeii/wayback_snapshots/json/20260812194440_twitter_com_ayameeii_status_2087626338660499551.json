@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2087609309765255204",
+    "created_at": "2026-08-12T19:44:40.000Z",
+    "display_text_range": [
+      12,
+      57
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T20:44:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087626338660499551"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1683521636086210560",
+          "start": 0,
+          "username": "lismallTt_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087626338660499551",
+    "in_reply_to_user_id": "1683521636086210560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087625322913296864",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lismallTt_ 哈哈其实我现在嗑药导致抽烟没感觉了 只是烟是在太多 电脑也卖了 就是鼠标和显示器还在桌子上"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2087609309765255204",
+        "created_at": "2026-08-12T19:44:40.000Z",
+        "display_text_range": [
+          12,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T20:44:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087626338660499551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1683521636086210560",
+              "start": 0,
+              "username": "lismallTt_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087626338660499551",
+        "in_reply_to_user_id": "1683521636086210560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087625322913296864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lismallTt_ 哈哈其实我现在嗑药导致抽烟没感觉了 只是烟是在太多 电脑也卖了 就是鼠标和显示器还在桌子上"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1683521636086210560",
+        "conversation_id": "2087609309765255204",
+        "created_at": "2026-08-12T19:40:37.000Z",
+        "display_text_range": [
+          10,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T20:40:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087625322913296864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1852135214795100164",
+              "start": 0,
+              "username": "ayameeii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087625322913296864",
+        "in_reply_to_user_id": "1852135214795100164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087609309765255204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayameeii 烟好像万宝路的烟还有七星香烟\n还有G304\n还有好多药啊...\n抽烟对身体不怎么好...注意身体"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存|前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "is_identity_verified": false,
+        "location": "某处",
+        "most_recent_tweet_id": "2087626338660499551",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1852135214795100164/1760476595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1233,
+          "following_count": 771,
+          "like_count": 10984,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 4587
+        },
+        "url": "",
+        "username": "ayameeii",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-24T16:57:12.000Z",
+        "description": "hi\n爱玩cs2和音游\n没了QWQ\n愿每个人都被平等对待（或许）\n随机数冲浪（真纯随机）\n推特当朋友圈发了\nngl：https://t.co/B3YX4xOyV1",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lismalltt",
+                "end": 81,
+                "expanded_url": "https://ngl.link/lismalltt",
+                "start": 58,
+                "url": "https://t.co/B3YX4xOyV1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "osu.ppy.sh/users/28736962",
+                "end": 23,
+                "expanded_url": "https://osu.ppy.sh/users/28736962",
+                "start": 0,
+                "url": "https://t.co/2E9pNJxbQu"
+              }
+            ]
+          }
+        },
+        "id": "1683521636086210560",
+        "is_identity_verified": false,
+        "location": "China",
+        "most_recent_tweet_id": "2087625322913296864",
+        "name": "lismallTt",
+        "pinned_tweet_id": "2085778754857836558",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1683521636086210560/1690247551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082138518609158144/9UGyn92E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 312,
+          "like_count": 243,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 352
+        },
+        "url": "https://t.co/2E9pNJxbQu",
+        "username": "lismallTt_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

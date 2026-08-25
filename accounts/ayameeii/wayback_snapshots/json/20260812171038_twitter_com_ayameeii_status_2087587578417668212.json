@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2087587578417668212",
+    "created_at": "2026-08-12T17:10:38.000Z",
+    "display_text_range": [
+      0,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T18:10:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087587578417668212"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ayameeii/statu…",
+          "end": 66,
+          "expanded_url": "https://twitter.com/ayameeii/status/2087579952967471407",
+          "start": 43,
+          "url": "https://t.co/2Xfqh4F4QH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087587578417668212",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087579952967471407",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我真的尽力了回了很多 对不起之前我没看见 如果还是没有回复你现在给我发消息我会回你的 https://t.co/2Xfqh4F4QH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1204,
+        "media_key": "3_2087579945564524544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPiS5meaUAAkATp.jpg",
+        "width": 1843
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2087587578417668212",
+        "created_at": "2026-08-12T17:10:38.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T18:10:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087587578417668212"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ayameeii/statu…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/ayameeii/status/2087579952967471407",
+              "start": 43,
+              "url": "https://t.co/2Xfqh4F4QH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087587578417668212",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087579952967471407",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我真的尽力了回了很多 对不起之前我没看见 如果还是没有回复你现在给我发消息我会回你的 https://t.co/2Xfqh4F4QH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087579945564524544"
+          ]
+        },
+        "author_id": "1852135214795100164",
+        "conversation_id": "2087579952967471407",
+        "created_at": "2026-08-12T16:40:20.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T17:40:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087579952967471407"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QJJIAPjMso",
+              "end": 41,
+              "expanded_url": "https://x.com/ayameeii/status/2087579952967471407/photo/1",
+              "media_key": "3_2087579945564524544",
+              "start": 18,
+              "url": "https://t.co/QJJIAPjMso"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087579952967471407",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087579945564524544"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对不起我才发现这里也有私信我这就回 https://t.co/QJJIAPjMso"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存|前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "is_identity_verified": false,
+        "location": "某处",
+        "most_recent_tweet_id": "2087587578417668212",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1852135214795100164/1760476595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1231,
+          "following_count": 771,
+          "like_count": 10973,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 4577
+        },
+        "url": "",
+        "username": "ayameeii",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

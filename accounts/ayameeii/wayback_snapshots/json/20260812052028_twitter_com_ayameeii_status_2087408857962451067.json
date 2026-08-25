@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087408851465498624"
+      ]
+    },
+    "author_id": "1852135214795100164",
+    "conversation_id": "2087408857962451067",
+    "created_at": "2026-08-12T05:20:28.000Z",
+    "display_text_range": [
+      0,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T06:20:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087408857962451067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 24,
+          "id": "2059473208299118592",
+          "start": 17,
+          "username": "oxolyy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bJZ2xJdr1r",
+          "end": 53,
+          "expanded_url": "https://x.com/ayameeii/status/2087408857962451067/photo/1",
+          "media_key": "3_2087408851465498624",
+          "start": 30,
+          "url": "https://t.co/bJZ2xJdr1r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087408857962451067",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087408851465498624"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "港美教程 很多人问就一起发了 来自@oxolyy 我很想她 https://t.co/bJZ2xJdr1r"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2532,
+        "media_key": "3_2087408851465498624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPf3SnSbcAAAGmU.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087408851465498624"
+          ]
+        },
+        "author_id": "1852135214795100164",
+        "conversation_id": "2087408857962451067",
+        "created_at": "2026-08-12T05:20:28.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T06:20:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087408857962451067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "2059473208299118592",
+              "start": 17,
+              "username": "oxolyy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bJZ2xJdr1r",
+              "end": 53,
+              "expanded_url": "https://x.com/ayameeii/status/2087408857962451067/photo/1",
+              "media_key": "3_2087408851465498624",
+              "start": 30,
+              "url": "https://t.co/bJZ2xJdr1r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087408857962451067",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087408851465498624"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "港美教程 很多人问就一起发了 来自@oxolyy 我很想她 https://t.co/bJZ2xJdr1r"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存|前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "is_identity_verified": false,
+        "location": "某处",
+        "most_recent_tweet_id": "2087408857962451067",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1852135214795100164/1760476595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1212,
+          "following_count": 761,
+          "like_count": 10941,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 4548
+        },
+        "url": "",
+        "username": "ayameeii",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-27T03:16:15.000Z",
+        "description": "前两世@o3olyy @lyyouo｜18 ↑｜od 自伤🩹餐券女｜双相情感障碍｜adhd｜认知障碍｜四次自杀未遂｜泛性恋｜bart｜绳缚｜我是精日🚫pink 同类宝宝互fo私一下我♡求怜爱 我只是一个可怜的小女孩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "o3olyy"
+              },
+              {
+                "end": 18,
+                "start": 11,
+                "username": "lyyouo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/o3olyy",
+                "end": 23,
+                "expanded_url": "http://ngl.link/o3olyy",
+                "start": 0,
+                "url": "https://t.co/5Akhgokvyv"
+              }
+            ]
+          }
+        },
+        "id": "2059473208299118592",
+        "is_identity_verified": false,
+        "location": "看看你后面｜🚪52坐标10",
+        "most_recent_tweet_id": "2086317973573431807",
+        "name": "真理3.0（已老实",
+        "pinned_tweet_id": "2059479860507254803",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059473208299118592/1779852084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059474038859411456/uQOOaqCO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 147,
+          "like_count": 214,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 212
+        },
+        "url": "https://t.co/5Akhgokvyv",
+        "username": "oxolyy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

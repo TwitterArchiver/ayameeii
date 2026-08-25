@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2087173378142863431",
+    "created_at": "2026-08-11T13:53:18.000Z",
+    "display_text_range": [
+      12,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T14:53:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087175530231832872"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2048770227417251840",
+          "start": 0,
+          "username": "xxuan_sama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087175530231832872",
+    "in_reply_to_user_id": "2048770227417251840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087175078413033475",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxuan_sama 我买了9月份的裙子 所以还不会死 我也买了很多药 只是到那一天才会死的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2087173378142863431",
+        "created_at": "2026-08-11T13:53:18.000Z",
+        "display_text_range": [
+          12,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T14:53:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087175530231832872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2048770227417251840",
+              "start": 0,
+              "username": "xxuan_sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087175530231832872",
+        "in_reply_to_user_id": "2048770227417251840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087175078413033475",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxuan_sama 我买了9月份的裙子 所以还不会死 我也买了很多药 只是到那一天才会死的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048770227417251840",
+        "conversation_id": "2087173378142863431",
+        "created_at": "2026-08-11T13:51:31.000Z",
+        "display_text_range": [
+          10,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T14:51:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087175078413033475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1852135214795100164",
+              "start": 0,
+              "username": "ayameeii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087175078413033475",
+        "in_reply_to_user_id": "1852135214795100164",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087173378142863431",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayameeii 可以晚点再死咩"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存|前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "is_identity_verified": false,
+        "location": "某处",
+        "most_recent_tweet_id": "2087175530231832872",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1852135214795100164/1760476595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1196,
+          "following_count": 753,
+          "like_count": 10931,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 4531
+        },
+        "url": "",
+        "username": "ayameeii",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-27T14:24:44.000Z",
+        "description": "05/♂/18↑\n\n双相情感障碍\n\n泛性恋/双\n\nvrc/耐电/oder\n\n抑郁/焦虑/二次元/coser/漫展摊主/vtuber/stf\n定期性压抑 可能会发疯\n喜欢互动！（也可能去骚扰您就是了）",
+        "id": "2048770227417251840",
+        "is_identity_verified": false,
+        "location": "终焉之地",
+        "most_recent_tweet_id": "2087175078413033475",
+        "name": "i 玄",
+        "pinned_tweet_id": "2064238298609197417",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2048770227417251840/1786192381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048770473887203328/km3gSfoS_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 114,
+          "like_count": 260,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 355
+        },
+        "url": "",
+        "username": "xxuan_sama",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

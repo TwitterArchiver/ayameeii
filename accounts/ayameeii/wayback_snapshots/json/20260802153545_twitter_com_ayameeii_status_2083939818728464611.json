@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083939803985502209"
+      ]
+    },
+    "author_id": "1852135214795100164",
+    "conversation_id": "2083939818728464611",
+    "created_at": "2026-08-02T15:35:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T16:35:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083939818728464611"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 10,
+          "start": 0,
+          "tag": "魔法少女ノ魔女裁判"
+        },
+        {
+          "end": 16,
+          "start": 11,
+          "tag": "桜羽エマ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZiMvCltBdg",
+          "end": 40,
+          "expanded_url": "https://x.com/ayameeii/status/2083939818728464611/photo/1",
+          "media_key": "3_2083939803985502209",
+          "start": 17,
+          "url": "https://t.co/ZiMvCltBdg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083939818728464611",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#魔法少女ノ魔女裁判 #桜羽エマ https://t.co/ZiMvCltBdg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2083939803985502209",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOukNeXaYAESHCb.jpg",
+        "width": 3071
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083939803985502209"
+          ]
+        },
+        "author_id": "1852135214795100164",
+        "conversation_id": "2083939818728464611",
+        "created_at": "2026-08-02T15:35:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T16:35:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083939818728464611"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "魔法少女ノ魔女裁判"
+            },
+            {
+              "end": 16,
+              "start": 11,
+              "tag": "桜羽エマ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZiMvCltBdg",
+              "end": 40,
+              "expanded_url": "https://x.com/ayameeii/status/2083939818728464611/photo/1",
+              "media_key": "3_2083939803985502209",
+              "start": 17,
+              "url": "https://t.co/ZiMvCltBdg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083939818728464611",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#魔法少女ノ魔女裁判 #桜羽エマ https://t.co/ZiMvCltBdg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存|♥️@sakihanaShion 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 8,
+                "username": "sakihanaShion"
+              },
+              {
+                "end": 35,
+                "start": 25,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 50,
+                "start": 40,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1118,
+          "following_count": 722,
+          "like_count": 10696,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 4270
+        },
+        "url": "",
+        "username": "ayameeii",
+        "verified": false
+      }
+    ]
+  }
+}

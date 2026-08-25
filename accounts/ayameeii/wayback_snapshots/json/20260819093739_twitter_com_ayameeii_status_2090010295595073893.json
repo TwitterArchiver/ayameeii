@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089966618755645440"
+      ],
+      "media_source_tweet_id": [
+        "2089966629870600547"
+      ]
+    },
+    "author_id": "1852135214795100164",
+    "conversation_id": "2090010295595073893",
+    "created_at": "2026-08-19T09:37:39.000Z",
+    "display_text_range": [
+      0,
+      72
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T10:37:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090010295595073893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2047879211168493568",
+          "start": 3,
+          "username": "aberyoheiabe"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QusN975vdE",
+          "end": 72,
+          "expanded_url": "https://x.com/aberyoheiabe/status/2089966629870600547/photo/1",
+          "media_key": "3_2089966618755645440",
+          "start": 49,
+          "url": "https://t.co/QusN975vdE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090010295595073893",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2089966618755645440"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089966629870600547",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aberyoheiabe: 所有人\n悼观🙏\n顺便帮忙转一下寻回一下互fo呜呜呜呜谢谢大家 https://t.co/QusN975vdE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3018,
+        "media_key": "3_2089966618755645440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQENkQ9awAAJ23W.jpg",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089966618755645440"
+          ],
+          "media_source_tweet_id": [
+            "2089966629870600547"
+          ]
+        },
+        "author_id": "1852135214795100164",
+        "conversation_id": "2090010295595073893",
+        "created_at": "2026-08-19T09:37:39.000Z",
+        "display_text_range": [
+          0,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T10:37:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090010295595073893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2047879211168493568",
+              "start": 3,
+              "username": "aberyoheiabe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QusN975vdE",
+              "end": 72,
+              "expanded_url": "https://x.com/aberyoheiabe/status/2089966629870600547/photo/1",
+              "media_key": "3_2089966618755645440",
+              "start": 49,
+              "url": "https://t.co/QusN975vdE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090010295595073893",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089966618755645440"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089966629870600547",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aberyoheiabe: 所有人\n悼观🙏\n顺便帮忙转一下寻回一下互fo呜呜呜呜谢谢大家 https://t.co/QusN975vdE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089966618755645440"
+          ]
+        },
+        "author_id": "2047879211168493568",
+        "conversation_id": "2089966629870600547",
+        "created_at": "2026-08-19T06:44:08.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T07:44:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089966629870600547"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QusN975vdE",
+              "end": 54,
+              "expanded_url": "https://x.com/aberyoheiabe/status/2089966629870600547/photo/1",
+              "media_key": "3_2089966618755645440",
+              "start": 31,
+              "url": "https://t.co/QusN975vdE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089966629870600547",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089966618755645440"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 895,
+          "like_count": 44,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "所有人\n悼观🙏\n顺便帮忙转一下寻回一下互fo呜呜呜呜谢谢大家 https://t.co/QusN975vdE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存|前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "is_identity_verified": false,
+        "location": "某处",
+        "most_recent_tweet_id": "2090010295595073893",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1852135214795100164/1760476595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1260,
+          "following_count": 791,
+          "like_count": 11296,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 4786
+        },
+        "url": "",
+        "username": "ayameeii",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-25T03:24:13.000Z",
+        "description": "这里是@aberyoheiskmの小号（爆哭）（←成分看这个号\n以备不时之需而备用中\nmsk别搞我谢谢\n寻回互fo、拜托了！૮⸝⸝o̴̶̷᷄ ·̭ o̴̶̷̥᷅⸝⸝ა\n↓🦋的联系方式！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "aberyoheiskm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/aberyo…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/aberyoheiskm.bsky.social",
+                "start": 0,
+                "url": "https://t.co/8Sfw0dOLQB"
+              }
+            ]
+          }
+        },
+        "id": "2047879211168493568",
+        "is_identity_verified": false,
+        "location": "地獄の監禁室",
+        "most_recent_tweet_id": "2090004004210446759",
+        "name": "⊹ SUZUME ⊹🩵（寻回互fo）",
+        "pinned_tweet_id": "2085446161243201959",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047879211168493568/1777087553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047885258499162112/U69oegBR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 139,
+          "like_count": 134,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 97
+        },
+        "url": "https://t.co/8Sfw0dOLQB",
+        "username": "aberyoheiabe",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

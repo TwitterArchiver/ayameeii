@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084234781685100544"
+      ],
+      "media_source_tweet_id": [
+        "2084234787515232342"
+      ]
+    },
+    "author_id": "1852135214795100164",
+    "conversation_id": "2084274773337702704",
+    "created_at": "2026-08-03T13:46:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T14:46:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084274773337702704"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1551431055408009216",
+          "start": 3,
+          "username": "kana40427"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eDc4LCDP7f",
+          "end": 61,
+          "expanded_url": "https://x.com/kana40427/status/2084234787515232342/photo/1",
+          "media_key": "3_2084234781685100544",
+          "start": 38,
+          "url": "https://t.co/eDc4LCDP7f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084274773337702704",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084234787515232342",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kana40427: 🚪88 線上半綠288 線下全球可飛850r https://t.co/eDc4LCDP7f"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2084234781685100544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOywfb7asAABJDc.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084234781685100544"
+          ]
+        },
+        "author_id": "1551431055408009216",
+        "conversation_id": "2084234787515232342",
+        "created_at": "2026-08-03T11:07:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T12:07:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084234787515232342"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eDc4LCDP7f",
+              "end": 46,
+              "expanded_url": "https://x.com/kana40427/status/2084234787515232342/photo/1",
+              "media_key": "3_2084234781685100544",
+              "start": 23,
+              "url": "https://t.co/eDc4LCDP7f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084234787515232342",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "🚪88 線上半綠288 線下全球可飛850r https://t.co/eDc4LCDP7f"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084234781685100544"
+          ],
+          "media_source_tweet_id": [
+            "2084234787515232342"
+          ]
+        },
+        "author_id": "1852135214795100164",
+        "conversation_id": "2084274773337702704",
+        "created_at": "2026-08-03T13:46:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T14:46:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084274773337702704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1551431055408009216",
+              "start": 3,
+              "username": "kana40427"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eDc4LCDP7f",
+              "end": 61,
+              "expanded_url": "https://x.com/kana40427/status/2084234787515232342/photo/1",
+              "media_key": "3_2084234781685100544",
+              "start": 38,
+              "url": "https://t.co/eDc4LCDP7f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084274773337702704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084234787515232342",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kana40427: 🚪88 線上半綠288 線下全球可飛850r https://t.co/eDc4LCDP7f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存|♥️前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 35,
+                "start": 25,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1118,
+          "following_count": 725,
+          "like_count": 10705,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 4273
+        },
+        "url": "",
+        "username": "ayameeii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-25T04:56:19.000Z",
+        "description": "🚪+v88\n互fo 可直接DM 内有血图慎入\n\n@afuai377",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 24,
+                "username": "afuai377"
+              }
+            ]
+          }
+        },
+        "id": "1551431055408009216",
+        "location": "天国",
+        "name": "ᛪ༙𓉸ྀི 電脳少女そら𓉸ྀི ᛪ༙",
+        "pinned_tweet_id": "2072700675151294543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072700655207346176/XlS9tkR5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 536,
+          "following_count": 120,
+          "like_count": 3038,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 1815
+        },
+        "url": "",
+        "username": "kana40427",
+        "verified": false
+      }
+    ]
+  }
+}

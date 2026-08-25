@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088966962743549952",
+        "3_2088966990857940992"
+      ]
+    },
+    "author_id": "1852135214795100164",
+    "conversation_id": "2088967009325527139",
+    "created_at": "2026-08-16T12:32:00.000Z",
+    "display_text_range": [
+      0,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T13:32:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088967009325527139"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tAPqr4QBmd",
+          "end": 52,
+          "expanded_url": "https://x.com/ayameeii/status/2088967009325527139/photo/1",
+          "media_key": "3_2088966962743549952",
+          "start": 29,
+          "url": "https://t.co/tAPqr4QBmd"
+        },
+        {
+          "display_url": "pic.x.com/tAPqr4QBmd",
+          "end": 52,
+          "expanded_url": "https://x.com/ayameeii/status/2088967009325527139/photo/1",
+          "media_key": "3_2088966990857940992",
+          "start": 29,
+          "url": "https://t.co/tAPqr4QBmd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088967009325527139",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088966962743549952"
+      },
+      {
+        "media_key": "3_2088966990857940992"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "膝盖上擦伤了 腿上有痣 我真的很丑 只敢躲在互联网的后面 https://t.co/tAPqr4QBmd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4095,
+        "media_key": "3_2088966962743549952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP2AYoHbIAAPV0-.jpg",
+        "width": 2304
+      },
+      {
+        "height": 4095,
+        "media_key": "3_2088966990857940992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP2AaQ2asAA3jej.jpg",
+        "width": 2304
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088966962743549952",
+            "3_2088966990857940992"
+          ]
+        },
+        "author_id": "1852135214795100164",
+        "conversation_id": "2088967009325527139",
+        "created_at": "2026-08-16T12:32:00.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T13:32:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088967009325527139"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tAPqr4QBmd",
+              "end": 52,
+              "expanded_url": "https://x.com/ayameeii/status/2088967009325527139/photo/1",
+              "media_key": "3_2088966962743549952",
+              "start": 29,
+              "url": "https://t.co/tAPqr4QBmd"
+            },
+            {
+              "display_url": "pic.x.com/tAPqr4QBmd",
+              "end": 52,
+              "expanded_url": "https://x.com/ayameeii/status/2088967009325527139/photo/1",
+              "media_key": "3_2088966990857940992",
+              "start": 29,
+              "url": "https://t.co/tAPqr4QBmd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088967009325527139",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088966962743549952"
+          },
+          {
+            "media_key": "3_2088966990857940992"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "膝盖上擦伤了 腿上有痣 我真的很丑 只敢躲在互联网的后面 https://t.co/tAPqr4QBmd"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存|前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "is_identity_verified": false,
+        "location": "某处",
+        "most_recent_tweet_id": "2088967009325527139",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1852135214795100164/1760476595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1262,
+          "following_count": 783,
+          "like_count": 11217,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 4756
+        },
+        "url": "",
+        "username": "ayameeii",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

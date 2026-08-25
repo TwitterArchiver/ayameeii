@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2086311589276459334",
+    "created_at": "2026-08-09T04:40:19.000Z",
+    "display_text_range": [
+      0,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T05:40:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086311589276459334"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ayameeii/statu…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/ayameeii/status/2086308049220931846",
+          "start": 31,
+          "url": "https://t.co/qSZKuJIspR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086311589276459334",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086308049220931846",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "中国公安阻止自杀的方法就是问本人自不自杀👍👍👍我能做的都做了 https://t.co/qSZKuJIspR"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2086311589276459334",
+        "created_at": "2026-08-09T04:40:19.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T05:40:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086311589276459334"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ayameeii/statu…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/ayameeii/status/2086308049220931846",
+              "start": 31,
+              "url": "https://t.co/qSZKuJIspR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086311589276459334",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086308049220931846",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中国公安阻止自杀的方法就是问本人自不自杀👍👍👍我能做的都做了 https://t.co/qSZKuJIspR"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2086308049220931846",
+        "created_at": "2026-08-09T04:26:15.000Z",
+        "display_text_range": [
+          0,
+          123
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T05:26:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086308049220931846"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/oxolyy/status/…",
+              "end": 147,
+              "expanded_url": "https://twitter.com/oxolyy/status/2086302046337327181",
+              "start": 124,
+              "url": "https://t.co/xWYgty19Wf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086308049220931846",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086302046337327181",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "报警了 因为不管怎么样我不能眼看着一条生命就这么流逝 然后警察问对方有没有事（对面当然说没有了 这件事就结束了 实际上已经吃药了 问一个服药自杀的人自己有没有吃药是什么脑回路 本来考虑要不要干涉自杀也是没脾气了 毕竟对于很多人其实并不想要别人阻止 https://t.co/xWYgty19Wf"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存|前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "is_identity_verified": false,
+        "location": "某处",
+        "most_recent_tweet_id": "2086311589276459334",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1852135214795100164/1760476595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1164,
+          "following_count": 732,
+          "like_count": 10824,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 4384
+        },
+        "url": "",
+        "username": "ayameeii",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
