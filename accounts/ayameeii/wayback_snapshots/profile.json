@@ -1,7 +1,7 @@
 {
   "name": "绫绫绫",
   "username": "@ayameeii",
-  "bio": "互联网依存|♥️@sakihanaShion 前世@ayamekiss 另一个我@aeroayame",
+  "bio": "互联网依存|前世@ayamekiss 另一个我@aeroayame",
   "location": "某处",
   "link": "",
   "avatar": "avatar/avatar.jpg",
@@ -10,18 +10,13 @@
   "bio_entities": {
     "mentions": [
       {
-        "end": 22,
+        "end": 18,
         "start": 8,
-        "username": "sakihanaShion"
-      },
-      {
-        "end": 35,
-        "start": 25,
         "username": "ayamekiss"
       },
       {
-        "end": 50,
-        "start": 40,
+        "end": 33,
+        "start": 23,
         "username": "aeroayame"
       }
     ]
