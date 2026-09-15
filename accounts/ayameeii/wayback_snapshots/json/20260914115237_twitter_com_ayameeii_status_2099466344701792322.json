@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099466337517211648"
+      ]
+    },
+    "author_id": "1852135214795100164",
+    "conversation_id": "2099466344701792322",
+    "created_at": "2026-09-14T11:52:37.000Z",
+    "display_text_range": [
+      0,
+      8
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T12:52:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099466344701792322"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dqVqdWtPGm",
+          "end": 32,
+          "expanded_url": "https://x.com/ayameeii/status/2099466344701792322/photo/1",
+          "media_key": "3_2099466337517211648",
+          "start": 9,
+          "url": "https://t.co/dqVqdWtPGm"
+        },
+        {
+          "display_url": "x.com/ayameeii/statu…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/ayameeii/status/2099132393294831678",
+          "start": 33,
+          "url": "https://t.co/eBpfKr9iGU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099466344701792322",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2099466337517211648"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099132393294831678",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "被阿p抛弃的结局 https://t.co/dqVqdWtPGm https://t.co/eBpfKr9iGU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 415,
+        "media_key": "3_2099466337517211648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSLNgrGakAA_8s3.jpg",
+        "width": 1049
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099466337517211648"
+          ]
+        },
+        "author_id": "1852135214795100164",
+        "conversation_id": "2099466344701792322",
+        "created_at": "2026-09-14T11:52:37.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T12:52:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099466344701792322"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dqVqdWtPGm",
+              "end": 32,
+              "expanded_url": "https://x.com/ayameeii/status/2099466344701792322/photo/1",
+              "media_key": "3_2099466337517211648",
+              "start": 9,
+              "url": "https://t.co/dqVqdWtPGm"
+            },
+            {
+              "display_url": "x.com/ayameeii/statu…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/ayameeii/status/2099132393294831678",
+              "start": 33,
+              "url": "https://t.co/eBpfKr9iGU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099466344701792322",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099466337517211648"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099132393294831678",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "被阿p抛弃的结局 https://t.co/dqVqdWtPGm https://t.co/eBpfKr9iGU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2099132393294831678",
+        "created_at": "2026-09-13T13:45:37.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T14:45:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099132393294831678"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099132393294831678",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1199,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你不是说想做我的阿p吗 你骗我"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存|前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "is_identity_verified": false,
+        "location": "某处",
+        "most_recent_tweet_id": "2099466344701792322",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1852135214795100164/1760476595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1480,
+          "following_count": 813,
+          "like_count": 11632,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 5035
+        },
+        "url": "",
+        "username": "ayameeii",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

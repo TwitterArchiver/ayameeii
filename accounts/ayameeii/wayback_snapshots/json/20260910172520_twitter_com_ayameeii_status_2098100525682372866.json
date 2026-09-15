@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2097813459891290289",
+    "created_at": "2026-09-10T17:25:20.000Z",
+    "display_text_range": [
+      11,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T18:25:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098100525682372866"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1061274849375531008",
+          "start": 0,
+          "username": "Pasukalu0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098100525682372866",
+    "in_reply_to_user_id": "1061274849375531008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097813459891290289",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pasukalu0 富婆"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2097813453247500288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRzuOJXaUAA1ABZ.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2097813459891290289",
+        "created_at": "2026-09-10T17:25:20.000Z",
+        "display_text_range": [
+          11,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T18:25:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098100525682372866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1061274849375531008",
+              "start": 0,
+              "username": "Pasukalu0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098100525682372866",
+        "in_reply_to_user_id": "1061274849375531008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097813459891290289",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pasukalu0 富婆"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097813453247500288"
+          ]
+        },
+        "author_id": "1061274849375531008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2097813459891290289",
+        "created_at": "2026-09-09T22:24:38.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T23:24:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097813459891290289"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i7nsejaURh",
+              "end": 28,
+              "expanded_url": "https://x.com/Pasukalu0/status/2097813459891290289/photo/1",
+              "media_key": "3_2097813453247500288",
+              "start": 5,
+              "url": "https://t.co/i7nsejaURh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097813459891290289",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097813453247500288"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1588,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "能抢到吗 https://t.co/i7nsejaURh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存|前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "is_identity_verified": false,
+        "location": "某处",
+        "most_recent_tweet_id": "2098100525682372866",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1852135214795100164/1760476595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1361,
+          "following_count": 794,
+          "like_count": 11468,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 4917
+        },
+        "url": "",
+        "username": "ayameeii",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-11-10T15:10:16.000Z",
+        "description": "“我做了个来自过去的梦”\n📌廣東｜帕苏卡露（パスカル）｜HK AI Engineer (WFH) / U.S. Stock Investor/ Travel & Hotel Enthusiast｜ボカロ/ 百合/ 美少女ゲーム/ VRChat/ Delta Force \n\n另一个我：@Chidorinya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 142,
+                "username": "Chidorinya"
+              }
+            ]
+          }
+        },
+        "id": "1061274849375531008",
+        "is_identity_verified": false,
+        "location": "帕维度",
+        "most_recent_tweet_id": "2097888396731617571",
+        "name": "帕苏卡露の秘密花園",
+        "pinned_tweet_id": "1852647793883787567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1061274849375531008/1685173591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1687913795698716672/CwGHV9y9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4729,
+          "following_count": 1377,
+          "like_count": 41815,
+          "listed_count": 10,
+          "media_count": 1248,
+          "tweet_count": 5482
+        },
+        "url": "",
+        "username": "Pasukalu0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

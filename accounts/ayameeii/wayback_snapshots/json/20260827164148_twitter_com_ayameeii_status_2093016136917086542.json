@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2092949514915282960",
+    "created_at": "2026-08-27T16:41:48.000Z",
+    "display_text_range": [
+      13,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T17:41:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093016136917086542"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1520126866132434944",
+          "start": 0,
+          "username": "baimao_suki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093016136917086542",
+    "in_reply_to_user_id": "1520126866132434944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093007677299511636",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baimao_suki 对 不过其实不是被晶 就是过海关要好几个人的身份信息收货地址（一个人寄10盒这样子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2092949514915282960",
+        "created_at": "2026-08-27T16:41:48.000Z",
+        "display_text_range": [
+          13,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T17:41:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093016136917086542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1520126866132434944",
+              "start": 0,
+              "username": "baimao_suki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093016136917086542",
+        "in_reply_to_user_id": "1520126866132434944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093007677299511636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baimao_suki 对 不过其实不是被晶 就是过海关要好几个人的身份信息收货地址（一个人寄10盒这样子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1520126866132434944",
+        "conversation_id": "2092949514915282960",
+        "created_at": "2026-08-27T16:08:11.000Z",
+        "display_text_range": [
+          10,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T17:08:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093007677299511636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1852135214795100164",
+              "start": 0,
+              "username": "ayameeii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093007677299511636",
+        "in_reply_to_user_id": "1852135214795100164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092949514915282960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayameeii 你之前说一次性买了三十盒被晶了 是那三十盒吗🤔"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存|前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "is_identity_verified": false,
+        "location": "某处",
+        "most_recent_tweet_id": "2093016136917086542",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1852135214795100164/1760476595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1296,
+          "following_count": 799,
+          "like_count": 11347,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 4850
+        },
+        "url": "",
+        "username": "ayameeii",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-29T19:44:32.000Z",
+        "description": "电脑DIY爱好者/ ysyxer/CS2玩家/ 头像是⁹ 背景是桜田シロ/疑似双A被bug拖着走 /容易踩地雷（雾）",
+        "id": "1520126866132434944",
+        "is_identity_verified": true,
+        "location": "广州",
+        "most_recent_tweet_id": "2093007677299511636",
+        "name": "白毛suki",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1520126866132434944/1707748230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1671767047737602051/c8nMOrhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 473,
+          "following_count": 1499,
+          "like_count": 27848,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 3062
+        },
+        "url": "",
+        "username": "baimao_suki",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

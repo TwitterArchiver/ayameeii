@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2095546042444108236",
+    "created_at": "2026-09-04T03:15:07.000Z",
+    "display_text_range": [
+      9,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T04:15:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095712232805937592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1830165581800390656",
+          "start": 0,
+          "username": "TTYYqwe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095712232805937592",
+    "in_reply_to_user_id": "1830165581800390656",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095546042444108236",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TTYYqwe 宝宝。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2095546033367613440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRTgA8FbAAAtgsQ.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2095546042444108236",
+        "created_at": "2026-09-04T03:15:07.000Z",
+        "display_text_range": [
+          9,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T04:15:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095712232805937592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1830165581800390656",
+              "start": 0,
+              "username": "TTYYqwe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095712232805937592",
+        "in_reply_to_user_id": "1830165581800390656",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095546042444108236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TTYYqwe 宝宝。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095546033367613440"
+          ]
+        },
+        "author_id": "1830165581800390656",
+        "conversation_id": "2095546042444108236",
+        "created_at": "2026-09-03T16:14:44.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T17:14:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095546042444108236"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sBxJHdko1v",
+              "end": 38,
+              "expanded_url": "https://x.com/TTYYqwe/status/2095546042444108236/photo/1",
+              "media_key": "3_2095546033367613440",
+              "start": 15,
+              "url": "https://t.co/sBxJHdko1v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095546042444108236",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095546033367613440"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5160,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "再见再见 我接受不了太多关注 https://t.co/sBxJHdko1v"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存|前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "is_identity_verified": false,
+        "location": "某处",
+        "most_recent_tweet_id": "2095712232805937592",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1852135214795100164/1760476595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1325,
+          "following_count": 797,
+          "like_count": 11426,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 4884
+        },
+        "url": "",
+        "username": "ayameeii",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-01T08:47:40.000Z",
+        "description": "本人农村人，低保户，丁克族，动物保护人士，素食主义者。喜欢的明星有吴京，陈道明，韩红，用的是华为手机。最爱的电影：《战狼1》《战狼2》\n最爱用的手机：华为。最爱的品牌：还是华为.最爱的歌曲：《我爱你中国》\n最爱喝的饮料：娃哈哈矿泉水\n爱的颜色：红色.最爱的服装：李宁\n最爱的运动鞋：鸿星尔克 最爱的食物：大饺子\n私信慢回",
+        "id": "1830165581800390656",
+        "is_identity_verified": false,
+        "location": "天台",
+        "most_recent_tweet_id": "2095546042444108236",
+        "name": "qWe",
+        "pinned_tweet_id": "2092107293076943195",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1830165581800390656/1786040448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085430857674919937/EnuwdBND_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 974,
+          "following_count": 206,
+          "like_count": 1586,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 3346
+        },
+        "url": "",
+        "username": "TTYYqwe",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

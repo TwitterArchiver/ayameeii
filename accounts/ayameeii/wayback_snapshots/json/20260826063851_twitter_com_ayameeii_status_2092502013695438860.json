@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2092484573926199511",
+    "created_at": "2026-08-26T06:38:51.000Z",
+    "display_text_range": [
+      16,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T07:38:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092502013695438860"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1956567270739828736",
+          "start": 0,
+          "username": "Truffaut897456"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092502013695438860",
+    "in_reply_to_user_id": "1956567270739828736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092484573926199511",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Truffaut897456 宝宝你太美了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2092484573926199511",
+        "created_at": "2026-08-26T06:38:51.000Z",
+        "display_text_range": [
+          16,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T07:38:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092502013695438860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1956567270739828736",
+              "start": 0,
+              "username": "Truffaut897456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092502013695438860",
+        "in_reply_to_user_id": "1956567270739828736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092484573926199511",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Truffaut897456 宝宝你太美了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956567270739828736",
+        "conversation_id": "2092484573926199511",
+        "created_at": "2026-08-26T05:29:33.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T06:29:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092484573926199511"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/truffaut897456…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/truffaut897456/status/2091778996237382113",
+              "start": 36,
+              "url": "https://t.co/nmtGVEcK2Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092484573926199511",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1914,
+          "like_count": 83,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091778996237382113",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我在别的地方发这张腿照，都被限流，抖音更是直接被办了，有这么夸张吗。。 https://t.co/nmtGVEcK2Z"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存|前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "is_identity_verified": false,
+        "location": "某处",
+        "most_recent_tweet_id": "2092502013695438860",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1852135214795100164/1760476595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1280,
+          "following_count": 799,
+          "like_count": 11336,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 4831
+        },
+        "url": "",
+        "username": "ayameeii",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-16T04:02:53.000Z",
+        "description": "喜欢电影🎦 喜欢标豆瓣，玩豆瓣的可以私信来互关一下豆瓣，最喜欢恐怖片（意大利铅黄 好莱坞和各种欧美b恐 香港恐怖 日恐），对烂片有瘾，我品味烂爆，各类电影也都会看一点，还有二次元少女乐队特摄古早动画，平时喜欢拍cos和各种拍衣服，照片纯高p，线下丑蛆查无此人，如果撞上请不要骂我呜呜。",
+        "id": "1956567270739828736",
+        "is_identity_verified": false,
+        "location": "我想吃薯条",
+        "most_recent_tweet_id": "2092485369560551729",
+        "name": "Truffaut",
+        "pinned_tweet_id": "2001567503110279683",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1956567270739828736/1773969451",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036327207875059712/2Y8IZf_n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23538,
+          "following_count": 1535,
+          "like_count": 12897,
+          "listed_count": 67,
+          "media_count": 356,
+          "tweet_count": 5269
+        },
+        "url": "",
+        "username": "Truffaut897456",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

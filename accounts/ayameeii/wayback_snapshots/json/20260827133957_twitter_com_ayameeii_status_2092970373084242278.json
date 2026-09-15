@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092970319841726464"
+      ]
+    },
+    "author_id": "1852135214795100164",
+    "conversation_id": "2092970373084242278",
+    "created_at": "2026-08-27T13:39:57.000Z",
+    "display_text_range": [
+      0,
+      3
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T14:39:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092970373084242278"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4VC6iXggGJ",
+          "end": 27,
+          "expanded_url": "https://x.com/ayameeii/status/2092970373084242278/photo/1",
+          "media_key": "3_2092970319841726464",
+          "start": 4,
+          "url": "https://t.co/4VC6iXggGJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092970373084242278",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2092970319841726464"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "ごめん https://t.co/4VC6iXggGJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2092970319841726464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQu5areaEAAHZt9.jpg",
+        "width": 2304
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092970319841726464"
+          ]
+        },
+        "author_id": "1852135214795100164",
+        "conversation_id": "2092970373084242278",
+        "created_at": "2026-08-27T13:39:57.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T14:39:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092970373084242278"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4VC6iXggGJ",
+              "end": 27,
+              "expanded_url": "https://x.com/ayameeii/status/2092970373084242278/photo/1",
+              "media_key": "3_2092970319841726464",
+              "start": 4,
+              "url": "https://t.co/4VC6iXggGJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092970373084242278",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2092970319841726464"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ごめん https://t.co/4VC6iXggGJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存|前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "is_identity_verified": false,
+        "location": "某处",
+        "most_recent_tweet_id": "2092970373084242278",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1852135214795100164/1760476595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1290,
+          "following_count": 799,
+          "like_count": 11338,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 4844
+        },
+        "url": "",
+        "username": "ayameeii",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

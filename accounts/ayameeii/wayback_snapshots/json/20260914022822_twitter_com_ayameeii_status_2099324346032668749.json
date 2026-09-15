@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2098955113486524820",
+    "created_at": "2026-09-14T02:28:22.000Z",
+    "display_text_range": [
+      13,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T03:28:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099324346032668749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2031535722071732226",
+          "start": 0,
+          "username": "kiukiu44442"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099324346032668749",
+    "in_reply_to_user_id": "2031535722071732226",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098955113486524820",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kiukiu44442 大师"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2098955113486524820",
+        "created_at": "2026-09-14T02:28:22.000Z",
+        "display_text_range": [
+          13,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T03:28:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099324346032668749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2031535722071732226",
+              "start": 0,
+              "username": "kiukiu44442"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099324346032668749",
+        "in_reply_to_user_id": "2031535722071732226",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098955113486524820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiukiu44442 大师"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031535722071732226",
+        "conversation_id": "2098955113486524820",
+        "created_at": "2026-09-13T02:01:10.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T03:01:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098955113486524820"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098955113486524820",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 10521,
+          "like_count": 352,
+          "quote_count": 2,
+          "reply_count": 16,
+          "retweet_count": 56
+        },
+        "reply_settings": "everyone",
+        "text": "禁大麻不是怕你死 是怕你活得太輕鬆 當你不再覺得現實痛苦 他們就沒辦法用生存來奴役你"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存|前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "is_identity_verified": false,
+        "location": "某处",
+        "most_recent_tweet_id": "2099324346032668749",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1852135214795100164/1760476595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1477,
+          "following_count": 810,
+          "like_count": 11617,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 5026
+        },
+        "url": "",
+        "username": "ayameeii",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-11T01:00:51.000Z",
+        "description": "前世@kiukiu4444 請助我尋找互fol\ncantonese/eng acc\n防炸@kiukiu44443\nhave fun n die💊",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "kiukiu4444"
+              },
+              {
+                "end": 56,
+                "start": 44,
+                "username": "kiukiu44443"
+              }
+            ]
+          }
+        },
+        "id": "2031535722071732226",
+        "is_identity_verified": false,
+        "location": "shtwt odtwt",
+        "most_recent_tweet_id": "2099275555665555470",
+        "name": "kiu2.0",
+        "pinned_tweet_id": "2098707655212851217",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2031535722071732226/1789227423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098798145220337664/5Kc2Nm_I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 72,
+          "like_count": 163,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 38
+        },
+        "url": "",
+        "username": "kiukiu44442",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

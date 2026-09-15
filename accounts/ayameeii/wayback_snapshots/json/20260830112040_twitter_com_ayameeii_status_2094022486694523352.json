@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2093861246118551970",
+    "created_at": "2026-08-30T11:20:40.000Z",
+    "display_text_range": [
+      16,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T12:20:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094022486694523352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1956567270739828736",
+          "start": 0,
+          "username": "Truffaut897456"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094022486694523352",
+    "in_reply_to_user_id": "1956567270739828736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093861246118551970",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Truffaut897456 好漂亮"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2093861235762798592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ7jsz6aIAAZUB2.jpg",
+        "width": 1538
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2093861235762872320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ7jsz6bQAALZvK.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2093861246118551970",
+        "created_at": "2026-08-30T11:20:40.000Z",
+        "display_text_range": [
+          16,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T12:20:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094022486694523352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1956567270739828736",
+              "start": 0,
+              "username": "Truffaut897456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094022486694523352",
+        "in_reply_to_user_id": "1956567270739828736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093861246118551970",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Truffaut897456 好漂亮"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093861235762798592",
+            "3_2093861235762872320"
+          ]
+        },
+        "author_id": "1956567270739828736",
+        "conversation_id": "2093861246118551970",
+        "created_at": "2026-08-30T00:39:57.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T01:39:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093861246118551970"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iCfcmDAAs7",
+              "end": 23,
+              "expanded_url": "https://x.com/Truffaut897456/status/2093861246118551970/photo/1",
+              "media_key": "3_2093861235762798592",
+              "start": 0,
+              "url": "https://t.co/iCfcmDAAs7"
+            },
+            {
+              "display_url": "pic.x.com/iCfcmDAAs7",
+              "end": 23,
+              "expanded_url": "https://x.com/Truffaut897456/status/2093861246118551970/photo/1",
+              "media_key": "3_2093861235762872320",
+              "start": 0,
+              "url": "https://t.co/iCfcmDAAs7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093861246118551970",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2093861235762798592"
+          },
+          {
+            "media_key": "3_2093861235762872320"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 5658,
+          "like_count": 374,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/iCfcmDAAs7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存|前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "is_identity_verified": false,
+        "location": "某处",
+        "most_recent_tweet_id": "2094022486694523352",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1852135214795100164/1760476595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1324,
+          "following_count": 799,
+          "like_count": 11406,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 4873
+        },
+        "url": "",
+        "username": "ayameeii",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-16T04:02:53.000Z",
+        "description": "喜欢电影🎦 喜欢标豆瓣，玩豆瓣的可以私信来互关一下豆瓣，最喜欢恐怖片（意大利铅黄 好莱坞和各种欧美b恐 香港恐怖 日恐），对烂片有瘾，我品味烂爆，各类电影也都会看一点，还有二次元少女乐队特摄古早动画，平时喜欢拍cos和各种拍衣服，照片纯高p，线下丑蛆查无此人，如果撞上请不要骂我呜呜。",
+        "id": "1956567270739828736",
+        "is_identity_verified": false,
+        "location": "我想吃薯条",
+        "most_recent_tweet_id": "2094012887090311465",
+        "name": "Truffaut",
+        "pinned_tweet_id": "2001567503110279683",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1956567270739828736/1773969451",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093923994756091904/CCZPcilo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23617,
+          "following_count": 1539,
+          "like_count": 12956,
+          "listed_count": 67,
+          "media_count": 360,
+          "tweet_count": 5303
+        },
+        "url": "",
+        "username": "Truffaut897456",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
