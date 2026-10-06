@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101371821589483520"
+      ]
+    },
+    "author_id": "1852135214795100164",
+    "conversation_id": "2101371827687956571",
+    "created_at": "2026-09-19T18:04:19.000Z",
+    "display_text_range": [
+      0,
+      144
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T19:04:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101371827687956571"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZqkgrP8KeC",
+          "end": 168,
+          "expanded_url": "https://x.com/ayameeii/status/2101371827687956571/photo/1",
+          "media_key": "3_2101371821589483520",
+          "start": 145,
+          "url": "https://t.co/ZqkgrP8KeC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101371827687956571",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2101371821589483520"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "找到了你给我20块钱你在意淫什么 送我的我当然很感谢 但是指责我不接受 你自己打的钱又觉得我骗你钱了 那我只能和你讲清楚了我不欠你 整个过程我都没说过话完全不知情 是我发现被删了所以加回来问怎么了 然后你就觉得我骗你钱了😆今天评论你想和说清楚你嘲讽我加回来继续骗你钱吗 那抱歉我只能挂你了 https://t.co/ZqkgrP8KeC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 755,
+        "media_key": "3_2101371821589483520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSmSicbbUAAONwS.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101371821589483520"
+          ]
+        },
+        "author_id": "1852135214795100164",
+        "conversation_id": "2101371827687956571",
+        "created_at": "2026-09-19T18:04:19.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T19:04:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101371827687956571"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZqkgrP8KeC",
+              "end": 168,
+              "expanded_url": "https://x.com/ayameeii/status/2101371827687956571/photo/1",
+              "media_key": "3_2101371821589483520",
+              "start": 145,
+              "url": "https://t.co/ZqkgrP8KeC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101371827687956571",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101371821589483520"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "找到了你给我20块钱你在意淫什么 送我的我当然很感谢 但是指责我不接受 你自己打的钱又觉得我骗你钱了 那我只能和你讲清楚了我不欠你 整个过程我都没说过话完全不知情 是我发现被删了所以加回来问怎么了 然后你就觉得我骗你钱了😆今天评论你想和说清楚你嘲讽我加回来继续骗你钱吗 那抱歉我只能挂你了 https://t.co/ZqkgrP8KeC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存|前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "is_identity_verified": false,
+        "location": "某处",
+        "most_recent_tweet_id": "2101371827687956571",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1852135214795100164/1760476595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1514,
+          "following_count": 821,
+          "like_count": 11820,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 5144
+        },
+        "url": "",
+        "username": "ayameeii",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

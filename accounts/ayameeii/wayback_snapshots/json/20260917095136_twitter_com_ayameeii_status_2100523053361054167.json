@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2100520176848691428",
+    "created_at": "2026-09-17T09:51:36.000Z",
+    "display_text_range": [
+      8,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T10:51:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100523053361054167"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1992994423815516160",
+          "start": 0,
+          "username": "wycssl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100523053361054167",
+    "in_reply_to_user_id": "1992994423815516160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100520176848691428",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wycssl 宝宝你这么有钱我加回来可以吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2100520160859947008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSaL9Q-agAA1Qyn.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2100520176848691428",
+        "created_at": "2026-09-17T09:51:36.000Z",
+        "display_text_range": [
+          8,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T10:51:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100523053361054167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1992994423815516160",
+              "start": 0,
+              "username": "wycssl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100523053361054167",
+        "in_reply_to_user_id": "1992994423815516160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100520176848691428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wycssl 宝宝你这么有钱我加回来可以吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100520160859947008"
+          ]
+        },
+        "author_id": "1992994423815516160",
+        "conversation_id": "2100520176848691428",
+        "created_at": "2026-09-17T09:40:10.000Z",
+        "display_text_range": [
+          0,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T10:40:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100520176848691428"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NHOBaCFBGh",
+              "end": 99,
+              "expanded_url": "https://x.com/wycssl/status/2100520176848691428/photo/1",
+              "media_key": "3_2100520160859947008",
+              "start": 76,
+              "url": "https://t.co/NHOBaCFBGh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100520176848691428",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100520160859947008"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "一听我工资1800，你就不理我了，真有意思，你可能误会我的意思了，我说的是一个月，不是一年，而且我这个月可不止1800，还有一盒月饼呢，你确定不理我吗 https://t.co/NHOBaCFBGh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存|前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "is_identity_verified": false,
+        "location": "某处",
+        "most_recent_tweet_id": "2100523053361054167",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1852135214795100164/1760476595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1499,
+          "following_count": 818,
+          "like_count": 11762,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 5086
+        },
+        "url": "",
+        "username": "ayameeii",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-24T16:31:23.000Z",
+        "description": "男的 没有门槛 不加好友 欢迎互关们扩列",
+        "id": "1992994423815516160",
+        "is_identity_verified": false,
+        "location": "Japan",
+        "most_recent_tweet_id": "2100520712138338659",
+        "name": "不太喜欢按时睡觉",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992994423815516160/1764002624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000527239201615872/X-sUJtW8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4336,
+          "following_count": 1106,
+          "like_count": 26734,
+          "listed_count": 13,
+          "media_count": 186,
+          "tweet_count": 942
+        },
+        "url": "",
+        "username": "wycssl",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

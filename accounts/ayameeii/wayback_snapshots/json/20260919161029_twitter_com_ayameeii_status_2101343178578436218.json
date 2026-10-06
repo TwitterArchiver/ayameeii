@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2101343178578436218",
+    "created_at": "2026-09-19T16:10:29.000Z",
+    "display_text_range": [
+      0,
+      105
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T17:10:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101343178578436218"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/123456wwerr/st…",
+          "end": 129,
+          "expanded_url": "https://twitter.com/123456wwerr/status/2101342381211791504",
+          "start": 106,
+          "url": "https://t.co/Hvhvwn5vOT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101343178578436218",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101342381211791504",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这人脑子有病吧 事情经过是我抱着玩的态度找他要钱 也没有什么承诺 他给我钱了 我谢谢了 然后一句话也不说我都不知道被删了 之前想找他说话结果被贴上了骗钱的标签 我有哪里做错了？和你很熟吗凭什么被删了就要及时发现 https://t.co/Hvhvwn5vOT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2101343178578436218",
+        "created_at": "2026-09-19T16:10:29.000Z",
+        "display_text_range": [
+          0,
+          105
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T17:10:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101343178578436218"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/123456wwerr/st…",
+              "end": 129,
+              "expanded_url": "https://twitter.com/123456wwerr/status/2101342381211791504",
+              "start": 106,
+              "url": "https://t.co/Hvhvwn5vOT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101343178578436218",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101342381211791504",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这人脑子有病吧 事情经过是我抱着玩的态度找他要钱 也没有什么承诺 他给我钱了 我谢谢了 然后一句话也不说我都不知道被删了 之前想找他说话结果被贴上了骗钱的标签 我有哪里做错了？和你很熟吗凭什么被删了就要及时发现 https://t.co/Hvhvwn5vOT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866050038088024064",
+        "conversation_id": "2101342381211791504",
+        "created_at": "2026-09-19T16:07:19.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T17:07:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101342381211791504"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ayameeii/statu…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/ayameeii/status/2101339557077852180",
+              "start": 44,
+              "url": "https://t.co/tDOpHMWzLZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101342381211791504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101339557077852180",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "天天搁哪抑郁想紫砂也是开玩笑？那你可是在算一直在骗人啊，要不是没有聊天记录我早贴出来了 https://t.co/tDOpHMWzLZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存|前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "is_identity_verified": false,
+        "location": "某处",
+        "most_recent_tweet_id": "2101343178578436218",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1852135214795100164/1760476595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1514,
+          "following_count": 821,
+          "like_count": 11817,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 5128
+        },
+        "url": "",
+        "username": "ayameeii",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-09T09:19:43.000Z",
+        "description": "恒人党委员会荣誉会员，百分之八十皮特人间体，悲观主义者，重度抑郁（非常严重），中度焦虑，没有逻辑，没有情商和口才，高强度玩游戏看动漫小说脱离社会太久\n经常找我聊天的朋友@bazhuayu98808\n@ningmeng______",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 84,
+                "username": "bazhuayu98808"
+              },
+              {
+                "end": 114,
+                "start": 99,
+                "username": "ningmeng______"
+              }
+            ]
+          }
+        },
+        "id": "1866050038088024064",
+        "is_identity_verified": false,
+        "location": "Hokkaidō, Japan",
+        "most_recent_tweet_id": "2101342696074055743",
+        "name": "荻原沙优",
+        "pinned_tweet_id": "2007153346533306830",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1866050038088024064/1733739905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020775111813713921/6QpcftfD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 784,
+          "following_count": 450,
+          "like_count": 137076,
+          "listed_count": 2,
+          "media_count": 1002,
+          "tweet_count": 21765
+        },
+        "url": "",
+        "username": "123456wwerr",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

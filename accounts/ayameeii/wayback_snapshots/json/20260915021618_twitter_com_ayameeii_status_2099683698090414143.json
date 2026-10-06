@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2099678408234127361",
+    "created_at": "2026-09-15T02:16:18.000Z",
+    "display_text_range": [
+      10,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T03:16:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099683698090414143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1437703872135319556",
+          "start": 0,
+          "username": "Yumoi__i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099683698090414143",
+    "in_reply_to_user_id": "1437703872135319556",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099678408234127361",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yumoi__i 萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2224,
+        "media_key": "3_2099678387858231296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSOOXoLa0AAByrn.jpg",
+        "width": 1428
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2099678394728493056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSOOYBxasAAQvdt.jpg",
+        "width": 1098
+      },
+      {
+        "height": 2297,
+        "media_key": "3_2099678401024098304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSOOYZOaAAAMU83.jpg",
+        "width": 1423
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2099678408234127361",
+        "created_at": "2026-09-15T02:16:18.000Z",
+        "display_text_range": [
+          10,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T03:16:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099683698090414143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1437703872135319556",
+              "start": 0,
+              "username": "Yumoi__i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099683698090414143",
+        "in_reply_to_user_id": "1437703872135319556",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099678408234127361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yumoi__i 萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099678387858231296",
+            "3_2099678394728493056",
+            "3_2099678401024098304"
+          ]
+        },
+        "author_id": "1437703872135319556",
+        "conversation_id": "2099678408234127361",
+        "created_at": "2026-09-15T01:55:17.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T02:55:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099678408234127361"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 14,
+              "tag": "白洲アズサ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BXls2oDgtz",
+              "end": 44,
+              "expanded_url": "https://x.com/Yumoi__i/status/2099678408234127361/photo/1",
+              "media_key": "3_2099678387858231296",
+              "start": 21,
+              "url": "https://t.co/BXls2oDgtz"
+            },
+            {
+              "display_url": "pic.x.com/BXls2oDgtz",
+              "end": 44,
+              "expanded_url": "https://x.com/Yumoi__i/status/2099678408234127361/photo/1",
+              "media_key": "3_2099678394728493056",
+              "start": 21,
+              "url": "https://t.co/BXls2oDgtz"
+            },
+            {
+              "display_url": "pic.x.com/BXls2oDgtz",
+              "end": 44,
+              "expanded_url": "https://x.com/Yumoi__i/status/2099678408234127361/photo/1",
+              "media_key": "3_2099678401024098304",
+              "start": 21,
+              "url": "https://t.co/BXls2oDgtz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099678408234127361",
+        "lang": "und",
+        "media_metadata": [
+          {
+            "media_key": "3_2099678387858231296"
+          },
+          {
+            "media_key": "3_2099678394728493056"
+          },
+          {
+            "media_key": "3_2099678401024098304"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "( 🎀ᗜ`˰´ᗜ 🌸)💈❌\n#白洲アズサ https://t.co/BXls2oDgtz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存|前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "is_identity_verified": false,
+        "location": "某处",
+        "most_recent_tweet_id": "2099683698090414143",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1852135214795100164/1760476595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1503,
+          "following_count": 818,
+          "like_count": 11681,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 5057
+        },
+        "url": "",
+        "username": "ayameeii",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-09-14T09:05:06.000Z",
+        "description": "i love sleep💤",
+        "id": "1437703872135319556",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099678408234127361",
+        "name": "Yumoi",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1437703872135319556/1787881784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093154027081261056/w0nbJJN3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 19,
+          "like_count": 106,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 21
+        },
+        "url": "",
+        "username": "Yumoi__i",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

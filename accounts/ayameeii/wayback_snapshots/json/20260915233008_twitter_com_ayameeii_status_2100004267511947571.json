@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2099911396117127180",
+    "created_at": "2026-09-15T23:30:08.000Z",
+    "display_text_range": [
+      15,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T00:30:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100004267511947571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1732270265751740416",
+          "start": 0,
+          "username": "xiangxiang530"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100004267511947571",
+    "in_reply_to_user_id": "1732270265751740416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099911396117127180",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiangxiang530 好美的眼睛。。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19179,
+        "height": 1280,
+        "media_key": "13_2099911311174029312",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2099911311174029312/img/p7yem6XKv4wcG_f5.jpg",
+        "public_metrics": {
+          "view_count": 320
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099911311174029312/vid/avc1/320x568/88CqRr0Al0PagXDX.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099911311174029312/vid/avc1/480x852/PzdeZUf-3q7mcY8D.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099911311174029312/vid/avc1/720x1280/vB0TpKFIsjVKAnKT.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2099911311174029312/pl/R3irUIQJ5t0pYAtq.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2099911396117127180",
+        "created_at": "2026-09-15T23:30:08.000Z",
+        "display_text_range": [
+          15,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T00:30:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100004267511947571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1732270265751740416",
+              "start": 0,
+              "username": "xiangxiang530"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100004267511947571",
+        "in_reply_to_user_id": "1732270265751740416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099911396117127180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiangxiang530 好美的眼睛。。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2099911311174029312"
+          ]
+        },
+        "author_id": "1732270265751740416",
+        "conversation_id": "2099911396117127180",
+        "created_at": "2026-09-15T17:21:05.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T18:21:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099911396117127180"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V4zRPq3ubc",
+              "end": 37,
+              "expanded_url": "https://x.com/xiangxiang530/status/2099911396117127180/video/1",
+              "media_key": "13_2099911311174029312",
+              "start": 14,
+              "url": "https://t.co/V4zRPq3ubc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099911396117127180",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2099911311174029312"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 871,
+          "like_count": 75,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "可以一直看着我的眼睛吗？。 https://t.co/V4zRPq3ubc"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存|前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "is_identity_verified": false,
+        "location": "某处",
+        "most_recent_tweet_id": "2100004267511947571",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1852135214795100164/1760476595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1503,
+          "following_count": 817,
+          "like_count": 11719,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 5067
+        },
+        "url": "",
+        "username": "ayameeii",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-06T05:26:36.000Z",
+        "description": "我是香。\nNow tell me the things you blabbing about behind my back。",
+        "id": "1732270265751740416",
+        "is_identity_verified": false,
+        "location": "桂林",
+        "most_recent_tweet_id": "2099912559327682867",
+        "name": "香",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732270265751740416/1788868599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884188421532573698/earMsEWk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2614,
+          "following_count": 21,
+          "like_count": 295,
+          "listed_count": 10,
+          "media_count": 38,
+          "tweet_count": 101
+        },
+        "url": "",
+        "username": "xiangxiang530",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

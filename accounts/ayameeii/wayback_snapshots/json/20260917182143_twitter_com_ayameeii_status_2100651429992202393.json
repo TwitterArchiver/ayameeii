@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100651416188776448",
+        "3_2100651422228590592"
+      ]
+    },
+    "author_id": "1852135214795100164",
+    "conversation_id": "2100651429992202393",
+    "created_at": "2026-09-17T18:21:43.000Z",
+    "display_text_range": [
+      0,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T19:21:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100651429992202393"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/INGlKDEJwl",
+          "end": 61,
+          "expanded_url": "https://x.com/ayameeii/status/2100651429992202393/photo/1",
+          "media_key": "3_2100651416188776448",
+          "start": 38,
+          "url": "https://t.co/INGlKDEJwl"
+        },
+        {
+          "display_url": "pic.x.com/INGlKDEJwl",
+          "end": 61,
+          "expanded_url": "https://x.com/ayameeii/status/2100651429992202393/photo/1",
+          "media_key": "3_2100651422228590592",
+          "start": 38,
+          "url": "https://t.co/INGlKDEJwl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100651429992202393",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2100651416188776448"
+      },
+      {
+        "media_key": "3_2100651422228590592"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好呀宝宝喜欢你🥰结婚！ 为什么私信不了我啊可以评论一下我找不到你 明天见～ https://t.co/INGlKDEJwl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 964,
+        "media_key": "3_2100651416188776448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HScDVVLacAAxnre.jpg",
+        "width": 1220
+      },
+      {
+        "height": 926,
+        "media_key": "3_2100651422228590592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HScDVrrasAAKaio.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100651416188776448",
+            "3_2100651422228590592"
+          ]
+        },
+        "author_id": "1852135214795100164",
+        "conversation_id": "2100651429992202393",
+        "created_at": "2026-09-17T18:21:43.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T19:21:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100651429992202393"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/INGlKDEJwl",
+              "end": 61,
+              "expanded_url": "https://x.com/ayameeii/status/2100651429992202393/photo/1",
+              "media_key": "3_2100651416188776448",
+              "start": 38,
+              "url": "https://t.co/INGlKDEJwl"
+            },
+            {
+              "display_url": "pic.x.com/INGlKDEJwl",
+              "end": 61,
+              "expanded_url": "https://x.com/ayameeii/status/2100651429992202393/photo/1",
+              "media_key": "3_2100651422228590592",
+              "start": 38,
+              "url": "https://t.co/INGlKDEJwl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100651429992202393",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100651416188776448"
+          },
+          {
+            "media_key": "3_2100651422228590592"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好呀宝宝喜欢你🥰结婚！ 为什么私信不了我啊可以评论一下我找不到你 明天见～ https://t.co/INGlKDEJwl"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存|前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "is_identity_verified": false,
+        "location": "某处",
+        "most_recent_tweet_id": "2100651429992202393",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1852135214795100164/1760476595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1497,
+          "following_count": 818,
+          "like_count": 11780,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 5099
+        },
+        "url": "",
+        "username": "ayameeii",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

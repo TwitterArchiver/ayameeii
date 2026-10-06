@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2100517546143473687",
+    "created_at": "2026-09-17T09:47:58.000Z",
+    "display_text_range": [
+      10,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T10:47:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100522139053113397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2069812097274503168",
+          "start": 0,
+          "username": "GL8964GL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100522139053113397",
+    "in_reply_to_user_id": "2069812097274503168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100518951134580973",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GL8964GL 不是雌二醇凝胶啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2100517546143473687",
+        "created_at": "2026-09-17T09:47:58.000Z",
+        "display_text_range": [
+          10,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T10:47:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100522139053113397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2069812097274503168",
+              "start": 0,
+              "username": "GL8964GL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100522139053113397",
+        "in_reply_to_user_id": "2069812097274503168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100518951134580973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GL8964GL 不是雌二醇凝胶啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2069812097274503168",
+        "conversation_id": "2100517546143473687",
+        "created_at": "2026-09-17T09:35:18.000Z",
+        "display_text_range": [
+          10,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T10:35:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100518951134580973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1852135214795100164",
+              "start": 0,
+              "username": "ayameeii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100518951134580973",
+        "in_reply_to_user_id": "1852135214795100164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100517546143473687",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayameeii 还是mtf"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存|前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "is_identity_verified": false,
+        "location": "某处",
+        "most_recent_tweet_id": "2100522139053113397",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1852135214795100164/1760476595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1499,
+          "following_count": 818,
+          "like_count": 11760,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 5085
+        },
+        "url": "",
+        "username": "ayameeii",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-24T15:58:15.000Z",
+        "description": "巨型哥布林来的/友跨/同性🏳️‍🌈/中国/冷兵器爱好者/正在练习绳镖/同时也是广林",
+        "id": "2069812097274503168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100518951134580973",
+        "name": "格林先生🏳️‍🌈",
+        "pinned_tweet_id": "2095748083573477445",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2069812097274503168/1785341484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070820516861251584/UuQoRZ86_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 196,
+          "like_count": 422,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 603
+        },
+        "url": "",
+        "username": "GL8964GL",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

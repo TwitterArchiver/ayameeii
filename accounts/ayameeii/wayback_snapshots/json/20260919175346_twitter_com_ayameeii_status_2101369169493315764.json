@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852135214795100164",
+    "conversation_id": "2101367956357988825",
+    "created_at": "2026-09-19T17:53:46.000Z",
+    "display_text_range": [
+      0,
+      143
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T18:53:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101369169493315764"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2101369169493315764",
+    "in_reply_to_user_id": "1852135214795100164",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101367956357988825",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "怎么会有这么阴暗的人 你给的钱你删的我不是看我可怜给的钱吗我骗你什么了是你买东西我不给你吗 还有狗腿子说我现在还在卖惨那咋了我一直很惨 要不看眼时间呢明明是我一直在挂置顶似乎和你没什么关系呢 你说我浪费你的时间了你觉得可笑吗 你自己删的我也没有和我关系很好我不欠你什么 不要假装受害者了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2101367956357988825",
+        "created_at": "2026-09-19T17:53:46.000Z",
+        "display_text_range": [
+          0,
+          143
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T18:53:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101369169493315764"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101369169493315764",
+        "in_reply_to_user_id": "1852135214795100164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101367956357988825",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怎么会有这么阴暗的人 你给的钱你删的我不是看我可怜给的钱吗我骗你什么了是你买东西我不给你吗 还有狗腿子说我现在还在卖惨那咋了我一直很惨 要不看眼时间呢明明是我一直在挂置顶似乎和你没什么关系呢 你说我浪费你的时间了你觉得可笑吗 你自己删的我也没有和我关系很好我不欠你什么 不要假装受害者了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2101367956357988825",
+        "created_at": "2026-09-19T17:48:56.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T18:48:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101367956357988825"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101367956357988825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我生气的是你骂我骗钱好吗 为什么你给我钱不能收呀你和我说了吗 你觉得我骗你为什么不找我 我从头到尾什么都没做我已经无语的想笑了 你到底是觉得哪里骗你了 我的痛苦都是真的 你内心好阴暗打了钱就觉得我是在骗你钱 是因为觉得我应该多找你玩？但是你也不和我说话 今天才发现的被你删了 到底谁欺负谁"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存|前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "is_identity_verified": false,
+        "location": "某处",
+        "most_recent_tweet_id": "2101369169493315764",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1852135214795100164/1760476595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1514,
+          "following_count": 821,
+          "like_count": 11819,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 5143
+        },
+        "url": "",
+        "username": "ayameeii",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,432 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092014699445690368",
+        "3_2092014705640628224",
+        "3_2092014712909348864",
+        "3_2092014720270389248"
+      ],
+      "media_source_tweet_id": [
+        "2092014730445758862",
+        "2092014730445758862",
+        "2092014730445758862",
+        "2092014730445758862"
+      ]
+    },
+    "author_id": "1852135214795100164",
+    "conversation_id": "2101574205351620696",
+    "created_at": "2026-09-20T07:28:30.000Z",
+    "display_text_range": [
+      0,
+      89
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T08:28:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101574205351620696"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1327213674558271489",
+          "start": 3,
+          "username": "AnaBarb13589346"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VVYE8bZuxU",
+          "end": 89,
+          "expanded_url": "https://x.com/AnaBarb13589346/status/2092014730445758862/photo/1",
+          "media_key": "3_2092014699445690368",
+          "start": 66,
+          "url": "https://t.co/VVYE8bZuxU"
+        },
+        {
+          "display_url": "pic.x.com/VVYE8bZuxU",
+          "end": 89,
+          "expanded_url": "https://x.com/AnaBarb13589346/status/2092014730445758862/photo/1",
+          "media_key": "3_2092014705640628224",
+          "start": 66,
+          "url": "https://t.co/VVYE8bZuxU"
+        },
+        {
+          "display_url": "pic.x.com/VVYE8bZuxU",
+          "end": 89,
+          "expanded_url": "https://x.com/AnaBarb13589346/status/2092014730445758862/photo/1",
+          "media_key": "3_2092014712909348864",
+          "start": 66,
+          "url": "https://t.co/VVYE8bZuxU"
+        },
+        {
+          "display_url": "pic.x.com/VVYE8bZuxU",
+          "end": 89,
+          "expanded_url": "https://x.com/AnaBarb13589346/status/2092014730445758862/photo/1",
+          "media_key": "3_2092014720270389248",
+          "start": 66,
+          "url": "https://t.co/VVYE8bZuxU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101574205351620696",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2092014699445690368"
+      },
+      {
+        "media_key": "3_2092014705640628224"
+      },
+      {
+        "media_key": "3_2092014712909348864"
+      },
+      {
+        "media_key": "3_2092014720270389248"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092014730445758862",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AnaBarb13589346: 这里是小泪，之前的置顶有问题被撤掉了所以换成了图片版的自我介绍，欢迎女宝互fo互转谢谢喵 https://t.co/VVYE8bZuxU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 794,
+        "media_key": "3_2092014699445690368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQhUSQFbIAAcLhi.jpg",
+        "width": 1058
+      },
+      {
+        "height": 2304,
+        "media_key": "3_2092014705640628224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQhUSnKaYAA9vDD.jpg",
+        "width": 1728
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2092014712909348864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQhUTCPaQAAvb9u.jpg",
+        "width": 2048
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2092014720270389248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQhUTdqa0AA5NYZ.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092014699445690368",
+            "3_2092014705640628224",
+            "3_2092014712909348864",
+            "3_2092014720270389248"
+          ],
+          "media_source_tweet_id": [
+            "2092014730445758862",
+            "2092014730445758862",
+            "2092014730445758862",
+            "2092014730445758862"
+          ]
+        },
+        "author_id": "1852135214795100164",
+        "conversation_id": "2101574205351620696",
+        "created_at": "2026-09-20T07:28:30.000Z",
+        "display_text_range": [
+          0,
+          89
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T08:28:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101574205351620696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1327213674558271489",
+              "start": 3,
+              "username": "AnaBarb13589346"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VVYE8bZuxU",
+              "end": 89,
+              "expanded_url": "https://x.com/AnaBarb13589346/status/2092014730445758862/photo/1",
+              "media_key": "3_2092014699445690368",
+              "start": 66,
+              "url": "https://t.co/VVYE8bZuxU"
+            },
+            {
+              "display_url": "pic.x.com/VVYE8bZuxU",
+              "end": 89,
+              "expanded_url": "https://x.com/AnaBarb13589346/status/2092014730445758862/photo/1",
+              "media_key": "3_2092014705640628224",
+              "start": 66,
+              "url": "https://t.co/VVYE8bZuxU"
+            },
+            {
+              "display_url": "pic.x.com/VVYE8bZuxU",
+              "end": 89,
+              "expanded_url": "https://x.com/AnaBarb13589346/status/2092014730445758862/photo/1",
+              "media_key": "3_2092014712909348864",
+              "start": 66,
+              "url": "https://t.co/VVYE8bZuxU"
+            },
+            {
+              "display_url": "pic.x.com/VVYE8bZuxU",
+              "end": 89,
+              "expanded_url": "https://x.com/AnaBarb13589346/status/2092014730445758862/photo/1",
+              "media_key": "3_2092014720270389248",
+              "start": 66,
+              "url": "https://t.co/VVYE8bZuxU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101574205351620696",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092014699445690368"
+          },
+          {
+            "media_key": "3_2092014705640628224"
+          },
+          {
+            "media_key": "3_2092014712909348864"
+          },
+          {
+            "media_key": "3_2092014720270389248"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092014730445758862",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AnaBarb13589346: 这里是小泪，之前的置顶有问题被撤掉了所以换成了图片版的自我介绍，欢迎女宝互fo互转谢谢喵 https://t.co/VVYE8bZuxU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092014699445690368",
+            "3_2092014705640628224",
+            "3_2092014712909348864",
+            "3_2092014720270389248"
+          ]
+        },
+        "author_id": "1327213674558271489",
+        "conversation_id": "2092014730445758862",
+        "created_at": "2026-08-24T22:22:34.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T23:22:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092014730445758862"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VVYE8bZuxU",
+              "end": 68,
+              "expanded_url": "https://x.com/AnaBarb13589346/status/2092014730445758862/photo/1",
+              "media_key": "3_2092014699445690368",
+              "start": 45,
+              "url": "https://t.co/VVYE8bZuxU"
+            },
+            {
+              "display_url": "pic.x.com/VVYE8bZuxU",
+              "end": 68,
+              "expanded_url": "https://x.com/AnaBarb13589346/status/2092014730445758862/photo/1",
+              "media_key": "3_2092014705640628224",
+              "start": 45,
+              "url": "https://t.co/VVYE8bZuxU"
+            },
+            {
+              "display_url": "pic.x.com/VVYE8bZuxU",
+              "end": 68,
+              "expanded_url": "https://x.com/AnaBarb13589346/status/2092014730445758862/photo/1",
+              "media_key": "3_2092014712909348864",
+              "start": 45,
+              "url": "https://t.co/VVYE8bZuxU"
+            },
+            {
+              "display_url": "pic.x.com/VVYE8bZuxU",
+              "end": 68,
+              "expanded_url": "https://x.com/AnaBarb13589346/status/2092014730445758862/photo/1",
+              "media_key": "3_2092014720270389248",
+              "start": 45,
+              "url": "https://t.co/VVYE8bZuxU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092014730445758862",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092014699445690368"
+          },
+          {
+            "media_key": "3_2092014705640628224"
+          },
+          {
+            "media_key": "3_2092014712909348864"
+          },
+          {
+            "media_key": "3_2092014720270389248"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 9682,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "这里是小泪，之前的置顶有问题被撤掉了所以换成了图片版的自我介绍，欢迎女宝互fo互转谢谢喵 https://t.co/VVYE8bZuxU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存|前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "is_identity_verified": false,
+        "location": "某处",
+        "most_recent_tweet_id": "2101574205351620696",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1852135214795100164/1760476595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1523,
+          "following_count": 822,
+          "like_count": 11830,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 5146
+        },
+        "url": "",
+        "username": "ayameeii",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-11-13T11:36:39.000Z",
+        "description": "🚪52/88/188/288/520，问坐标10r视频验证20r，过🚪不退，详细看简介p1，洲瓦陪玩请来找我！",
+        "id": "1327213674558271489",
+        "is_identity_verified": false,
+        "location": "Porto, Portugal",
+        "most_recent_tweet_id": "2101538826766450920",
+        "name": "幸福是血淚與愛交織",
+        "pinned_tweet_id": "2092014730445758862",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1327213674558271489/1787105067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089896245410308096/KlIKMA7d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 48,
+          "like_count": 61,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 176
+        },
+        "url": "",
+        "username": "AnaBarb13589346",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
